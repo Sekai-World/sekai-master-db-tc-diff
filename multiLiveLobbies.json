@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "name": "自由房間",
+    "photonLobbyName": "0001",
+    "matchingLogic": "random",
+    "totalPower": 0,
+    "assetbundleName": "room1",
+    "multiLiveLobbyType": "normal"
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "name": "進階房間",
+    "photonLobbyName": "0002",
+    "matchingLogic": "power",
+    "totalPower": 150000,
+    "assetbundleName": "room2",
+    "multiLiveLobbyType": "normal"
+  }
+]
