@@ -582,5 +582,13 @@
   {
     "configKey": "allow_relogin",
     "value": "true"
+  },
+  {
+    "configKey": "virtual_live_is_allow_empty",
+    "value": "true"
+  },
+  {
+    "configKey": "virtual_live_room_ttl",
+    "value": "5"
   }
 ]
