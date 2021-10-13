@@ -57,5 +57,15 @@
     "transitionDestinationType": "feedback",
     "startAt": 1632967200000,
     "endAt": 1636300799000
+  },
+  {
+    "homeBannerId": 1004,
+    "seq": 22,
+    "name": "问卷",
+    "assetbundleName": "banner_questionnaire_3",
+    "transitionDestinationType": "questionnaire",
+    "transitionDestinationId": 20310941,
+    "startAt": 1634054400000,
+    "endAt": 1635695999000
   }
 ]
