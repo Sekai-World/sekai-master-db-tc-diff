@@ -1,45 +1,5 @@
 [
   {
-    "homeBannerId": 4,
-    "seq": 99,
-    "name": "雨後的第一顆星",
-    "assetbundleName": "event_stella_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 1,
-    "startAt": 1633762800000,
-    "endAt": 1634713199000
-  },
-  {
-    "homeBannerId": 9,
-    "seq": 130,
-    "name": "連續20天！每日追加歌曲活動",
-    "assetbundleName": "banner_cp2",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 10009,
-    "startAt": 1632967200000,
-    "endAt": 1634745599000
-  },
-  {
-    "homeBannerId": 11,
-    "seq": 100,
-    "name": "星辰降落的夜空回憶招募",
-    "assetbundleName": "banner_gacha4",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 4,
-    "startAt": 1633762800000,
-    "endAt": 1634713140000
-  },
-  {
-    "homeBannerId": 17,
-    "seq": 135,
-    "name": "超值組合包",
-    "assetbundleName": "banner_beta_shopsetappeal",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 10012,
-    "startAt": 1632967200000,
-    "endAt": 1635695940000
-  },
-  {
     "homeBannerId": 18,
     "seq": 9999,
     "name": "新手指南",
@@ -50,22 +10,63 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 1003,
-    "seq": 22,
-    "name": "充值返利提示banner",
-    "assetbundleName": "banner_fanhuan",
-    "transitionDestinationType": "feedback",
-    "startAt": 1632967200000,
-    "endAt": 1636300799000
+    "homeBannerId": 23,
+    "seq": 99,
+    "name": "運動會活動",
+    "assetbundleName": "event_sportsfestival_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 4,
+    "startAt": 1636441200000,
+    "endAt": 1637305140000
   },
   {
-    "homeBannerId": 1004,
-    "seq": 22,
-    "name": "问卷",
-    "assetbundleName": "banner_questionnaire_3",
-    "transitionDestinationType": "questionnaire",
-    "transitionDestinationId": 20310941,
-    "startAt": 1634054400000,
-    "endAt": 1635695999000
+    "homeBannerId": 24,
+    "seq": 100,
+    "name": "運動會招募",
+    "assetbundleName": "banner_gacha9",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 9,
+    "startAt": 1636441200000,
+    "endAt": 1637305140000
+  },
+  {
+    "homeBannerId": 30,
+    "seq": 110,
+    "name": "HAPPY BIRTHDAY LIVE 彰人",
+    "assetbundleName": "banner_virtuallive36",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 36,
+    "startAt": 1636527600000,
+    "endAt": 1636786740000
+  },
+  {
+    "homeBannerId": 32,
+    "seq": 200,
+    "name": "高階任務通行證",
+    "assetbundleName": "banner_premiummissionpass_2020_11",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 10064,
+    "startAt": 1635696000000,
+    "endAt": 1638287940000
+  },
+  {
+    "homeBannerId": 33,
+    "seq": 30,
+    "name": "250萬突破紀念必中1位★4成員招募",
+    "assetbundleName": "banner_gacha15",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 15,
+    "startAt": 1636354800000,
+    "endAt": 1637477940000
+  },
+  {
+    "homeBannerId": 48,
+    "seq": 9998,
+    "name": "Welcome LIVE橫幅",
+    "assetbundleName": "banner_welcomelive",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 20001,
+    "startAt": 1635750000000,
+    "endAt": 4102415999000
   }
 ]
