@@ -10,26 +10,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 23,
-    "seq": 99,
-    "name": "運動會活動",
-    "assetbundleName": "event_sportsfestival_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 4,
-    "startAt": 1636441200000,
-    "endAt": 1637305140000
-  },
-  {
-    "homeBannerId": 24,
-    "seq": 100,
-    "name": "運動會招募",
-    "assetbundleName": "banner_gacha9",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 9,
-    "startAt": 1636441200000,
-    "endAt": 1637305140000
-  },
-  {
     "homeBannerId": 32,
     "seq": 200,
     "name": "高階任務通行證",
@@ -48,6 +28,26 @@
     "transitionDestinationId": 15,
     "startAt": 1636354800000,
     "endAt": 1637477940000
+  },
+  {
+    "homeBannerId": 34,
+    "seq": 40,
+    "name": "MORE MORE JUMP！活動_活動",
+    "assetbundleName": "event_restart_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 5,
+    "startAt": 1637305200000,
+    "endAt": 1638255540000
+  },
+  {
+    "homeBannerId": 35,
+    "seq": 50,
+    "name": "MORE MORE JUMP！活動_常態招募",
+    "assetbundleName": "banner_gacha12",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 12,
+    "startAt": 1637305200000,
+    "endAt": 1638255540000
   },
   {
     "homeBannerId": 48,
