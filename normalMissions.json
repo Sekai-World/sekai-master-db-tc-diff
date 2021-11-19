@@ -446,5 +446,69 @@
         "resourceBoxId": 10000
       }
     ]
+  },
+  {
+    "id": 10001,
+    "seq": 3000,
+    "normalMissionType": "live_clear",
+    "requirement": 180,
+    "sentence": "通過180次LIVE吧。",
+    "rewards": [
+      {
+        "id": 10001,
+        "missionType": "normal_mission",
+        "missionId": 10001,
+        "seq": 1,
+        "resourceBoxId": 10001
+      }
+    ]
+  },
+  {
+    "id": 10002,
+    "seq": 3001,
+    "normalMissionType": "live_clear",
+    "requirement": 210,
+    "sentence": "通過210次LIVE吧。",
+    "rewards": [
+      {
+        "id": 10002,
+        "missionType": "normal_mission",
+        "missionId": 10002,
+        "seq": 1,
+        "resourceBoxId": 10002
+      }
+    ]
+  },
+  {
+    "id": 10003,
+    "seq": 3002,
+    "normalMissionType": "live_clear",
+    "requirement": 250,
+    "sentence": "通過250次LIVE吧。",
+    "rewards": [
+      {
+        "id": 10003,
+        "missionType": "normal_mission",
+        "missionId": 10003,
+        "seq": 1,
+        "resourceBoxId": 10003
+      }
+    ]
+  },
+  {
+    "id": 10004,
+    "seq": 3003,
+    "normalMissionType": "live_clear",
+    "requirement": 300,
+    "sentence": "通過300次LIVE吧。",
+    "rewards": [
+      {
+        "id": 10004,
+        "missionType": "normal_mission",
+        "missionId": 10004,
+        "seq": 1,
+        "resourceBoxId": 10004
+      }
+    ]
   }
 ]

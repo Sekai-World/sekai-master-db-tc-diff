@@ -64,6 +64,22 @@
     ]
   },
   {
+    "id": 203,
+    "seq": 3,
+    "honorMissionType": "player_rank",
+    "requirement": 200,
+    "sentence": "將玩家等級提升至200吧。",
+    "rewards": [
+      {
+        "id": 689,
+        "missionType": "honor_mission",
+        "missionId": 203,
+        "seq": 1,
+        "resourceBoxId": 1131
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
@@ -240,6 +256,38 @@
     ]
   },
   {
+    "id": 1005,
+    "seq": 5,
+    "honorMissionType": "master_full_combo",
+    "requirement": 40,
+    "sentence": "在難易度MASTER下達成40首歌曲的FULL COMBO吧。",
+    "rewards": [
+      {
+        "id": 490,
+        "missionType": "honor_mission",
+        "missionId": 1005,
+        "seq": 1,
+        "resourceBoxId": 1062
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "seq": 6,
+    "honorMissionType": "master_full_combo",
+    "requirement": 50,
+    "sentence": "在難易度MASTER下達成50首歌曲的FULL COMBO吧。",
+    "rewards": [
+      {
+        "id": 491,
+        "missionType": "honor_mission",
+        "missionId": 1006,
+        "seq": 1,
+        "resourceBoxId": 1063
+      }
+    ]
+  },
+  {
     "id": 1104,
     "seq": 4,
     "honorMissionType": "master_full_perfect",
@@ -252,6 +300,38 @@
         "missionId": 1104,
         "seq": 1,
         "resourceBoxId": 1064
+      }
+    ]
+  },
+  {
+    "id": 1105,
+    "seq": 5,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 40,
+    "sentence": "在難易度MASTER下達成40首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      {
+        "id": 493,
+        "missionType": "honor_mission",
+        "missionId": 1105,
+        "seq": 1,
+        "resourceBoxId": 1065
+      }
+    ]
+  },
+  {
+    "id": 1106,
+    "seq": 6,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 50,
+    "sentence": "在難易度MASTER下達成50首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      {
+        "id": 494,
+        "missionType": "honor_mission",
+        "missionId": 1106,
+        "seq": 1,
+        "resourceBoxId": 1066
       }
     ]
   },

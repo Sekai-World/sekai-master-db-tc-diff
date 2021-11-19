@@ -368,6 +368,14 @@
     "value": "購買失敗。\n請稍等一段時間後再次嘗試。"
   },
   {
+    "wordingKey": "MSG_CUSTOM_PROFILE_SAVE_ERROR",
+    "value": "保存失败，稍后重试"
+  },
+  {
+    "wordingKey": "MSG_CUSTOM_PROFILE_VIEW_ERROR",
+    "value": "审核失败，请重新编辑"
+  },
+  {
     "wordingKey": "MSG_DATA_LINK_RELEASE",
     "value": "已解除連動遊戲資料。"
   },
@@ -2884,7 +2892,7 @@
   },
   {
     "wordingKey": "WORD_EXCHANGE_ERROR_TITLE",
-    "value": "交換錯誤"
+    "value": "交換確認"
   },
   {
     "wordingKey": "WORD_EXCHANGE_SELECT_ALL_MEMBER",

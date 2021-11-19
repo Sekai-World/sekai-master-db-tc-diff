@@ -85956,6 +85956,78 @@
     ]
   },
   {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 10001,
+    "resourceBoxType": "expand",
+    "name": "音樂卡*10",
+    "description": "音樂卡*10",
+    "assetbundleName": "dummy_material",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 10001,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 10002,
+    "resourceBoxType": "expand",
+    "name": "音樂卡*10",
+    "description": "音樂卡*10",
+    "assetbundleName": "dummy_material",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 10002,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 10003,
+    "resourceBoxType": "expand",
+    "name": "音樂卡*10",
+    "description": "音樂卡*10",
+    "assetbundleName": "dummy_material",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 10003,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 10004,
+    "resourceBoxType": "expand",
+    "name": "音樂卡*10",
+    "description": "音樂卡*10",
+    "assetbundleName": "dummy_material",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 10004,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "multi_score_rank_reward_detail",
     "id": 1,
     "resourceBoxType": "expand",
@@ -99579,15 +99651,15 @@
   },
   {
     "resourceBoxPurpose": "shop_item",
-    "id": 10176,
+    "id": 10187,
     "resourceBoxType": "expand",
     "details": [
       {
         "resourceBoxPurpose": "shop_item",
-        "resourceBoxId": 10176,
+        "resourceBoxId": 10187,
         "seq": 1,
         "resourceType": "music",
-        "resourceId": 143,
+        "resourceId": 151,
         "resourceQuantity": 1
       }
     ]
@@ -104081,34 +104153,6 @@
         "seq": 1,
         "resourceType": "jewel",
         "resourceQuantity": 200
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "virtual_live_member_count_reward",
-    "id": 4,
-    "resourceBoxType": "expand",
-    "details": [
-      {
-        "resourceBoxPurpose": "virtual_live_member_count_reward",
-        "resourceBoxId": 4,
-        "seq": 1,
-        "resourceType": "jewel",
-        "resourceQuantity": 390
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "virtual_live_member_count_reward",
-    "id": 5,
-    "resourceBoxType": "expand",
-    "details": [
-      {
-        "resourceBoxPurpose": "virtual_live_member_count_reward",
-        "resourceBoxId": 5,
-        "seq": 1,
-        "resourceType": "jewel",
-        "resourceQuantity": 600
       }
     ]
   },
