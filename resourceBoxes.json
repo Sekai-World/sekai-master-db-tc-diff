@@ -58343,16 +58343,16 @@
   {
     "resourceBoxPurpose": "login_bonus",
     "id": 22,
-    "resourceBoxType": "list",
-    "name": "★3成員選擇券",
+    "resourceBoxType": "expand",
+    "name": "★3以上必中票券",
     "assetbundleName": "item_memberTicket_star3",
     "details": [
       {
         "resourceBoxPurpose": "login_bonus",
         "resourceBoxId": 22,
         "seq": 1,
-        "resourceType": "material",
-        "resourceId": 45,
+        "resourceType": "gacha_ticket",
+        "resourceId": 2,
         "resourceQuantity": 1
       },
       {
@@ -58381,16 +58381,16 @@
   {
     "resourceBoxPurpose": "login_bonus",
     "id": 24,
-    "resourceBoxType": "list",
-    "name": "★3成員選擇券",
+    "resourceBoxType": "expand",
+    "name": "★3以上必中票券",
     "assetbundleName": "item_memberTicket_star3",
     "details": [
       {
         "resourceBoxPurpose": "login_bonus",
         "resourceBoxId": 24,
         "seq": 1,
-        "resourceType": "material",
-        "resourceId": 45,
+        "resourceType": "gacha_ticket",
+        "resourceId": 2,
         "resourceQuantity": 1
       },
       {
@@ -86024,6 +86024,139 @@
         "resourceType": "material",
         "resourceId": 13,
         "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100001,
+    "resourceBoxType": "expand",
+    "name": "硬幣",
+    "description": "硬幣",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100001,
+        "seq": 1,
+        "resourceType": "coin",
+        "resourceQuantity": 30000
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100002,
+    "resourceBoxType": "expand",
+    "name": "LIVE BONUS饮料（大）",
+    "description": "LIVE BONUS饮料（大）",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100002,
+        "seq": 2,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100003,
+    "resourceBoxType": "expand",
+    "name": "虚拟硬币",
+    "description": "虚拟硬币",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100003,
+        "seq": 3,
+        "resourceType": "virtual_coin",
+        "resourceQuantity": 1000
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100004,
+    "resourceBoxType": "expand",
+    "name": "水晶",
+    "description": "水晶",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100004,
+        "seq": 4,
+        "resourceType": "jewel",
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100005,
+    "resourceBoxType": "expand",
+    "name": "种子",
+    "description": "种子",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100005,
+        "seq": 5,
+        "resourceType": "material",
+        "resourceId": 17,
+        "resourceQuantity": 3
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100006,
+    "resourceBoxType": "expand",
+    "name": "魔法布",
+    "description": "魔法布",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100006,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 11,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100007,
+    "resourceBoxType": "expand",
+    "name": "音乐卡",
+    "description": "音乐卡",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100007,
+        "seq": 7,
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 5
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100008,
+    "resourceBoxType": "expand",
+    "name": "虛擬LIVE造型-套裝",
+    "description": "虛擬LIVE造型-套裝",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100008,
+        "seq": 8,
+        "resourceType": "avatar_coordinate",
+        "resourceId": 12,
+        "resourceQuantity": 1
       }
     ]
   },
