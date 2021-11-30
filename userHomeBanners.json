@@ -10,34 +10,34 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 32,
+    "homeBannerId": 39,
+    "seq": 99,
+    "name": "Vivid BAD SQUAD_活動橫幅",
+    "assetbundleName": "event_forward_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 6,
+    "startAt": 1638255600000,
+    "endAt": 1639119540000
+  },
+  {
+    "homeBannerId": 40,
+    "seq": 100,
+    "name": "Vivid BAD SQUAD_常態招募橫幅",
+    "assetbundleName": "banner_gacha17",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 17,
+    "startAt": 1638255600000,
+    "endAt": 1639119540000
+  },
+  {
+    "homeBannerId": 44,
     "seq": 200,
     "name": "高階任務通行證",
-    "assetbundleName": "banner_premiummissionpass_2020_11",
+    "assetbundleName": "banner_premiummissionpass_2020_12",
     "transitionDestinationType": "information",
-    "transitionDestinationId": 10064,
-    "startAt": 1635696000000,
-    "endAt": 1638287940000
-  },
-  {
-    "homeBannerId": 34,
-    "seq": 40,
-    "name": "MORE MORE JUMP！活動_活動",
-    "assetbundleName": "event_restart_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 5,
-    "startAt": 1637305200000,
-    "endAt": 1638255540000
-  },
-  {
-    "homeBannerId": 35,
-    "seq": 50,
-    "name": "MORE MORE JUMP！活動_常態招募",
-    "assetbundleName": "banner_gacha12",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 12,
-    "startAt": 1637305200000,
-    "endAt": 1638255540000
+    "transitionDestinationId": 10095,
+    "startAt": 1638288000000,
+    "endAt": 1640966340000
   },
   {
     "homeBannerId": 48,
