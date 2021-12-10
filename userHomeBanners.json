@@ -10,26 +10,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 39,
-    "seq": 99,
-    "name": "Vivid BAD SQUAD_活動橫幅",
-    "assetbundleName": "event_forward_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 6,
-    "startAt": 1638255600000,
-    "endAt": 1639119540000
-  },
-  {
-    "homeBannerId": 40,
-    "seq": 100,
-    "name": "Vivid BAD SQUAD_常態招募橫幅",
-    "assetbundleName": "banner_gacha17",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 17,
-    "startAt": 1638255600000,
-    "endAt": 1639119540000
-  },
-  {
     "homeBannerId": 44,
     "seq": 200,
     "name": "高階任務通行證",
@@ -38,6 +18,26 @@
     "transitionDestinationId": 10095,
     "startAt": 1638288000000,
     "endAt": 1640966340000
+  },
+  {
+    "homeBannerId": 45,
+    "seq": 99,
+    "name": "文化祭活動_活動橫幅",
+    "assetbundleName": "event_culturalfestival_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 7,
+    "startAt": 1639119600000,
+    "endAt": 1639983540000
+  },
+  {
+    "homeBannerId": 46,
+    "seq": 100,
+    "name": "文化祭活動_常態招募橫幅",
+    "assetbundleName": "banner_gacha20",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 20,
+    "startAt": 1639119600000,
+    "endAt": 1639983540000
   },
   {
     "homeBannerId": 48,
