@@ -1510,10 +1510,10 @@
   {
     "id": 10112,
     "seq": 1,
-    "displayOrder": 1639465200,
+    "displayOrder": 1699999999,
     "informationType": "bug",
     "informationTag": "update",
-    "browseType": "external",
+    "browseType": "internal",
     "platform": "all",
     "title": "更新「v1.9.1」的通知",
     "path": "https://act.sgsnssdk.com/gms/22f6c8eecd/?from_source=h5",
@@ -1607,7 +1607,7 @@
     "informationTag": "campaign",
     "browseType": "internal",
     "platform": "all",
-    "title": "即將舉辦「年末倒數登入活動」！",
+    "title": "即將舉辦「年底倒數登入活動」！",
     "path": "https://act.sgsnssdk.com/gms/ec6d95e410/?from_source=h5",
     "startAt": 1640448000000,
     "endAt": 1649088000000
@@ -1663,5 +1663,18 @@
     "path": "https://act.sgsnssdk.com/gms/3db685861f?from_source=h5&orientation=landscape",
     "startAt": 1639134000000,
     "endAt": 1647774000000
+  },
+  {
+    "id": 10124,
+    "seq": 1,
+    "displayOrder": 1699999999,
+    "informationType": "normal",
+    "informationTag": "update",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "更新「v1.9.1」的通知",
+    "path": "https://act.sgsnssdk.com/gms/22f6c8eecd/?from_source=h5",
+    "startAt": 1639465200000,
+    "endAt": 1648105200000
   }
 ]
