@@ -20,26 +20,6 @@
     "endAt": 1640966340000
   },
   {
-    "homeBannerId": 45,
-    "seq": 99,
-    "name": "文化祭活動_活動橫幅",
-    "assetbundleName": "event_culturalfestival_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 7,
-    "startAt": 1639119600000,
-    "endAt": 1639983540000
-  },
-  {
-    "homeBannerId": 46,
-    "seq": 100,
-    "name": "文化祭活動_常態招募橫幅",
-    "assetbundleName": "banner_gacha20",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 20,
-    "startAt": 1639119600000,
-    "endAt": 1639983540000
-  },
-  {
     "homeBannerId": 48,
     "seq": 9998,
     "name": "Welcome LIVE橫幅",
@@ -48,5 +28,25 @@
     "transitionDestinationId": 20001,
     "startAt": 1635750000000,
     "endAt": 4102415999000
+  },
+  {
+    "homeBannerId": 49,
+    "seq": 99,
+    "name": "Wonderlands×Showtime第2次巡迴_活動橫幅",
+    "assetbundleName": "event_nijiiro_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 8,
+    "startAt": 1639983600000,
+    "endAt": 1640933940000
+  },
+  {
+    "homeBannerId": 50,
+    "seq": 100,
+    "name": "Wonderlands×Showtime第2次巡迴_常態招募橫幅",
+    "assetbundleName": "banner_gacha23",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 23,
+    "startAt": 1639983600000,
+    "endAt": 1640933940000
   }
 ]
