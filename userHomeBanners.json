@@ -2,6 +2,7 @@
   {
     "homeBannerId": 18,
     "seq": 9999,
+    "homeBannerType": "general",
     "name": "新手指南",
     "assetbundleName": "banner_beginners_guide",
     "transitionDestinationType": "information",
@@ -12,6 +13,7 @@
   {
     "homeBannerId": 44,
     "seq": 200,
+    "homeBannerType": "general",
     "name": "高階任務通行證",
     "assetbundleName": "banner_premiummissionpass_2020_12",
     "transitionDestinationType": "information",
@@ -22,6 +24,7 @@
   {
     "homeBannerId": 48,
     "seq": 9998,
+    "homeBannerType": "general",
     "name": "Welcome LIVE橫幅",
     "assetbundleName": "banner_welcomelive",
     "transitionDestinationType": "virtual_live",
@@ -32,6 +35,7 @@
   {
     "homeBannerId": 49,
     "seq": 99,
+    "homeBannerType": "event",
     "name": "Wonderlands×Showtime第2次巡迴_活動橫幅",
     "assetbundleName": "event_nijiiro_2020",
     "transitionDestinationType": "event",
@@ -42,6 +46,7 @@
   {
     "homeBannerId": 50,
     "seq": 100,
+    "homeBannerType": "general",
     "name": "Wonderlands×Showtime第2次巡迴_常態招募橫幅",
     "assetbundleName": "banner_gacha23",
     "transitionDestinationType": "gacha",
