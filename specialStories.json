@@ -4,6 +4,8 @@
     "seq": 1,
     "title": "序幕",
     "assetbundleName": "special-story",
+    "startAt": 1577808000000,
+    "endAt": 1609344000000,
     "episodes": [
       {
         "id": 4,
@@ -13,6 +15,7 @@
         "assetbundleName": "story_sp_ts_01_01",
         "scenarioId": "op_01",
         "releaseConditionId": 1,
+        "isAbleSkip": true,
         "rewardResourceBoxIds": [
           1
         ]
@@ -25,6 +28,7 @@
         "assetbundleName": "story_sp_ts_01_01",
         "scenarioId": "op_02",
         "releaseConditionId": 1,
+        "isAbleSkip": true,
         "rewardResourceBoxIds": [
           1
         ]
@@ -37,6 +41,7 @@
         "assetbundleName": "story_sp_ts_01_01",
         "scenarioId": "op_02area",
         "releaseConditionId": 1,
+        "isAbleSkip": true,
         "rewardResourceBoxIds": [
           1
         ]
@@ -49,6 +54,133 @@
         "assetbundleName": "story_sp_ts_01_01",
         "scenarioId": "op_03",
         "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "seq": 1,
+    "title": "一週年倒數影片01",
+    "assetbundleName": "special-story",
+    "startAt": 1664035200000,
+    "endAt": 1664121599000,
+    "episodes": [
+      {
+        "id": 8,
+        "specialStoryId": 3,
+        "episodeNo": 1,
+        "title": "一週年倒數電影01",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "seq": 1,
+    "title": "一週年倒數影片02",
+    "assetbundleName": "special-story",
+    "startAt": 1664121600000,
+    "endAt": 1664207999000,
+    "episodes": [
+      {
+        "id": 9,
+        "specialStoryId": 4,
+        "episodeNo": 1,
+        "title": "一週年倒數電影02",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_02",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "seq": 1,
+    "title": "一週年倒數影片03",
+    "assetbundleName": "special-story",
+    "startAt": 1664208000000,
+    "endAt": 1664294399000,
+    "episodes": [
+      {
+        "id": 10,
+        "specialStoryId": 5,
+        "episodeNo": 1,
+        "title": "一週年倒數電影03",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_03",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "seq": 1,
+    "title": "一週年倒數影片04",
+    "assetbundleName": "special-story",
+    "startAt": 1664294400000,
+    "endAt": 1664380799000,
+    "episodes": [
+      {
+        "id": 11,
+        "specialStoryId": 6,
+        "episodeNo": 1,
+        "title": "一週年倒數電影04",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_04",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "seq": 1,
+    "title": "一週年倒數影片05",
+    "assetbundleName": "special-story",
+    "startAt": 1664380800000,
+    "endAt": 1664467199000,
+    "episodes": [
+      {
+        "id": 12,
+        "specialStoryId": 7,
+        "episodeNo": 1,
+        "title": "一週年倒數電影05",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_05",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "seq": 1,
+    "title": "一週年倒數影片06",
+    "assetbundleName": "special-story",
+    "startAt": 1664467200000,
+    "endAt": 1664553599000,
+    "episodes": [
+      {
+        "id": 13,
+        "specialStoryId": 8,
+        "episodeNo": 1,
+        "title": "一週年倒數電影06",
+        "assetbundleName": "story_1st_countdown",
+        "scenarioId": "1st_countdown_06",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
         "rewardResourceBoxIds": []
       }
     ]

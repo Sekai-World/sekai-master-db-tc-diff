@@ -63,13 +63,6 @@
     "toUserRank": 30
   },
   {
-    "id": 19,
-    "title": "奇蹟寶石的使用方式&取得方式",
-    "description": "可讓★3以上的成員進行「特訓」，\n提升素質與上限Lv.。",
-    "fromUserRank": 1,
-    "toUserRank": 20
-  },
-  {
     "id": 21,
     "title": "服裝素材的使用方式&取得方式",
     "description": "可在購物中心的「服飾店」中，\n製作角色的演出服裝。",
@@ -234,13 +227,6 @@
     "id": 63,
     "title": "心願結晶的使用方式&取得方式",
     "description": "「心願純結晶」可在休息室\n用★4成員交換獲得。",
-    "fromUserRank": 25,
-    "toUserRank": 50
-  },
-  {
-    "id": 64,
-    "title": "心願結晶的使用方式&取得方式",
-    "description": "「心願碎片」可在休息室\n用★3以下成員交換獲得。",
     "fromUserRank": 25,
     "toUserRank": 50
   },
@@ -522,6 +508,13 @@
     "title": "挑戰印章",
     "description": "挑戰LIVE第七日的「挑戰印章」報酬，\n可以獲得一個自己選擇的豪華報酬。",
     "fromUserRank": 5,
+    "toUserRank": 999
+  },
+  {
+    "id": 115,
+    "title": "個人資料",
+    "description": "「自製個人資料」可透過編輯素材來製作原創的個人資料。",
+    "fromUserRank": 1,
     "toUserRank": 999
   },
   {

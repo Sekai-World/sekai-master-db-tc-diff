@@ -18,5 +18,59 @@
     "endAt": 1623394799000,
     "appealReadConditionType": "transition",
     "text": "期間限定成員登場"
+  },
+  {
+    "id": 3,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1625036400000,
+    "endAt": 1625468399000,
+    "appealReadConditionType": "transition",
+    "conditionId": 36,
+    "text": "限定水晶販售中"
+  },
+  {
+    "id": 4,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1627282800000,
+    "endAt": 1628060399000,
+    "appealReadConditionType": "transition",
+    "text": "限定組合包販售中"
+  },
+  {
+    "id": 5,
+    "seq": 2,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1627714800000,
+    "endAt": 1628578799000,
+    "appealReadConditionType": "transition",
+    "conditionId": 1,
+    "text": "新招募登場"
+  },
+  {
+    "id": 6,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1629961200000,
+    "endAt": 1630738799000,
+    "appealReadConditionType": "transition",
+    "conditionId": 1,
+    "text": "慶典招募活動中"
+  },
+  {
+    "id": 7,
+    "seq": 1,
+    "appealTargetType": "gacha",
+    "appealType": "once",
+    "startAt": 1630393200000,
+    "endAt": 1631257199000,
+    "appealReadConditionType": "transition",
+    "conditionId": 2,
+    "text": "限定特賣中"
   }
 ]

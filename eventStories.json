@@ -860,7 +860,7 @@
         "id": 1000055,
         "eventStoryId": 7,
         "episodeNo": 7,
-        "title": "兩人孤拎拎的屋頂上",
+        "title": "兩人孤伶伶的屋頂上",
         "assetbundleName": "event_culturalfestival_2020_07",
         "scenarioId": "event_07_07",
         "releaseConditionId": 100606,
@@ -1178,6 +1178,768 @@
         "assetbundleName": "event_newyear_2020_11",
         "scenarioId": "event_09_11",
         "releaseConditionId": 100810,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "eventId": 10,
+    "assetbundleName": "event_hareomatsu_2021",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000076,
+        "eventStoryId": 10,
+        "episodeNo": 1,
+        "title": "另一位學姐",
+        "assetbundleName": "event_hareomatsu_2021_01",
+        "scenarioId": "event_10_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000077,
+        "eventStoryId": 10,
+        "episodeNo": 2,
+        "title": "樂團支柱",
+        "assetbundleName": "event_hareomatsu_2021_02",
+        "scenarioId": "event_10_02",
+        "releaseConditionId": 100901,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000078,
+        "eventStoryId": 10,
+        "episodeNo": 3,
+        "title": "波濤洶湧的合唱比賽！？",
+        "assetbundleName": "event_hareomatsu_2021_03",
+        "scenarioId": "event_10_03",
+        "releaseConditionId": 100902,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000079,
+        "eventStoryId": 10,
+        "episodeNo": 4,
+        "title": "動搖的心",
+        "assetbundleName": "event_hareomatsu_2021_04",
+        "scenarioId": "event_10_04",
+        "releaseConditionId": 100903,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000080,
+        "eventStoryId": 10,
+        "episodeNo": 5,
+        "title": "溫柔與勇氣",
+        "assetbundleName": "event_hareomatsu_2021_05",
+        "scenarioId": "event_10_05",
+        "releaseConditionId": 100904,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000081,
+        "eventStoryId": 10,
+        "episodeNo": 6,
+        "title": "我能做的事",
+        "assetbundleName": "event_hareomatsu_2021_06",
+        "scenarioId": "event_10_06",
+        "releaseConditionId": 100905,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000082,
+        "eventStoryId": 10,
+        "episodeNo": 7,
+        "title": "向前一步",
+        "assetbundleName": "event_hareomatsu_2021_07",
+        "scenarioId": "event_10_07",
+        "releaseConditionId": 100906,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000083,
+        "eventStoryId": 10,
+        "episodeNo": 8,
+        "title": "將光芒收藏於心",
+        "assetbundleName": "event_hareomatsu_2021_08",
+        "scenarioId": "event_10_08",
+        "releaseConditionId": 100907,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "eventId": 11,
+    "assetbundleName": "event_color_2021",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000084,
+        "eventStoryId": 11,
+        "episodeNo": 1,
+        "title": "直播開始！",
+        "assetbundleName": "event_color_2021_01",
+        "scenarioId": "event_11_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000085,
+        "eventStoryId": 11,
+        "episodeNo": 2,
+        "title": "「世界」的新偶像！？",
+        "assetbundleName": "event_color_2021_02",
+        "scenarioId": "event_11_02",
+        "releaseConditionId": 101001,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000086,
+        "eventStoryId": 11,
+        "episodeNo": 3,
+        "title": "崩壞的「完美」",
+        "assetbundleName": "event_color_2021_03",
+        "scenarioId": "event_11_03",
+        "releaseConditionId": 101002,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000087,
+        "eventStoryId": 11,
+        "episodeNo": 4,
+        "title": "作出來的形象",
+        "assetbundleName": "event_color_2021_04",
+        "scenarioId": "event_11_04",
+        "releaseConditionId": 101003,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000088,
+        "eventStoryId": 11,
+        "episodeNo": 5,
+        "title": "不被期待的「我」",
+        "assetbundleName": "event_color_2021_05",
+        "scenarioId": "event_11_05",
+        "releaseConditionId": 101004,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000089,
+        "eventStoryId": 11,
+        "episodeNo": 6,
+        "title": "用直率的言語",
+        "assetbundleName": "event_color_2021_06",
+        "scenarioId": "event_11_06",
+        "releaseConditionId": 101005,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000090,
+        "eventStoryId": 11,
+        "episodeNo": 7,
+        "title": "決斷",
+        "assetbundleName": "event_color_2021_07",
+        "scenarioId": "event_11_07",
+        "releaseConditionId": 101006,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000091,
+        "eventStoryId": 11,
+        "episodeNo": 8,
+        "title": "原始的、真實的",
+        "assetbundleName": "event_color_2021_08",
+        "scenarioId": "event_11_08",
+        "releaseConditionId": 101007,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "eventId": 12,
+    "assetbundleName": "event_nocturne_2021",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000092,
+        "eventStoryId": 12,
+        "episodeNo": 1,
+        "title": "五線譜不會有交集",
+        "assetbundleName": "event_nocturne_2021_01",
+        "scenarioId": "event_12_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000093,
+        "eventStoryId": 12,
+        "episodeNo": 2,
+        "title": "受縛的旋律",
+        "assetbundleName": "event_nocturne_2021_02",
+        "scenarioId": "event_12_02",
+        "releaseConditionId": 101101,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000094,
+        "eventStoryId": 12,
+        "episodeNo": 3,
+        "title": "缺少的事物",
+        "assetbundleName": "event_nocturne_2021_03",
+        "scenarioId": "event_12_03",
+        "releaseConditionId": 101102,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000095,
+        "eventStoryId": 12,
+        "episodeNo": 4,
+        "title": "傳遞不到的話語",
+        "assetbundleName": "event_nocturne_2021_04",
+        "scenarioId": "event_12_04",
+        "releaseConditionId": 101103,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000096,
+        "eventStoryId": 12,
+        "episodeNo": 5,
+        "title": "彼此相信的事物",
+        "assetbundleName": "event_nocturne_2021_05",
+        "scenarioId": "event_12_05",
+        "releaseConditionId": 101104,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000097,
+        "eventStoryId": 12,
+        "episodeNo": 6,
+        "title": "推動前進的話語",
+        "assetbundleName": "event_nocturne_2021_06",
+        "scenarioId": "event_12_06",
+        "releaseConditionId": 101105,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000098,
+        "eventStoryId": 12,
+        "episodeNo": 7,
+        "title": "夜晚結束時如歌的行板",
+        "assetbundleName": "event_nocturne_2021_07",
+        "scenarioId": "event_12_07",
+        "releaseConditionId": 101106,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000099,
+        "eventStoryId": 12,
+        "episodeNo": 8,
+        "title": "那隻手抓住的光芒",
+        "assetbundleName": "event_nocturne_2021_08",
+        "scenarioId": "event_12_08",
+        "releaseConditionId": 101107,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "eventId": 13,
+    "assetbundleName": "event_parade_2021",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000100,
+        "eventStoryId": 13,
+        "episodeNo": 1,
+        "title": "無法做出的選擇",
+        "assetbundleName": "event_parade_2021_01",
+        "scenarioId": "event_13_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000101,
+        "eventStoryId": 13,
+        "episodeNo": 2,
+        "title": "交錯的相遇",
+        "assetbundleName": "event_parade_2021_02",
+        "scenarioId": "event_13_02",
+        "releaseConditionId": 101201,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000102,
+        "eventStoryId": 13,
+        "episodeNo": 3,
+        "title": "初次見面！？Wonderhoi！",
+        "assetbundleName": "event_parade_2021_03",
+        "scenarioId": "event_13_03",
+        "releaseConditionId": 101202,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000103,
+        "eventStoryId": 13,
+        "episodeNo": 4,
+        "title": "能露出笑容的地方",
+        "assetbundleName": "event_parade_2021_04",
+        "scenarioId": "event_13_04",
+        "releaseConditionId": 101203,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000104,
+        "eventStoryId": 13,
+        "episodeNo": 5,
+        "title": "來創造回憶吧！",
+        "assetbundleName": "event_parade_2021_05",
+        "scenarioId": "event_13_05",
+        "releaseConditionId": 101204,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000105,
+        "eventStoryId": 13,
+        "episodeNo": 6,
+        "title": "用這首歌傳遞笑容",
+        "assetbundleName": "event_parade_2021_06",
+        "scenarioId": "event_13_06",
+        "releaseConditionId": 101205,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000106,
+        "eventStoryId": 13,
+        "episodeNo": 7,
+        "title": "我待在這裡的理由",
+        "assetbundleName": "event_parade_2021_07",
+        "scenarioId": "event_13_07",
+        "releaseConditionId": 101206,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000107,
+        "eventStoryId": 13,
+        "episodeNo": 8,
+        "title": "充滿迷惘",
+        "assetbundleName": "event_parade_2021_08",
+        "scenarioId": "event_13_08",
+        "releaseConditionId": 101207,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "eventId": 14,
+    "assetbundleName": "event_infinitelygray_2021",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000108,
+        "eventStoryId": 14,
+        "episodeNo": 1,
+        "title": "未得滿足之心",
+        "assetbundleName": "event_infinitelygray_2021_01",
+        "scenarioId": "event_14_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000109,
+        "eventStoryId": 14,
+        "episodeNo": 2,
+        "title": "捲土重來",
+        "assetbundleName": "event_infinitelygray_2021_02",
+        "scenarioId": "event_14_02",
+        "releaseConditionId": 101301,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000110,
+        "eventStoryId": 14,
+        "episodeNo": 3,
+        "title": "凡人",
+        "assetbundleName": "event_infinitelygray_2021_03",
+        "scenarioId": "event_14_03",
+        "releaseConditionId": 101302,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000111,
+        "eventStoryId": 14,
+        "episodeNo": 4,
+        "title": "一人的「世界」",
+        "assetbundleName": "event_infinitelygray_2021_04",
+        "scenarioId": "event_14_04",
+        "releaseConditionId": 101303,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000112,
+        "eventStoryId": 14,
+        "episodeNo": 5,
+        "title": "想成為助力",
+        "assetbundleName": "event_infinitelygray_2021_05",
+        "scenarioId": "event_14_05",
+        "releaseConditionId": 101304,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000113,
+        "eventStoryId": 14,
+        "episodeNo": 6,
+        "title": "最重要的是",
+        "assetbundleName": "event_infinitelygray_2021_06",
+        "scenarioId": "event_14_06",
+        "releaseConditionId": 101305,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000114,
+        "eventStoryId": 14,
+        "episodeNo": 7,
+        "title": "若想得到認同",
+        "assetbundleName": "event_infinitelygray_2021_07",
+        "scenarioId": "event_14_07",
+        "releaseConditionId": 101306,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000115,
+        "eventStoryId": 14,
+        "episodeNo": 8,
+        "title": "我作畫的意義",
+        "assetbundleName": "event_infinitelygray_2021_08",
+        "scenarioId": "event_14_08",
+        "releaseConditionId": 101307,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "eventId": 15,
+    "assetbundleName": "event_dream_2021",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000116,
+        "eventStoryId": 15,
+        "episodeNo": 1,
+        "title": "笑容的另一面",
+        "assetbundleName": "event_dream_2021_01",
+        "scenarioId": "event_15_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000117,
+        "eventStoryId": 15,
+        "episodeNo": 2,
+        "title": "突然宣言",
+        "assetbundleName": "event_dream_2021_02",
+        "scenarioId": "event_15_02",
+        "releaseConditionId": 101401,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000118,
+        "eventStoryId": 15,
+        "episodeNo": 3,
+        "title": "即使是「理想」也……",
+        "assetbundleName": "event_dream_2021_03",
+        "scenarioId": "event_15_03",
+        "releaseConditionId": 101402,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000119,
+        "eventStoryId": 15,
+        "episodeNo": 4,
+        "title": "希望的前方",
+        "assetbundleName": "event_dream_2021_04",
+        "scenarioId": "event_15_04",
+        "releaseConditionId": 101403,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000120,
+        "eventStoryId": 15,
+        "episodeNo": 5,
+        "title": "希望妳跟我說",
+        "assetbundleName": "event_dream_2021_05",
+        "scenarioId": "event_15_05",
+        "releaseConditionId": 101404,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000121,
+        "eventStoryId": 15,
+        "episodeNo": 6,
+        "title": "比起宛若哭泣的笑容",
+        "assetbundleName": "event_dream_2021_06",
+        "scenarioId": "event_15_06",
+        "releaseConditionId": 101405,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000122,
+        "eventStoryId": 15,
+        "episodeNo": 7,
+        "title": "想守護的地方",
+        "assetbundleName": "event_dream_2021_07",
+        "scenarioId": "event_15_07",
+        "releaseConditionId": 101406,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000123,
+        "eventStoryId": 15,
+        "episodeNo": 8,
+        "title": "反擊的狼煙",
+        "assetbundleName": "event_dream_2021_08",
+        "scenarioId": "event_15_08",
+        "releaseConditionId": 101407,
         "episodeRewards": [
           {
             "storyType": "event_story",

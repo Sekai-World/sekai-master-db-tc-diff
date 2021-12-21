@@ -1,0 +1,74 @@
+[
+  {
+    "limitMissionGroupId": 1,
+    "id": 1,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 5,
+    "sentence": "通過5次多人LIVE吧。",
+    "resourceBoxId": 100001
+  },
+  {
+    "limitMissionGroupId": 1,
+    "id": 2,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 3,
+    "sentence": "通過3次挑戰LIVE吧。",
+    "resourceBoxId": 100002
+  },
+  {
+    "limitMissionGroupId": 1,
+    "id": 3,
+    "seq": 1,
+    "limitMissionType": "use_virtual_item",
+    "requirement": 3,
+    "sentence": "使用3次虛擬道具吧。",
+    "resourceBoxId": 100003
+  },
+  {
+    "limitMissionGroupId": 1,
+    "id": 4,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": "累積消耗30個LIVE BONUS吧。",
+    "resourceBoxId": 100004
+  },
+  {
+    "limitMissionGroupId": 1,
+    "id": 5,
+    "seq": 1,
+    "limitMissionType": "save_custom_profile_data",
+    "requirement": 1,
+    "sentence": "設定1次「自製個人資料」吧。",
+    "resourceBoxId": 100005
+  },
+  {
+    "limitMissionGroupId": 1,
+    "id": 6,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 1,
+    "sentence": "在活動交換所進行1次交換吧。",
+    "resourceBoxId": 100006
+  },
+  {
+    "limitMissionGroupId": 1,
+    "id": 7,
+    "seq": 1,
+    "limitMissionType": "friend_share",
+    "requirement": 3,
+    "sentence": "進行3次好友分享吧。",
+    "resourceBoxId": 100007
+  },
+  {
+    "limitMissionGroupId": 1,
+    "id": 8,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 7,
+    "sentence": "通過所有的跨年限時任務吧。",
+    "resourceBoxId": 100008
+  }
+]
