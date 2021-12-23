@@ -53,5 +53,27 @@
     "transitionDestinationId": 23,
     "startAt": 1639983600000,
     "endAt": 1640933940000
+  },
+  {
+    "homeBannerId": 52,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "聖誕節2020 LIVE橫幅",
+    "assetbundleName": "banner_virtuallive41",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 41,
+    "startAt": 1640242800000,
+    "endAt": 1640501940000
+  },
+  {
+    "homeBannerId": 76,
+    "seq": 20,
+    "homeBannerType": "general",
+    "name": "聖誕服裝販售橫幅",
+    "assetbundleName": "banner_shop_christmas_costume_2020",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 10114,
+    "startAt": 1640275200000,
+    "endAt": 1640447999000
   }
 ]
