@@ -329,7 +329,7 @@
   },
   {
     "id": 25,
-    "seq": 12,
+    "seq": 130,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 25,
     "name": "2021聖誕服裝組合包A",
@@ -345,7 +345,7 @@
   },
   {
     "id": 26,
-    "seq": 11,
+    "seq": 120,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 26,
     "name": "2021聖誕服裝組合包B",
@@ -557,6 +557,22 @@
     "resourceBoxId": 1005,
     "bonusResourceBoxId": 1005,
     "startAt": 1633017600000
+  },
+  {
+    "id": 1006,
+    "seq": 100,
+    "billingShopItemType": "value_set",
+    "name": "「哞～哞～☆NEW YEAR 」服裝 所有顏色",
+    "description": "「哞～哞～☆NEW YEAR 」服裝 所有顏色",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10017",
+    "resourceBoxId": 1006,
+    "label": "期間限定",
+    "startAt": 1640966400000,
+    "endAt": 1643644799000,
+    "purchaseOption": "exchange"
   },
   {
     "id": 1100,
