@@ -77,14 +77,25 @@
     "endAt": 1640501940000
   },
   {
-    "homeBannerId": 76,
-    "seq": 20,
+    "homeBannerId": 53,
+    "seq": 105,
     "homeBannerType": "general",
-    "name": "聖誕服裝販售橫幅",
-    "assetbundleName": "banner_shop_christmas_costume_2020",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 10114,
-    "startAt": 1640275200000,
-    "endAt": 1640447999000
+    "name": "鏡音鈴週年LIVE",
+    "assetbundleName": "banner_virtuallive42",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 42,
+    "startAt": 1640415600000,
+    "endAt": 1640674740000
+  },
+  {
+    "homeBannerId": 54,
+    "seq": 106,
+    "homeBannerType": "general",
+    "name": "鏡音連週年LIVE",
+    "assetbundleName": "banner_virtuallive43",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 43,
+    "startAt": 1640415600000,
+    "endAt": 1640674740000
   }
 ]
