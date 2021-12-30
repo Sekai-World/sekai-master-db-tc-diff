@@ -53,5 +53,27 @@
     "transitionDestinationId": 23,
     "startAt": 1639983600000,
     "endAt": 1640933940000
+  },
+  {
+    "homeBannerId": 56,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "倒數LIVE",
+    "assetbundleName": "banner_virtuallive44",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 44,
+    "startAt": 1640858400000,
+    "endAt": 1641106799000
+  },
+  {
+    "homeBannerId": 57,
+    "seq": 210,
+    "homeBannerType": "general",
+    "name": "NEW YEAR LIVE",
+    "assetbundleName": "banner_virtuallive45",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 45,
+    "startAt": 1640858400000,
+    "endAt": 1641452399000
   }
 ]
