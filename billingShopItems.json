@@ -85,7 +85,7 @@
   },
   {
     "id": 8,
-    "seq": 110,
+    "seq": 1016,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 8,
     "name": "歡迎來到「世界」組合包A",
@@ -100,7 +100,7 @@
   },
   {
     "id": 9,
-    "seq": 100,
+    "seq": 1015,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 9,
     "name": "歡迎來到「世界」組合包B",
@@ -115,7 +115,7 @@
   },
   {
     "id": 10,
-    "seq": 90,
+    "seq": 1014,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 10,
     "name": "歡迎來到「世界」組合包C",
@@ -141,7 +141,8 @@
     "assetbundleName": "shop_15",
     "resourceBoxId": 15,
     "bonusResourceBoxId": 6,
-    "startAt": 1633017600000
+    "startAt": 1633017600000,
+    "endAt": 1640966399000
   },
   {
     "id": 12,
@@ -156,7 +157,8 @@
     "assetbundleName": "shop_14",
     "resourceBoxId": 14,
     "bonusResourceBoxId": 5,
-    "startAt": 1633017600000
+    "startAt": 1633017600000,
+    "endAt": 1640966399000
   },
   {
     "id": 13,
@@ -171,23 +173,8 @@
     "assetbundleName": "shop_11",
     "resourceBoxId": 12,
     "bonusResourceBoxId": 4,
-    "startAt": 1633017600000
-  },
-  {
-    "id": 14,
-    "seq": 3,
-    "billingShopItemType": "value_set",
-    "billingProductGroupId": 17,
-    "name": "養成應援組合包",
-    "description": "水晶×2810\n心願碎片×50\n可愛寶石×50\n帥氣寶石×50\n純真寶石×50\n快樂寶石×50\n神秘寶石×50\n可愛碎片×100\n純真碎片×100\n純真碎片×100\n快樂碎片×100\n神秘碎片×100\n奇蹟寶石×10",
-    "billableLimitType": "count",
-    "billableLimitValue": 1,
-    "billableLimitResetIntervalType": "monthly",
-    "assetbundleName": "shop_17",
-    "resourceBoxId": 17,
-    "bonusResourceBoxId": 7,
     "startAt": 1633017600000,
-    "endAt": 1609430399000
+    "endAt": 1640966399000
   },
   {
     "id": 15,
@@ -202,7 +189,8 @@
     "assetbundleName": "shop_21",
     "resourceBoxId": 22,
     "bonusResourceBoxId": 8,
-    "startAt": 1633017600000
+    "startAt": 1633017600000,
+    "endAt": 1640966399000
   },
   {
     "id": 16,
@@ -249,56 +237,8 @@
     "endAt": 1604159999000
   },
   {
-    "id": 19,
-    "seq": 13,
-    "billingShopItemType": "jewel",
-    "billingProductGroupId": 18,
-    "name": "[新年特賣] 水晶D",
-    "description": "水晶×1800\n免費水晶×300",
-    "billableLimitType": "count",
-    "billableLimitValue": 1,
-    "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_18",
-    "resourceBoxId": 18,
-    "bonusResourceBoxId": 11,
-    "startAt": 1598889600000,
-    "endAt": 1610294399000
-  },
-  {
-    "id": 20,
-    "seq": 12,
-    "billingShopItemType": "jewel",
-    "billingProductGroupId": 19,
-    "name": "[新年特賣] 水晶F",
-    "description": "水晶×5000\n免費水晶×850",
-    "billableLimitType": "count",
-    "billableLimitValue": 1,
-    "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_19",
-    "resourceBoxId": 19,
-    "bonusResourceBoxId": 12,
-    "startAt": 1598889600000,
-    "endAt": 1610294399000
-  },
-  {
-    "id": 21,
-    "seq": 11,
-    "billingShopItemType": "jewel",
-    "billingProductGroupId": 20,
-    "name": "[新年特賣] 水晶G",
-    "description": "水晶×10500\n免費水晶×1800",
-    "billableLimitType": "count",
-    "billableLimitValue": 1,
-    "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_20",
-    "resourceBoxId": 20,
-    "bonusResourceBoxId": 13,
-    "startAt": 1598889600000,
-    "endAt": 1610294399000
-  },
-  {
     "id": 23,
-    "seq": 80,
+    "seq": 1007,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 23,
     "name": "新手特訓組合包A",
@@ -361,7 +301,7 @@
   },
   {
     "id": 27,
-    "seq": 14,
+    "seq": 1019,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 27,
     "name": "2022新年服裝組合包A",
@@ -372,12 +312,12 @@
     "assetbundleName": "shop_27",
     "resourceBoxId": 27,
     "bonusResourceBoxId": 16,
-    "startAt": 1598889600000,
-    "endAt": 1610294399000
+    "startAt": 1640966400000,
+    "endAt": 1641830399000
   },
   {
     "id": 28,
-    "seq": 13,
+    "seq": 1018,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 28,
     "name": "2022新年服裝組合包B",
@@ -388,12 +328,12 @@
     "assetbundleName": "shop_28",
     "resourceBoxId": 28,
     "bonusResourceBoxId": 17,
-    "startAt": 1598889600000,
-    "endAt": 1610294399000
+    "startAt": 1640966400000,
+    "endAt": 1641830399000
   },
   {
     "id": 29,
-    "seq": 15,
+    "seq": 1022,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 29,
     "name": "新春福袋2022 梅",
@@ -404,12 +344,12 @@
     "assetbundleName": "shop_29",
     "resourceBoxId": 29,
     "bonusResourceBoxId": 18,
-    "startAt": 1598889600000,
-    "endAt": 1610294399000
+    "startAt": 1640966400000,
+    "endAt": 1641830399000
   },
   {
     "id": 30,
-    "seq": 16,
+    "seq": 1021,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 30,
     "name": "新春福袋2022 竹",
@@ -420,12 +360,12 @@
     "assetbundleName": "shop_30",
     "resourceBoxId": 30,
     "bonusResourceBoxId": 19,
-    "startAt": 1598889600000,
-    "endAt": 1610294399000
+    "startAt": 1640966400000,
+    "endAt": 1641830399000
   },
   {
     "id": 31,
-    "seq": 17,
+    "seq": 1020,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 31,
     "name": "新春福袋2022 松",
@@ -436,23 +376,8 @@
     "assetbundleName": "shop_31",
     "resourceBoxId": 31,
     "bonusResourceBoxId": 20,
-    "startAt": 1598889600000,
-    "endAt": 1610294399000
-  },
-  {
-    "id": 32,
-    "seq": 40,
-    "billingShopItemType": "value_set",
-    "billingProductGroupId": 32,
-    "name": "養成應援組合包",
-    "description": "水晶×2810\n心願碎片×50\n可愛寶石×50\n帥氣寶石×50\n純真寶石×50\n快樂寶石×50\n神秘寶石×50\n可愛碎片×100\n帥氣碎片×100\n純真碎片×100\n快樂碎片×100\n神秘碎片×100\n奇蹟寶石×30",
-    "billableLimitType": "count",
-    "billableLimitValue": 1,
-    "billableLimitResetIntervalType": "monthly",
-    "assetbundleName": "shop_17",
-    "resourceBoxId": 32,
-    "bonusResourceBoxId": 21,
-    "startAt": 1633017600000
+    "startAt": 1640966400000,
+    "endAt": 1641830399000
   },
   {
     "id": 33,
@@ -470,7 +395,7 @@
   },
   {
     "id": 1000,
-    "seq": 79,
+    "seq": 1006,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1000,
     "name": "新手特訓組合包B",
@@ -485,7 +410,7 @@
   },
   {
     "id": 1001,
-    "seq": 78,
+    "seq": 1005,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1001,
     "name": "每週練習組合包",
@@ -500,7 +425,7 @@
   },
   {
     "id": 1002,
-    "seq": 76,
+    "seq": 1003,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1002,
     "name": "等級突破組合包",
@@ -515,7 +440,7 @@
   },
   {
     "id": 1003,
-    "seq": 77,
+    "seq": 1004,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1003,
     "name": "園藝速成組合包",
@@ -530,7 +455,7 @@
   },
   {
     "id": 1004,
-    "seq": 75,
+    "seq": 1002,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1004,
     "name": "「世界」裝扮組合包",
@@ -545,7 +470,7 @@
   },
   {
     "id": 1005,
-    "seq": 74,
+    "seq": 1001,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1005,
     "name": "心願特選組合包",
@@ -560,18 +485,35 @@
   },
   {
     "id": 1006,
-    "seq": 100,
+    "seq": 1017,
     "billingShopItemType": "value_set",
     "name": "「哞～哞～☆NEW YEAR 」服裝 所有顏色",
     "description": "「哞～哞～☆NEW YEAR 」服裝 所有顏色",
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_10017",
+    "assetbundleName": "shop_1006",
     "resourceBoxId": 1006,
     "label": "期間限定",
     "startAt": 1640966400000,
     "endAt": 1643644799000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 1007,
+    "seq": 1013,
+    "billingShopItemType": "value_set",
+    "name": "[新年特賣] 每日免費組合包",
+    "description": "\"水晶（免费）×10\n练习谱（初级）×10\"",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "day",
+    "billableLimitResetIntervalValue": 1,
+    "assetbundleName": "shop_1007",
+    "resourceBoxId": 1007,
+    "label": "期間限定",
+    "startAt": 1640966400000,
+    "endAt": 1642262399000,
     "purchaseOption": "exchange"
   },
   {
@@ -751,5 +693,160 @@
     "label": "期間限定",
     "startAt": 1635134400000,
     "endAt": 1635868799000
+  },
+  {
+    "id": 1111,
+    "seq": 21,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1111,
+    "name": "[新年特賣] 水晶D",
+    "description": "950付费水晶+200免費水晶",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1106",
+    "resourceBoxId": 1106,
+    "bonusResourceBoxId": 1106,
+    "label": "期間限定",
+    "startAt": 1640966400000,
+    "endAt": 1641830399000
+  },
+  {
+    "id": 1112,
+    "seq": 20,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1112,
+    "name": "[新年特賣] 水晶E",
+    "description": "1800付費水晶+380免費水晶",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1107",
+    "resourceBoxId": 1107,
+    "bonusResourceBoxId": 1107,
+    "label": "期間限定",
+    "startAt": 1640966400000,
+    "endAt": 1641830399000
+  },
+  {
+    "id": 1113,
+    "seq": 19,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1113,
+    "name": "[新年特賣] 水晶F",
+    "description": "3060付費水晶+650免費水晶",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1108",
+    "resourceBoxId": 1108,
+    "bonusResourceBoxId": 1108,
+    "label": "期間限定",
+    "startAt": 1640966400000,
+    "endAt": 1641830399000
+  },
+  {
+    "id": 1114,
+    "seq": 18,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1114,
+    "name": "[新年特賣] 水晶G",
+    "description": "5000付費水晶+1080免費水晶",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1109",
+    "resourceBoxId": 1109,
+    "bonusResourceBoxId": 1109,
+    "label": "期間限定",
+    "startAt": 1640966400000,
+    "endAt": 1641830399000
+  },
+  {
+    "id": 1115,
+    "seq": 17,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1115,
+    "name": "[新年特賣] 水晶H",
+    "description": "10500付費水晶+2300免費水晶",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1110",
+    "resourceBoxId": 1110,
+    "bonusResourceBoxId": 1110,
+    "label": "期間限定",
+    "startAt": 1640966400000,
+    "endAt": 1641830399000
+  },
+  {
+    "id": 10001,
+    "seq": 1012,
+    "billingShopItemType": "value_set",
+    "name": "縫紉組合包",
+    "description": "ガチャチケット×5\n魔法の布×300\n魔法の糸×30",
+    "billableLimitType": "count",
+    "billableLimitValue": 3,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_15",
+    "resourceBoxId": 43,
+    "startAt": 1640966400000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10002,
+    "seq": 1011,
+    "billingShopItemType": "value_set",
+    "name": "音樂卡組合包",
+    "description": "ガチャチケット×1\nミュージックカード×10",
+    "billableLimitType": "count",
+    "billableLimitValue": 10,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_14",
+    "resourceBoxId": 44,
+    "startAt": 1640966400000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10003,
+    "seq": 1010,
+    "billingShopItemType": "value_set",
+    "name": "貼圖交換券組合包",
+    "description": "ガチャチケット×1\nスタンプ交換券×3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_11",
+    "resourceBoxId": 45,
+    "startAt": 1640966400000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10004,
+    "seq": 1009,
+    "billingShopItemType": "value_set",
+    "name": "養成應援組合包",
+    "description": "ガチャチケット×10\nミラクルジェム×100\nキュートジェム×100\nクールジェム×100\nピュアジェム×100\nハッピージェム×100\nミステリアスジェム×100\nキュートジェム×200\nクールジェム×200\nピュアジェム×200\nハッピージェム×200\nミステリアスジェム×200\n練習用スコア(中)×50",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_17",
+    "resourceBoxId": 46,
+    "startAt": 1640966400000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10005,
+    "seq": 1008,
+    "billingShopItemType": "value_set",
+    "name": "硬幣組合包",
+    "description": "ガチャチケット×5\nコイン×100,000",
+    "billableLimitType": "count",
+    "billableLimitValue": 3,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_21",
+    "resourceBoxId": 47,
+    "startAt": 1640966400000,
+    "purchaseOption": "exchange"
   }
 ]
