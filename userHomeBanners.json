@@ -11,17 +11,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 44,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "高階任務通行證",
-    "assetbundleName": "banner_premiummissionpass_2020_12",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 10095,
-    "startAt": 1638288000000,
-    "endAt": 1640966340000
-  },
-  {
     "homeBannerId": 48,
     "seq": 9998,
     "homeBannerType": "general",
@@ -31,28 +20,6 @@
     "transitionDestinationId": 20001,
     "startAt": 1635750000000,
     "endAt": 4102415999000
-  },
-  {
-    "homeBannerId": 49,
-    "seq": 99,
-    "homeBannerType": "event",
-    "name": "Wonderlands×Showtime第2次巡迴_活動橫幅",
-    "assetbundleName": "event_nijiiro_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 8,
-    "startAt": 1639983600000,
-    "endAt": 1640933940000
-  },
-  {
-    "homeBannerId": 50,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "Wonderlands×Showtime第2次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha23",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 23,
-    "startAt": 1639983600000,
-    "endAt": 1640933940000
   },
   {
     "homeBannerId": 56,
@@ -75,5 +42,60 @@
     "transitionDestinationId": 45,
     "startAt": 1640858400000,
     "endAt": 1641452399000
+  },
+  {
+    "homeBannerId": 58,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "新年活動",
+    "assetbundleName": "event_newyear_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 9,
+    "startAt": 1640934000000,
+    "endAt": 1641797999000
+  },
+  {
+    "homeBannerId": 59,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "[迎接2021年] 七彩慶典招募",
+    "assetbundleName": "banner_gacha26",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 26,
+    "startAt": 1640934000000,
+    "endAt": 1641279599000
+  },
+  {
+    "homeBannerId": 61,
+    "seq": 70,
+    "homeBannerType": "general",
+    "name": "新年商店販售",
+    "assetbundleName": "banner_shop_newyear2021",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 10136,
+    "startAt": 1640966400000,
+    "endAt": 1641830399000
+  },
+  {
+    "homeBannerId": 64,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "免費10連招募（第1天）",
+    "assetbundleName": "banner_gacha30",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 30,
+    "startAt": 1640966400000,
+    "endAt": 1641052799000
+  },
+  {
+    "homeBannerId": 95,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "高階任務通行證",
+    "assetbundleName": "banner_premiummissionpass_2021_02",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 10135,
+    "startAt": 1640966400000,
+    "endAt": 1643644799000
   }
 ]
