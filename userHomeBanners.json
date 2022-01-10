@@ -22,48 +22,26 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 58,
-    "seq": 100,
+    "homeBannerId": 72,
+    "seq": 99,
     "homeBannerType": "event",
-    "name": "新年活動",
-    "assetbundleName": "event_newyear_2020",
+    "name": "Leo/need第2次巡迴_活動橫幅",
+    "assetbundleName": "event_hareomatsu_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 9,
-    "startAt": 1640934000000,
-    "endAt": 1641797999000
+    "transitionDestinationId": 10,
+    "startAt": 1641798000000,
+    "endAt": 1642748399000
   },
   {
-    "homeBannerId": 60,
-    "seq": 140,
+    "homeBannerId": 73,
+    "seq": 100,
     "homeBannerType": "general",
-    "name": "新年活動招募",
-    "assetbundleName": "banner_gacha28",
+    "name": "Leo/need第2次巡迴_常態招募橫幅",
+    "assetbundleName": "banner_gacha39",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 28,
-    "startAt": 1641279600000,
-    "endAt": 1641797999000
-  },
-  {
-    "homeBannerId": 61,
-    "seq": 70,
-    "homeBannerType": "general",
-    "name": "新年商店販售",
-    "assetbundleName": "banner_shop_newyear2021",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 10136,
-    "startAt": 1640966400000,
-    "endAt": 1641830399000
-  },
-  {
-    "homeBannerId": 63,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "志步生日LIVE",
-    "assetbundleName": "banner_virtuallive50",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 50,
-    "startAt": 1641452400000,
-    "endAt": 1641797999000
+    "transitionDestinationId": 39,
+    "startAt": 1641798000000,
+    "endAt": 1642748399000
   },
   {
     "homeBannerId": 95,
