@@ -724,7 +724,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_PAID_JEWEL_PRIORITY_USE",
-    "value": "將優先使用付費水晶\n（僅使用付費水晶招募時，\n招募附贈點數提升為2倍）"
+    "value": "將優先使用付費水晶\n（僅使用付費水晶招募時，招募附贈點數提升為2倍）"
   },
   {
     "wordingKey": "MSG_GACHA_RATE_NOTICE",
@@ -1275,6 +1275,10 @@
     "value": "下次開始不顯示"
   },
   {
+    "wordingKey": "MSG_NOT_SPRING_EVENT_INSESSION",
+    "value": "無舉辦中的活動。"
+  },
+  {
     "wordingKey": "MSG_NOT_TARGET_MUSIC",
     "value": "無符合條件的歌曲。"
   },
@@ -1675,6 +1679,10 @@
     "value": "沒有可進行特訓的成員。"
   },
   {
+    "wordingKey": "MSG_SPRING_EVENT_UNIT_CONFIRM_BODY",
+    "value": "確定為該團體應援嗎？\n※確定後將無法變更"
+  },
+  {
     "wordingKey": "MSG_STAMP_SETTING",
     "value": "請從下方選出欲設定為最愛的貼圖。"
   },
@@ -1921,6 +1929,42 @@
   {
     "wordingKey": "SLV",
     "value": "SLv."
+  },
+  {
+    "wordingKey": "SPRING_EVENT_LIVE_CHALLENGE",
+    "value": "挑戰LIVE"
+  },
+  {
+    "wordingKey": "SPRING_EVENT_LIVE_SOLO",
+    "value": "單人LIVE"
+  },
+  {
+    "wordingKey": "SPRING_EVENT_LIVE_TOGETHER",
+    "value": "多人LIVE"
+  },
+  {
+    "wordingKey": "SPRING_EVENT_LIVE_TOTALUNIT",
+    "value": "全團體應援P"
+  },
+  {
+    "wordingKey": "SPRING_EVENT_LIVE_UNIT",
+    "value": "團體"
+  },
+  {
+    "wordingKey": "SPRING_EVENT_RANKING_REWARD",
+    "value": "此為「應援！新春的世界」排行第%d名的報酬。"
+  },
+  {
+    "wordingKey": "SPRING_EVENT_RECEIVE_INVALID_TERM_REWARD",
+    "value": "此為「應援！新春的世界」團體應援P%d萬的報酬。"
+  },
+  {
+    "wordingKey": "SPRING_EVENT_RECEIVE_INVALID_TOTAL_REWARD",
+    "value": "此為「應援！新春的世界」全團體應援P3900萬的報酬。"
+  },
+  {
+    "wordingKey": "SPRING_EVENT_RECEIVE_ZERO_REWARD",
+    "value": "此為參與「應援！新春的世界」活動的報酬。"
   },
   {
     "wordingKey": "STAFF_URL",
@@ -5670,6 +5714,10 @@
     "value": "虛擬LIVE"
   },
   {
+    "wordingKey": "WORD_EVENT_SPRINGRANKING",
+    "value": "當前團體排行"
+  },
+  {
     "wordingKey": "WORD_EVENT_STORY",
     "value": "活動劇情"
   },
@@ -7978,12 +8026,16 @@
     "value": "返回LIVE"
   },
   {
+    "wordingKey": "WORD_RETURN_MISSION_TIME",
+    "value": "舉辦時間：{0} - {1}"
+  },
+  {
     "wordingKey": "WORD_RETURN_MV",
     "value": "繼續"
   },
   {
     "wordingKey": "WORD_REVERT_BEFORE_EDIT",
-    "value": "回到原本的頁面"
+    "value": "確認恢復"
   },
   {
     "wordingKey": "WORD_REVERT_INITIAL_STATE",
@@ -8398,6 +8450,34 @@
     "value": "確定特訓"
   },
   {
+    "wordingKey": "WORD_SPRING_EVENT",
+    "value": "春節活動"
+  },
+  {
+    "wordingKey": "WORD_SPRING_EVENT_RANKING_PERSON_SCORE",
+    "value": "你的累計應援P"
+  },
+  {
+    "wordingKey": "WORD_SPRING_EVENT_REWARD_DESCRIBE_0",
+    "value": "參與「應援！新春的世界」的活動獎勵"
+  },
+  {
+    "wordingKey": "WORD_SPRING_EVENT_REWARD_DESCRIBE_X",
+    "value": "團體應援P達到{0}萬獎勵"
+  },
+  {
+    "wordingKey": "WORD_SPRING_EVENT_TOTAL_SCORE",
+    "value": "39000000"
+  },
+  {
+    "wordingKey": "WORD_SPRING_EVENT_TOTAL_SCORE_REWARD",
+    "value": "應援活動全體獎勵"
+  },
+  {
+    "wordingKey": "WORD_SPRING_EVENT_UNIT_SCORE_REWARD",
+    "value": "團體應援P獎勵"
+  },
+  {
     "wordingKey": "WORD_STAFF",
     "value": "工作人員"
   },
@@ -8576,6 +8656,10 @@
   {
     "wordingKey": "WORD_TOS",
     "value": "用戶協議"
+  },
+  {
+    "wordingKey": "WORD_TOTALP",
+    "value": "{0}"
   },
   {
     "wordingKey": "WORD_TOTAL_POSSESSION",
@@ -9028,6 +9112,10 @@
   {
     "wordingKey": "WORD_WAIT_APPROVAL_LIST",
     "value": "待同意清單"
+  },
+  {
+    "wordingKey": "WORD_WAN",
+    "value": "{0}萬"
   },
   {
     "wordingKey": "WORD_WARERABLE_MEMBER",

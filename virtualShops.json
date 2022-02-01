@@ -1031,5 +1031,65 @@
         "startAt": 1646031600000
       }
     ]
+  },
+  {
+    "id": 1001,
+    "seq": 1001,
+    "name": "春节虚拟LIVE商品",
+    "virtualShopItems": [
+      {
+        "id": 10001,
+        "virtualShopId": 1001,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000001,
+        "resourceBoxId": 71,
+        "costPaidJewel": 1000,
+        "startAt": 1643536800000,
+        "endAt": 1644130799000
+      },
+      {
+        "id": 10002,
+        "virtualShopId": 1001,
+        "virtualShopItemType": "accessory",
+        "seq": 1000002,
+        "resourceBoxId": 72,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1643536800000,
+        "endAt": 1644130799000
+      },
+      {
+        "id": 10003,
+        "virtualShopId": 1001,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000003,
+        "resourceBoxId": 10001,
+        "costPaidJewel": 1000,
+        "startAt": 1643536800000,
+        "endAt": 1644130799000
+      },
+      {
+        "id": 10004,
+        "virtualShopId": 1001,
+        "virtualShopItemType": "penlight",
+        "seq": 1000004,
+        "resourceBoxId": 57,
+        "costVirtualCoin": 6000,
+        "costJewel": 2000,
+        "startAt": 1643536800000,
+        "endAt": 1644130799000
+      },
+      {
+        "id": 10005,
+        "virtualShopId": 1001,
+        "virtualShopItemType": "accessory",
+        "seq": 1000005,
+        "resourceBoxId": 10002,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1643536800000,
+        "endAt": 1644130799000
+      }
+    ]
   }
 ]

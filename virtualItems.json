@@ -793,19 +793,6 @@
     "effectExpressionType": "throw_effect"
   },
   {
-    "id": 66,
-    "virtualItemCategory": "normal",
-    "seq": 660,
-    "priority": 660,
-    "name": "2020生肖「牛」",
-    "assetbundleName": "event_new_year_07",
-    "costVirtualCoin": 1500,
-    "costJewel": 1500,
-    "cheerPoint": 1500,
-    "effectAssetbundleName": "event_new_year_07",
-    "effectExpressionType": "throw_effect"
-  },
-  {
     "id": 67,
     "virtualItemCategory": "normal",
     "seq": 670,
@@ -1332,9 +1319,9 @@
     "priority": 1140,
     "name": "春聯",
     "assetbundleName": "event_yuandan_01",
-    "costVirtualCoin": 188,
-    "costJewel": 188,
-    "cheerPoint": 188,
+    "costVirtualCoin": 66,
+    "costJewel": 66,
+    "cheerPoint": 66,
     "effectAssetbundleName": "event_yuandan_01",
     "effectExpressionType": "throw_effect"
   },
@@ -1349,6 +1336,19 @@
     "costJewel": 188,
     "cheerPoint": 188,
     "effectAssetbundleName": "event_yuandan_02",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 1003,
+    "virtualItemCategory": "normal",
+    "seq": 1160,
+    "priority": 1160,
+    "name": "2022生肖「虎」",
+    "assetbundleName": "event_new_year_2022_02",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_new_year_2022_02",
     "effectExpressionType": "throw_effect"
   }
 ]

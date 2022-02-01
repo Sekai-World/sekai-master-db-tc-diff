@@ -21692,7 +21692,7 @@
   {
     "id": 10123,
     "shopId": 2,
-    "seq": 356157200,
+    "seq": 356070800,
     "releaseConditionId": 1,
     "resourceBoxId": 10123,
     "costs": [
@@ -21707,7 +21707,7 @@
         }
       }
     ],
-    "startAt": 1643785200000
+    "startAt": 1643871600000
   },
   {
     "id": 10124,
@@ -27988,5 +27988,105 @@
       }
     ],
     "startAt": 1556683200000
+  },
+  {
+    "id": 100001,
+    "shopId": 12,
+    "seq": 5,
+    "releaseConditionId": 1,
+    "resourceBoxId": 100001,
+    "costs": [
+      {
+        "shopItemId": 100001,
+        "seq": 1,
+        "cost": {
+          "resourceId": 44,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1643601600000
+  },
+  {
+    "id": 100002,
+    "shopId": 12,
+    "seq": 4,
+    "releaseConditionId": 1,
+    "resourceBoxId": 100002,
+    "costs": [
+      {
+        "shopItemId": 100002,
+        "seq": 1,
+        "cost": {
+          "resourceId": 44,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1643601600000
+  },
+  {
+    "id": 100003,
+    "shopId": 12,
+    "seq": 1,
+    "releaseConditionId": 1,
+    "resourceBoxId": 100003,
+    "costs": [
+      {
+        "shopItemId": 100003,
+        "seq": 1,
+        "cost": {
+          "resourceId": 44,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1643601600000
+  },
+  {
+    "id": 100004,
+    "shopId": 12,
+    "seq": 2,
+    "releaseConditionId": 1,
+    "resourceBoxId": 100004,
+    "costs": [
+      {
+        "shopItemId": 100004,
+        "seq": 1,
+        "cost": {
+          "resourceId": 44,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1643601600000
+  },
+  {
+    "id": 100005,
+    "shopId": 12,
+    "seq": 3,
+    "releaseConditionId": 1,
+    "resourceBoxId": 100005,
+    "costs": [
+      {
+        "shopItemId": 100005,
+        "seq": 1,
+        "cost": {
+          "resourceId": 44,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1643601600000
   }
 ]

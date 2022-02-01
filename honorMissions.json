@@ -288,6 +288,38 @@
     ]
   },
   {
+    "id": 1007,
+    "seq": 7,
+    "honorMissionType": "master_full_combo",
+    "requirement": 60,
+    "sentence": "在難易度MASTER下達成60首歌曲的FULL COMBO吧。",
+    "rewards": [
+      {
+        "id": 1234,
+        "missionType": "honor_mission",
+        "missionId": 1007,
+        "seq": 1,
+        "resourceBoxId": 1155
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "seq": 8,
+    "honorMissionType": "master_full_combo",
+    "requirement": 70,
+    "sentence": "在難易度MASTER下達成70首歌曲的FULL COMBO吧。",
+    "rewards": [
+      {
+        "id": 1235,
+        "missionType": "honor_mission",
+        "missionId": 1008,
+        "seq": 1,
+        "resourceBoxId": 1156
+      }
+    ]
+  },
+  {
     "id": 1104,
     "seq": 4,
     "honorMissionType": "master_full_perfect",
@@ -332,6 +364,38 @@
         "missionId": 1106,
         "seq": 1,
         "resourceBoxId": 1066
+      }
+    ]
+  },
+  {
+    "id": 1107,
+    "seq": 7,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 60,
+    "sentence": "在難易度MASTER下達成60首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      {
+        "id": 1236,
+        "missionType": "honor_mission",
+        "missionId": 1107,
+        "seq": 1,
+        "resourceBoxId": 1157
+      }
+    ]
+  },
+  {
+    "id": 1108,
+    "seq": 8,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 70,
+    "sentence": "在難易度MASTER下達成70首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      {
+        "id": 1237,
+        "missionType": "honor_mission",
+        "missionId": 1108,
+        "seq": 1,
+        "resourceBoxId": 1158
       }
     ]
   },

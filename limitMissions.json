@@ -70,5 +70,68 @@
     "requirement": 7,
     "sentence": "通過所有的跨年限時任務吧。",
     "resourceBoxId": 100008
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 9,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 20,
+    "sentence": "通過20次「多人LIVE」吧。",
+    "resourceBoxId": 100009
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 10,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "通過5次「挑戰LIVE」吧。",
+    "resourceBoxId": 100010
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 11,
+    "seq": 1,
+    "limitMissionType": "clear_virtual_live",
+    "requirement": 3,
+    "sentence": "參加3次「虛擬LIVE」吧。",
+    "resourceBoxId": 100011
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 12,
+    "seq": 1,
+    "limitMissionType": "use_virtual_item",
+    "requirement": 10,
+    "sentence": "在虛擬LIVE中，使用10次虛擬道具進行應援吧。",
+    "resourceBoxId": 100012
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 13,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 150,
+    "sentence": "累計消耗150 LIVE BONUS吧。（可以從[LIVE]→[設定]的圖示中變更LIVE BONUS消費量）",
+    "resourceBoxId": 100013
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 14,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 3,
+    "sentence": "通過3個春節限定任務吧。",
+    "resourceBoxId": 100014
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 15,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 6,
+    "sentence": "通過所有春節限定任務吧。",
+    "resourceBoxId": 100015
   }
 ]

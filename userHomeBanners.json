@@ -22,36 +22,89 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 72,
-    "seq": 99,
-    "homeBannerType": "event",
-    "name": "Leo/need第2次巡迴_活動橫幅",
-    "assetbundleName": "event_hareomatsu_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 10,
-    "startAt": 1641798000000,
-    "endAt": 1642748399000
-  },
-  {
-    "homeBannerId": 73,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "Leo/need第2次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha39",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 39,
-    "startAt": 1641798000000,
-    "endAt": 1642748399000
-  },
-  {
-    "homeBannerId": 95,
+    "homeBannerId": 56,
     "seq": 200,
     "homeBannerType": "general",
+    "name": "倒數LIVE",
+    "assetbundleName": "banner_virtuallive44",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 44,
+    "startAt": 1643536800000,
+    "endAt": 1643785199000
+  },
+  {
+    "homeBannerId": 57,
+    "seq": 210,
+    "homeBannerType": "general",
+    "name": "NEW YEAR LIVE",
+    "assetbundleName": "banner_virtuallive45",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 45,
+    "startAt": 1643536800000,
+    "endAt": 1644130799000
+  },
+  {
+    "homeBannerId": 83,
+    "seq": 99,
+    "homeBannerType": "event",
+    "name": "[活動] Period of NOCTURNE",
+    "assetbundleName": "event_nocturne_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 12,
+    "startAt": 1643612400000,
+    "endAt": 1644389999000
+  },
+  {
+    "homeBannerId": 84,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "Vivid BAD SQUAD第2次巡迴_常態招募橫幅",
+    "assetbundleName": "banner_gacha45",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 45,
+    "startAt": 1643612400000,
+    "endAt": 1644389999000
+  },
+  {
+    "homeBannerId": 10001,
+    "seq": 1,
+    "homeBannerType": "general",
+    "name": "春节活动",
+    "assetbundleName": "banner_springevent",
+    "transitionDestinationType": "spring_event",
+    "transitionDestinationId": 1,
+    "startAt": 1643515200000,
+    "endAt": 1644238799000
+  },
+  {
+    "homeBannerId": 10002,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "指定团体必中1位★4成員招募",
+    "assetbundleName": "banner_gacha1002",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1002,
+    "startAt": 1643515200000,
+    "endAt": 1644389999000
+  },
+  {
+    "homeBannerId": 10003,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "春節商店販售",
+    "assetbundleName": "banner_shop_newyear2022",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1643515200000,
+    "endAt": 1644422399000
+  },
+  {
+    "homeBannerId": 10004,
+    "seq": 130,
+    "homeBannerType": "general",
     "name": "高階任務通行證",
-    "assetbundleName": "banner_premiummissionpass_2021_02",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 10135,
-    "startAt": 1640966400000,
-    "endAt": 1643644799000
+    "assetbundleName": "banner_premiummissionpass_2022_2",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1643644800000,
+    "endAt": 1646063999000
   }
 ]
