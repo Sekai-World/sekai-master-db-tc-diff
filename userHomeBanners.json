@@ -22,26 +22,26 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 83,
+    "homeBannerId": 89,
     "seq": 99,
     "homeBannerType": "event",
-    "name": "[活動] Period of NOCTURNE",
-    "assetbundleName": "event_nocturne_2021",
+    "name": "[活動] 響徹雲霄的暮光遊行",
+    "assetbundleName": "event_parade_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 12,
-    "startAt": 1643612400000,
-    "endAt": 1644389999000
+    "transitionDestinationId": 13,
+    "startAt": 1644390000000,
+    "endAt": 1645167599000
   },
   {
-    "homeBannerId": 84,
+    "homeBannerId": 90,
     "seq": 100,
     "homeBannerType": "general",
-    "name": "Vivid BAD SQUAD第2次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha45",
+    "name": "SHUFFLE遊樂園活動_常態招募橫幅",
+    "assetbundleName": "banner_gacha48",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 45,
-    "startAt": 1643612400000,
-    "endAt": 1644389999000
+    "transitionDestinationId": 48,
+    "startAt": 1644390000000,
+    "endAt": 1645167540000
   },
   {
     "homeBannerId": 92,
@@ -53,27 +53,6 @@
     "transitionDestinationId": 56,
     "startAt": 1644303600000,
     "endAt": 1644649199000
-  },
-  {
-    "homeBannerId": 10002,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "指定团体必中1位★4成員招募",
-    "assetbundleName": "banner_gacha1002",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1002,
-    "startAt": 1643515200000,
-    "endAt": 1644389999000
-  },
-  {
-    "homeBannerId": 10003,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "春節商店販售",
-    "assetbundleName": "banner_shop_newyear2022",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1643515200000,
-    "endAt": 1644422399000
   },
   {
     "homeBannerId": 10004,
