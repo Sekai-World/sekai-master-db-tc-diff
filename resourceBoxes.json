@@ -4733,6 +4733,122 @@
   },
   {
     "resourceBoxPurpose": "billing_shop_item",
+    "id": 1012,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1012,
+        "seq": 1,
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 450
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 1013,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1013,
+        "seq": 1,
+        "resourceType": "gacha_ticket",
+        "resourceId": 1,
+        "resourceQuantity": 3
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1013,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 6,
+        "resourceQuantity": 100
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1013,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 1,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1013,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 50
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1013,
+        "seq": 5,
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 1014,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1014,
+        "seq": 1,
+        "resourceType": "gacha_ticket",
+        "resourceId": 1,
+        "resourceQuantity": 10
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1014,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 6,
+        "resourceQuantity": 600
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1014,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 1,
+        "resourceQuantity": 2000
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1014,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 80
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1014,
+        "seq": 5,
+        "resourceType": "skill_practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 2
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1014,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 15,
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
     "id": 1100,
     "resourceBoxType": "expand",
     "details": [
@@ -13193,6 +13309,22 @@
         "seq": 24,
         "resourceType": "costume_3d",
         "resourceId": 901048,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 1012,
+    "resourceBoxType": "expand",
+    "description": "★3必中票券組合包",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 1012,
+        "seq": 1,
+        "resourceType": "gacha_ticket",
+        "resourceId": 2,
         "resourceQuantity": 1
       }
     ]
