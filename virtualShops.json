@@ -1033,6 +1033,108 @@
     ]
   },
   {
+    "id": 30,
+    "seq": 30,
+    "name": "第16輪活動販售會",
+    "virtualShopItems": [
+      {
+        "id": 85,
+        "virtualShopId": 30,
+        "virtualShopItemType": "penlight",
+        "seq": 199973,
+        "resourceBoxId": 85,
+        "costPaidJewel": 1000,
+        "startAt": 1646895600000
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "seq": 31,
+    "name": "白色情人節",
+    "virtualShopItems": [
+      {
+        "id": 86,
+        "virtualShopId": 31,
+        "virtualShopItemType": "coordinate",
+        "seq": 99980,
+        "resourceBoxId": 86,
+        "costPaidJewel": 1000,
+        "startAt": 1647068400000,
+        "endAt": 1647413999000
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "seq": 32,
+    "name": "愛莉 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 87,
+        "virtualShopId": 32,
+        "virtualShopItemType": "coordinate",
+        "seq": 99979,
+        "resourceBoxId": 87,
+        "costPaidJewel": 1000,
+        "startAt": 1647500400000,
+        "endAt": 1647759599000
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "seq": 33,
+    "name": "第17輪活動販售會",
+    "virtualShopItems": [
+      {
+        "id": 88,
+        "virtualShopId": 33,
+        "virtualShopItemType": "penlight",
+        "seq": 199972,
+        "resourceBoxId": 88,
+        "costPaidJewel": 1000,
+        "startAt": 1647932400000
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "seq": 34,
+    "name": "第18輪活動販售會",
+    "virtualShopItems": [
+      {
+        "id": 89,
+        "virtualShopId": 34,
+        "virtualShopItemType": "penlight",
+        "seq": 199971,
+        "resourceBoxId": 89,
+        "costPaidJewel": 1000,
+        "startAt": 1648796400000
+      },
+      {
+        "id": 90,
+        "virtualShopId": 34,
+        "virtualShopItemType": "penlight",
+        "seq": 199970,
+        "resourceBoxId": 90,
+        "costVirtualCoin": 6000,
+        "costJewel": 2000,
+        "startAt": 1648796400000
+      },
+      {
+        "id": 91,
+        "virtualShopId": 34,
+        "virtualShopItemType": "accessory",
+        "seq": 199969,
+        "resourceBoxId": 91,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1648796400000
+      }
+    ]
+  },
+  {
     "id": 1001,
     "seq": 1001,
     "name": "春节虚拟LIVE商品",

@@ -435,6 +435,121 @@
     ]
   },
   {
+    "id": 17,
+    "seq": 17,
+    "name": "白色情人節登入活動",
+    "startAt": 1647187200000,
+    "endAt": 1647273599000,
+    "assetbundleName": "whiteday_2021",
+    "closeAt": 1647273599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 47,
+        "limitedLoginBonusId": 17,
+        "day": 1,
+        "resourceBoxId": 30
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "seq": 18,
+    "name": "開服半年紀念日倒數登入活動",
+    "startAt": 1648310400000,
+    "endAt": 1648396799000,
+    "assetbundleName": "half_anniversary_countdown_01",
+    "closeAt": 1648396799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 48,
+        "limitedLoginBonusId": 18,
+        "day": 1,
+        "resourceBoxId": 31
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "seq": 19,
+    "name": "開服半年紀念日倒數登入活動",
+    "startAt": 1648396800000,
+    "endAt": 1648483199000,
+    "assetbundleName": "half_anniversary_countdown_02",
+    "closeAt": 1648483199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 49,
+        "limitedLoginBonusId": 19,
+        "day": 1,
+        "resourceBoxId": 31
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "seq": 20,
+    "name": "開服半年紀念日倒數登入活動",
+    "startAt": 1648483200000,
+    "endAt": 1648569599000,
+    "assetbundleName": "half_anniversary_countdown_03",
+    "closeAt": 1648569599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 50,
+        "limitedLoginBonusId": 20,
+        "day": 1,
+        "resourceBoxId": 31
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "seq": 21,
+    "name": "開服半年紀念登入活動",
+    "startAt": 1648612800000,
+    "endAt": 1649966399000,
+    "assetbundleName": "half_anniversary",
+    "closeAt": 1649534400000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 51,
+        "limitedLoginBonusId": 21,
+        "day": 1,
+        "resourceBoxId": 32
+      },
+      {
+        "id": 52,
+        "limitedLoginBonusId": 21,
+        "day": 2,
+        "resourceBoxId": 33
+      },
+      {
+        "id": 53,
+        "limitedLoginBonusId": 21,
+        "day": 3,
+        "resourceBoxId": 33
+      },
+      {
+        "id": 54,
+        "limitedLoginBonusId": 21,
+        "day": 4,
+        "resourceBoxId": 33
+      },
+      {
+        "id": 55,
+        "limitedLoginBonusId": 21,
+        "day": 5,
+        "resourceBoxId": 33
+      },
+      {
+        "id": 56,
+        "limitedLoginBonusId": 21,
+        "day": 6,
+        "resourceBoxId": 33
+      }
+    ]
+  },
+  {
     "id": 1001,
     "seq": 1001,
     "name": "100萬人突破紀念登入活動",
