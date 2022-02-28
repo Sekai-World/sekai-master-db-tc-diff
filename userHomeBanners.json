@@ -22,35 +22,46 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 97,
+    "homeBannerId": 102,
     "seq": 99,
     "homeBannerType": "event",
-    "name": "[活動]難以被填滿的暗色",
-    "assetbundleName": "event_infinitelygray_2021",
+    "name": "[活動]夢想家的笑容",
+    "assetbundleName": "event_dream_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 14,
-    "startAt": 1645167600000,
-    "endAt": 1646031540000
+    "transitionDestinationId": 15,
+    "startAt": 1646031600000,
+    "endAt": 1646895540000
   },
   {
-    "homeBannerId": 98,
+    "homeBannerId": 103,
     "seq": 100,
     "homeBannerType": "general",
-    "name": "25第2次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha52",
+    "name": "Wonderlands×Showtime第3次巡迴_常態招募橫幅",
+    "assetbundleName": "banner_gacha56",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 52,
-    "startAt": 1645167600000,
-    "endAt": 1646031540000
+    "transitionDestinationId": 56,
+    "startAt": 1646031600000,
+    "endAt": 1646895540000
   },
   {
-    "homeBannerId": 10004,
-    "seq": 130,
+    "homeBannerId": 106,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "HAPPY BIRTHDAY LIVE 心羽",
+    "assetbundleName": "banner_virtuallive60",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 60,
+    "startAt": 1646031600000,
+    "endAt": 1646290799000
+  },
+  {
+    "homeBannerId": 108,
+    "seq": 200,
     "homeBannerType": "general",
     "name": "高階任務通行證",
-    "assetbundleName": "banner_premiummissionpass_2022_2",
+    "assetbundleName": "banner_premiummissionpass_2021_03",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1643644800000,
-    "endAt": 1646063999000
+    "startAt": 1646064000000,
+    "endAt": 1648742399000
   }
 ]
