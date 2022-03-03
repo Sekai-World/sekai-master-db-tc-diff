@@ -44,15 +44,15 @@
     "endAt": 1646895540000
   },
   {
-    "homeBannerId": 106,
-    "seq": 140,
+    "homeBannerId": 105,
+    "seq": 120,
     "homeBannerType": "general",
-    "name": "HAPPY BIRTHDAY LIVE 心羽",
-    "assetbundleName": "banner_virtuallive60",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 60,
-    "startAt": 1646031600000,
-    "endAt": 1646290799000
+    "name": "Wonderlands×Showtime第3次巡迴_成員出現率UP招募橫幅",
+    "assetbundleName": "banner_gacha58",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 58,
+    "startAt": 1646290800000,
+    "endAt": 1646744399000
   },
   {
     "homeBannerId": 108,
@@ -63,5 +63,15 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1646064000000,
     "endAt": 1648742399000
+  },
+  {
+    "homeBannerId": 10005,
+    "seq": 132,
+    "homeBannerType": "general",
+    "name": "七彩通行证",
+    "assetbundleName": "banner_colorfulpass",
+    "transitionDestinationType": "billing_shop_for_colorful_pass",
+    "startAt": 1646280000000,
+    "endAt": 4094294399000
   }
 ]
