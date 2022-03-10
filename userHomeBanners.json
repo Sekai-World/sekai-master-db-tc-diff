@@ -22,28 +22,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 102,
-    "seq": 99,
-    "homeBannerType": "event",
-    "name": "[活動]夢想家的笑容",
-    "assetbundleName": "event_dream_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 15,
-    "startAt": 1646031600000,
-    "endAt": 1646895540000
-  },
-  {
-    "homeBannerId": 103,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "Wonderlands×Showtime第3次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha56",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 56,
-    "startAt": 1646031600000,
-    "endAt": 1646895540000
-  },
-  {
     "homeBannerId": 108,
     "seq": 200,
     "homeBannerType": "general",
@@ -52,6 +30,28 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1646064000000,
     "endAt": 1648742399000
+  },
+  {
+    "homeBannerId": 109,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[活動]天馬家的女兒節",
+    "assetbundleName": "event_hinamatsuri_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 16,
+    "startAt": 1646895600000,
+    "endAt": 1647932399000
+  },
+  {
+    "homeBannerId": 110,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "SHUFFLE女兒節活動_常態招募橫幅",
+    "assetbundleName": "banner_gacha60",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 60,
+    "startAt": 1646895600000,
+    "endAt": 1647932399000
   },
   {
     "homeBannerId": 10005,
