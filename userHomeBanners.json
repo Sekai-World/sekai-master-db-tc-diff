@@ -54,15 +54,25 @@
     "endAt": 1648796399000
   },
   {
-    "homeBannerId": 117,
-    "seq": 120,
+    "homeBannerId": 119,
+    "seq": 80,
     "homeBannerType": "general",
-    "name": "MORE MORE JUMP！第3次巡迴_成員出現率UP招募橫幅",
-    "assetbundleName": "banner_gacha65",
+    "name": "七彩慶典招募",
+    "assetbundleName": "banner_gacha66",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 65,
-    "startAt": 1648105200000,
-    "endAt": 1648645199000
+    "transitionDestinationId": 66,
+    "startAt": 1648623600000,
+    "endAt": 1649228399000
+  },
+  {
+    "homeBannerId": 124,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "開服半年紀念登入商店橫幅",
+    "assetbundleName": "banner_shop_half_anniversary_2021",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1648612800000,
+    "endAt": 1649606399000
   },
   {
     "homeBannerId": 10005,
@@ -73,16 +83,5 @@
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1646280000000,
     "endAt": 4094294399000
-  },
-  {
-    "homeBannerId": 10006,
-    "seq": 20,
-    "homeBannerType": "general",
-    "name": "必中1名★4以上成員招募",
-    "assetbundleName": "banner_gacha1007",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1007,
-    "startAt": 1648105200000,
-    "endAt": 1648623599000
   }
 ]
