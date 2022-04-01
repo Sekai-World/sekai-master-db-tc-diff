@@ -380,7 +380,7 @@
   },
   {
     "id": 37,
-    "seq": 1024,
+    "seq": 1124,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 40,
     "name": "開服半年紀念日服裝組合包A",
@@ -397,7 +397,7 @@
   },
   {
     "id": 38,
-    "seq": 1023,
+    "seq": 1123,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 41,
     "name": "開服半年紀念日服裝組合包B",
@@ -669,7 +669,7 @@
   },
   {
     "id": 1020,
-    "seq": 1022,
+    "seq": 1122,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1020,
     "name": "開服半年紀念日組合包A",
@@ -686,7 +686,7 @@
   },
   {
     "id": 1021,
-    "seq": 1021,
+    "seq": 1121,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1021,
     "name": "開服半年紀念日組合包B",
@@ -703,7 +703,7 @@
   },
   {
     "id": 1022,
-    "seq": 1020,
+    "seq": 1120,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1022,
     "name": "開服半年紀念日組合包C",
@@ -781,7 +781,7 @@
   },
   {
     "id": 1027,
-    "seq": 998,
+    "seq": 1050,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1027,
     "name": "LIVE BONUS組合包（大）",
@@ -796,7 +796,7 @@
   },
   {
     "id": 1028,
-    "seq": 997,
+    "seq": 1040,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1028,
     "name": "LIVE BONUS組合包（中）",
@@ -811,7 +811,7 @@
   },
   {
     "id": 1029,
-    "seq": 996,
+    "seq": 1030,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1029,
     "name": "LIVE BONUS組合包（小）",
@@ -824,6 +824,54 @@
     "resourceBoxId": 1029,
     "bonusResourceBoxId": 1029,
     "startAt": 1648742400000
+  },
+  {
+    "id": 1030,
+    "seq": 2001,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1030,
+    "name": "童話主題服裝組合包A",
+    "description": "1800水晶（付費）\n演出服裝「童話（女性）」20着×4顏色",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1030",
+    "resourceBoxId": 1030,
+    "bonusResourceBoxId": 1030,
+    "startAt": 1649044800000,
+    "endAt": 1649865599000
+  },
+  {
+    "id": 1031,
+    "seq": 2000,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1031,
+    "name": "童話主題服裝組合包B",
+    "description": "1800水晶（付費）\n演出服裝「童話（男性）」6着×4顏色",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1031",
+    "resourceBoxId": 1031,
+    "bonusResourceBoxId": 1031,
+    "startAt": 1649044800000,
+    "endAt": 1649865599000
+  },
+  {
+    "id": 1032,
+    "seq": 1111,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1032,
+    "name": "★3以上必中票券組合包",
+    "description": "\"水晶（付費）*450\n三星以上必中券×1\"",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1014",
+    "resourceBoxId": 1012,
+    "bonusResourceBoxId": 1012,
+    "startAt": 1649660400000,
+    "endAt": 1650038340000
   },
   {
     "id": 1100,
@@ -1493,7 +1541,7 @@
   },
   {
     "id": 10026,
-    "seq": 1025,
+    "seq": 1125,
     "billingShopItemType": "value_set",
     "name": "[期間限定]每日免費組合包",
     "description": "水晶（付费）×110\nLIVE BONUS饮料（大）×1",
@@ -1506,6 +1554,36 @@
     "bonusResourceBoxId": 20001,
     "startAt": 1648569600000,
     "endAt": 1649692799000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10027,
+    "seq": 1018,
+    "billingShopItemType": "value_set",
+    "name": "BONUS類型特訓組合包",
+    "description": "招募票券*3\n可爱宝石*100\n可爱碎片*500\n奇迹宝石*50\n练习谱（中级）*10",
+    "billableLimitType": "count",
+    "billableLimitValue": 2,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1016",
+    "resourceBoxId": 1013,
+    "startAt": 1649574000000,
+    "endAt": 1650373140000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10028,
+    "seq": 1017,
+    "billingShopItemType": "value_set",
+    "name": "BONUS類型專精組合包",
+    "description": "招募票券*10\n可爱宝石*600\n可爱碎片*2000\n奇迹宝石*80\n技能练习谱（中级）*2\n心愿碎片*50",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1015",
+    "resourceBoxId": 1014,
+    "startAt": 1649574000000,
+    "endAt": 1650373140000,
     "purchaseOption": "exchange"
   },
   {

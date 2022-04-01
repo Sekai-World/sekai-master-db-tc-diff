@@ -11188,6 +11188,22 @@
     ]
   },
   {
+    "id": 729,
+    "seq": 1082,
+    "groupId": 134,
+    "honorRarity": "middle",
+    "name": "鑽石",
+    "assetbundleName": "honor_0729",
+    "levels": [
+      {
+        "honorId": 729,
+        "level": 1,
+        "bonus": 10,
+        "description": "將等級提升至300吧。"
+      }
+    ]
+  },
+  {
     "id": 730,
     "seq": 102101,
     "groupId": 135,
@@ -17574,7 +17590,7 @@
   {
     "id": 10026,
     "seq": 118550,
-    "groupId": 10006,
+    "groupId": 10008,
     "honorRarity": "low",
     "name": "半週年紀念",
     "assetbundleName": "honor_se_half",
