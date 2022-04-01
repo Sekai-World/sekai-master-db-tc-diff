@@ -22,28 +22,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 115,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[活動]傳達吧！HOPEFUL STAGE♪",
-    "assetbundleName": "event_angelclover_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 17,
-    "startAt": 1647932400000,
-    "endAt": 1648796399000
-  },
-  {
-    "homeBannerId": 116,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "MORE MORE JUMP！第3次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha63",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 63,
-    "startAt": 1647932400000,
-    "endAt": 1648796399000
-  },
-  {
     "homeBannerId": 119,
     "seq": 80,
     "homeBannerType": "general",
@@ -56,13 +34,35 @@
   },
   {
     "homeBannerId": 120,
-    "seq": 70,
+    "seq": 200,
     "homeBannerType": "general",
     "name": "[2021/04]高階任務通行證",
     "assetbundleName": "banner_premiummissionpass_2021_04",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1648742400000,
     "endAt": 1651334399000
+  },
+  {
+    "homeBannerId": 121,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[活動]在櫻花飛舞的世界中與妳同歌",
+    "assetbundleName": "event_ohanami_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 18,
+    "startAt": 1648796400000,
+    "endAt": 1649660399000
+  },
+  {
+    "homeBannerId": 122,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "SHUFFLE賞花_常態招募橫幅",
+    "assetbundleName": "banner_gacha68",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 68,
+    "startAt": 1648796400000,
+    "endAt": 1649660399000
   },
   {
     "homeBannerId": 124,
