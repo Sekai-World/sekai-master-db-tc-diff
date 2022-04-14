@@ -5803,6 +5803,108 @@
   },
   {
     "resourceBoxPurpose": "billing_shop_item",
+    "id": 10031,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 10031,
+        "seq": 1,
+        "resourceType": "gacha_ticket",
+        "resourceId": 1,
+        "resourceQuantity": 3
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 10031,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 7,
+        "resourceQuantity": 100
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 10031,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 2,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 10031,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 50
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 10031,
+        "seq": 5,
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 10032,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 10032,
+        "seq": 1,
+        "resourceType": "gacha_ticket",
+        "resourceId": 1,
+        "resourceQuantity": 10
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 10032,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 7,
+        "resourceQuantity": 600
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 10032,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 2,
+        "resourceQuantity": 2000
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 10032,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 80
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 10032,
+        "seq": 5,
+        "resourceType": "skill_practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 2
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 10032,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 15,
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
     "id": 10101,
     "resourceBoxType": "expand",
     "details": [
@@ -75196,6 +75298,21 @@
         "seq": 1,
         "resourceType": "jewel",
         "resourceQuantity": 390
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 10028,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 10028,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceId": 1,
+        "resourceQuantity": 500
       }
     ]
   },
