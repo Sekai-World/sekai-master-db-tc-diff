@@ -54,6 +54,17 @@
     "endAt": 1650524399000
   },
   {
+    "homeBannerId": 128,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "25時第3次巡迴_成員出現率UP招募橫幅",
+    "assetbundleName": "banner_gacha74",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 74,
+    "startAt": 1649919600000,
+    "endAt": 1650373199000
+  },
+  {
     "homeBannerId": 10005,
     "seq": 132,
     "homeBannerType": "general",
@@ -62,5 +73,16 @@
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1646280000000,
     "endAt": 4094294399000
+  },
+  {
+    "homeBannerId": 10008,
+    "seq": 1,
+    "homeBannerType": "general",
+    "name": "问卷2",
+    "assetbundleName": "banner_questionnaire_3",
+    "transitionDestinationType": "questionnaire",
+    "transitionDestinationId": 20311943,
+    "startAt": 1649919600000,
+    "endAt": 1651129200000
   }
 ]
