@@ -78997,6 +78997,344 @@
     ]
   },
   {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1023,
+    "resourceBoxType": "list",
+    "name": "此為勞動節登入活動第1日的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1023,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1023,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 1,
+        "resourceQuantity": 100
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1023,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 2,
+        "resourceQuantity": 100
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1023,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 3,
+        "resourceQuantity": 100
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1023,
+        "seq": 5,
+        "resourceType": "material",
+        "resourceId": 4,
+        "resourceQuantity": 100
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1023,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 5,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1024,
+    "resourceBoxType": "list",
+    "name": "此為勞動節登入活動第2日的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1024,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1024,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1025,
+    "resourceBoxType": "list",
+    "name": "此為勞動節登入活動第3日的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1025,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1025,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 6,
+        "resourceQuantity": 30
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1025,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 7,
+        "resourceQuantity": 30
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1025,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 8,
+        "resourceQuantity": 30
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1025,
+        "seq": 5,
+        "resourceType": "material",
+        "resourceId": 9,
+        "resourceQuantity": 30
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1025,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 10,
+        "resourceQuantity": 30
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1026,
+    "resourceBoxType": "list",
+    "name": "此為勞動節登入活動第4日的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1026,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1026,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 44,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1027,
+    "resourceBoxType": "list",
+    "name": "此為勞動節登入活動第5日的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1027,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1027,
+        "seq": 2,
+        "resourceType": "coin",
+        "resourceQuantity": 20000
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1028,
+    "resourceBoxType": "list",
+    "name": "此為勞動節登入活動第6日的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1028,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1028,
+        "seq": 2,
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1029,
+    "resourceBoxType": "list",
+    "name": "此為勞動節登入活動第7日的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1029,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1029,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 17,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1030,
+    "resourceBoxType": "list",
+    "name": "此為勞動節登入活動第8日的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1030,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1030,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 11,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1031,
+    "resourceBoxType": "list",
+    "name": "此為勞動節登入活動第9日的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1031,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1031,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 12,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1032,
+    "resourceBoxType": "list",
+    "name": "此為勞動節登入活動第10日的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1032,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1032,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 20
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1033,
+    "resourceBoxType": "list",
+    "name": "此為勞動節登入活動第11日的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1033,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1033,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 15,
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "master_lesson_reward",
     "id": 1,
     "resourceBoxType": "expand",

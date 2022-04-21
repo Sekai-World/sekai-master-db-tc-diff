@@ -684,5 +684,82 @@
         "resourceBoxId": 1015
       }
     ]
+  },
+  {
+    "id": 1009,
+    "seq": 1009,
+    "name": "勞動節登入活動",
+    "startAt": 1651204800000,
+    "endAt": 1652990399000,
+    "assetbundleName": "laborday_2022",
+    "closeAt": 1652126400000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1009,
+        "limitedLoginBonusId": 1009,
+        "day": 1,
+        "resourceBoxId": 1023
+      },
+      {
+        "id": 1010,
+        "limitedLoginBonusId": 1009,
+        "day": 2,
+        "resourceBoxId": 1024
+      },
+      {
+        "id": 1011,
+        "limitedLoginBonusId": 1009,
+        "day": 3,
+        "resourceBoxId": 1025
+      },
+      {
+        "id": 1012,
+        "limitedLoginBonusId": 1009,
+        "day": 4,
+        "resourceBoxId": 1026
+      },
+      {
+        "id": 1013,
+        "limitedLoginBonusId": 1009,
+        "day": 5,
+        "resourceBoxId": 1027
+      },
+      {
+        "id": 1014,
+        "limitedLoginBonusId": 1009,
+        "day": 6,
+        "resourceBoxId": 1028
+      },
+      {
+        "id": 1015,
+        "limitedLoginBonusId": 1009,
+        "day": 7,
+        "resourceBoxId": 1029
+      },
+      {
+        "id": 1016,
+        "limitedLoginBonusId": 1009,
+        "day": 8,
+        "resourceBoxId": 1030
+      },
+      {
+        "id": 1017,
+        "limitedLoginBonusId": 1009,
+        "day": 9,
+        "resourceBoxId": 1031
+      },
+      {
+        "id": 1018,
+        "limitedLoginBonusId": 1009,
+        "day": 10,
+        "resourceBoxId": 1032
+      },
+      {
+        "id": 1019,
+        "limitedLoginBonusId": 1009,
+        "day": 11,
+        "resourceBoxId": 1033
+      }
+    ]
   }
 ]
