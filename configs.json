@@ -710,5 +710,13 @@
   {
     "configKey": "multi_live_skill_check",
     "value": "1"
+  },
+  {
+    "configKey": "enable_trace",
+    "value": "1"
+  },
+  {
+    "configKey": "enable_invalid_live",
+    "value": "1"
   }
 ]
