@@ -54,15 +54,15 @@
     "endAt": 1651301999000
   },
   {
-    "homeBannerId": 132,
-    "seq": 120,
+    "homeBannerId": 133,
+    "seq": 140,
     "homeBannerType": "general",
-    "name": "Leo/need第3次巡迴_成員出現率UP招募橫幅",
-    "assetbundleName": "banner_gacha77",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 77,
-    "startAt": 1650783600000,
-    "endAt": 1651150799000
+    "name": "HAPPY BIRTHDAY LIVE 繪名",
+    "assetbundleName": "banner_virtuallive70",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 70,
+    "startAt": 1651129200000,
+    "endAt": 1651388399000
   },
   {
     "homeBannerId": 10005,
@@ -75,14 +75,35 @@
     "endAt": 4094294399000
   },
   {
-    "homeBannerId": 10008,
+    "homeBannerId": 10009,
     "seq": 1,
     "homeBannerType": "general",
-    "name": "问卷2",
-    "assetbundleName": "banner_questionnaire_3",
-    "transitionDestinationType": "questionnaire",
-    "transitionDestinationId": 20311943,
-    "startAt": 1649919600000,
-    "endAt": 1651129200000
+    "name": "（台服新增）選擇清單招募banner",
+    "assetbundleName": "banner_gacha1008",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1008,
+    "startAt": 1651129200000,
+    "endAt": 1651561199000
+  },
+  {
+    "homeBannerId": 10010,
+    "seq": 10,
+    "homeBannerType": "general",
+    "name": "（台服新增）養成應援活動banner",
+    "assetbundleName": "banner_exp2022",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 10280,
+    "startAt": 1651129200000,
+    "endAt": 1651733999000
+  },
+  {
+    "homeBannerId": 10011,
+    "seq": 8,
+    "homeBannerType": "general",
+    "name": "（台服新增）勞動節特賣banner",
+    "assetbundleName": "banner_laborday",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1651129200000,
+    "endAt": 1651939199000
   }
 ]
