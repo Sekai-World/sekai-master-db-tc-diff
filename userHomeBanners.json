@@ -55,6 +55,17 @@
     "endAt": 1652014799000
   },
   {
+    "homeBannerId": 139,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "HAPPY BIRTHDAY LIVE 咲希",
+    "assetbundleName": "banner_virtuallive72",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 72,
+    "startAt": 1651906800000,
+    "endAt": 1652165999000
+  },
+  {
     "homeBannerId": 141,
     "seq": 50,
     "homeBannerType": "general",
@@ -73,15 +84,5 @@
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1646280000000,
     "endAt": 4094294399000
-  },
-  {
-    "homeBannerId": 10011,
-    "seq": 8,
-    "homeBannerType": "general",
-    "name": "（台服新增）勞動節特賣banner",
-    "assetbundleName": "banner_laborday",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1651129200000,
-    "endAt": 1651939199000
   }
 ]
