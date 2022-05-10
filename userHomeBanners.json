@@ -22,39 +22,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 135,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[活動]STRAY BAD DOG",
-    "assetbundleName": "event_stray_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 21,
-    "startAt": 1651302000000,
-    "endAt": 1652165999000
-  },
-  {
-    "homeBannerId": 136,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "Vivid BAD SQUAD第3次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha78",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 78,
-    "startAt": 1651302000000,
-    "endAt": 1652165999000
-  },
-  {
-    "homeBannerId": 139,
-    "seq": 140,
-    "homeBannerType": "general",
-    "name": "HAPPY BIRTHDAY LIVE 咲希",
-    "assetbundleName": "banner_virtuallive72",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 72,
-    "startAt": 1651906800000,
-    "endAt": 1652165999000
-  },
-  {
     "homeBannerId": 141,
     "seq": 50,
     "homeBannerType": "general",
@@ -63,6 +30,28 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1651334400000,
     "endAt": 1654012799000
+  },
+  {
+    "homeBannerId": 142,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[活動]讓我聽聽妳的煩惱！令人期待的野餐",
+    "assetbundleName": "event_picnic_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 22,
+    "startAt": 1652166000000,
+    "endAt": 1653116399000
+  },
+  {
+    "homeBannerId": 143,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "SHUFFLE野餐活動_常態招募橫幅",
+    "assetbundleName": "banner_gacha82",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 82,
+    "startAt": 1652166000000,
+    "endAt": 1653116399000
   },
   {
     "homeBannerId": 10005,
