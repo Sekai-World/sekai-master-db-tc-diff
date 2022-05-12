@@ -1354,6 +1354,65 @@
     ]
   },
   {
+    "id": 47,
+    "seq": 47,
+    "name": "第26輪活動販售會",
+    "virtualShopItems": [
+      {
+        "id": 106,
+        "virtualShopId": 47,
+        "virtualShopItemType": "penlight",
+        "seq": 199959,
+        "resourceBoxId": 106,
+        "costPaidJewel": 1000,
+        "startAt": 1655794800000
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "seq": 48,
+    "name": "類 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 107,
+        "virtualShopId": 48,
+        "virtualShopItemType": "coordinate",
+        "seq": 99973,
+        "resourceBoxId": 107,
+        "costPaidJewel": 1000,
+        "startAt": 1655881200000,
+        "endAt": 1656140399000
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "seq": 49,
+    "name": "第27輪活動販售會",
+    "virtualShopItems": [
+      {
+        "id": 108,
+        "virtualShopId": 49,
+        "virtualShopItemType": "accessory",
+        "seq": 199958,
+        "resourceBoxId": 108,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1656572400000
+      },
+      {
+        "id": 109,
+        "virtualShopId": 49,
+        "virtualShopItemType": "penlight",
+        "seq": 199957,
+        "resourceBoxId": 109,
+        "costPaidJewel": 1000,
+        "startAt": 1656572400000
+      }
+    ]
+  },
+  {
     "id": 1001,
     "seq": 1001,
     "name": "春节虚拟LIVE商品",

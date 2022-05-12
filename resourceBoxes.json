@@ -5431,6 +5431,48 @@
   },
   {
     "resourceBoxPurpose": "billing_shop_item",
+    "id": 1132,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1132,
+        "seq": 1,
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 950
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 1133,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1133,
+        "seq": 1,
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 5000
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 1134,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1134,
+        "seq": 1,
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 10500
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
     "id": 2000,
     "resourceBoxType": "expand",
     "details": [
@@ -18404,6 +18446,51 @@
         "seq": 1,
         "resourceType": "jewel",
         "resourceQuantity": 3400
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 1132,
+    "resourceBoxType": "expand",
+    "description": "[端午節優惠]水晶D",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 1132,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 280
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 1133,
+    "resourceBoxType": "expand",
+    "description": "[端午節優惠]水晶G",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 1133,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 1500
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 1134,
+    "resourceBoxType": "expand",
+    "description": "[端午節優惠]水晶H",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 1134,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 3200
       }
     ]
   },
@@ -81275,6 +81362,184 @@
     ]
   },
   {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1034,
+    "resourceBoxType": "expand",
+    "name": "此為突破139萬人紀念登入活動的報酬。",
+    "assetbundleName": "奇迹宝石*50",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1034,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1035,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第1天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1035,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 20
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1035,
+        "seq": 2,
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1036,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第2天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1036,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 2,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1036,
+        "seq": 2,
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1037,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第3天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1037,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 1,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1037,
+        "seq": 2,
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1038,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第4天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1038,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 3,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1038,
+        "seq": 2,
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1039,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第5天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1039,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 4,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1039,
+        "seq": 2,
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1040,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第6天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1040,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 5,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1040,
+        "seq": 2,
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1041,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第7天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1041,
+        "seq": 1,
+        "resourceType": "gacha_ticket",
+        "resourceId": 1,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1041,
+        "seq": 2,
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "master_lesson_reward",
     "id": 1,
     "resourceBoxType": "expand",
@@ -115859,6 +116124,84 @@
   },
   {
     "resourceBoxPurpose": "mission_reward",
+    "id": 100031,
+    "resourceBoxType": "expand",
+    "name": "奇蹟寶石×30",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100031,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 30
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100032,
+    "resourceBoxType": "expand",
+    "name": "練習譜（中級）×30",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100032,
+        "seq": 2,
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 30
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100033,
+    "resourceBoxType": "expand",
+    "name": "硬幣×30,000",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100033,
+        "seq": 3,
+        "resourceType": "coin",
+        "resourceQuantity": 30000
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100034,
+    "resourceBoxType": "expand",
+    "name": "心願碎片×30",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100034,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 15,
+        "resourceQuantity": 30
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100035,
+    "resourceBoxType": "expand",
+    "name": "水晶×300",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 100035,
+        "seq": 5,
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
     "id": 110001,
     "resourceBoxType": "costume_3d",
     "name": "BP新奖励（2月服装）",
@@ -118933,6 +119276,165 @@
       {
         "resourceBoxPurpose": "mission_reward",
         "resourceBoxId": 200020,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200021,
+    "resourceBoxType": "expand",
+    "name": "主唱卡交换券×1",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 200021,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 49,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200022,
+    "resourceBoxType": "expand",
+    "name": "技能练习谱（中）×2",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 200022,
+        "seq": 1,
+        "resourceType": "skill_practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 2
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200023,
+    "resourceBoxType": "expand",
+    "name": "帅气宝石×100",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 200023,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 7,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200024,
+    "resourceBoxType": "expand",
+    "name": "可爱宝石×100",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 200024,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 6,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200025,
+    "resourceBoxType": "expand",
+    "name": "纯真宝石×100",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 200025,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 8,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200026,
+    "resourceBoxType": "expand",
+    "name": "快乐宝石×100",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 200026,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 9,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200027,
+    "resourceBoxType": "expand",
+    "name": "神秘宝石×100",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 200027,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 10,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200028,
+    "resourceBoxType": "expand",
+    "name": "练习谱（中级）*20",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 200028,
+        "seq": 1,
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 20
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200029,
+    "resourceBoxType": "expand",
+    "name": "奇迹宝石×50",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 200029,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200030,
+    "resourceBoxType": "expand",
+    "name": "水晶×300",
+    "details": [
+      {
+        "resourceBoxPurpose": "mission_reward",
+        "resourceBoxId": 200030,
         "seq": 1,
         "resourceType": "jewel",
         "resourceQuantity": 300
