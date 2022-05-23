@@ -54,6 +54,17 @@
     "endAt": 1653980399000
   },
   {
+    "homeBannerId": 149,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "HAPPY BIRTHDAY LIVE 冬彌",
+    "assetbundleName": "banner_virtuallive76",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 76,
+    "startAt": 1653289200000,
+    "endAt": 1653548399000
+  },
+  {
     "homeBannerId": 10005,
     "seq": 132,
     "homeBannerType": "general",
@@ -62,5 +73,16 @@
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1646280000000,
     "endAt": 4094294399000
+  },
+  {
+    "homeBannerId": 10012,
+    "seq": 1,
+    "homeBannerType": "general",
+    "name": "(台服新增)[虛擬歌手]★4成員必中1人招募",
+    "assetbundleName": "banner_gacha1009",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1009,
+    "startAt": 1653289200000,
+    "endAt": 1653375599000
   }
 ]
