@@ -78861,6 +78861,29 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
+    "id": 10030,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 10030,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceId": 1,
+        "resourceQuantity": 100
+      },
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 10030,
+        "seq": 2,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
     "id": 9999999,
     "resourceBoxType": "expand",
     "details": [
@@ -139749,7 +139772,8 @@
         "resourceBoxId": 100007,
         "seq": 1,
         "resourceType": "stamp",
-        "resourceId": 10007
+        "resourceId": 10007,
+        "resourceQuantity": 1
       }
     ]
   },
@@ -139763,7 +139787,8 @@
         "resourceBoxId": 100008,
         "seq": 1,
         "resourceType": "stamp",
-        "resourceId": 10008
+        "resourceId": 10008,
+        "resourceQuantity": 1
       }
     ]
   },
@@ -139777,7 +139802,8 @@
         "resourceBoxId": 100009,
         "seq": 1,
         "resourceType": "stamp",
-        "resourceId": 10009
+        "resourceId": 10009,
+        "resourceQuantity": 1
       }
     ]
   },
@@ -139791,7 +139817,8 @@
         "resourceBoxId": 100010,
         "seq": 1,
         "resourceType": "stamp",
-        "resourceId": 10010
+        "resourceId": 10010,
+        "resourceQuantity": 1
       }
     ]
   },
@@ -139805,7 +139832,8 @@
         "resourceBoxId": 100011,
         "seq": 1,
         "resourceType": "stamp",
-        "resourceId": 10011
+        "resourceId": 10011,
+        "resourceQuantity": 1
       }
     ]
   },
