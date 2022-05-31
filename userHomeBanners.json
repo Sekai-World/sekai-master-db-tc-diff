@@ -22,36 +22,36 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 141,
-    "seq": 50,
+    "homeBannerId": 154,
+    "seq": 70,
     "homeBannerType": "general",
-    "name": "[2021/05]高階任務通行證",
-    "assetbundleName": "banner_premiummissionpass_2021_05",
+    "name": "[2021/06]高階任務通行證（月初優先度UP用）",
+    "assetbundleName": "banner_premiummissionpass_2021_06",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1651334400000,
-    "endAt": 1654012799000
+    "startAt": 1654012800000,
+    "endAt": 1656604799000
   },
   {
-    "homeBannerId": 146,
+    "homeBannerId": 155,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[活動]給努力的妳Break Time！",
-    "assetbundleName": "event_breaktime_2021",
+    "name": "[活動]將誓約之歌獻給純白的妳！",
+    "assetbundleName": "event_bridal_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 23,
-    "startAt": 1653116400000,
-    "endAt": 1653980399000
+    "transitionDestinationId": 24,
+    "startAt": 1653980400000,
+    "endAt": 1654930799000
   },
   {
-    "homeBannerId": 147,
+    "homeBannerId": 156,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "MORE MORE JUMP！第4次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha85",
+    "name": "SHUFFLE婚禮活動第3次巡迴_常態招募橫幅",
+    "assetbundleName": "banner_gacha89",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 85,
-    "startAt": 1653116400000,
-    "endAt": 1653980399000
+    "transitionDestinationId": 89,
+    "startAt": 1653980400000,
+    "endAt": 1654930799000
   },
   {
     "homeBannerId": 10005,
@@ -62,5 +62,15 @@
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1646280000000,
     "endAt": 4094294399000
+  },
+  {
+    "homeBannerId": 10018,
+    "seq": 20,
+    "homeBannerType": "general",
+    "name": "(台服新增)端午节特卖",
+    "assetbundleName": "banner_gardening",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1653980400000,
+    "endAt": 1654790399000
   }
 ]
