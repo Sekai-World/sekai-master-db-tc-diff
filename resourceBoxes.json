@@ -5165,6 +5165,20 @@
   },
   {
     "resourceBoxPurpose": "billing_shop_item",
+    "id": 1036,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 1036,
+        "seq": 1,
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 450
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
     "id": 1100,
     "resourceBoxType": "expand",
     "details": [
@@ -19629,6 +19643,22 @@
         "seq": 24,
         "resourceType": "costume_3d",
         "resourceId": 905048,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 1036,
+    "resourceBoxType": "expand",
+    "description": "★3以上必中票券組合包",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 1036,
+        "seq": 1,
+        "resourceType": "gacha_ticket",
+        "resourceId": 2,
         "resourceQuantity": 1
       }
     ]
@@ -78884,6 +78914,29 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
+    "id": 10031,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 10031,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceId": 1,
+        "resourceQuantity": 300
+      },
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 10031,
+        "seq": 2,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
     "id": 9999999,
     "resourceBoxType": "expand",
     "details": [
@@ -83075,6 +83128,29 @@
         "seq": 2,
         "resourceType": "jewel",
         "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1042,
+    "resourceBoxType": "expand",
+    "name": "此為端午節登入活動的報酬。",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1042,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 1042,
+        "seq": 2,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
       }
     ]
   },
