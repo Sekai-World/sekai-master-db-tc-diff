@@ -1,35 +1,87 @@
 [
   {
-    "homeBannerId": 430,
-    "seq": 90,
+    "homeBannerId": 18,
+    "seq": 9999,
     "homeBannerType": "general",
-    "name": "セレクトリストガチャバナー",
-    "assetbundleName": "banner_gacha212",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 212,
-    "startAt": 1653534000000,
-    "endAt": 1654225199000
+    "name": "新手指南",
+    "assetbundleName": "banner_beginners_guide",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 10003,
+    "startAt": 1632967200000,
+    "endAt": 4102415999000
   },
   {
-    "homeBannerId": 432,
-    "seq": 110,
+    "homeBannerId": 48,
+    "seq": 9998,
     "homeBannerType": "general",
-    "name": "[ガチャ]シャッフルブライダルイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha213",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 213,
-    "startAt": 1653966000000,
-    "endAt": 1654829999000
+    "name": "Welcome LIVE橫幅",
+    "assetbundleName": "banner_welcomelive",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 20001,
+    "startAt": 1635750000000,
+    "endAt": 4102415999000
   },
   {
-    "homeBannerId": 433,
+    "homeBannerId": 154,
+    "seq": 70,
+    "homeBannerType": "general",
+    "name": "[2021/06]高階任務通行證（月初優先度UP用）",
+    "assetbundleName": "banner_premiummissionpass_2021_06",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1654012800000,
+    "endAt": 1656604799000
+  },
+  {
+    "homeBannerId": 155,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]シャッフルブライダルイベ_イベントバナー",
-    "assetbundleName": "event_happiness_2022",
+    "name": "[活動]將誓約之歌獻給純白的妳！",
+    "assetbundleName": "event_bridal_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 60,
-    "startAt": 1653976800000,
-    "endAt": 1654840799000
+    "transitionDestinationId": 24,
+    "startAt": 1653980400000,
+    "endAt": 1654930799000
+  },
+  {
+    "homeBannerId": 156,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "SHUFFLE婚禮活動第3次巡迴_常態招募橫幅",
+    "assetbundleName": "banner_gacha89",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 89,
+    "startAt": 1653980400000,
+    "endAt": 1654930799000
+  },
+  {
+    "homeBannerId": 157,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "SHUFFLE婚禮活動第3次巡迴_成員出現率UP橫幅",
+    "assetbundleName": "banner_gacha91",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 91,
+    "startAt": 1654239600000,
+    "endAt": 1654779599000
+  },
+  {
+    "homeBannerId": 10005,
+    "seq": 132,
+    "homeBannerType": "general",
+    "name": "七彩通行证",
+    "assetbundleName": "banner_colorfulpass",
+    "transitionDestinationType": "billing_shop_for_colorful_pass",
+    "startAt": 1646280000000,
+    "endAt": 4094294399000
+  },
+  {
+    "homeBannerId": 10018,
+    "seq": 20,
+    "homeBannerType": "general",
+    "name": "(台服新增)端午节特卖",
+    "assetbundleName": "banner_gardening",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1653980400000,
+    "endAt": 1654790399000
   }
 ]
