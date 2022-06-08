@@ -364,6 +364,14 @@
     "value": "https://apps.apple.com/app/id1557595935"
   },
   {
+    "configKey": "onestore_url",
+    "value": "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000761375"
+  },
+  {
+    "configKey": "samsung_url",
+    "value": "https://play.google.com/store/apps/details?id=com.pjsekai.kr"
+  },
+  {
     "configKey": "google_billing_pending_code",
     "value": "4"
   },
@@ -710,6 +718,10 @@
   {
     "configKey": "multi_live_skill_check",
     "value": "1"
+  },
+  {
+    "configKey": "rechargereward_control",
+    "value": "-1"
   },
   {
     "configKey": "enable_trace",
