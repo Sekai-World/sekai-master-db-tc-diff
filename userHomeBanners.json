@@ -32,37 +32,26 @@
     "endAt": 1656604799000
   },
   {
-    "homeBannerId": 155,
+    "homeBannerId": 162,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[活動]將誓約之歌獻給純白的妳！",
-    "assetbundleName": "event_bridal_2021",
+    "name": "[活動]奇幻魔法表演時間！",
+    "assetbundleName": "event_wonders_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 24,
-    "startAt": 1653980400000,
-    "endAt": 1654930799000
+    "transitionDestinationId": 25,
+    "startAt": 1654930800000,
+    "endAt": 1655794799000
   },
   {
-    "homeBannerId": 156,
+    "homeBannerId": 163,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "SHUFFLE婚禮活動第3次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha89",
+    "name": "Wonderlands×Showtime第4次巡迴_常態招募橫幅",
+    "assetbundleName": "banner_gacha92",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 89,
-    "startAt": 1653980400000,
-    "endAt": 1654930799000
-  },
-  {
-    "homeBannerId": 157,
-    "seq": 120,
-    "homeBannerType": "general",
-    "name": "SHUFFLE婚禮活動第3次巡迴_成員出現率UP橫幅",
-    "assetbundleName": "banner_gacha91",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 91,
-    "startAt": 1654239600000,
-    "endAt": 1654779599000
+    "transitionDestinationId": 92,
+    "startAt": 1654930800000,
+    "endAt": 1655794799000
   },
   {
     "homeBannerId": 10005,
@@ -73,15 +62,5 @@
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1646280000000,
     "endAt": 4094294399000
-  },
-  {
-    "homeBannerId": 10018,
-    "seq": 20,
-    "homeBannerType": "general",
-    "name": "(台服新增)端午节特卖",
-    "assetbundleName": "banner_gardening",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1653980400000,
-    "endAt": 1654790399000
   }
 ]
