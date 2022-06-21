@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-    "shortDescription": "分數提升{{1;v}}%",
     "description": "{{1;d}}秒內 分數提升{{1;v}}%",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -44,7 +43,6 @@
   },
   {
     "id": 2,
-    "shortDescription": "分數提升{{2;v}}%",
     "description": "{{2;d}}秒內 分數提升{{2;v}}%",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -87,7 +85,6 @@
   },
   {
     "id": 3,
-    "shortDescription": "分數提升{{3;v}}%",
     "description": "{{3;d}}秒內 分數提升{{3;v}}%",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -130,7 +127,6 @@
   },
   {
     "id": 4,
-    "shortDescription": "分數提升{{4;v}}%",
     "description": "{{4;d}}秒內 分數提升{{4;v}}%",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -173,7 +169,6 @@
   },
   {
     "id": 5,
-    "shortDescription": "強化判定（大）\\n＆分數提升{{7;v}}%",
     "description": "{{8;d}}秒內GREAT轉為PERFECT，\n{{5;d}}秒內分數提升{{5;v}}%",
     "descriptionSpriteName": "judgment_up",
     "skillEffects": [
@@ -251,7 +246,6 @@
   },
   {
     "id": 6,
-    "shortDescription": "強化判定（中）\\n＆分數提升{{6;v}}%",
     "description": "{{9;d}}秒內GOOD以上轉為PERFECT，\n{{6;d}}秒內分數提升{{6;v}}%",
     "descriptionSpriteName": "judgment_up",
     "skillEffects": [
@@ -329,7 +323,6 @@
   },
   {
     "id": 7,
-    "shortDescription": "判定強化（大）\\n＆分數提升{{7;v}}%",
     "description": "{{10;d}}秒內BAD以上轉為PERFECT，\n{{7;d}}秒內分數提升{{7;v}}%",
     "descriptionSpriteName": "judgment_up",
     "skillEffects": [
@@ -407,7 +400,6 @@
   },
   {
     "id": 8,
-    "shortDescription": "體力恢復{{14;v}}\\n＆分數提升{{11;v}}%",
     "description": "體力恢復{{14;v}}，\n{{11;d}}秒內分數提升{{11;v}}%",
     "descriptionSpriteName": "life_recovery",
     "skillEffects": [
@@ -484,7 +476,6 @@
   },
   {
     "id": 9,
-    "shortDescription": "體力恢復{{15;v}}\\n＆分數提升{{12;v}}%",
     "description": "體力恢復{{15;v}}，\n{{12;d}}秒內分數提升{{12;v}}%",
     "descriptionSpriteName": "life_recovery",
     "skillEffects": [
@@ -561,7 +552,6 @@
   },
   {
     "id": 10,
-    "shortDescription": "體力恢復{{16;v}}\\n＆分數提升{{13;v}}%",
     "description": "體力恢復{{16;v}}，\n{{13;d}}秒內分數提升{{13;v}}%",
     "descriptionSpriteName": "life_recovery",
     "skillEffects": [
@@ -638,7 +628,6 @@
   },
   {
     "id": 11,
-    "shortDescription": "僅PERFECT時\\n分數提升{{17;v}}%",
     "description": "{{17;d}}秒內僅PERFECT時分數提升{{17;v}}%",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -681,7 +670,6 @@
   },
   {
     "id": 12,
-    "shortDescription": "發動時若體力未滿800則分數提升{{39;v}}%，\\n800以上則提升{{38;v}}%。之後體力每增加10則提升1%（上限為{{18;v}}%）",
     "description": "{{38;d}}秒內 發動時若體力未滿800則分數提升{{39;v}}%，\n800以上則提升{{38;v}}%。\n之後體力每增加10則提升1%（上限為{{18;v}}%）",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -1481,7 +1469,6 @@
   },
   {
     "id": 13,
-    "shortDescription": "分數提升{{41;v}}％，若判定保持PERFECT則提升{{40;v}}％",
     "description": "{{40;d}}秒內 分數提升{{41;v}}％，\n若判定保持PERFECT則提升{{40;v}}％",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
