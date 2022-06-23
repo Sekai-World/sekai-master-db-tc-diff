@@ -5332,6 +5332,36 @@
     ]
   },
   {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 20040,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "gacha_ticket",
+        "resourceId": 1,
+        "resourceQuantity": 5
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 15,
+        "resourceQuantity": 150
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 17,
+        "resourceQuantity": 15
+      },
+      {
+        "resourceType": "coin",
+        "resourceQuantity": 150000
+      },
+      {
+        "resourceType": "virtual_coin",
+        "resourceQuantity": 1500
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "billing_shop_item_bonus",
     "id": 1,
     "resourceBoxType": "expand",
@@ -47065,12 +47095,6 @@
         "resourceType": "skill_practice_ticket",
         "resourceId": 2,
         "resourceQuantity": 2
-      },
-      {
-        "resourceType": "honor",
-        "resourceId": 873,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
       }
     ]
   },
@@ -47657,12 +47681,6 @@
         "resourceType": "skill_practice_ticket",
         "resourceId": 2,
         "resourceQuantity": 2
-      },
-      {
-        "resourceType": "honor",
-        "resourceId": 898,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
       }
     ]
   },
@@ -48249,12 +48267,6 @@
         "resourceType": "skill_practice_ticket",
         "resourceId": 2,
         "resourceQuantity": 2
-      },
-      {
-        "resourceType": "honor",
-        "resourceId": 922,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
       }
     ]
   },
@@ -48841,12 +48853,6 @@
         "resourceType": "skill_practice_ticket",
         "resourceId": 2,
         "resourceQuantity": 2
-      },
-      {
-        "resourceType": "honor",
-        "resourceId": 946,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
       }
     ]
   },
@@ -49433,12 +49439,6 @@
         "resourceType": "skill_practice_ticket",
         "resourceId": 2,
         "resourceQuantity": 2
-      },
-      {
-        "resourceType": "honor",
-        "resourceId": 970,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
       }
     ]
   },
@@ -50025,12 +50025,6 @@
         "resourceType": "skill_practice_ticket",
         "resourceId": 2,
         "resourceQuantity": 2
-      },
-      {
-        "resourceType": "honor",
-        "resourceId": 994,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
       }
     ]
   },
@@ -50617,12 +50611,6 @@
         "resourceType": "skill_practice_ticket",
         "resourceId": 2,
         "resourceQuantity": 2
-      },
-      {
-        "resourceType": "honor",
-        "resourceId": 1018,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
       }
     ]
   },
@@ -51209,12 +51197,6 @@
         "resourceType": "skill_practice_ticket",
         "resourceId": 2,
         "resourceQuantity": 2
-      },
-      {
-        "resourceType": "honor",
-        "resourceId": 1042,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
       }
     ]
   },
@@ -51801,12 +51783,6 @@
         "resourceType": "skill_practice_ticket",
         "resourceId": 2,
         "resourceQuantity": 2
-      },
-      {
-        "resourceType": "honor",
-        "resourceId": 1066,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
       }
     ]
   },
@@ -52393,12 +52369,6 @@
         "resourceType": "skill_practice_ticket",
         "resourceId": 2,
         "resourceQuantity": 2
-      },
-      {
-        "resourceType": "honor",
-        "resourceId": 1090,
-        "resourceLevel": 1,
-        "resourceQuantity": 1
       }
     ]
   },
@@ -59700,6 +59670,215 @@
         "resourceType": "boost_item",
         "resourceId": 2,
         "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1043,
+    "resourceBoxType": "expand",
+    "name": "此為150萬人突破紀念登入活動第1日的報酬。",
+    "details": [
+      {
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 3
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1044,
+    "resourceBoxType": "expand",
+    "name": "此為150萬人突破紀念登入活動第2日的報酬。",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 15,
+        "resourceQuantity": 60
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1045,
+    "resourceBoxType": "expand",
+    "name": "此為150萬人突破紀念登入活動第3日的報酬。",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1046,
+    "resourceBoxType": "expand",
+    "name": "此為150萬人突破紀念登入活動第4日的報酬。",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 12,
+        "resourceQuantity": 20
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1047,
+    "resourceBoxType": "expand",
+    "name": "此為150萬人突破紀念登入活動第5日的報酬。",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 11,
+        "resourceQuantity": 200
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1048,
+    "resourceBoxType": "expand",
+    "name": "此為150萬人突破紀念登入活動第6日的報酬。",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 30
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1049,
+    "resourceBoxType": "expand",
+    "name": "此為150萬人突破紀念登入活動第7日的報酬。",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 45,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1142,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第1天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 20
+      },
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1143,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第2天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 2,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1144,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第3天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 1,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1145,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第4天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 3,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1146,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第5天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 4,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1147,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第6天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 5,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1148,
+    "resourceBoxType": "expand",
+    "name": "此為回归玩家登入活動第7天的報酬。                                                        ",
+    "details": [
+      {
+        "resourceType": "gacha_ticket",
+        "resourceId": 1,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 100
       }
     ]
   },
@@ -83309,6 +83488,70 @@
   },
   {
     "resourceBoxPurpose": "mission_reward",
+    "id": 100101,
+    "resourceBoxType": "expand",
+    "name": "練習譜（中級）×10",
+    "details": [
+      {
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100102,
+    "resourceBoxType": "expand",
+    "name": "硬幣×30,000",
+    "details": [
+      {
+        "resourceType": "coin",
+        "resourceQuantity": 30000
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100103,
+    "resourceBoxType": "expand",
+    "name": "音樂卡×10",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100104,
+    "resourceBoxType": "expand",
+    "name": "主唱卡交換券×1",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 49,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100105,
+    "resourceBoxType": "expand",
+    "name": "★3以上必中票券",
+    "details": [
+      {
+        "resourceType": "gacha_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
     "id": 110001,
     "resourceBoxType": "costume_3d",
     "name": "BP新奖励（2月服装）",
@@ -85549,6 +85792,134 @@
   {
     "resourceBoxPurpose": "mission_reward",
     "id": 200030,
+    "resourceBoxType": "expand",
+    "name": "水晶×300",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200031,
+    "resourceBoxType": "expand",
+    "name": "主唱卡交换券×1",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 49,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200032,
+    "resourceBoxType": "expand",
+    "name": "奇迹宝石×50",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200033,
+    "resourceBoxType": "expand",
+    "name": "帅气宝石×100",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 7,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200034,
+    "resourceBoxType": "expand",
+    "name": "可爱宝石×100",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 6,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200035,
+    "resourceBoxType": "expand",
+    "name": "纯真宝石×100",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 8,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200036,
+    "resourceBoxType": "expand",
+    "name": "快乐宝石×100",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 9,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200037,
+    "resourceBoxType": "expand",
+    "name": "神秘宝石×100",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 10,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200038,
+    "resourceBoxType": "expand",
+    "name": "练习谱（中级）*20",
+    "details": [
+      {
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 20
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200039,
+    "resourceBoxType": "expand",
+    "name": "水晶×300",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200040,
     "resourceBoxType": "expand",
     "name": "水晶×300",
     "details": [
@@ -96575,6 +96946,30 @@
   },
   {
     "resourceBoxPurpose": "shop_item",
+    "id": 10177,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 317,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10178,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 318,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
     "id": 10179,
     "resourceBoxType": "expand",
     "details": [
@@ -97139,12 +97534,192 @@
   },
   {
     "resourceBoxPurpose": "shop_item",
+    "id": 10234,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 145,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10235,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 412,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10236,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 413,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10237,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 175,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10238,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 134,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10239,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 247,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10240,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 251,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
     "id": 10241,
     "resourceBoxType": "expand",
     "details": [
       {
         "resourceType": "music",
         "resourceId": 150,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10242,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 133,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10243,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 152,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10244,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 157,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10246,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 416,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10258,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 186,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10286,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 104,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10301,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 155,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10332,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 174,
         "resourceQuantity": 1
       }
     ]

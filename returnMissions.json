@@ -93,7 +93,7 @@
     "id": 11,
     "seq": 1,
     "requirement": 1,
-    "sentence": "觀賞1次成員的支線劇情吧。",
+    "sentence": "观赏1次成员的支线剧情吧。",
     "resourceBoxId": 200011,
     "returnMissionGroupId": 2,
     "returnMissionType": "read_card_story"
@@ -102,7 +102,7 @@
     "id": 12,
     "seq": 1,
     "requirement": 1,
-    "sentence": "完成1次特訓吧。",
+    "sentence": "完成1次特训吧。",
     "resourceBoxId": 200012,
     "returnMissionGroupId": 2,
     "returnMissionType": "special_training"
@@ -111,7 +111,7 @@
     "id": 13,
     "seq": 1,
     "requirement": 8,
-    "sentence": "觀看8章過往活動的劇情吧。",
+    "sentence": "观看8话过往活动的剧情吧。",
     "resourceBoxId": 200013,
     "returnMissionGroupId": 2,
     "returnMissionType": "read_archive_event_story"
@@ -129,7 +129,7 @@
     "id": 15,
     "seq": 1,
     "requirement": 5,
-    "sentence": "通過5次多人LIVE吧。",
+    "sentence": "进行5次多人LIVE吧。",
     "resourceBoxId": 200015,
     "returnMissionGroupId": 2,
     "returnMissionType": "clear_multi_live"
@@ -138,7 +138,7 @@
     "id": 16,
     "seq": 1,
     "requirement": 3,
-    "sentence": "通過3次挑戰LIVE吧。",
+    "sentence": "进行3次挑战LIVE吧。",
     "resourceBoxId": 200016,
     "returnMissionGroupId": 2,
     "returnMissionType": "clear_solo_challenge_live"
@@ -147,7 +147,7 @@
     "id": 17,
     "seq": 1,
     "requirement": 3,
-    "sentence": "交換3首歌曲吧。",
+    "sentence": "交换3首歌曲吧。",
     "resourceBoxId": 200017,
     "returnMissionGroupId": 2,
     "returnMissionType": "buy_music"
@@ -156,7 +156,7 @@
     "id": 18,
     "seq": 1,
     "requirement": 3,
-    "sentence": "在活動交換所中進行3次交換吧。",
+    "sentence": "在活动交换所中进行3次交换吧。",
     "resourceBoxId": 200018,
     "returnMissionGroupId": 2,
     "returnMissionType": "buy_event_item"
@@ -165,7 +165,7 @@
     "id": 19,
     "seq": 1,
     "requirement": 4,
-    "sentence": "通過4個回歸玩家限時任務吧。",
+    "sentence": "完成4個回歸任務吧。",
     "resourceBoxId": 200019,
     "returnMissionGroupId": 2,
     "returnMissionType": "clear_all_return_mission"
@@ -174,7 +174,7 @@
     "id": 20,
     "seq": 1,
     "requirement": 9,
-    "sentence": "通過所有回歸玩家限時任務吧。",
+    "sentence": "完成所有回歸任務吧。",
     "resourceBoxId": 200020,
     "returnMissionGroupId": 2,
     "returnMissionType": "clear_all_return_mission"
@@ -267,6 +267,96 @@
     "sentence": "通過所有回歸玩家限時任務吧。",
     "resourceBoxId": 200030,
     "returnMissionGroupId": 3,
+    "returnMissionType": "clear_all_return_mission"
+  },
+  {
+    "id": 31,
+    "seq": 1,
+    "requirement": 1,
+    "sentence": "觀賞1次成員的支線劇情吧。",
+    "resourceBoxId": 200031,
+    "returnMissionGroupId": 4,
+    "returnMissionType": "read_card_story"
+  },
+  {
+    "id": 32,
+    "seq": 1,
+    "requirement": 1,
+    "sentence": "完成1次特訓吧。",
+    "resourceBoxId": 200032,
+    "returnMissionGroupId": 4,
+    "returnMissionType": "special_training"
+  },
+  {
+    "id": 33,
+    "seq": 1,
+    "requirement": 8,
+    "sentence": "觀看8章過往活動的劇情吧。",
+    "resourceBoxId": 200033,
+    "returnMissionGroupId": 4,
+    "returnMissionType": "read_archive_event_story"
+  },
+  {
+    "id": 34,
+    "seq": 1,
+    "requirement": 1,
+    "sentence": "交換1名在「休息室」的成員吧。（招募中獲得的重複成員將被自動送到「休息室」）",
+    "resourceBoxId": 200034,
+    "returnMissionGroupId": 4,
+    "returnMissionType": "waiting_room_exchange"
+  },
+  {
+    "id": 35,
+    "seq": 1,
+    "requirement": 5,
+    "sentence": "通過5次多人LIVE吧。",
+    "resourceBoxId": 200035,
+    "returnMissionGroupId": 4,
+    "returnMissionType": "clear_multi_live"
+  },
+  {
+    "id": 36,
+    "seq": 1,
+    "requirement": 3,
+    "sentence": "通過3次挑戰LIVE吧。",
+    "resourceBoxId": 200036,
+    "returnMissionGroupId": 4,
+    "returnMissionType": "clear_solo_challenge_live"
+  },
+  {
+    "id": 37,
+    "seq": 1,
+    "requirement": 3,
+    "sentence": "交換3首歌曲吧。",
+    "resourceBoxId": 200037,
+    "returnMissionGroupId": 4,
+    "returnMissionType": "buy_music"
+  },
+  {
+    "id": 38,
+    "seq": 1,
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 200038,
+    "returnMissionGroupId": 4,
+    "returnMissionType": "buy_event_item"
+  },
+  {
+    "id": 39,
+    "seq": 1,
+    "requirement": 4,
+    "sentence": "通過4個回歸玩家限時任務吧。",
+    "resourceBoxId": 200039,
+    "returnMissionGroupId": 4,
+    "returnMissionType": "clear_all_return_mission"
+  },
+  {
+    "id": 40,
+    "seq": 1,
+    "requirement": 9,
+    "sentence": "通過所有回歸玩家限時任務吧。",
+    "resourceBoxId": 200040,
+    "returnMissionGroupId": 4,
     "returnMissionType": "clear_all_return_mission"
   }
 ]

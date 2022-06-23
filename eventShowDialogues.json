@@ -504,5 +504,96 @@
         "transitionDestinationId": "21"
       }
     ]
+  },
+  {
+    "id": 27,
+    "assetbundleName": "event_show_obt26_banner",
+    "showType": "ONCE",
+    "startAt": 1655794800000,
+    "endAt": 1656507599000,
+    "behaviors": [
+      {
+        "id": 58,
+        "eventShowDialogueId": 27,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "96"
+      },
+      {
+        "id": 61,
+        "eventShowDialogueId": 27,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "26"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "assetbundleName": "event_show_obt27_banner",
+    "showType": "ONCE",
+    "startAt": 1656658800000,
+    "endAt": 1657198799000,
+    "behaviors": [
+      {
+        "id": 59,
+        "eventShowDialogueId": 28,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "99"
+      },
+      {
+        "id": 62,
+        "eventShowDialogueId": 28,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "27"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "assetbundleName": "event_show_obt28_banner",
+    "showType": "ONCE",
+    "startAt": 1657350000000,
+    "endAt": 1658149199000,
+    "behaviors": [
+      {
+        "id": 60,
+        "eventShowDialogueId": 29,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "102"
+      },
+      {
+        "id": 63,
+        "eventShowDialogueId": 29,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "28"
+      }
+    ]
+  },
+  {
+    "id": 1000,
+    "assetbundleName": "jewel_show_150w",
+    "showType": "ONCE",
+    "startAt": 1656313200000,
+    "endAt": 1657123199000,
+    "behaviors": [
+      {
+        "id": 56,
+        "eventShowDialogueId": 1000,
+        "buttonStyle": "NORMAL",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10348"
+      },
+      {
+        "id": 57,
+        "eventShowDialogueId": 1000,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_jewel"
+      }
+    ]
   }
 ]
