@@ -56851,6 +56851,34 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
+    "id": 10033,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 44,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "coin",
+        "resourceQuantity": 39000
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 10034,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
     "id": 9999999,
     "resourceBoxType": "expand",
     "details": [
