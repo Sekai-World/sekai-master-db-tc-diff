@@ -5,8 +5,8 @@
     "requirement": 1,
     "sentence": "設定1次「自製個人資料」吧。",
     "resourceBoxId": 200001,
-    "returnMissionType": "save_custom_profile_data",
-    "returnMissionGroupId": 1
+    "returnMissionGroupId": 1,
+    "returnMissionType": "save_custom_profile_data"
   },
   {
     "id": 2,
@@ -14,8 +14,8 @@
     "requirement": 10,
     "sentence": "觀看10章過往活動的劇情吧。",
     "resourceBoxId": 200002,
-    "returnMissionType": "read_story_past_event",
-    "returnMissionGroupId": 1
+    "returnMissionGroupId": 1,
+    "returnMissionType": "read_story_past_event"
   },
   {
     "id": 3,
@@ -23,8 +23,8 @@
     "requirement": 3,
     "sentence": "參加3次虛擬LIVE吧。",
     "resourceBoxId": 200003,
-    "returnMissionType": "clear_virtual_live",
-    "returnMissionGroupId": 1
+    "returnMissionGroupId": 1,
+    "returnMissionType": "clear_virtual_live"
   },
   {
     "id": 4,
@@ -32,8 +32,8 @@
     "requirement": 5,
     "sentence": "通過5次多人LIVE吧。",
     "resourceBoxId": 200004,
-    "returnMissionType": "clear_multi_live",
-    "returnMissionGroupId": 1
+    "returnMissionGroupId": 1,
+    "returnMissionType": "clear_multi_live"
   },
   {
     "id": 5,
@@ -41,8 +41,8 @@
     "requirement": 3,
     "sentence": "通過3次挑戰LIVE吧。",
     "resourceBoxId": 200005,
-    "returnMissionType": "clear_solo_challenge_live",
-    "returnMissionGroupId": 1
+    "returnMissionGroupId": 1,
+    "returnMissionType": "clear_solo_challenge_live"
   },
   {
     "id": 6,
@@ -50,8 +50,8 @@
     "requirement": 3,
     "sentence": "交換3首歌曲吧。",
     "resourceBoxId": 200006,
-    "returnMissionType": "buy_music",
-    "returnMissionGroupId": 1
+    "returnMissionGroupId": 1,
+    "returnMissionType": "buy_music"
   },
   {
     "id": 7,
@@ -59,8 +59,8 @@
     "requirement": 3,
     "sentence": "使用練習譜提升3次成員等級吧。",
     "resourceBoxId": 200007,
-    "returnMissionType": "character_level_up",
-    "returnMissionGroupId": 1
+    "returnMissionGroupId": 1,
+    "returnMissionType": "character_level_up"
   },
   {
     "id": 8,
@@ -68,8 +68,8 @@
     "requirement": 3,
     "sentence": "在活動交換所中進行3次交換吧。",
     "resourceBoxId": 200008,
-    "returnMissionType": "buy_event_item",
-    "returnMissionGroupId": 1
+    "returnMissionGroupId": 1,
+    "returnMissionType": "buy_event_item"
   },
   {
     "id": 9,
@@ -77,8 +77,8 @@
     "requirement": 4,
     "sentence": "通過4個回歸玩家限時任務吧。",
     "resourceBoxId": 200009,
-    "returnMissionType": "clear_all_return_mission",
-    "returnMissionGroupId": 1
+    "returnMissionGroupId": 1,
+    "returnMissionType": "clear_all_return_mission"
   },
   {
     "id": 10,
@@ -86,8 +86,8 @@
     "requirement": 9,
     "sentence": "通過所有回歸玩家限時任務吧。",
     "resourceBoxId": 200010,
-    "returnMissionType": "clear_all_return_mission",
-    "returnMissionGroupId": 1
+    "returnMissionGroupId": 1,
+    "returnMissionType": "clear_all_return_mission"
   },
   {
     "id": 11,
@@ -95,8 +95,8 @@
     "requirement": 1,
     "sentence": "观赏1次成员的支线剧情吧。",
     "resourceBoxId": 200011,
-    "returnMissionType": "read_card_story",
-    "returnMissionGroupId": 2
+    "returnMissionGroupId": 2,
+    "returnMissionType": "read_card_story"
   },
   {
     "id": 12,
@@ -104,8 +104,8 @@
     "requirement": 1,
     "sentence": "完成1次特训吧。",
     "resourceBoxId": 200012,
-    "returnMissionType": "special_training",
-    "returnMissionGroupId": 2
+    "returnMissionGroupId": 2,
+    "returnMissionType": "special_training"
   },
   {
     "id": 13,
@@ -113,8 +113,8 @@
     "requirement": 8,
     "sentence": "观看8话过往活动的剧情吧。",
     "resourceBoxId": 200013,
-    "returnMissionType": "read_archive_event_story",
-    "returnMissionGroupId": 2
+    "returnMissionGroupId": 2,
+    "returnMissionType": "read_archive_event_story"
   },
   {
     "id": 14,
@@ -122,8 +122,8 @@
     "requirement": 1,
     "sentence": "交換1名在「休息室」的成員吧。（招募中獲得的重複成員將被自動送到「休息室」）",
     "resourceBoxId": 200014,
-    "returnMissionType": "waiting_room_exchange",
-    "returnMissionGroupId": 2
+    "returnMissionGroupId": 2,
+    "returnMissionType": "waiting_room_exchange"
   },
   {
     "id": 15,
@@ -131,8 +131,8 @@
     "requirement": 5,
     "sentence": "进行5次多人LIVE吧。",
     "resourceBoxId": 200015,
-    "returnMissionType": "clear_multi_live",
-    "returnMissionGroupId": 2
+    "returnMissionGroupId": 2,
+    "returnMissionType": "clear_multi_live"
   },
   {
     "id": 16,
@@ -140,8 +140,8 @@
     "requirement": 3,
     "sentence": "进行3次挑战LIVE吧。",
     "resourceBoxId": 200016,
-    "returnMissionType": "clear_solo_challenge_live",
-    "returnMissionGroupId": 2
+    "returnMissionGroupId": 2,
+    "returnMissionType": "clear_solo_challenge_live"
   },
   {
     "id": 17,
@@ -149,8 +149,8 @@
     "requirement": 3,
     "sentence": "交换3首歌曲吧。",
     "resourceBoxId": 200017,
-    "returnMissionType": "buy_music",
-    "returnMissionGroupId": 2
+    "returnMissionGroupId": 2,
+    "returnMissionType": "buy_music"
   },
   {
     "id": 18,
@@ -158,8 +158,8 @@
     "requirement": 3,
     "sentence": "在活动交换所中进行3次交换吧。",
     "resourceBoxId": 200018,
-    "returnMissionType": "buy_event_item",
-    "returnMissionGroupId": 2
+    "returnMissionGroupId": 2,
+    "returnMissionType": "buy_event_item"
   },
   {
     "id": 19,
@@ -167,8 +167,8 @@
     "requirement": 4,
     "sentence": "完成4個回歸任務吧。",
     "resourceBoxId": 200019,
-    "returnMissionType": "clear_all_return_mission",
-    "returnMissionGroupId": 2
+    "returnMissionGroupId": 2,
+    "returnMissionType": "clear_all_return_mission"
   },
   {
     "id": 20,
@@ -176,8 +176,8 @@
     "requirement": 9,
     "sentence": "完成所有回歸任務吧。",
     "resourceBoxId": 200020,
-    "returnMissionType": "clear_all_return_mission",
-    "returnMissionGroupId": 2
+    "returnMissionGroupId": 2,
+    "returnMissionType": "clear_all_return_mission"
   },
   {
     "id": 21,
@@ -185,8 +185,8 @@
     "requirement": 1,
     "sentence": "觀賞1次成員的支線劇情吧。",
     "resourceBoxId": 200021,
-    "returnMissionType": "read_card_story",
-    "returnMissionGroupId": 3
+    "returnMissionGroupId": 3,
+    "returnMissionType": "read_card_story"
   },
   {
     "id": 22,
@@ -194,8 +194,8 @@
     "requirement": 1,
     "sentence": "完成1次特訓吧。",
     "resourceBoxId": 200022,
-    "returnMissionType": "special_training",
-    "returnMissionGroupId": 3
+    "returnMissionGroupId": 3,
+    "returnMissionType": "special_training"
   },
   {
     "id": 23,
@@ -203,8 +203,8 @@
     "requirement": 8,
     "sentence": "觀看8章過往活動的劇情吧。",
     "resourceBoxId": 200023,
-    "returnMissionType": "read_archive_event_story",
-    "returnMissionGroupId": 3
+    "returnMissionGroupId": 3,
+    "returnMissionType": "read_archive_event_story"
   },
   {
     "id": 24,
@@ -212,8 +212,8 @@
     "requirement": 1,
     "sentence": "交換1名在「休息室」的成員吧。（招募中獲得的重複成員將被自動送到「休息室」）",
     "resourceBoxId": 200024,
-    "returnMissionType": "waiting_room_exchange",
-    "returnMissionGroupId": 3
+    "returnMissionGroupId": 3,
+    "returnMissionType": "waiting_room_exchange"
   },
   {
     "id": 25,
@@ -221,8 +221,8 @@
     "requirement": 5,
     "sentence": "通過5次多人LIVE吧。",
     "resourceBoxId": 200025,
-    "returnMissionType": "clear_multi_live",
-    "returnMissionGroupId": 3
+    "returnMissionGroupId": 3,
+    "returnMissionType": "clear_multi_live"
   },
   {
     "id": 26,
@@ -230,8 +230,8 @@
     "requirement": 3,
     "sentence": "通過3次挑戰LIVE吧。",
     "resourceBoxId": 200026,
-    "returnMissionType": "clear_solo_challenge_live",
-    "returnMissionGroupId": 3
+    "returnMissionGroupId": 3,
+    "returnMissionType": "clear_solo_challenge_live"
   },
   {
     "id": 27,
@@ -239,8 +239,8 @@
     "requirement": 3,
     "sentence": "交換3首歌曲吧。",
     "resourceBoxId": 200027,
-    "returnMissionType": "buy_music",
-    "returnMissionGroupId": 3
+    "returnMissionGroupId": 3,
+    "returnMissionType": "buy_music"
   },
   {
     "id": 28,
@@ -248,8 +248,8 @@
     "requirement": 3,
     "sentence": "在活動交換所中進行3次交換吧。",
     "resourceBoxId": 200028,
-    "returnMissionType": "buy_event_item",
-    "returnMissionGroupId": 3
+    "returnMissionGroupId": 3,
+    "returnMissionType": "buy_event_item"
   },
   {
     "id": 29,
@@ -257,8 +257,8 @@
     "requirement": 4,
     "sentence": "通過4個回歸玩家限時任務吧。",
     "resourceBoxId": 200029,
-    "returnMissionType": "clear_all_return_mission",
-    "returnMissionGroupId": 3
+    "returnMissionGroupId": 3,
+    "returnMissionType": "clear_all_return_mission"
   },
   {
     "id": 30,
@@ -266,8 +266,8 @@
     "requirement": 9,
     "sentence": "通過所有回歸玩家限時任務吧。",
     "resourceBoxId": 200030,
-    "returnMissionType": "clear_all_return_mission",
-    "returnMissionGroupId": 3
+    "returnMissionGroupId": 3,
+    "returnMissionType": "clear_all_return_mission"
   },
   {
     "id": 31,
@@ -275,8 +275,8 @@
     "requirement": 1,
     "sentence": "觀賞1次成員的支線劇情吧。",
     "resourceBoxId": 200031,
-    "returnMissionType": "read_card_story",
-    "returnMissionGroupId": 4
+    "returnMissionGroupId": 4,
+    "returnMissionType": "read_card_story"
   },
   {
     "id": 32,
@@ -284,8 +284,8 @@
     "requirement": 1,
     "sentence": "完成1次特訓吧。",
     "resourceBoxId": 200032,
-    "returnMissionType": "special_training",
-    "returnMissionGroupId": 4
+    "returnMissionGroupId": 4,
+    "returnMissionType": "special_training"
   },
   {
     "id": 33,
@@ -293,8 +293,8 @@
     "requirement": 8,
     "sentence": "觀看8章過往活動的劇情吧。",
     "resourceBoxId": 200033,
-    "returnMissionType": "read_archive_event_story",
-    "returnMissionGroupId": 4
+    "returnMissionGroupId": 4,
+    "returnMissionType": "read_archive_event_story"
   },
   {
     "id": 34,
@@ -302,8 +302,8 @@
     "requirement": 1,
     "sentence": "交換1名在「休息室」的成員吧。（招募中獲得的重複成員將被自動送到「休息室」）",
     "resourceBoxId": 200034,
-    "returnMissionType": "waiting_room_exchange",
-    "returnMissionGroupId": 4
+    "returnMissionGroupId": 4,
+    "returnMissionType": "waiting_room_exchange"
   },
   {
     "id": 35,
@@ -311,8 +311,8 @@
     "requirement": 5,
     "sentence": "通過5次多人LIVE吧。",
     "resourceBoxId": 200035,
-    "returnMissionType": "clear_multi_live",
-    "returnMissionGroupId": 4
+    "returnMissionGroupId": 4,
+    "returnMissionType": "clear_multi_live"
   },
   {
     "id": 36,
@@ -320,8 +320,8 @@
     "requirement": 3,
     "sentence": "通過3次挑戰LIVE吧。",
     "resourceBoxId": 200036,
-    "returnMissionType": "clear_solo_challenge_live",
-    "returnMissionGroupId": 4
+    "returnMissionGroupId": 4,
+    "returnMissionType": "clear_solo_challenge_live"
   },
   {
     "id": 37,
@@ -329,8 +329,8 @@
     "requirement": 3,
     "sentence": "交換3首歌曲吧。",
     "resourceBoxId": 200037,
-    "returnMissionType": "buy_music",
-    "returnMissionGroupId": 4
+    "returnMissionGroupId": 4,
+    "returnMissionType": "buy_music"
   },
   {
     "id": 38,
@@ -338,8 +338,8 @@
     "requirement": 3,
     "sentence": "在活動交換所中進行3次交換吧。",
     "resourceBoxId": 200038,
-    "returnMissionType": "buy_event_item",
-    "returnMissionGroupId": 4
+    "returnMissionGroupId": 4,
+    "returnMissionType": "buy_event_item"
   },
   {
     "id": 39,
@@ -347,8 +347,8 @@
     "requirement": 4,
     "sentence": "通過4個回歸玩家限時任務吧。",
     "resourceBoxId": 200039,
-    "returnMissionType": "clear_all_return_mission",
-    "returnMissionGroupId": 4
+    "returnMissionGroupId": 4,
+    "returnMissionType": "clear_all_return_mission"
   },
   {
     "id": 40,
@@ -356,7 +356,7 @@
     "requirement": 9,
     "sentence": "通過所有回歸玩家限時任務吧。",
     "resourceBoxId": 200040,
-    "returnMissionType": "clear_all_return_mission",
-    "returnMissionGroupId": 4
+    "returnMissionGroupId": 4,
+    "returnMissionType": "clear_all_return_mission"
   }
 ]
