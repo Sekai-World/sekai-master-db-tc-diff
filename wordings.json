@@ -149,7 +149,7 @@
   },
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT",
-    "value": "累積一定的LIVE P點數後可獲得報酬。\n\n■單人LIVE／多人LIVE■\n每通過一次可<color=#ff55AA>獲得1點</color>LIVE P。\n可使用LIVE BONUS增加獲得量。\n\n■挑戰LIVE■\n每通過一次可<color=#ff55AA>獲得30點</color>LIVE P。"
+    "value": "累積一定的LIVE P點數後可獲得報酬。\n\n■單人LIVE／多人LIVE■\n每通過一次可<color=#ff55AA>獲得1點</color>LIVE P。\n可使用LIVE BONUS增加獲得量。\n\n■挑戰LIVE■\n每通過一次可<color=#ff55AA>獲得30點</color>LIVE P。\n\n■七彩通行證■\n購買七彩通行證，可獲得2倍LIVE P。 "
   },
   {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
@@ -2600,7 +2600,7 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT",
-    "value": "獎勵額度與購買次數的關係如下：\n※可從購買頁面查看下個月獲得的累計購買獎勵額度。"
+    "value": "多次購買不僅能立即獲得水晶（付費）×300，還可額外獲得免費水晶獎勵。獎勵如下：\n※可從購買頁面查看下個月獲得的累計購買獎勵額度。"
   },
   {
     "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT_1",
@@ -2620,7 +2620,7 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_EFFECT_CONTENT",
-    "value": "<color=#FF55AA>30</color>天效果為七彩通行證有效期間內可以獲得的獎勵效果：\n・挑戰P獲得量增加為<color=#FF55AA>2</color>倍。\n・LIVE P獲得量增加為<color=#FF55AA>2</color>倍。"
+    "value": "<color=#FF55AA>30</color>天效果為七彩通行證有效期間內可以獲得的獎勵效果：\n・挑戰P（挑戰LIVE等級）獲得量增加為<color=#FF55AA>2</color>倍。\n・LIVE P（LIVE任務）獲得量增加為<color=#FF55AA>2</color>倍。"
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_EFFECT_CONTENT_1",
@@ -2632,7 +2632,7 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_REWARD_CONTENT",
-    "value": "<color=#FF55AA>300</color>個水晶（付費）\n七彩通行證生效期間，每天可從「禮物」領取<color=#FF55AA>50</color>個水晶（免費）。"
+    "value": "<color=#FF55AA>300</color>個水晶（付費），多次購買將額外獲得水晶（免費）\n七彩通行證生效期間，每天可從「禮物」領取<color=#FF55AA>50</color>個水晶（免費）。"
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_RULE",
@@ -3443,16 +3443,140 @@
     "value": "999COMBO"
   },
   {
+    "wordingKey": "Word_Custom_1269",
+    "value": "必要"
+  },
+  {
     "wordingKey": "Word_Custom_127",
     "value": "9999COMBO"
+  },
+  {
+    "wordingKey": "Word_Custom_1270",
+    "value": "所持"
+  },
+  {
+    "wordingKey": "Word_Custom_1271",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1272",
+    "value": "名前１０文字まで入る"
+  },
+  {
+    "wordingKey": "Word_Custom_1273",
+    "value": "メッセ最大８文字"
+  },
+  {
+    "wordingKey": "Word_Custom_1274",
+    "value": "名前１０文字まで入る"
+  },
+  {
+    "wordingKey": "Word_Custom_1275",
+    "value": "1231231P"
+  },
+  {
+    "wordingKey": "Word_Custom_1276",
+    "value": "キャラクター"
+  },
+  {
+    "wordingKey": "Word_Custom_1277",
+    "value": "キズナ"
+  },
+  {
+    "wordingKey": "Word_Custom_1278",
+    "value": "アチーブメント"
+  },
+  {
+    "wordingKey": "Word_Custom_1279",
+    "value": "イベント"
   },
   {
     "wordingKey": "Word_Custom_128",
     "value": "小的時候，大家經常追著星星跑呢。\\n"
   },
   {
+    "wordingKey": "Word_Custom_1280",
+    "value": "100%"
+  },
+  {
+    "wordingKey": "Word_Custom_1281",
+    "value": "自動でページを送る"
+  },
+  {
+    "wordingKey": "Word_Custom_1282",
+    "value": "データダウンロード中"
+  },
+  {
+    "wordingKey": "Word_Custom_1283",
+    "value": "0.00%"
+  },
+  {
+    "wordingKey": "Word_Custom_1284",
+    "value": "※通信環境の良いところで通信を行なってください。通信状況により時間がかかる場合があります。"
+  },
+  {
+    "wordingKey": "Word_Custom_1285",
+    "value": "他のプレイヤーを待っています...(3/5)"
+  },
+  {
+    "wordingKey": "Word_Custom_1286",
+    "value": "EXP"
+  },
+  {
+    "wordingKey": "Word_Custom_1287",
+    "value": "EXP"
+  },
+  {
+    "wordingKey": "Word_Custom_1288",
+    "value": "？"
+  },
+  {
+    "wordingKey": "Word_Custom_1289",
+    "value": "？"
+  },
+  {
     "wordingKey": "Word_Custom_129",
     "value": "小狗小狗小狗"
+  },
+  {
+    "wordingKey": "Word_Custom_1290",
+    "value": "ステージのセカイ"
+  },
+  {
+    "wordingKey": "Word_Custom_1291",
+    "value": "ステージのセカイ"
+  },
+  {
+    "wordingKey": "Word_Custom_1292",
+    "value": "aaa/aa/aa/aa"
+  },
+  {
+    "wordingKey": "Word_Custom_1293",
+    "value": "セカイへ"
+  },
+  {
+    "wordingKey": "Word_Custom_1294",
+    "value": "現実世界へ"
+  },
+  {
+    "wordingKey": "Word_Custom_1295",
+    "value": "バーチャルライブ"
+  },
+  {
+    "wordingKey": "Word_Custom_1296",
+    "value": "ショッピングモール"
+  },
+  {
+    "wordingKey": "Word_Custom_1297",
+    "value": "ショッピングモール"
+  },
+  {
+    "wordingKey": "Word_Custom_1298",
+    "value": "スタートダッシュミッション"
+  },
+  {
+    "wordingKey": "Word_Custom_1299",
+    "value": "イベント\\nストーリー"
   },
   {
     "wordingKey": "Word_Custom_13",
@@ -3463,40 +3587,440 @@
     "value": "小貓"
   },
   {
+    "wordingKey": "Word_Custom_1300",
+    "value": "メイン\\nストーリー"
+  },
+  {
+    "wordingKey": "Word_Custom_1301",
+    "value": "00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1302",
+    "value": "キャラ"
+  },
+  {
+    "wordingKey": "Word_Custom_1303",
+    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+  },
+  {
+    "wordingKey": "Word_Custom_1304",
+    "value": "メッセージ"
+  },
+  {
+    "wordingKey": "Word_Custom_1305",
+    "value": "キャラ"
+  },
+  {
+    "wordingKey": "Word_Custom_1306",
+    "value": "一般"
+  },
+  {
+    "wordingKey": "Word_Custom_1307",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1308",
+    "value": "100?999"
+  },
+  {
+    "wordingKey": "Word_Custom_1309",
+    "value": "利用できません"
+  },
+  {
     "wordingKey": "Word_Custom_131",
     "value": "----------\\n----------"
+  },
+  {
+    "wordingKey": "Word_Custom_1310",
+    "value": "1000?4999"
+  },
+  {
+    "wordingKey": "Word_Custom_1311",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1312",
+    "value": "5000?9999"
+  },
+  {
+    "wordingKey": "Word_Custom_1313",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1314",
+    "value": "10000?30000"
+  },
+  {
+    "wordingKey": "Word_Custom_1315",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1316",
+    "value": "ステージの方向以外にアイテムを投げることはできません"
+  },
+  {
+    "wordingKey": "Word_Custom_1317",
+    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+  },
+  {
+    "wordingKey": "Word_Custom_1318",
+    "value": "お守り 星野 一歌"
+  },
+  {
+    "wordingKey": "Word_Custom_1319",
+    "value": "0.05%"
   },
   {
     "wordingKey": "Word_Custom_132",
     "value": "----------\\n----------\\n----------"
   },
   {
+    "wordingKey": "Word_Custom_1320",
+    "value": "アイテム"
+  },
+  {
+    "wordingKey": "Word_Custom_1321",
+    "value": "PlayerName10"
+  },
+  {
+    "wordingKey": "Word_Custom_1322",
+    "value": "まだキズナランクは\\n発生しません"
+  },
+  {
+    "wordingKey": "Word_Custom_1323",
+    "value": "選択済み"
+  },
+  {
+    "wordingKey": "Word_Custom_1324",
+    "value": "キャラ"
+  },
+  {
+    "wordingKey": "Word_Custom_1325",
+    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+  },
+  {
+    "wordingKey": "Word_Custom_1326",
+    "value": "00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1327",
+    "value": "キャラ"
+  },
+  {
+    "wordingKey": "Word_Custom_1328",
+    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+  },
+  {
+    "wordingKey": "Word_Custom_1329",
+    "value": "メッセージ"
+  },
+  {
     "wordingKey": "Word_Custom_133",
     "value": "中心街"
+  },
+  {
+    "wordingKey": "Word_Custom_1330",
+    "value": "キャラ"
+  },
+  {
+    "wordingKey": "Word_Custom_1331",
+    "value": "一般"
+  },
+  {
+    "wordingKey": "Word_Custom_1332",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1333",
+    "value": "100?999"
+  },
+  {
+    "wordingKey": "Word_Custom_1334",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1335",
+    "value": "1000?4999"
+  },
+  {
+    "wordingKey": "Word_Custom_1336",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1337",
+    "value": "5000?9999"
+  },
+  {
+    "wordingKey": "Word_Custom_1338",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1339",
+    "value": "10000?30000"
   },
   {
     "wordingKey": "Word_Custom_134",
     "value": "任務內容"
   },
   {
+    "wordingKey": "Word_Custom_1340",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1341",
+    "value": "ステージの方向以外にアイテムを投げることはできません"
+  },
+  {
+    "wordingKey": "Word_Custom_1342",
+    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+  },
+  {
+    "wordingKey": "Word_Custom_1343",
+    "value": "バーチャルライブ"
+  },
+  {
+    "wordingKey": "Word_Custom_1344",
+    "value": "ショッピングモール"
+  },
+  {
+    "wordingKey": "Word_Custom_1345",
+    "value": "ショッピングモール"
+  },
+  {
+    "wordingKey": "Word_Custom_1346",
+    "value": "スタートダッシュミッション"
+  },
+  {
+    "wordingKey": "Word_Custom_1347",
+    "value": "プレミアムパス"
+  },
+  {
+    "wordingKey": "Word_Custom_1348",
+    "value": "交換期限が近いセレクトチケットがあります。\\nチケット交換所へ移動しますか？"
+  },
+  {
+    "wordingKey": "Word_Custom_1349",
+    "value": "初心者限定★4メンバー交換チケット"
+  },
+  {
     "wordingKey": "Word_Custom_135",
     "value": "--/--"
+  },
+  {
+    "wordingKey": "Word_Custom_1350",
+    "value": "yyyy/mm/dd hh:mm"
+  },
+  {
+    "wordingKey": "Word_Custom_1351",
+    "value": "？"
+  },
+  {
+    "wordingKey": "Word_Custom_1352",
+    "value": "？"
+  },
+  {
+    "wordingKey": "Word_Custom_1353",
+    "value": "\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1354",
+    "value": "「{0}」を\\n<color=#ff5588>{1}枚</color>消費して入場します。\\nよろしいですか？"
+  },
+  {
+    "wordingKey": "Word_Custom_1355",
+    "value": "所持"
+  },
+  {
+    "wordingKey": "Word_Custom_1356",
+    "value": "必要"
+  },
+  {
+    "wordingKey": "Word_Custom_1357",
+    "value": "バーチャルシンガー"
+  },
+  {
+    "wordingKey": "Word_Custom_1358",
+    "value": "大吉"
+  },
+  {
+    "wordingKey": "Word_Custom_1359",
+    "value": "Lv.60"
   },
   {
     "wordingKey": "Word_Custom_136",
     "value": "稱號「」"
   },
   {
+    "wordingKey": "Word_Custom_1360",
+    "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1361",
+    "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1362",
+    "value": "LV ?/<size=28>?</size>"
+  },
+  {
+    "wordingKey": "Word_Custom_1363",
+    "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1364",
+    "value": "LV ?/<size=28>?</size>"
+  },
+  {
+    "wordingKey": "Word_Custom_1365",
+    "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1366",
+    "value": "GET!"
+  },
+  {
+    "wordingKey": "Word_Custom_1367",
+    "value": "GET!"
+  },
+  {
+    "wordingKey": "Word_Custom_1368",
+    "value": "開演まで\\n00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1369",
+    "value": "{0}"
+  },
+  {
     "wordingKey": "Word_Custom_137",
     "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1370",
+    "value": "クリスタル<color=#FF55AA>1500個</color>を消費して\\n「BOX名」を\\n引きます。よろしいですか？"
+  },
+  {
+    "wordingKey": "Word_Custom_1371",
+    "value": "所持"
+  },
+  {
+    "wordingKey": "Word_Custom_1372",
+    "value": "必要"
+  },
+  {
+    "wordingKey": "Word_Custom_1373",
+    "value": "引く"
+  },
+  {
+    "wordingKey": "Word_Custom_1374",
+    "value": "2000/99/99 14:59まで"
+  },
+  {
+    "wordingKey": "Word_Custom_1375",
+    "value": "1回<size=28>引く</size>"
+  },
+  {
+    "wordingKey": "Word_Custom_1376",
+    "value": "去活动兑换所获取资源"
+  },
+  {
+    "wordingKey": "Word_Custom_1377",
+    "value": "選択メンバー"
+  },
+  {
+    "wordingKey": "Word_Custom_1378",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1379",
+    "value": "想いの純結晶"
   },
   {
     "wordingKey": "Word_Custom_138",
     "value": "×50"
   },
   {
+    "wordingKey": "Word_Custom_1380",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1381",
+    "value": "想いの純結晶"
+  },
+  {
+    "wordingKey": "Word_Custom_1382",
+    "value": "バンド名"
+  },
+  {
+    "wordingKey": "Word_Custom_1383",
+    "value": "\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1384",
+    "value": "スコア獲得日時"
+  },
+  {
+    "wordingKey": "Word_Custom_1385",
+    "value": "2022/2/1 00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1386",
+    "value": "\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1387",
+    "value": "MAX"
+  },
+  {
+    "wordingKey": "Word_Custom_1388",
+    "value": "MAX"
+  },
+  {
+    "wordingKey": "Word_Custom_1389",
+    "value": "クリスタルを50消費して\\nライブボーナスを回復しますか？"
+  },
+  {
     "wordingKey": "Word_Custom_139",
     "value": "點擊3次 刪除用戶"
+  },
+  {
+    "wordingKey": "Word_Custom_1390",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1391",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1392",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1393",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1394",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1395",
+    "value": "3TAP ユーザー削除"
+  },
+  {
+    "wordingKey": "Word_Custom_1396",
+    "value": "Tutorial突破ユーザ"
+  },
+  {
+    "wordingKey": "Word_Custom_1397",
+    "value": "0000-0000-0000-0000"
+  },
+  {
+    "wordingKey": "Word_Custom_1398",
+    "value": "<color=#444466>5</color>"
+  },
+  {
+    "wordingKey": "Word_Custom_1399",
+    "value": "<color=#444466>0</color>"
   },
   {
     "wordingKey": "Word_Custom_14",
@@ -3507,40 +4031,440 @@
     "value": "0000-0000-0000-0000"
   },
   {
+    "wordingKey": "Word_Custom_1400",
+    "value": "<color=#444466>5</color>"
+  },
+  {
+    "wordingKey": "Word_Custom_1401",
+    "value": "<color=#444466>0</color>"
+  },
+  {
+    "wordingKey": "Word_Custom_1402",
+    "value": "\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1403",
+    "value": "1回<size=28>引く</size>"
+  },
+  {
+    "wordingKey": "Word_Custom_1404",
+    "value": "Player Name"
+  },
+  {
+    "wordingKey": "Word_Custom_1405",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1406",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1407",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1408",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1409",
+    "value": "Lv.60"
+  },
+  {
     "wordingKey": "Word_Custom_141",
     "value": "ーーーーーーーーーーーーーーーーー"
+  },
+  {
+    "wordingKey": "Word_Custom_1410",
+    "value": "200%"
+  },
+  {
+    "wordingKey": "Word_Custom_1411",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1412",
+    "value": "1231231P"
+  },
+  {
+    "wordingKey": "Word_Custom_1413",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1414",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1415",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1416",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1417",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1418",
+    "value": "500%"
+  },
+  {
+    "wordingKey": "Word_Custom_1419",
+    "value": "yyyy/mm/dd hh:ssまで"
   },
   {
     "wordingKey": "Word_Custom_142",
     "value": "ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー"
   },
   {
+    "wordingKey": "Word_Custom_1420",
+    "value": "甘酒"
+  },
+  {
+    "wordingKey": "Word_Custom_1421",
+    "value": "あと1回"
+  },
+  {
+    "wordingKey": "Word_Custom_1422",
+    "value": "2000/99/99 14:59まで"
+  },
+  {
+    "wordingKey": "Word_Custom_1423",
+    "value": "1回<size=28>引く</size>"
+  },
+  {
+    "wordingKey": "Word_Custom_1424",
+    "value": "1231231P"
+  },
+  {
+    "wordingKey": "Word_Custom_1425",
+    "value": "フリー B"
+  },
+  {
+    "wordingKey": "Word_Custom_1426",
+    "value": "フリー A"
+  },
+  {
+    "wordingKey": "Word_Custom_1427",
+    "value": "ベテラン B"
+  },
+  {
+    "wordingKey": "Word_Custom_1428",
+    "value": "ベテランA"
+  },
+  {
+    "wordingKey": "Word_Custom_1429",
+    "value": "協力ライブ\\n"
+  },
+  {
     "wordingKey": "Word_Custom_143",
     "value": "樂團名稱"
+  },
+  {
+    "wordingKey": "Word_Custom_1430",
+    "value": "0"
+  },
+  {
+    "wordingKey": "Word_Custom_1431",
+    "value": "0"
+  },
+  {
+    "wordingKey": "Word_Custom_1432",
+    "value": "×999"
+  },
+  {
+    "wordingKey": "Word_Custom_1433",
+    "value": "※開演時間は予定で、前後する可能性があります。"
+  },
+  {
+    "wordingKey": "Word_Custom_1434",
+    "value": "バンド名"
+  },
+  {
+    "wordingKey": "Word_Custom_1435",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1436",
+    "value": "名前．最大１０文字"
+  },
+  {
+    "wordingKey": "Word_Custom_1437",
+    "value": "メッセージ．最大３２文字１２３４５６７８９０１２３４２５６７１２３"
+  },
+  {
+    "wordingKey": "Word_Custom_1438",
+    "value": "名前．最大１０文字"
+  },
+  {
+    "wordingKey": "Word_Custom_1439",
+    "value": "2020/99/00 23:59:59"
   },
   {
     "wordingKey": "Word_Custom_144",
     "value": " "
   },
   {
+    "wordingKey": "Word_Custom_1440",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1441",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1442",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1443",
+    "value": "前"
+  },
+  {
+    "wordingKey": "Word_Custom_1444",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1445",
+    "value": "メッセージ"
+  },
+  {
+    "wordingKey": "Word_Custom_1446",
+    "value": "キャラ"
+  },
+  {
+    "wordingKey": "Word_Custom_1447",
+    "value": "一般"
+  },
+  {
+    "wordingKey": "Word_Custom_1448",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1449",
+    "value": "100?999"
+  },
+  {
     "wordingKey": "Word_Custom_145",
     "value": " "
+  },
+  {
+    "wordingKey": "Word_Custom_1450",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1451",
+    "value": "1000?4999"
+  },
+  {
+    "wordingKey": "Word_Custom_1452",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1453",
+    "value": "5000?9999"
+  },
+  {
+    "wordingKey": "Word_Custom_1454",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1455",
+    "value": "10000?30000"
+  },
+  {
+    "wordingKey": "Word_Custom_1456",
+    "value": "利用できません"
+  },
+  {
+    "wordingKey": "Word_Custom_1457",
+    "value": "ステージの方向以外にアイテムを投げることはできません"
+  },
+  {
+    "wordingKey": "Word_Custom_1458",
+    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+  },
+  {
+    "wordingKey": "Word_Custom_1459",
+    "value": "公演は終了しました"
   },
   {
     "wordingKey": "Word_Custom_146",
     "value": " "
   },
   {
+    "wordingKey": "Word_Custom_1460",
+    "value": "自動退場まで"
+  },
+  {
+    "wordingKey": "Word_Custom_1461",
+    "value": "00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1462",
+    "value": "開演まで"
+  },
+  {
+    "wordingKey": "Word_Custom_1463",
+    "value": "00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1464",
+    "value": "Option A"
+  },
+  {
+    "wordingKey": "Word_Custom_1465",
+    "value": "Option A"
+  },
+  {
+    "wordingKey": "Word_Custom_1466",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1467",
+    "value": "まだキズナランクは\\n発生しません"
+  },
+  {
+    "wordingKey": "Word_Custom_1468",
+    "value": "選択済み"
+  },
+  {
+    "wordingKey": "Word_Custom_1469",
+    "value": "カード冠名あああああ32px最大15w"
+  },
+  {
     "wordingKey": "Word_Custom_147",
     "value": " "
+  },
+  {
+    "wordingKey": "Word_Custom_1470",
+    "value": "小豆沢 こはね40px#446"
+  },
+  {
+    "wordingKey": "Word_Custom_1471",
+    "value": "カード冠名あああああああ36px"
+  },
+  {
+    "wordingKey": "Word_Custom_1472",
+    "value": "小豆沢 こはね"
+  },
+  {
+    "wordingKey": "Word_Custom_1473",
+    "value": "衣装名36p#446中央寄せ"
+  },
+  {
+    "wordingKey": "Word_Custom_1474",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1475",
+    "value": "所持クリスタル"
+  },
+  {
+    "wordingKey": "Word_Custom_1476",
+    "value": "必要"
+  },
+  {
+    "wordingKey": "Word_Custom_1477",
+    "value": "所持"
+  },
+  {
+    "wordingKey": "Word_Custom_1478",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1479",
+    "value": "Lv.60"
   },
   {
     "wordingKey": "Word_Custom_148",
     "value": " "
   },
   {
+    "wordingKey": "Word_Custom_1480",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1481",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1482",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1483",
+    "value": "クリスタル<color=#FF55AA>1500個</color>を消費して\\n「BOX名」を\\n引きます。よろしいですか？"
+  },
+  {
+    "wordingKey": "Word_Custom_1484",
+    "value": "必要"
+  },
+  {
+    "wordingKey": "Word_Custom_1485",
+    "value": "所持"
+  },
+  {
+    "wordingKey": "Word_Custom_1486",
+    "value": "キャンセル"
+  },
+  {
+    "wordingKey": "Word_Custom_1487",
+    "value": "引く"
+  },
+  {
+    "wordingKey": "Word_Custom_1488",
+    "value": "タイトル"
+  },
+  {
+    "wordingKey": "Word_Custom_1489",
+    "value": "全員を選択"
+  },
+  {
     "wordingKey": "Word_Custom_149",
     "value": "\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1490",
+    "value": "99"
+  },
+  {
+    "wordingKey": "Word_Custom_1491",
+    "value": "00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1492",
+    "value": "開演まで\\n00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1493",
+    "value": "名前．最大１０文字"
+  },
+  {
+    "wordingKey": "Word_Custom_1494",
+    "value": "メッセージ．最大１６文字"
+  },
+  {
+    "wordingKey": "Word_Custom_1495",
+    "value": "名前．最大１０文字"
+  },
+  {
+    "wordingKey": "Word_Custom_1496",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1497",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1498",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1499",
+    "value": "Lv.60"
   },
   {
     "wordingKey": "Word_Custom_15",
@@ -3551,40 +4475,440 @@
     "value": "EXPERT"
   },
   {
+    "wordingKey": "Word_Custom_1500",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1501",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1502",
+    "value": "3%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1503",
+    "value": "3%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1504",
+    "value": "27%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1505",
+    "value": "99%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1506",
+    "value": "3%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1507",
+    "value": "3%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1508",
+    "value": "27%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1509",
+    "value": "99%\\n"
+  },
+  {
     "wordingKey": "Word_Custom_151",
     "value": "8888/9999"
+  },
+  {
+    "wordingKey": "Word_Custom_1510",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1511",
+    "value": "全員を選択"
+  },
+  {
+    "wordingKey": "Word_Custom_1512",
+    "value": "[Settings]"
+  },
+  {
+    "wordingKey": "Word_Custom_1513",
+    "value": "ScheduleId"
+  },
+  {
+    "wordingKey": "Word_Custom_1514",
+    "value": "Enter text..."
+  },
+  {
+    "wordingKey": "Word_Custom_1515",
+    "value": "Group数"
+  },
+  {
+    "wordingKey": "Word_Custom_1516",
+    "value": "Enter text..."
+  },
+  {
+    "wordingKey": "Word_Custom_1517",
+    "value": "VirtualLiveType"
+  },
+  {
+    "wordingKey": "Word_Custom_1518",
+    "value": "Option A"
+  },
+  {
+    "wordingKey": "Word_Custom_1519",
+    "value": "課金ユーザ含む"
   },
   {
     "wordingKey": "Word_Custom_152",
     "value": "截止至12/31 23:59"
   },
   {
+    "wordingKey": "Word_Custom_1520",
+    "value": "接続"
+  },
+  {
+    "wordingKey": "Word_Custom_1521",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1522",
+    "value": "甘酒"
+  },
+  {
+    "wordingKey": "Word_Custom_1523",
+    "value": "あと1回"
+  },
+  {
+    "wordingKey": "Word_Custom_1524",
+    "value": "必要"
+  },
+  {
+    "wordingKey": "Word_Custom_1525",
+    "value": "所持"
+  },
+  {
+    "wordingKey": "Word_Custom_1526",
+    "value": "クリスタルが不足しています"
+  },
+  {
+    "wordingKey": "Word_Custom_1527",
+    "value": "「申請文収まる場合！あああ」"
+  },
+  {
+    "wordingKey": "Word_Custom_1528",
+    "value": "コネクトライブ招待"
+  },
+  {
+    "wordingKey": "Word_Custom_1529",
+    "value": "あつあつホットケーキから\\nライフボーナス×１０をもらいました"
+  },
+  {
     "wordingKey": "Word_Custom_153",
     "value": "--/---"
+  },
+  {
+    "wordingKey": "Word_Custom_1530",
+    "value": "Large Star"
+  },
+  {
+    "wordingKey": "Word_Custom_1531",
+    "value": "1.23E+16"
+  },
+  {
+    "wordingKey": "Word_Custom_1532",
+    "value": "メッセージ．最大２４文字１２３４６７８９０１２"
+  },
+  {
+    "wordingKey": "Word_Custom_1533",
+    "value": "1.23E+16"
+  },
+  {
+    "wordingKey": "Word_Custom_1534",
+    "value": "あと"
+  },
+  {
+    "wordingKey": "Word_Custom_1535",
+    "value": "小豆沢 こはねのキャラクターランクを\\n上げることでキズナランクの上限がアップします"
+  },
+  {
+    "wordingKey": "Word_Custom_1536",
+    "value": "ステージのセカイ"
+  },
+  {
+    "wordingKey": "Word_Custom_1537",
+    "value": "ステージのセカイ"
+  },
+  {
+    "wordingKey": "Word_Custom_1538",
+    "value": "aaa/aa/aa/aa"
+  },
+  {
+    "wordingKey": "Word_Custom_1539",
+    "value": "1回<size=28>引く</size>"
   },
   {
     "wordingKey": "Word_Custom_154",
     "value": "冠名 角色名\\n冠名 角色名\\n冠名 角色名\\n冠名 角色名\\n冠名 角色名"
   },
   {
+    "wordingKey": "Word_Custom_1540",
+    "value": "開催まであと"
+  },
+  {
+    "wordingKey": "Word_Custom_1541",
+    "value": "所持ジュエル"
+  },
+  {
+    "wordingKey": "Word_Custom_1542",
+    "value": "必要"
+  },
+  {
+    "wordingKey": "Word_Custom_1543",
+    "value": "所持"
+  },
+  {
+    "wordingKey": "Word_Custom_1544",
+    "value": "yyyy/mm/dd hh:ssまで"
+  },
+  {
+    "wordingKey": "Word_Custom_1545",
+    "value": "次"
+  },
+  {
+    "wordingKey": "Word_Custom_1546",
+    "value": "前"
+  },
+  {
+    "wordingKey": "Word_Custom_1547",
+    "value": "10/200"
+  },
+  {
+    "wordingKey": "Word_Custom_1548",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1549",
+    "value": "プレイヤー名36px#446"
+  },
+  {
     "wordingKey": "Word_Custom_155",
     "value": "--/---"
+  },
+  {
+    "wordingKey": "Word_Custom_1550",
+    "value": "よろしくお願いします！！最大３０文字が入ります。ああああ"
+  },
+  {
+    "wordingKey": "Word_Custom_1551",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1552",
+    "value": "プレイヤー名36px#446"
+  },
+  {
+    "wordingKey": "Word_Custom_1553",
+    "value": "ああああああああああああああああああああああああああああああ"
+  },
+  {
+    "wordingKey": "Word_Custom_1554",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1555",
+    "value": "プレイヤー名36px#446"
+  },
+  {
+    "wordingKey": "Word_Custom_1556",
+    "value": "みんなでライブ招待"
+  },
+  {
+    "wordingKey": "Word_Custom_1557",
+    "value": "ライブ招待が届きました。"
+  },
+  {
+    "wordingKey": "Word_Custom_1558",
+    "value": "あと180秒"
+  },
+  {
+    "wordingKey": "Word_Custom_1559",
+    "value": "グループ\\nエリア"
   },
   {
     "wordingKey": "Word_Custom_156",
     "value": "\\n"
   },
   {
+    "wordingKey": "Word_Custom_1560",
+    "value": "チアフル\\nライブ"
+  },
+  {
+    "wordingKey": "Word_Custom_1561",
+    "value": "12345678位"
+  },
+  {
+    "wordingKey": "Word_Custom_1562",
+    "value": "100000pt"
+  },
+  {
+    "wordingKey": "Word_Custom_1563",
+    "value": "すべてのストーリーを解放しました。"
+  },
+  {
+    "wordingKey": "Word_Custom_1564",
+    "value": "2020/99/99 14:59まで"
+  },
+  {
+    "wordingKey": "Word_Custom_1565",
+    "value": "あと3日"
+  },
+  {
+    "wordingKey": "Word_Custom_1566",
+    "value": "12/12\\n23時頃"
+  },
+  {
+    "wordingKey": "Word_Custom_1567",
+    "value": "12/12\\n23時頃"
+  },
+  {
+    "wordingKey": "Word_Custom_1568",
+    "value": "00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1569",
+    "value": "開演まで\\n00:00:00"
+  },
+  {
     "wordingKey": "Word_Custom_157",
     "value": "１２３４５６７８９０１２３４６７８"
+  },
+  {
+    "wordingKey": "Word_Custom_1570",
+    "value": "オートライブ設定"
+  },
+  {
+    "wordingKey": "Word_Custom_1571",
+    "value": "ライブボーナスがなくなるまで"
+  },
+  {
+    "wordingKey": "Word_Custom_1572",
+    "value": "回数を指定"
+  },
+  {
+    "wordingKey": "Word_Custom_1573",
+    "value": "オートライブ回数"
+  },
+  {
+    "wordingKey": "Word_Custom_1574",
+    "value": "消費アイテム"
+  },
+  {
+    "wordingKey": "Word_Custom_1575",
+    "value": "※ライブボーナスドリンクが優先して使用されます。"
+  },
+  {
+    "wordingKey": "Word_Custom_1576",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1577",
+    "value": "「申請文収まる場合！あああ」"
+  },
+  {
+    "wordingKey": "Word_Custom_1578",
+    "value": "コネクトライブ招待"
+  },
+  {
+    "wordingKey": "Word_Custom_1579",
+    "value": "あつあつホットケーキから\\nライフボーナス×１０をもらいました"
   },
   {
     "wordingKey": "Word_Custom_158",
     "value": "訊息．最多可輸入24個文字１２３４６７８９０１２"
   },
   {
+    "wordingKey": "Word_Custom_1580",
+    "value": "「申請文収まる場合！あああ」"
+  },
+  {
+    "wordingKey": "Word_Custom_1581",
+    "value": "コネクトライブ招待"
+  },
+  {
+    "wordingKey": "Word_Custom_1582",
+    "value": "あつあつホットケーキから\\nライフボーナス×１０をもらいました"
+  },
+  {
+    "wordingKey": "Word_Custom_1583",
+    "value": "「申請文収まる場合！あああ」"
+  },
+  {
+    "wordingKey": "Word_Custom_1584",
+    "value": "コネクトライブ招待"
+  },
+  {
+    "wordingKey": "Word_Custom_1585",
+    "value": "あつあつホットケーキから\\nライフボーナス×１０をもらいました"
+  },
+  {
+    "wordingKey": "Word_Custom_1586",
+    "value": "「申請文収まる場合！あああ」"
+  },
+  {
+    "wordingKey": "Word_Custom_1587",
+    "value": "コネクトライブ招待"
+  },
+  {
+    "wordingKey": "Word_Custom_1588",
+    "value": "あつあつホットケーキから\\nライフボーナス×１０をもらいました"
+  },
+  {
+    "wordingKey": "Word_Custom_1589",
+    "value": "音楽ショップで交換する"
+  },
+  {
     "wordingKey": "Word_Custom_159",
     "value": "１２３４５６７８９０１２３４６７８"
+  },
+  {
+    "wordingKey": "Word_Custom_1590",
+    "value": "バンド名"
+  },
+  {
+    "wordingKey": "Word_Custom_1591",
+    "value": "大吉"
+  },
+  {
+    "wordingKey": "Word_Custom_1592",
+    "value": "0.05%"
+  },
+  {
+    "wordingKey": "Word_Custom_1593",
+    "value": "1回限定"
+  },
+  {
+    "wordingKey": "Word_Custom_1594",
+    "value": "1231231P"
+  },
+  {
+    "wordingKey": "Word_Custom_1595",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1596",
+    "value": "プレイヤー名36px#446"
+  },
+  {
+    "wordingKey": "Word_Custom_1597",
+    "value": "招待"
+  },
+  {
+    "wordingKey": "Word_Custom_1598",
+    "value": "『お題64px15w以上は縮小』といえば？"
+  },
+  {
+    "wordingKey": "Word_Custom_1599",
+    "value": "32px 中央寄席 #446"
   },
   {
     "wordingKey": "Word_Custom_16",
@@ -3593,6 +4917,30 @@
   {
     "wordingKey": "Word_Custom_160",
     "value": "P"
+  },
+  {
+    "wordingKey": "Word_Custom_1600",
+    "value": "32px 中央寄席 #446"
+  },
+  {
+    "wordingKey": "Word_Custom_1601",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1602",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1603",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1604",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1605",
+    "value": "Lv.60"
   },
   {
     "wordingKey": "Word_Custom_162",
@@ -8924,6 +10272,10 @@
   {
     "wordingKey": "WORD_UNLOCK_STORY",
     "value": "解鎖劇情"
+  },
+  {
+    "wordingKey": "WORD_UNSUBSCRIBE",
+    "value": "賬號已註銷"
   },
   {
     "wordingKey": "WORD_UNTIL_LIVE",

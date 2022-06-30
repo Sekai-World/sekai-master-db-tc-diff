@@ -51,8 +51,8 @@
     "scenarioId": "areatalk02_130",
     "scriptId": "as_2_130",
     "characterIds": [
-      18,
-      19
+      19,
+      18
     ]
   },
   {
@@ -10779,6 +10779,26 @@
     ]
   },
   {
+    "id": 997,
+    "areaId": 9,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_shuffle_03_022",
+    "scriptId": "as_ev_shuffle_03_022",
+    "characterIds": [
+      120
+    ]
+  },
+  {
+    "id": 998,
+    "areaId": 9,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_shuffle_05_013",
+    "scriptId": "as_ev_shuffle_05_013",
+    "characterIds": [
+      128
+    ]
+  },
+  {
     "id": 999,
     "areaId": 2,
     "actionSetType": "normal",
@@ -11649,6 +11669,28 @@
     ]
   },
   {
+    "id": 1083,
+    "areaId": 4,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2107_001",
+    "scriptId": "as_monthly2107_001",
+    "characterIds": [
+      13,
+      14
+    ]
+  },
+  {
+    "id": 1084,
+    "areaId": 11,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2107_002",
+    "scriptId": "as_monthly2107_002",
+    "characterIds": [
+      15,
+      16
+    ]
+  },
+  {
     "id": 1085,
     "areaId": 7,
     "actionSetType": "normal",
@@ -11870,6 +11912,28 @@
       25,
       119,
       134
+    ]
+  },
+  {
+    "id": 1105,
+    "areaId": 9,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_shuffle_03_029",
+    "scriptId": "as_ev_shuffle_03_029",
+    "characterIds": [
+      120,
+      15
+    ]
+  },
+  {
+    "id": 1106,
+    "areaId": 9,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_shuffle_03_030",
+    "scriptId": "as_ev_shuffle_03_030",
+    "characterIds": [
+      120,
+      16
     ]
   },
   {
