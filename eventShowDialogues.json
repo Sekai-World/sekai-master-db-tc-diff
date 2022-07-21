@@ -598,6 +598,98 @@
     ]
   },
   {
+    "id": 31,
+    "assetbundleName": "event_show_obt30_banner",
+    "showType": "ONCE",
+    "startAt": 1659250800000,
+    "endAt": 1659963599000,
+    "behaviors": [
+      {
+        "id": 66,
+        "eventShowDialogueId": 31,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "107"
+      },
+      {
+        "id": 69,
+        "eventShowDialogueId": 31,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "30"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "assetbundleName": "event_show_obt31_banner",
+    "showType": "ONCE",
+    "startAt": 1660114800000,
+    "endAt": 1660827599000,
+    "behaviors": [
+      {
+        "id": 67,
+        "eventShowDialogueId": 32,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "110"
+      },
+      {
+        "id": 70,
+        "eventShowDialogueId": 32,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "31"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "assetbundleName": "event_show_obt32_banner",
+    "showType": "ONCE",
+    "startAt": 1660978800000,
+    "endAt": 1661777999000,
+    "behaviors": [
+      {
+        "id": 68,
+        "eventShowDialogueId": 33,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "112"
+      },
+      {
+        "id": 71,
+        "eventShowDialogueId": 33,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "32"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "assetbundleName": "event_show_obt33_banner",
+    "showType": "ONCE",
+    "startAt": 1661929200000,
+    "endAt": 1662641999000,
+    "behaviors": [
+      {
+        "id": 72,
+        "eventShowDialogueId": 34,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "115"
+      },
+      {
+        "id": 73,
+        "eventShowDialogueId": 34,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "33"
+      }
+    ]
+  },
+  {
     "id": 1000,
     "assetbundleName": "jewel_show_150w",
     "showType": "ONCE",

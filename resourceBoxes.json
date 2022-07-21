@@ -83603,6 +83603,82 @@
   },
   {
     "resourceBoxPurpose": "mission_reward",
+    "id": 100201,
+    "resourceBoxType": "expand",
+    "name": "練習譜（中級）×10",
+    "details": [
+      {
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100202,
+    "resourceBoxType": "expand",
+    "name": "硬幣×30,000",
+    "details": [
+      {
+        "resourceType": "coin",
+        "resourceQuantity": 30000
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100203,
+    "resourceBoxType": "expand",
+    "name": "音乐卡×10",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100204,
+    "resourceBoxType": "expand",
+    "name": "心願碎片×30",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 15,
+        "resourceQuantity": 30
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100205,
+    "resourceBoxType": "expand",
+    "name": "主唱卡交换券×1",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 49,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100206,
+    "resourceBoxType": "expand",
+    "name": "水晶×300",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
     "id": 110001,
     "resourceBoxType": "costume_3d",
     "name": "BP新奖励（2月服装）",
