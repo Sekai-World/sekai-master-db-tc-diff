@@ -32,37 +32,26 @@
     "endAt": 1659283199000
   },
   {
-    "homeBannerId": 181,
+    "homeBannerId": 186,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[活動]Awakening Beat",
-    "assetbundleName": "event_awakening_2021",
+    "name": "[活動]夏日慶典，那響徹雲霄的聲音",
+    "assetbundleName": "event_natsumatsuri_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 28,
-    "startAt": 1657350000000,
-    "endAt": 1658300399000
+    "transitionDestinationId": 29,
+    "startAt": 1658300400000,
+    "endAt": 1659250799000
   },
   {
-    "homeBannerId": 182,
+    "homeBannerId": 187,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "Vivid BAD SQUAD第4次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha102",
+    "name": "SHUFFLE夏日慶典，那響徹雲霄的聲音活動_常態招募橫幅",
+    "assetbundleName": "banner_gacha104",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 102,
-    "startAt": 1657350000000,
-    "endAt": 1658300399000
-  },
-  {
-    "homeBannerId": 183,
-    "seq": 120,
-    "homeBannerType": "general",
-    "name": "Vivid BAD SQUAD第4次巡迴_成員出現率UP招募橫幅",
-    "assetbundleName": "banner_gacha103",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 103,
-    "startAt": 1657782000000,
-    "endAt": 1658149199000
+    "transitionDestinationId": 104,
+    "startAt": 1658300400000,
+    "endAt": 1659250799000
   },
   {
     "homeBannerId": 10005,
