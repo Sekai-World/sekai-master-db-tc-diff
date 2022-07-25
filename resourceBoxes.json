@@ -3424,6 +3424,28 @@
   },
   {
     "resourceBoxPurpose": "billing_shop_item",
+    "id": 1038,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 1800
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 1039,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 1800
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
     "id": 1100,
     "resourceBoxType": "expand",
     "details": [
@@ -5425,6 +5447,69 @@
       {
         "resourceType": "virtual_coin",
         "resourceQuantity": 1500
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 30005,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "gacha_ticket",
+        "resourceId": 1,
+        "resourceQuantity": 10
+      },
+      {
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 30
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 17,
+        "resourceQuantity": 30
+      },
+      {
+        "resourceType": "coin",
+        "resourceQuantity": 300000
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 30006,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "gacha_ticket",
+        "resourceId": 1,
+        "resourceQuantity": 30
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 16,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 11,
+        "resourceQuantity": 500
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 12,
+        "resourceQuantity": 50
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 49,
+        "resourceQuantity": 3
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 150
       }
     ]
   },
@@ -12797,6 +12882,1060 @@
       {
         "resourceType": "gacha_ticket",
         "resourceId": 2,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 1038,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906001,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906002,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906003,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906004,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906005,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906006,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906007,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906008,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906009,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906010,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906011,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906012,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906013,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906014,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906015,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906016,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906017,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906018,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906019,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906020,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906021,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906022,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906023,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906024,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906025,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906026,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906027,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906028,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906029,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906030,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906031,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906032,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906033,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906034,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906035,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906036,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906037,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906038,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906039,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906040,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906041,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906042,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906043,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906044,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906045,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906046,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906047,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906048,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906049,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906050,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906051,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906052,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906053,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906054,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906055,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906056,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906057,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906058,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906059,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906060,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906061,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906062,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906063,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906064,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906065,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906066,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906067,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906068,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906069,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906070,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906071,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906072,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906073,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906074,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906075,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906076,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906077,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906078,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906079,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906080,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906081,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906082,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906083,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906084,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906085,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906086,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906087,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906088,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906089,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906090,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906091,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906092,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906093,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906094,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906095,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906096,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906097,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906098,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906099,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906100,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906101,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906102,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906103,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906104,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906105,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906106,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906107,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906108,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906109,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906110,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906111,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906112,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906113,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906114,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906115,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906116,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906117,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906118,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906119,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906120,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906121,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906122,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906123,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906124,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906125,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906126,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906127,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906128,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906129,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906130,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906131,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906132,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906133,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906134,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906135,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906136,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906137,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906138,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906139,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906140,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906141,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906142,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906143,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906144,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906145,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906146,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906147,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906148,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906149,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906150,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906151,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906152,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906153,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906154,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906155,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906156,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906157,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906158,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906159,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 906160,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 1039,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907001,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907002,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907003,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907004,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907005,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907006,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907007,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907008,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907009,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907010,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907011,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907012,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907013,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907014,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907015,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907016,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907017,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907018,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907019,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907020,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907021,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907022,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907023,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907024,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907025,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907026,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907027,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907028,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907029,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907030,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907031,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907032,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907033,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907034,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907035,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907036,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907037,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907038,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907039,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907040,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907041,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907042,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907043,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907044,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907045,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907046,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907047,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 907048,
         "resourceQuantity": 1
       }
     ]
@@ -59866,6 +61005,24 @@
       {
         "resourceType": "material",
         "resourceId": 45,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1050,
+    "resourceBoxType": "list",
+    "name": "此為七夕登入活動的報酬。",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      },
+      {
+        "resourceType": "boost_item",
+        "resourceId": 3,
         "resourceQuantity": 1
       }
     ]

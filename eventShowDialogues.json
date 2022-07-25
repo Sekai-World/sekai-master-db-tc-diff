@@ -710,5 +710,20 @@
         "transitionDestinationType": "billing_shop_for_jewel"
       }
     ]
+  },
+  {
+    "id": 1001,
+    "assetbundleName": "jewel_show_summer2022",
+    "showType": "ONCE",
+    "startAt": 1658818800000,
+    "endAt": 1660147199000,
+    "behaviors": [
+      {
+        "id": 75,
+        "eventShowDialogueId": 1001,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_value_set"
+      }
+    ]
   }
 ]
