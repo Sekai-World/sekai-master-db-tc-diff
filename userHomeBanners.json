@@ -65,15 +65,15 @@
     "endAt": 1659099599000
   },
   {
-    "homeBannerId": 189,
-    "seq": 130,
+    "homeBannerId": 191,
+    "seq": 90,
     "homeBannerType": "general",
-    "name": "HAPPY BIRTHDAY LIVE 杏",
-    "assetbundleName": "banner_virtuallive86",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 86,
-    "startAt": 1658646000000,
-    "endAt": 1658905199000
+    "name": "選擇清單招募橫幅",
+    "assetbundleName": "banner_gacha106",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 106,
+    "startAt": 1658818800000,
+    "endAt": 1659596399000
   },
   {
     "homeBannerId": 10005,
@@ -84,5 +84,15 @@
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1646280000000,
     "endAt": 4094294399000
+  },
+  {
+    "homeBannerId": 10021,
+    "seq": 3,
+    "homeBannerType": "general",
+    "name": "夏日沙灘主題服裝 限時販售中",
+    "assetbundleName": "banner_summer2022",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1658818800000,
+    "endAt": 1660147199000
   }
 ]
