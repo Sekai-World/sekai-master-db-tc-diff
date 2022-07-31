@@ -22,38 +22,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 180,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "[2021/7]高階任務通行證（月初優先度UP用）",
-    "assetbundleName": "banner_premiummissionpass_2021_07",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1657209600000,
-    "endAt": 1659283199000
-  },
-  {
-    "homeBannerId": 186,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[活動]夏日慶典，那響徹雲霄的聲音",
-    "assetbundleName": "event_natsumatsuri_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 29,
-    "startAt": 1658300400000,
-    "endAt": 1659250799000
-  },
-  {
-    "homeBannerId": 187,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "SHUFFLE夏日慶典，那響徹雲霄的聲音活動_常態招募橫幅",
-    "assetbundleName": "banner_gacha104",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 104,
-    "startAt": 1658300400000,
-    "endAt": 1659250799000
-  },
-  {
     "homeBannerId": 191,
     "seq": 90,
     "homeBannerType": "general",
@@ -63,6 +31,38 @@
     "transitionDestinationId": 106,
     "startAt": 1658818800000,
     "endAt": 1659596399000
+  },
+  {
+    "homeBannerId": 194,
+    "seq": 70,
+    "homeBannerType": "general",
+    "name": "[2021/08]高階任務通行證（月初優先度UP用）",
+    "assetbundleName": "banner_premiummissionpass_2021_08",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1659283200000,
+    "endAt": 1659887999000
+  },
+  {
+    "homeBannerId": 195,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[活動]一定是最棒的summer！",
+    "assetbundleName": "event_summer_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 30,
+    "startAt": 1659250800000,
+    "endAt": 1660114799000
+  },
+  {
+    "homeBannerId": 196,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "SHUFFLE臨海學校活動_常態招募橫幅",
+    "assetbundleName": "banner_gacha107",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 107,
+    "startAt": 1659250800000,
+    "endAt": 1660114799000
   },
   {
     "homeBannerId": 10005,
