@@ -1595,6 +1595,10 @@
     "value": "{0}%OFF"
   },
   {
+    "wordingKey": "MSG_SHOP_EXCHANGE_SUCCESS",
+    "value": "交換成功"
+  },
+  {
     "wordingKey": "MSG_SHOP_EXPIRATION_DATE",
     "value": "<color={0}>有效期限 {1} </color>"
   },
@@ -1985,6 +1989,50 @@
   {
     "wordingKey": "STAFF_URL",
     "value": "https://lf16-mkovscdn-sg.bytedgame.com/obj/lf-game-alisg/gdl_app_5245/web/staff_210908.html"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_BOOST_LIVE_RANK",
+    "value": "粉絲數        倍"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_GRAND_TOTAL",
+    "value": "個人粉絲數累計"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_LIVE_RANK",
+    "value": "{0}<color='#00ccbb'>倍</color>"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_LIVE_RESULT",
+    "value": "LIVE結果"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_PERSONAL_ACHIEVED",
+    "value": "已達成"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_PERSONAL_FANSNUM",
+    "value": "粉絲數{0}"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_PERSONAL_REWARD",
+    "value": "测试"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_REWARD_LEGEND",
+    "value": "個人獎勵於{0}統一發送到「禮物」"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_REWARD_LOCK",
+    "value": "粉絲數達到{0}解鎖"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_REWARD_UNLOCK",
+    "value": "獎勵於{0}發送到「禮物」"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_TOTAL_REWARD",
+    "value": "测试"
   },
   {
     "wordingKey": "TB",
@@ -7566,6 +7614,22 @@
     "value": "・「<color=#3FD5C8>{0}</color>」無法和部分飾品同時設定。"
   },
   {
+    "wordingKey": "WORD_HASUERLOGOUT_BUTTON_CLOSE",
+    "value": "取消"
+  },
+  {
+    "wordingKey": "WORD_HASUERLOGOUT_BUTTON_UNDO",
+    "value": "恢復"
+  },
+  {
+    "wordingKey": "WORD_HASUERLOGOUT_CONTENT",
+    "value": "賬號已成功註銷，即將返回標題界面。"
+  },
+  {
+    "wordingKey": "WORD_HASUERLOGOUT_UNDO",
+    "value": "您的賬號【%s】已註銷，在%s前您都可以恢復該賬號。要恢復被註銷的賬號嗎？"
+  },
+  {
     "wordingKey": "WORD_HATED_FOOD",
     "value": "討厭的食物"
   },
@@ -10054,6 +10118,14 @@
     "value": "SUPER\nSTAR"
   },
   {
+    "wordingKey": "WORD_SUPPORTACTIVITY_RESULT_EFFECTNAME_1",
+    "value": "stage_midaccount_effect"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTACTIVITY_RESULT_EFFECTNAME_2",
+    "value": "stage_midaccount_bg"
+  },
+  {
     "wordingKey": "WORD_SUPPORT_MEMBR",
     "value": "輔助成員"
   },
@@ -10214,6 +10286,10 @@
     "value": "前往Twitter"
   },
   {
+    "wordingKey": "WORD_UERLOGOUT_TITLE",
+    "value": "賬號註銷"
+  },
+  {
     "wordingKey": "WORD_UNIT",
     "value": "團體"
   },
@@ -10328,6 +10404,22 @@
   {
     "wordingKey": "Word_VirtualLiveMCSub",
     "value": "虛擬LIVE 角色談話字幕"
+  },
+  {
+    "wordingKey": "Word_VirtualLiveMCSubFont",
+    "value": "虛擬LIVE的對話字體大小"
+  },
+  {
+    "wordingKey": "Word_VirtualLiveMCSubFontLarge",
+    "value": "大"
+  },
+  {
+    "wordingKey": "Word_VirtualLiveMCSubFontMedium",
+    "value": "中"
+  },
+  {
+    "wordingKey": "Word_VirtualLiveMCSubFontSmall",
+    "value": "小"
   },
   {
     "wordingKey": "WORD_VIRTUAL_COIN",
@@ -10604,6 +10696,10 @@
   {
     "wordingKey": "WORD_WAITING_ROOM",
     "value": "休息室"
+  },
+  {
+    "wordingKey": "WORD_WAITLOGOFF_CONTENT",
+    "value": "正在註銷賬號，請稍等……"
   },
   {
     "wordingKey": "WORD_WAIT_APPROVAL_LIST",

@@ -1378,5 +1378,46 @@
         "startAt": 1661929200000
       }
     ]
+  },
+  {
+    "id": 62,
+    "virtualShopItems": [
+      {
+        "id": 123,
+        "virtualShopItemType": "coordinate",
+        "seq": 99967,
+        "resourceBoxId": 123,
+        "costPaidJewel": 1000,
+        "startAt": 1662534000000,
+        "endAt": 1662793199000
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "virtualShopItems": [
+      {
+        "id": 124,
+        "virtualShopItemType": "accessory",
+        "seq": 199949,
+        "resourceBoxId": 124,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1662793200000
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "virtualShopItems": [
+      {
+        "id": 125,
+        "virtualShopItemType": "penlight",
+        "seq": 199948,
+        "resourceBoxId": 125,
+        "costPaidJewel": 1000,
+        "startAt": 1663743600000
+      }
+    ]
   }
 ]

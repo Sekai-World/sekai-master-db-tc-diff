@@ -177349,7 +177349,7 @@
     "supportUnit": "none",
     "skillId": 11,
     "cardSkillName": "將不可能變可能！",
-    "prefix": "和小粉絲一起",
+    "prefix": "與小粉絲一起",
     "assetbundleName": "res006_no011",
     "gachaPhrase": "呵呵，nice fight!",
     "releaseAt": 1660114800000,
@@ -179553,7 +179553,7 @@
     "supportUnit": "none",
     "skillId": 7,
     "cardSkillName": "讓我獲得勇氣的歌",
-    "prefix": "要發射的是煙火",
+    "prefix": "放煙火慶功",
     "assetbundleName": "res015_no010",
     "gachaPhrase": "霹哩啪拉是可以，但不要砰喔",
     "releaseAt": 1660978800000,
@@ -187788,6 +187788,8250 @@
         "cardLevel": 30,
         "cardParameterType": "param3",
         "power": 6384
+      }
+    ],
+    "specialTrainingCosts": [],
+    "masterLessonAchieveResources": []
+  },
+  {
+    "id": 279,
+    "seq": 2790,
+    "characterId": 1,
+    "rarity": 4,
+    "specialTrainingPower1BonusFixed": 400,
+    "specialTrainingPower2BonusFixed": 400,
+    "specialTrainingPower3BonusFixed": 400,
+    "attr": "mysterious",
+    "supportUnit": "none",
+    "skillId": 7,
+    "cardSkillName": "想傳達的話語",
+    "prefix": "串連心意的星光碎片",
+    "assetbundleName": "res001_no010",
+    "gachaPhrase": "希望能傳達我們的心願！",
+    "releaseAt": 1662793200000,
+    "cardParameters": [
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param1",
+        "power": 3457
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param1",
+        "power": 3527
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param1",
+        "power": 3598
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param1",
+        "power": 3668
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param1",
+        "power": 3739
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param1",
+        "power": 3809
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param1",
+        "power": 3880
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param1",
+        "power": 3950
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param1",
+        "power": 4021
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param1",
+        "power": 4091
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param1",
+        "power": 4162
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param1",
+        "power": 4233
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param1",
+        "power": 4303
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param1",
+        "power": 4374
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param1",
+        "power": 4444
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param1",
+        "power": 4515
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param1",
+        "power": 4585
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param1",
+        "power": 4656
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param1",
+        "power": 4726
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param1",
+        "power": 4797
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param1",
+        "power": 4868
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param1",
+        "power": 4938
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param1",
+        "power": 5009
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param1",
+        "power": 5079
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param1",
+        "power": 5150
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param1",
+        "power": 5220
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param1",
+        "power": 5291
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param1",
+        "power": 5361
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param1",
+        "power": 5432
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param1",
+        "power": 5502
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param1",
+        "power": 5573
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param1",
+        "power": 5644
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param1",
+        "power": 5714
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param1",
+        "power": 5785
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param1",
+        "power": 5855
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param1",
+        "power": 5926
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param1",
+        "power": 5996
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param1",
+        "power": 6067
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param1",
+        "power": 6137
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param1",
+        "power": 6208
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param1",
+        "power": 6279
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param1",
+        "power": 6349
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param1",
+        "power": 6420
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param1",
+        "power": 6490
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param1",
+        "power": 6561
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param1",
+        "power": 6631
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param1",
+        "power": 6702
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param1",
+        "power": 6772
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param1",
+        "power": 6843
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param1",
+        "power": 6914
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param1",
+        "power": 7259
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param1",
+        "power": 7605
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param1",
+        "power": 7951
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param1",
+        "power": 8296
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param1",
+        "power": 8642
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param1",
+        "power": 8988
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param1",
+        "power": 9333
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param1",
+        "power": 9679
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param1",
+        "power": 10025
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param1",
+        "power": 10371
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param2",
+        "power": 3125
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param2",
+        "power": 3188
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param2",
+        "power": 3252
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param2",
+        "power": 3316
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param2",
+        "power": 3380
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param2",
+        "power": 3443
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param2",
+        "power": 3507
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param2",
+        "power": 3571
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param2",
+        "power": 3635
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param2",
+        "power": 3698
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param2",
+        "power": 3762
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param2",
+        "power": 3826
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param2",
+        "power": 3890
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param2",
+        "power": 3953
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param2",
+        "power": 4017
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param2",
+        "power": 4081
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param2",
+        "power": 4145
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param2",
+        "power": 4208
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param2",
+        "power": 4272
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param2",
+        "power": 4336
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param2",
+        "power": 4400
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param2",
+        "power": 4463
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param2",
+        "power": 4527
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param2",
+        "power": 4591
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param2",
+        "power": 4655
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param2",
+        "power": 4718
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param2",
+        "power": 4782
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param2",
+        "power": 4846
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param2",
+        "power": 4910
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param2",
+        "power": 4973
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param2",
+        "power": 5037
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param2",
+        "power": 5101
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param2",
+        "power": 5165
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param2",
+        "power": 5228
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param2",
+        "power": 5292
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param2",
+        "power": 5356
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param2",
+        "power": 5420
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param2",
+        "power": 5483
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param2",
+        "power": 5547
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param2",
+        "power": 5611
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param2",
+        "power": 5675
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param2",
+        "power": 5738
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param2",
+        "power": 5802
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param2",
+        "power": 5866
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param2",
+        "power": 5930
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param2",
+        "power": 5993
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param2",
+        "power": 6057
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param2",
+        "power": 6121
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param2",
+        "power": 6185
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param2",
+        "power": 6249
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param2",
+        "power": 6561
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param2",
+        "power": 6874
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param2",
+        "power": 7186
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param2",
+        "power": 7499
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param2",
+        "power": 7811
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param2",
+        "power": 8124
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param2",
+        "power": 8436
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param2",
+        "power": 8749
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param2",
+        "power": 9061
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param2",
+        "power": 9374
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param3",
+        "power": 3699
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param3",
+        "power": 3774
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param3",
+        "power": 3850
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param3",
+        "power": 3925
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param3",
+        "power": 4001
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param3",
+        "power": 4076
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param3",
+        "power": 4152
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param3",
+        "power": 4227
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param3",
+        "power": 4303
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param3",
+        "power": 4378
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param3",
+        "power": 4454
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param3",
+        "power": 4529
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param3",
+        "power": 4605
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param3",
+        "power": 4680
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param3",
+        "power": 4756
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param3",
+        "power": 4831
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param3",
+        "power": 4907
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param3",
+        "power": 4982
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param3",
+        "power": 5058
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param3",
+        "power": 5133
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param3",
+        "power": 5209
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param3",
+        "power": 5284
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param3",
+        "power": 5360
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param3",
+        "power": 5435
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param3",
+        "power": 5511
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param3",
+        "power": 5586
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param3",
+        "power": 5662
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param3",
+        "power": 5737
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param3",
+        "power": 5813
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param3",
+        "power": 5888
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param3",
+        "power": 5964
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param3",
+        "power": 6039
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param3",
+        "power": 6115
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param3",
+        "power": 6190
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param3",
+        "power": 6266
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param3",
+        "power": 6341
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param3",
+        "power": 6417
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param3",
+        "power": 6492
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param3",
+        "power": 6568
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param3",
+        "power": 6643
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param3",
+        "power": 6719
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param3",
+        "power": 6794
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param3",
+        "power": 6870
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param3",
+        "power": 6945
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param3",
+        "power": 7021
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param3",
+        "power": 7096
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param3",
+        "power": 7172
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param3",
+        "power": 7247
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param3",
+        "power": 7323
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param3",
+        "power": 7399
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param3",
+        "power": 7769
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param3",
+        "power": 8139
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param3",
+        "power": 8509
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param3",
+        "power": 8879
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param3",
+        "power": 9249
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param3",
+        "power": 9619
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param3",
+        "power": 9989
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param3",
+        "power": 10359
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param3",
+        "power": 10729
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param3",
+        "power": 11099
+      }
+    ],
+    "specialTrainingCosts": [
+      {
+        "cardId": 279,
+        "seq": 1,
+        "cost": {
+          "resourceId": 10,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 200
+        }
+      },
+      {
+        "cardId": 279,
+        "seq": 2,
+        "cost": {
+          "resourceId": 14,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 100
+        }
+      }
+    ],
+    "masterLessonAchieveResources": [
+      {
+        "masterRank": 0,
+        "resources": []
+      },
+      {
+        "masterRank": 1,
+        "resources": []
+      },
+      {
+        "masterRank": 3,
+        "resources": []
+      },
+      {
+        "masterRank": 5,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "seq": 2800,
+    "characterId": 26,
+    "rarity": 4,
+    "specialTrainingPower1BonusFixed": 400,
+    "specialTrainingPower2BonusFixed": 400,
+    "specialTrainingPower3BonusFixed": 400,
+    "attr": "mysterious",
+    "supportUnit": "light_sound",
+    "skillId": 10,
+    "cardSkillName": "打開新的一扇窗",
+    "prefix": "用音樂傾訴的合奏",
+    "assetbundleName": "res026_no011",
+    "gachaPhrase": "……好啊，來做吧",
+    "releaseAt": 1662793200000,
+    "cardParameters": [
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param1",
+        "power": 3105
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param1",
+        "power": 3168
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param1",
+        "power": 3231
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param1",
+        "power": 3295
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param1",
+        "power": 3358
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param1",
+        "power": 3421
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param1",
+        "power": 3485
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param1",
+        "power": 3548
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param1",
+        "power": 3611
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param1",
+        "power": 3675
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param1",
+        "power": 3738
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param1",
+        "power": 3801
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param1",
+        "power": 3865
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param1",
+        "power": 3928
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param1",
+        "power": 3991
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param1",
+        "power": 4055
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param1",
+        "power": 4118
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param1",
+        "power": 4181
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param1",
+        "power": 4245
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param1",
+        "power": 4308
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param1",
+        "power": 4371
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param1",
+        "power": 4435
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param1",
+        "power": 4498
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param1",
+        "power": 4561
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param1",
+        "power": 4625
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param1",
+        "power": 4688
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param1",
+        "power": 4752
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param1",
+        "power": 4815
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param1",
+        "power": 4878
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param1",
+        "power": 4942
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param1",
+        "power": 5005
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param1",
+        "power": 5068
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param1",
+        "power": 5132
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param1",
+        "power": 5195
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param1",
+        "power": 5258
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param1",
+        "power": 5322
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param1",
+        "power": 5385
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param1",
+        "power": 5448
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param1",
+        "power": 5512
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param1",
+        "power": 5575
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param1",
+        "power": 5638
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param1",
+        "power": 5702
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param1",
+        "power": 5765
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param1",
+        "power": 5828
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param1",
+        "power": 5892
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param1",
+        "power": 5955
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param1",
+        "power": 6018
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param1",
+        "power": 6082
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param1",
+        "power": 6145
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param1",
+        "power": 6209
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param1",
+        "power": 6519
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param1",
+        "power": 6830
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param1",
+        "power": 7140
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param1",
+        "power": 7451
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param1",
+        "power": 7761
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param1",
+        "power": 8072
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param1",
+        "power": 8382
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param1",
+        "power": 8693
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param1",
+        "power": 9003
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param1",
+        "power": 9314
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param2",
+        "power": 3498
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param2",
+        "power": 3569
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param2",
+        "power": 3640
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param2",
+        "power": 3712
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param2",
+        "power": 3783
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param2",
+        "power": 3854
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param2",
+        "power": 3926
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param2",
+        "power": 3997
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param2",
+        "power": 4068
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param2",
+        "power": 4140
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param2",
+        "power": 4211
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param2",
+        "power": 4283
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param2",
+        "power": 4354
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param2",
+        "power": 4425
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param2",
+        "power": 4497
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param2",
+        "power": 4568
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param2",
+        "power": 4639
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param2",
+        "power": 4711
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param2",
+        "power": 4782
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param2",
+        "power": 4853
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param2",
+        "power": 4925
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param2",
+        "power": 4996
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param2",
+        "power": 5068
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param2",
+        "power": 5139
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param2",
+        "power": 5210
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param2",
+        "power": 5282
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param2",
+        "power": 5353
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param2",
+        "power": 5424
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param2",
+        "power": 5496
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param2",
+        "power": 5567
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param2",
+        "power": 5639
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param2",
+        "power": 5710
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param2",
+        "power": 5781
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param2",
+        "power": 5853
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param2",
+        "power": 5924
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param2",
+        "power": 5995
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param2",
+        "power": 6067
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param2",
+        "power": 6138
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param2",
+        "power": 6209
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param2",
+        "power": 6281
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param2",
+        "power": 6352
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param2",
+        "power": 6424
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param2",
+        "power": 6495
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param2",
+        "power": 6566
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param2",
+        "power": 6638
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param2",
+        "power": 6709
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param2",
+        "power": 6780
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param2",
+        "power": 6852
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param2",
+        "power": 6923
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param2",
+        "power": 6995
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param2",
+        "power": 7344
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param2",
+        "power": 7694
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param2",
+        "power": 8044
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param2",
+        "power": 8393
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param2",
+        "power": 8743
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param2",
+        "power": 9093
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param2",
+        "power": 9442
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param2",
+        "power": 9792
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param2",
+        "power": 10142
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param2",
+        "power": 10492
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param3",
+        "power": 3679
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param3",
+        "power": 3754
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param3",
+        "power": 3829
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param3",
+        "power": 3904
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param3",
+        "power": 3979
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param3",
+        "power": 4054
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param3",
+        "power": 4129
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param3",
+        "power": 4204
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param3",
+        "power": 4279
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param3",
+        "power": 4354
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param3",
+        "power": 4429
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param3",
+        "power": 4504
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param3",
+        "power": 4579
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param3",
+        "power": 4655
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param3",
+        "power": 4730
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param3",
+        "power": 4805
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param3",
+        "power": 4880
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param3",
+        "power": 4955
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param3",
+        "power": 5030
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param3",
+        "power": 5105
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param3",
+        "power": 5180
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param3",
+        "power": 5255
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param3",
+        "power": 5330
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param3",
+        "power": 5405
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param3",
+        "power": 5480
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param3",
+        "power": 5556
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param3",
+        "power": 5631
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param3",
+        "power": 5706
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param3",
+        "power": 5781
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param3",
+        "power": 5856
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param3",
+        "power": 5931
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param3",
+        "power": 6006
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param3",
+        "power": 6081
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param3",
+        "power": 6156
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param3",
+        "power": 6231
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param3",
+        "power": 6306
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param3",
+        "power": 6381
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param3",
+        "power": 6457
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param3",
+        "power": 6532
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param3",
+        "power": 6607
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param3",
+        "power": 6682
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param3",
+        "power": 6757
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param3",
+        "power": 6832
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param3",
+        "power": 6907
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param3",
+        "power": 6982
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param3",
+        "power": 7057
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param3",
+        "power": 7132
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param3",
+        "power": 7207
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param3",
+        "power": 7282
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param3",
+        "power": 7358
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param3",
+        "power": 7726
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param3",
+        "power": 8094
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param3",
+        "power": 8462
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param3",
+        "power": 8830
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param3",
+        "power": 9198
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param3",
+        "power": 9566
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param3",
+        "power": 9934
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param3",
+        "power": 10302
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param3",
+        "power": 10670
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param3",
+        "power": 11038
+      }
+    ],
+    "specialTrainingCosts": [
+      {
+        "cardId": 280,
+        "seq": 1,
+        "cost": {
+          "resourceId": 10,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 200
+        }
+      },
+      {
+        "cardId": 280,
+        "seq": 2,
+        "cost": {
+          "resourceId": 14,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 100
+        }
+      }
+    ],
+    "masterLessonAchieveResources": [
+      {
+        "masterRank": 0,
+        "resources": []
+      },
+      {
+        "masterRank": 1,
+        "resources": []
+      },
+      {
+        "masterRank": 3,
+        "resources": []
+      },
+      {
+        "masterRank": 5,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "seq": 2810,
+    "characterId": 3,
+    "rarity": 4,
+    "specialTrainingPower1BonusFixed": 400,
+    "specialTrainingPower2BonusFixed": 400,
+    "specialTrainingPower3BonusFixed": 400,
+    "attr": "mysterious",
+    "supportUnit": "none",
+    "skillId": 11,
+    "cardSkillName": "對創作的想法",
+    "prefix": "尋找力所能及的事",
+    "assetbundleName": "res003_no012",
+    "gachaPhrase": "呀啊！啊，小步……",
+    "releaseAt": 1662793200000,
+    "cardParameters": [
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param1",
+        "power": 3306
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param1",
+        "power": 3373
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param1",
+        "power": 3440
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param1",
+        "power": 3508
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param1",
+        "power": 3575
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param1",
+        "power": 3643
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param1",
+        "power": 3710
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param1",
+        "power": 3778
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param1",
+        "power": 3845
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param1",
+        "power": 3913
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param1",
+        "power": 3980
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param1",
+        "power": 4047
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param1",
+        "power": 4115
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param1",
+        "power": 4182
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param1",
+        "power": 4250
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param1",
+        "power": 4317
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param1",
+        "power": 4385
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param1",
+        "power": 4452
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param1",
+        "power": 4520
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param1",
+        "power": 4587
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param1",
+        "power": 4654
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param1",
+        "power": 4722
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param1",
+        "power": 4789
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param1",
+        "power": 4857
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param1",
+        "power": 4924
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param1",
+        "power": 4992
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param1",
+        "power": 5059
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param1",
+        "power": 5127
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param1",
+        "power": 5194
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param1",
+        "power": 5262
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param1",
+        "power": 5329
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param1",
+        "power": 5396
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param1",
+        "power": 5464
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param1",
+        "power": 5531
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param1",
+        "power": 5599
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param1",
+        "power": 5666
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param1",
+        "power": 5734
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param1",
+        "power": 5801
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param1",
+        "power": 5869
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param1",
+        "power": 5936
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param1",
+        "power": 6003
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param1",
+        "power": 6071
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param1",
+        "power": 6138
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param1",
+        "power": 6206
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param1",
+        "power": 6273
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param1",
+        "power": 6341
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param1",
+        "power": 6408
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param1",
+        "power": 6476
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param1",
+        "power": 6543
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param1",
+        "power": 6611
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param1",
+        "power": 6941
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param1",
+        "power": 7272
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param1",
+        "power": 7603
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param1",
+        "power": 7933
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param1",
+        "power": 8264
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param1",
+        "power": 8595
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param1",
+        "power": 8925
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param1",
+        "power": 9256
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param1",
+        "power": 9587
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param1",
+        "power": 9918
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param2",
+        "power": 3720
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param2",
+        "power": 3795
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param2",
+        "power": 3871
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param2",
+        "power": 3947
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param2",
+        "power": 4023
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param2",
+        "power": 4099
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param2",
+        "power": 4175
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param2",
+        "power": 4251
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param2",
+        "power": 4327
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param2",
+        "power": 4403
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param2",
+        "power": 4478
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param2",
+        "power": 4554
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param2",
+        "power": 4630
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param2",
+        "power": 4706
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param2",
+        "power": 4782
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param2",
+        "power": 4858
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param2",
+        "power": 4934
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param2",
+        "power": 5010
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param2",
+        "power": 5086
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param2",
+        "power": 5162
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param2",
+        "power": 5237
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param2",
+        "power": 5313
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param2",
+        "power": 5389
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param2",
+        "power": 5465
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param2",
+        "power": 5541
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param2",
+        "power": 5617
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param2",
+        "power": 5693
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param2",
+        "power": 5769
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param2",
+        "power": 5845
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param2",
+        "power": 5921
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param2",
+        "power": 5996
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param2",
+        "power": 6072
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param2",
+        "power": 6148
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param2",
+        "power": 6224
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param2",
+        "power": 6300
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param2",
+        "power": 6376
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param2",
+        "power": 6452
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param2",
+        "power": 6528
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param2",
+        "power": 6604
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param2",
+        "power": 6680
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param2",
+        "power": 6755
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param2",
+        "power": 6831
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param2",
+        "power": 6907
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param2",
+        "power": 6983
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param2",
+        "power": 7059
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param2",
+        "power": 7135
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param2",
+        "power": 7211
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param2",
+        "power": 7287
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param2",
+        "power": 7363
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param2",
+        "power": 7439
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param2",
+        "power": 7811
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param2",
+        "power": 8183
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param2",
+        "power": 8555
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param2",
+        "power": 8927
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param2",
+        "power": 9299
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param2",
+        "power": 9671
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param2",
+        "power": 10043
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param2",
+        "power": 10415
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param2",
+        "power": 10787
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param2",
+        "power": 11159
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param3",
+        "power": 3155
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param3",
+        "power": 3219
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param3",
+        "power": 3283
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param3",
+        "power": 3348
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param3",
+        "power": 3412
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param3",
+        "power": 3476
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param3",
+        "power": 3541
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param3",
+        "power": 3605
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param3",
+        "power": 3670
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param3",
+        "power": 3734
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param3",
+        "power": 3798
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param3",
+        "power": 3863
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param3",
+        "power": 3927
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param3",
+        "power": 3992
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param3",
+        "power": 4056
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param3",
+        "power": 4120
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param3",
+        "power": 4185
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param3",
+        "power": 4249
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param3",
+        "power": 4313
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param3",
+        "power": 4378
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param3",
+        "power": 4442
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param3",
+        "power": 4507
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param3",
+        "power": 4571
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param3",
+        "power": 4635
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param3",
+        "power": 4700
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param3",
+        "power": 4764
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param3",
+        "power": 4829
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param3",
+        "power": 4893
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param3",
+        "power": 4957
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param3",
+        "power": 5022
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param3",
+        "power": 5086
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param3",
+        "power": 5151
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param3",
+        "power": 5215
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param3",
+        "power": 5279
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param3",
+        "power": 5344
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param3",
+        "power": 5408
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param3",
+        "power": 5472
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param3",
+        "power": 5537
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param3",
+        "power": 5601
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param3",
+        "power": 5666
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param3",
+        "power": 5730
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param3",
+        "power": 5794
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param3",
+        "power": 5859
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param3",
+        "power": 5923
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param3",
+        "power": 5988
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param3",
+        "power": 6052
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param3",
+        "power": 6116
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param3",
+        "power": 6181
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param3",
+        "power": 6245
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param3",
+        "power": 6310
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param3",
+        "power": 6625
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param3",
+        "power": 6941
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param3",
+        "power": 7256
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param3",
+        "power": 7572
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param3",
+        "power": 7887
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param3",
+        "power": 8203
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param3",
+        "power": 8518
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param3",
+        "power": 8834
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param3",
+        "power": 9149
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param3",
+        "power": 9465
+      }
+    ],
+    "specialTrainingCosts": [
+      {
+        "cardId": 281,
+        "seq": 1,
+        "cost": {
+          "resourceId": 10,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 200
+        }
+      },
+      {
+        "cardId": 281,
+        "seq": 2,
+        "cost": {
+          "resourceId": 14,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 100
+        }
+      }
+    ],
+    "masterLessonAchieveResources": []
+  },
+  {
+    "id": 282,
+    "seq": 2820,
+    "characterId": 4,
+    "rarity": 3,
+    "specialTrainingPower1BonusFixed": 300,
+    "specialTrainingPower2BonusFixed": 300,
+    "specialTrainingPower3BonusFixed": 300,
+    "attr": "pure",
+    "supportUnit": "none",
+    "skillId": 9,
+    "cardSkillName": "夥伴間的信賴",
+    "prefix": "等等要開檢討會",
+    "assetbundleName": "res004_no011",
+    "gachaPhrase": "好好好，不想的話不用練習沒關係",
+    "releaseAt": 1662793200000,
+    "cardParameters": [
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param1",
+        "power": 3339
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param1",
+        "power": 3424
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param1",
+        "power": 3510
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param1",
+        "power": 3595
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param1",
+        "power": 3681
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param1",
+        "power": 3767
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param1",
+        "power": 3852
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param1",
+        "power": 3938
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param1",
+        "power": 4023
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param1",
+        "power": 4109
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param1",
+        "power": 4195
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param1",
+        "power": 4280
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param1",
+        "power": 4366
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param1",
+        "power": 4452
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param1",
+        "power": 4537
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param1",
+        "power": 4623
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param1",
+        "power": 4708
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param1",
+        "power": 4794
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param1",
+        "power": 4880
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param1",
+        "power": 4965
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param1",
+        "power": 5051
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param1",
+        "power": 5136
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param1",
+        "power": 5222
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param1",
+        "power": 5308
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param1",
+        "power": 5393
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param1",
+        "power": 5479
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param1",
+        "power": 5565
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param1",
+        "power": 5650
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param1",
+        "power": 5736
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param1",
+        "power": 5821
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param1",
+        "power": 5907
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param1",
+        "power": 5993
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param1",
+        "power": 6078
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param1",
+        "power": 6164
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param1",
+        "power": 6249
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param1",
+        "power": 6335
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param1",
+        "power": 6421
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param1",
+        "power": 6506
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param1",
+        "power": 6592
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param1",
+        "power": 6678
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param1",
+        "power": 7011
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param1",
+        "power": 7345
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param1",
+        "power": 7679
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param1",
+        "power": 8013
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param1",
+        "power": 8347
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param1",
+        "power": 8681
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param1",
+        "power": 9015
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param1",
+        "power": 9349
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param1",
+        "power": 9683
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param1",
+        "power": 10017
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param2",
+        "power": 2844
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param2",
+        "power": 2916
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param2",
+        "power": 2989
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param2",
+        "power": 3062
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param2",
+        "power": 3135
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param2",
+        "power": 3208
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param2",
+        "power": 3281
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param2",
+        "power": 3354
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param2",
+        "power": 3427
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param2",
+        "power": 3500
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param2",
+        "power": 3572
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param2",
+        "power": 3645
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param2",
+        "power": 3718
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param2",
+        "power": 3791
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param2",
+        "power": 3864
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param2",
+        "power": 3937
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param2",
+        "power": 4010
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param2",
+        "power": 4083
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param2",
+        "power": 4156
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param2",
+        "power": 4229
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param2",
+        "power": 4301
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param2",
+        "power": 4374
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param2",
+        "power": 4447
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param2",
+        "power": 4520
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param2",
+        "power": 4593
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param2",
+        "power": 4666
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param2",
+        "power": 4739
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param2",
+        "power": 4812
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param2",
+        "power": 4885
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param2",
+        "power": 4958
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param2",
+        "power": 5030
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param2",
+        "power": 5103
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param2",
+        "power": 5176
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param2",
+        "power": 5249
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param2",
+        "power": 5322
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param2",
+        "power": 5395
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param2",
+        "power": 5468
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param2",
+        "power": 5541
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param2",
+        "power": 5614
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param2",
+        "power": 5687
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param2",
+        "power": 5971
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param2",
+        "power": 6255
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param2",
+        "power": 6540
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param2",
+        "power": 6824
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param2",
+        "power": 7109
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param2",
+        "power": 7393
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param2",
+        "power": 7677
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param2",
+        "power": 7962
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param2",
+        "power": 8246
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param2",
+        "power": 8531
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param3",
+        "power": 2997
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param3",
+        "power": 3073
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param3",
+        "power": 3150
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param3",
+        "power": 3227
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param3",
+        "power": 3304
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param3",
+        "power": 3380
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param3",
+        "power": 3457
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param3",
+        "power": 3534
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param3",
+        "power": 3611
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param3",
+        "power": 3688
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param3",
+        "power": 3764
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param3",
+        "power": 3841
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param3",
+        "power": 3918
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param3",
+        "power": 3995
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param3",
+        "power": 4072
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param3",
+        "power": 4148
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param3",
+        "power": 4225
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param3",
+        "power": 4302
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param3",
+        "power": 4379
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param3",
+        "power": 4456
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param3",
+        "power": 4532
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param3",
+        "power": 4609
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param3",
+        "power": 4686
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param3",
+        "power": 4763
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param3",
+        "power": 4840
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param3",
+        "power": 4916
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param3",
+        "power": 4993
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param3",
+        "power": 5070
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param3",
+        "power": 5147
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param3",
+        "power": 5224
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param3",
+        "power": 5300
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param3",
+        "power": 5377
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param3",
+        "power": 5454
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param3",
+        "power": 5531
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param3",
+        "power": 5608
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param3",
+        "power": 5684
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param3",
+        "power": 5761
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param3",
+        "power": 5838
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param3",
+        "power": 5915
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param3",
+        "power": 5992
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param3",
+        "power": 6291
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param3",
+        "power": 6591
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param3",
+        "power": 6891
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param3",
+        "power": 7190
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param3",
+        "power": 7490
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param3",
+        "power": 7790
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param3",
+        "power": 8089
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param3",
+        "power": 8389
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param3",
+        "power": 8689
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param3",
+        "power": 8989
+      }
+    ],
+    "specialTrainingCosts": [
+      {
+        "cardId": 282,
+        "seq": 1,
+        "cost": {
+          "resourceId": 8,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 100
+        }
+      },
+      {
+        "cardId": 282,
+        "seq": 2,
+        "cost": {
+          "resourceId": 14,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 50
+        }
+      }
+    ],
+    "masterLessonAchieveResources": []
+  },
+  {
+    "id": 283,
+    "seq": 2830,
+    "characterId": 2,
+    "rarity": 2,
+    "specialTrainingPower1BonusFixed": 0,
+    "specialTrainingPower2BonusFixed": 0,
+    "specialTrainingPower3BonusFixed": 0,
+    "attr": "mysterious",
+    "supportUnit": "none",
+    "skillId": 2,
+    "cardSkillName": "給努力的你的message",
+    "prefix": "餅乾應援",
+    "assetbundleName": "res002_no013",
+    "releaseAt": 1662793200000,
+    "cardParameters": [
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param1",
+        "power": 2157
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param1",
+        "power": 2268
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param1",
+        "power": 2380
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param1",
+        "power": 2491
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param1",
+        "power": 2603
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param1",
+        "power": 2714
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param1",
+        "power": 2826
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param1",
+        "power": 2938
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param1",
+        "power": 3049
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param1",
+        "power": 3161
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param1",
+        "power": 3272
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param1",
+        "power": 3384
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param1",
+        "power": 3496
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param1",
+        "power": 3607
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param1",
+        "power": 3719
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param1",
+        "power": 3830
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param1",
+        "power": 3942
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param1",
+        "power": 4053
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param1",
+        "power": 4165
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param1",
+        "power": 4277
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param1",
+        "power": 4388
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param1",
+        "power": 4500
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param1",
+        "power": 4611
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param1",
+        "power": 4723
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param1",
+        "power": 4835
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param1",
+        "power": 4946
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param1",
+        "power": 5058
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param1",
+        "power": 5169
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param1",
+        "power": 5281
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param1",
+        "power": 5393
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param2",
+        "power": 2426
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param2",
+        "power": 2551
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param2",
+        "power": 2676
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param2",
+        "power": 2802
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param2",
+        "power": 2927
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param2",
+        "power": 3053
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param2",
+        "power": 3178
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param2",
+        "power": 3304
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param2",
+        "power": 3429
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param2",
+        "power": 3555
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param2",
+        "power": 3680
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param2",
+        "power": 3806
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param2",
+        "power": 3931
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param2",
+        "power": 4057
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param2",
+        "power": 4182
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param2",
+        "power": 4308
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param2",
+        "power": 4433
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param2",
+        "power": 4559
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param2",
+        "power": 4684
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param2",
+        "power": 4810
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param2",
+        "power": 4935
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param2",
+        "power": 5061
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param2",
+        "power": 5186
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param2",
+        "power": 5312
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param2",
+        "power": 5437
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param2",
+        "power": 5563
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param2",
+        "power": 5688
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param2",
+        "power": 5814
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param2",
+        "power": 5939
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param2",
+        "power": 6065
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param3",
+        "power": 2204
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param3",
+        "power": 2318
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param3",
+        "power": 2432
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param3",
+        "power": 2546
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param3",
+        "power": 2660
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param3",
+        "power": 2774
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param3",
+        "power": 2888
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param3",
+        "power": 3002
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param3",
+        "power": 3116
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param3",
+        "power": 3230
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param3",
+        "power": 3344
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param3",
+        "power": 3458
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param3",
+        "power": 3572
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param3",
+        "power": 3686
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param3",
+        "power": 3800
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param3",
+        "power": 3914
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param3",
+        "power": 4028
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param3",
+        "power": 4142
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param3",
+        "power": 4256
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param3",
+        "power": 4370
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param3",
+        "power": 4484
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param3",
+        "power": 4598
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param3",
+        "power": 4712
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param3",
+        "power": 4826
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param3",
+        "power": 4940
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param3",
+        "power": 5054
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param3",
+        "power": 5168
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param3",
+        "power": 5282
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param3",
+        "power": 5396
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param3",
+        "power": 5510
+      }
+    ],
+    "specialTrainingCosts": [],
+    "masterLessonAchieveResources": []
+  },
+  {
+    "id": 284,
+    "seq": 2840,
+    "characterId": 18,
+    "rarity": 4,
+    "specialTrainingPower1BonusFixed": 400,
+    "specialTrainingPower2BonusFixed": 400,
+    "specialTrainingPower3BonusFixed": 400,
+    "attr": "happy",
+    "supportUnit": "none",
+    "skillId": 4,
+    "cardSkillName": "為了不要再忘記",
+    "prefix": "溫暖的愛情記憶",
+    "assetbundleName": "res018_no012",
+    "gachaPhrase": "媽媽，謝謝妳",
+    "releaseAt": 1663743600000,
+    "cardParameters": [
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param1",
+        "power": 3750
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param1",
+        "power": 3826
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param1",
+        "power": 3903
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param1",
+        "power": 3979
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param1",
+        "power": 4056
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param1",
+        "power": 4132
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param1",
+        "power": 4209
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param1",
+        "power": 4285
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param1",
+        "power": 4362
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param1",
+        "power": 4438
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param1",
+        "power": 4515
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param1",
+        "power": 4591
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param1",
+        "power": 4668
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param1",
+        "power": 4744
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param1",
+        "power": 4821
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param1",
+        "power": 4897
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param1",
+        "power": 4974
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param1",
+        "power": 5051
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param1",
+        "power": 5127
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param1",
+        "power": 5204
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param1",
+        "power": 5280
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param1",
+        "power": 5357
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param1",
+        "power": 5433
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param1",
+        "power": 5510
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param1",
+        "power": 5586
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param1",
+        "power": 5663
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param1",
+        "power": 5739
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param1",
+        "power": 5816
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param1",
+        "power": 5892
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param1",
+        "power": 5969
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param1",
+        "power": 6045
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param1",
+        "power": 6122
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param1",
+        "power": 6198
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param1",
+        "power": 6275
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param1",
+        "power": 6352
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param1",
+        "power": 6428
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param1",
+        "power": 6505
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param1",
+        "power": 6581
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param1",
+        "power": 6658
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param1",
+        "power": 6734
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param1",
+        "power": 6811
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param1",
+        "power": 6887
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param1",
+        "power": 6964
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param1",
+        "power": 7040
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param1",
+        "power": 7117
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param1",
+        "power": 7193
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param1",
+        "power": 7270
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param1",
+        "power": 7346
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param1",
+        "power": 7423
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param1",
+        "power": 7500
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param1",
+        "power": 7874
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param1",
+        "power": 8249
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param1",
+        "power": 8624
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param1",
+        "power": 8999
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param1",
+        "power": 9374
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param1",
+        "power": 9749
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param1",
+        "power": 10124
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param1",
+        "power": 10499
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param1",
+        "power": 10874
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param1",
+        "power": 11249
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param2",
+        "power": 3145
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param2",
+        "power": 3209
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param2",
+        "power": 3273
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param2",
+        "power": 3337
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param2",
+        "power": 3401
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param2",
+        "power": 3465
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param2",
+        "power": 3530
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param2",
+        "power": 3594
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param2",
+        "power": 3658
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param2",
+        "power": 3722
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param2",
+        "power": 3786
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param2",
+        "power": 3851
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param2",
+        "power": 3915
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param2",
+        "power": 3979
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param2",
+        "power": 4043
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param2",
+        "power": 4107
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param2",
+        "power": 4171
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param2",
+        "power": 4236
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param2",
+        "power": 4300
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param2",
+        "power": 4364
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param2",
+        "power": 4428
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param2",
+        "power": 4492
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param2",
+        "power": 4557
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param2",
+        "power": 4621
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param2",
+        "power": 4685
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param2",
+        "power": 4749
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param2",
+        "power": 4813
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param2",
+        "power": 4877
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param2",
+        "power": 4942
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param2",
+        "power": 5006
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param2",
+        "power": 5070
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param2",
+        "power": 5134
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param2",
+        "power": 5198
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param2",
+        "power": 5263
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param2",
+        "power": 5327
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param2",
+        "power": 5391
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param2",
+        "power": 5455
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param2",
+        "power": 5519
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param2",
+        "power": 5583
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param2",
+        "power": 5648
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param2",
+        "power": 5712
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param2",
+        "power": 5776
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param2",
+        "power": 5840
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param2",
+        "power": 5904
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param2",
+        "power": 5969
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param2",
+        "power": 6033
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param2",
+        "power": 6097
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param2",
+        "power": 6161
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param2",
+        "power": 6225
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param2",
+        "power": 6290
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param2",
+        "power": 6604
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param2",
+        "power": 6919
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param2",
+        "power": 7233
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param2",
+        "power": 7548
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param2",
+        "power": 7862
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param2",
+        "power": 8177
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param2",
+        "power": 8491
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param2",
+        "power": 8806
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param2",
+        "power": 9120
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param2",
+        "power": 9435
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param3",
+        "power": 3286
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param3",
+        "power": 3353
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param3",
+        "power": 3420
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param3",
+        "power": 3487
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param3",
+        "power": 3554
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param3",
+        "power": 3621
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param3",
+        "power": 3688
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param3",
+        "power": 3755
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param3",
+        "power": 3822
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param3",
+        "power": 3889
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param3",
+        "power": 3956
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param3",
+        "power": 4023
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param3",
+        "power": 4090
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param3",
+        "power": 4157
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param3",
+        "power": 4224
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param3",
+        "power": 4291
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param3",
+        "power": 4358
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param3",
+        "power": 4426
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param3",
+        "power": 4493
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param3",
+        "power": 4560
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param3",
+        "power": 4627
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param3",
+        "power": 4694
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param3",
+        "power": 4761
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param3",
+        "power": 4828
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param3",
+        "power": 4895
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param3",
+        "power": 4962
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param3",
+        "power": 5029
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param3",
+        "power": 5096
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param3",
+        "power": 5163
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param3",
+        "power": 5230
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param3",
+        "power": 5297
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param3",
+        "power": 5364
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param3",
+        "power": 5431
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param3",
+        "power": 5499
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param3",
+        "power": 5566
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param3",
+        "power": 5633
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param3",
+        "power": 5700
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param3",
+        "power": 5767
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param3",
+        "power": 5834
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param3",
+        "power": 5901
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param3",
+        "power": 5968
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param3",
+        "power": 6035
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param3",
+        "power": 6102
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param3",
+        "power": 6169
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param3",
+        "power": 6236
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param3",
+        "power": 6303
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param3",
+        "power": 6370
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param3",
+        "power": 6437
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param3",
+        "power": 6504
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param3",
+        "power": 6572
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param3",
+        "power": 6900
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param3",
+        "power": 7229
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param3",
+        "power": 7557
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param3",
+        "power": 7886
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param3",
+        "power": 8215
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param3",
+        "power": 8543
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param3",
+        "power": 8872
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param3",
+        "power": 9200
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param3",
+        "power": 9529
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param3",
+        "power": 9858
+      }
+    ],
+    "specialTrainingCosts": [
+      {
+        "cardId": 284,
+        "seq": 1,
+        "cost": {
+          "resourceId": 9,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 200
+        }
+      },
+      {
+        "cardId": 284,
+        "seq": 2,
+        "cost": {
+          "resourceId": 14,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 100
+        }
+      }
+    ],
+    "masterLessonAchieveResources": [
+      {
+        "masterRank": 0,
+        "resources": []
+      },
+      {
+        "masterRank": 1,
+        "resources": []
+      },
+      {
+        "masterRank": 3,
+        "resources": []
+      },
+      {
+        "masterRank": 5,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "seq": 2850,
+    "characterId": 20,
+    "rarity": 4,
+    "specialTrainingPower1BonusFixed": 400,
+    "specialTrainingPower2BonusFixed": 400,
+    "specialTrainingPower3BonusFixed": 400,
+    "attr": "happy",
+    "supportUnit": "none",
+    "skillId": 7,
+    "cardSkillName": "害怕前進",
+    "prefix": "片刻的安寧",
+    "assetbundleName": "res020_no012",
+    "gachaPhrase": "我覺得這個很適合鈴♪",
+    "releaseAt": 1663743600000,
+    "cardParameters": [
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param1",
+        "power": 3165
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param1",
+        "power": 3229
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param1",
+        "power": 3294
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param1",
+        "power": 3358
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param1",
+        "power": 3423
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param1",
+        "power": 3487
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param1",
+        "power": 3552
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param1",
+        "power": 3617
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param1",
+        "power": 3681
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param1",
+        "power": 3746
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param1",
+        "power": 3810
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param1",
+        "power": 3875
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param1",
+        "power": 3940
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param1",
+        "power": 4004
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param1",
+        "power": 4069
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param1",
+        "power": 4133
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param1",
+        "power": 4198
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param1",
+        "power": 4263
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param1",
+        "power": 4327
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param1",
+        "power": 4392
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param1",
+        "power": 4456
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param1",
+        "power": 4521
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param1",
+        "power": 4586
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param1",
+        "power": 4650
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param1",
+        "power": 4715
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param1",
+        "power": 4779
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param1",
+        "power": 4844
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param1",
+        "power": 4908
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param1",
+        "power": 4973
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param1",
+        "power": 5038
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param1",
+        "power": 5102
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param1",
+        "power": 5167
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param1",
+        "power": 5231
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param1",
+        "power": 5296
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param1",
+        "power": 5361
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param1",
+        "power": 5425
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param1",
+        "power": 5490
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param1",
+        "power": 5554
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param1",
+        "power": 5619
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param1",
+        "power": 5684
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param1",
+        "power": 5748
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param1",
+        "power": 5813
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param1",
+        "power": 5877
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param1",
+        "power": 5942
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param1",
+        "power": 6007
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param1",
+        "power": 6071
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param1",
+        "power": 6136
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param1",
+        "power": 6200
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param1",
+        "power": 6265
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param1",
+        "power": 6330
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param1",
+        "power": 6646
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param1",
+        "power": 6963
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param1",
+        "power": 7279
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param1",
+        "power": 7596
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param1",
+        "power": 7912
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param1",
+        "power": 8229
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param1",
+        "power": 8545
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param1",
+        "power": 8862
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param1",
+        "power": 9178
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param1",
+        "power": 9495
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param2",
+        "power": 3326
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param2",
+        "power": 3393
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param2",
+        "power": 3461
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param2",
+        "power": 3529
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param2",
+        "power": 3597
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param2",
+        "power": 3665
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param2",
+        "power": 3733
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param2",
+        "power": 3801
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param2",
+        "power": 3869
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param2",
+        "power": 3937
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param2",
+        "power": 4005
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param2",
+        "power": 4073
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param2",
+        "power": 4141
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param2",
+        "power": 4208
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param2",
+        "power": 4276
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param2",
+        "power": 4344
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param2",
+        "power": 4412
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param2",
+        "power": 4480
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param2",
+        "power": 4548
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param2",
+        "power": 4616
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param2",
+        "power": 4684
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param2",
+        "power": 4752
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param2",
+        "power": 4820
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param2",
+        "power": 4888
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param2",
+        "power": 4956
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param2",
+        "power": 5023
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param2",
+        "power": 5091
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param2",
+        "power": 5159
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param2",
+        "power": 5227
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param2",
+        "power": 5295
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param2",
+        "power": 5363
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param2",
+        "power": 5431
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param2",
+        "power": 5499
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param2",
+        "power": 5567
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param2",
+        "power": 5635
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param2",
+        "power": 5703
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param2",
+        "power": 5771
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param2",
+        "power": 5838
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param2",
+        "power": 5906
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param2",
+        "power": 5974
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param2",
+        "power": 6042
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param2",
+        "power": 6110
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param2",
+        "power": 6178
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param2",
+        "power": 6246
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param2",
+        "power": 6314
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param2",
+        "power": 6382
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param2",
+        "power": 6450
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param2",
+        "power": 6518
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param2",
+        "power": 6586
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param2",
+        "power": 6654
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param2",
+        "power": 6986
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param2",
+        "power": 7319
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param2",
+        "power": 7651
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param2",
+        "power": 7984
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param2",
+        "power": 8316
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param2",
+        "power": 8649
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param2",
+        "power": 8981
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param2",
+        "power": 9314
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param2",
+        "power": 9646
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param2",
+        "power": 9979
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param3",
+        "power": 3790
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param3",
+        "power": 3867
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param3",
+        "power": 3944
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param3",
+        "power": 4022
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param3",
+        "power": 4099
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param3",
+        "power": 4176
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param3",
+        "power": 4254
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param3",
+        "power": 4331
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param3",
+        "power": 4408
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param3",
+        "power": 4486
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param3",
+        "power": 4563
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param3",
+        "power": 4640
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param3",
+        "power": 4718
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param3",
+        "power": 4795
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param3",
+        "power": 4872
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param3",
+        "power": 4950
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param3",
+        "power": 5027
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param3",
+        "power": 5104
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param3",
+        "power": 5182
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param3",
+        "power": 5259
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param3",
+        "power": 5336
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param3",
+        "power": 5414
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param3",
+        "power": 5491
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param3",
+        "power": 5568
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param3",
+        "power": 5646
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param3",
+        "power": 5723
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param3",
+        "power": 5801
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param3",
+        "power": 5878
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param3",
+        "power": 5955
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param3",
+        "power": 6033
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param3",
+        "power": 6110
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param3",
+        "power": 6187
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param3",
+        "power": 6265
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param3",
+        "power": 6342
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param3",
+        "power": 6419
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param3",
+        "power": 6497
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param3",
+        "power": 6574
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param3",
+        "power": 6651
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param3",
+        "power": 6729
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param3",
+        "power": 6806
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param3",
+        "power": 6883
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param3",
+        "power": 6961
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param3",
+        "power": 7038
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param3",
+        "power": 7115
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param3",
+        "power": 7193
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param3",
+        "power": 7270
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param3",
+        "power": 7347
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param3",
+        "power": 7425
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param3",
+        "power": 7502
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param3",
+        "power": 7580
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param3",
+        "power": 7959
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param3",
+        "power": 8338
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param3",
+        "power": 8717
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param3",
+        "power": 9096
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param3",
+        "power": 9475
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param3",
+        "power": 9854
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param3",
+        "power": 10233
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param3",
+        "power": 10612
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param3",
+        "power": 10991
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param3",
+        "power": 11370
+      }
+    ],
+    "specialTrainingCosts": [
+      {
+        "cardId": 285,
+        "seq": 1,
+        "cost": {
+          "resourceId": 9,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 200
+        }
+      },
+      {
+        "cardId": 285,
+        "seq": 2,
+        "cost": {
+          "resourceId": 14,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 100
+        }
+      }
+    ],
+    "masterLessonAchieveResources": [
+      {
+        "masterRank": 0,
+        "resources": []
+      },
+      {
+        "masterRank": 1,
+        "resources": []
+      },
+      {
+        "masterRank": 3,
+        "resources": []
+      },
+      {
+        "masterRank": 5,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "seq": 2860,
+    "characterId": 22,
+    "rarity": 4,
+    "specialTrainingPower1BonusFixed": 400,
+    "specialTrainingPower2BonusFixed": 400,
+    "specialTrainingPower3BonusFixed": 400,
+    "attr": "happy",
+    "supportUnit": "school_refusal",
+    "skillId": 11,
+    "cardSkillName": "平靜的搖籃曲",
+    "prefix": "相簿裡的那個女孩",
+    "assetbundleName": "res022_no011",
+    "gachaPhrase": "真冬，這是什麼時候的照片？",
+    "releaseAt": 1663743600000,
+    "cardParameters": [
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param1",
+        "power": 3306
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param1",
+        "power": 3373
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param1",
+        "power": 3440
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param1",
+        "power": 3508
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param1",
+        "power": 3575
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param1",
+        "power": 3643
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param1",
+        "power": 3710
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param1",
+        "power": 3778
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param1",
+        "power": 3845
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param1",
+        "power": 3913
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param1",
+        "power": 3980
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param1",
+        "power": 4047
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param1",
+        "power": 4115
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param1",
+        "power": 4182
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param1",
+        "power": 4250
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param1",
+        "power": 4317
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param1",
+        "power": 4385
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param1",
+        "power": 4452
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param1",
+        "power": 4520
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param1",
+        "power": 4587
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param1",
+        "power": 4654
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param1",
+        "power": 4722
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param1",
+        "power": 4789
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param1",
+        "power": 4857
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param1",
+        "power": 4924
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param1",
+        "power": 4992
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param1",
+        "power": 5059
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param1",
+        "power": 5127
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param1",
+        "power": 5194
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param1",
+        "power": 5262
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param1",
+        "power": 5329
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param1",
+        "power": 5396
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param1",
+        "power": 5464
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param1",
+        "power": 5531
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param1",
+        "power": 5599
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param1",
+        "power": 5666
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param1",
+        "power": 5734
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param1",
+        "power": 5801
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param1",
+        "power": 5869
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param1",
+        "power": 5936
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param1",
+        "power": 6003
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param1",
+        "power": 6071
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param1",
+        "power": 6138
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param1",
+        "power": 6206
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param1",
+        "power": 6273
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param1",
+        "power": 6341
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param1",
+        "power": 6408
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param1",
+        "power": 6476
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param1",
+        "power": 6543
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param1",
+        "power": 6611
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param1",
+        "power": 6941
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param1",
+        "power": 7272
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param1",
+        "power": 7603
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param1",
+        "power": 7933
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param1",
+        "power": 8264
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param1",
+        "power": 8595
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param1",
+        "power": 8925
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param1",
+        "power": 9256
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param1",
+        "power": 9587
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param1",
+        "power": 9918
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param2",
+        "power": 3165
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param2",
+        "power": 3229
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param2",
+        "power": 3294
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param2",
+        "power": 3358
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param2",
+        "power": 3423
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param2",
+        "power": 3487
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param2",
+        "power": 3552
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param2",
+        "power": 3617
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param2",
+        "power": 3681
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param2",
+        "power": 3746
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param2",
+        "power": 3810
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param2",
+        "power": 3875
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param2",
+        "power": 3940
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param2",
+        "power": 4004
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param2",
+        "power": 4069
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param2",
+        "power": 4133
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param2",
+        "power": 4198
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param2",
+        "power": 4263
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param2",
+        "power": 4327
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param2",
+        "power": 4392
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param2",
+        "power": 4456
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param2",
+        "power": 4521
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param2",
+        "power": 4586
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param2",
+        "power": 4650
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param2",
+        "power": 4715
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param2",
+        "power": 4779
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param2",
+        "power": 4844
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param2",
+        "power": 4908
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param2",
+        "power": 4973
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param2",
+        "power": 5038
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param2",
+        "power": 5102
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param2",
+        "power": 5167
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param2",
+        "power": 5231
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param2",
+        "power": 5296
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param2",
+        "power": 5361
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param2",
+        "power": 5425
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param2",
+        "power": 5490
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param2",
+        "power": 5554
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param2",
+        "power": 5619
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param2",
+        "power": 5684
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param2",
+        "power": 5748
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param2",
+        "power": 5813
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param2",
+        "power": 5877
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param2",
+        "power": 5942
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param2",
+        "power": 6007
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param2",
+        "power": 6071
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param2",
+        "power": 6136
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param2",
+        "power": 6200
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param2",
+        "power": 6265
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param2",
+        "power": 6330
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param2",
+        "power": 6646
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param2",
+        "power": 6963
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param2",
+        "power": 7279
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param2",
+        "power": 7596
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param2",
+        "power": 7912
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param2",
+        "power": 8229
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param2",
+        "power": 8545
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param2",
+        "power": 8862
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param2",
+        "power": 9178
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param2",
+        "power": 9495
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param3",
+        "power": 3709
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param3",
+        "power": 3784
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param3",
+        "power": 3860
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param3",
+        "power": 3936
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param3",
+        "power": 4011
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param3",
+        "power": 4087
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param3",
+        "power": 4163
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param3",
+        "power": 4239
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param3",
+        "power": 4314
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param3",
+        "power": 4390
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param3",
+        "power": 4466
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param3",
+        "power": 4542
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param3",
+        "power": 4617
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param3",
+        "power": 4693
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param3",
+        "power": 4769
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param3",
+        "power": 4845
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param3",
+        "power": 4920
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param3",
+        "power": 4996
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param3",
+        "power": 5072
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param3",
+        "power": 5147
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param3",
+        "power": 5223
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param3",
+        "power": 5299
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param3",
+        "power": 5375
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param3",
+        "power": 5450
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param3",
+        "power": 5526
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param3",
+        "power": 5602
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param3",
+        "power": 5678
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param3",
+        "power": 5753
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param3",
+        "power": 5829
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param3",
+        "power": 5905
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param3",
+        "power": 5981
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param3",
+        "power": 6056
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param3",
+        "power": 6132
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param3",
+        "power": 6208
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param3",
+        "power": 6283
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param3",
+        "power": 6359
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param3",
+        "power": 6435
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param3",
+        "power": 6511
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param3",
+        "power": 6586
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param3",
+        "power": 6662
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param3",
+        "power": 6738
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param3",
+        "power": 6814
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param3",
+        "power": 6889
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param3",
+        "power": 6965
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param3",
+        "power": 7041
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param3",
+        "power": 7117
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param3",
+        "power": 7192
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param3",
+        "power": 7268
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param3",
+        "power": 7344
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param3",
+        "power": 7420
+      },
+      {
+        "cardLevel": 51,
+        "cardParameterType": "param3",
+        "power": 7790
+      },
+      {
+        "cardLevel": 52,
+        "cardParameterType": "param3",
+        "power": 8161
+      },
+      {
+        "cardLevel": 53,
+        "cardParameterType": "param3",
+        "power": 8532
+      },
+      {
+        "cardLevel": 54,
+        "cardParameterType": "param3",
+        "power": 8903
+      },
+      {
+        "cardLevel": 55,
+        "cardParameterType": "param3",
+        "power": 9274
+      },
+      {
+        "cardLevel": 56,
+        "cardParameterType": "param3",
+        "power": 9645
+      },
+      {
+        "cardLevel": 57,
+        "cardParameterType": "param3",
+        "power": 10016
+      },
+      {
+        "cardLevel": 58,
+        "cardParameterType": "param3",
+        "power": 10387
+      },
+      {
+        "cardLevel": 59,
+        "cardParameterType": "param3",
+        "power": 10758
+      },
+      {
+        "cardLevel": 60,
+        "cardParameterType": "param3",
+        "power": 11129
+      }
+    ],
+    "specialTrainingCosts": [
+      {
+        "cardId": 286,
+        "seq": 1,
+        "cost": {
+          "resourceId": 9,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 200
+        }
+      },
+      {
+        "cardId": 286,
+        "seq": 2,
+        "cost": {
+          "resourceId": 14,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 100
+        }
+      }
+    ],
+    "masterLessonAchieveResources": []
+  },
+  {
+    "id": 287,
+    "seq": 2870,
+    "characterId": 19,
+    "rarity": 3,
+    "specialTrainingPower1BonusFixed": 300,
+    "specialTrainingPower2BonusFixed": 300,
+    "specialTrainingPower3BonusFixed": 300,
+    "attr": "cute",
+    "supportUnit": "none",
+    "skillId": 9,
+    "cardSkillName": "歡迎商量",
+    "prefix": "取消的訊息",
+    "assetbundleName": "res019_no012",
+    "gachaPhrase": "為什麼我要擔心呢？",
+    "releaseAt": 1663743600000,
+    "cardParameters": [
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param1",
+        "power": 3051
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param1",
+        "power": 3129
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param1",
+        "power": 3207
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param1",
+        "power": 3285
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param1",
+        "power": 3363
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param1",
+        "power": 3441
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param1",
+        "power": 3519
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param1",
+        "power": 3597
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param1",
+        "power": 3675
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param1",
+        "power": 3753
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param1",
+        "power": 3831
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param1",
+        "power": 3909
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param1",
+        "power": 3987
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param1",
+        "power": 4065
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param1",
+        "power": 4143
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param1",
+        "power": 4221
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param1",
+        "power": 4299
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param1",
+        "power": 4377
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param1",
+        "power": 4455
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param1",
+        "power": 4533
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param1",
+        "power": 4611
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param1",
+        "power": 4689
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param1",
+        "power": 4767
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param1",
+        "power": 4845
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param1",
+        "power": 4923
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param1",
+        "power": 5001
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param1",
+        "power": 5079
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param1",
+        "power": 5157
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param1",
+        "power": 5235
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param1",
+        "power": 5313
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param1",
+        "power": 5391
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param1",
+        "power": 5469
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param1",
+        "power": 5547
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param1",
+        "power": 5625
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param1",
+        "power": 5703
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param1",
+        "power": 5781
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param1",
+        "power": 5859
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param1",
+        "power": 5937
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param1",
+        "power": 6015
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param1",
+        "power": 6093
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param1",
+        "power": 6398
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param1",
+        "power": 6703
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param1",
+        "power": 7008
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param1",
+        "power": 7313
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param1",
+        "power": 7618
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param1",
+        "power": 7923
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param1",
+        "power": 8228
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param1",
+        "power": 8533
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param1",
+        "power": 8838
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param1",
+        "power": 9143
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param2",
+        "power": 3312
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param2",
+        "power": 3396
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param2",
+        "power": 3481
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param2",
+        "power": 3566
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param2",
+        "power": 3651
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param2",
+        "power": 3736
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param2",
+        "power": 3821
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param2",
+        "power": 3906
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param2",
+        "power": 3991
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param2",
+        "power": 4076
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param2",
+        "power": 4161
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param2",
+        "power": 4246
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param2",
+        "power": 4331
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param2",
+        "power": 4416
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param2",
+        "power": 4501
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param2",
+        "power": 4586
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param2",
+        "power": 4671
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param2",
+        "power": 4756
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param2",
+        "power": 4841
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param2",
+        "power": 4926
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param2",
+        "power": 5010
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param2",
+        "power": 5095
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param2",
+        "power": 5180
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param2",
+        "power": 5265
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param2",
+        "power": 5350
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param2",
+        "power": 5435
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param2",
+        "power": 5520
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param2",
+        "power": 5605
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param2",
+        "power": 5690
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param2",
+        "power": 5775
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param2",
+        "power": 5860
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param2",
+        "power": 5945
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param2",
+        "power": 6030
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param2",
+        "power": 6115
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param2",
+        "power": 6200
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param2",
+        "power": 6285
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param2",
+        "power": 6370
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param2",
+        "power": 6455
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param2",
+        "power": 6540
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param2",
+        "power": 6625
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param2",
+        "power": 6956
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param2",
+        "power": 7287
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param2",
+        "power": 7618
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param2",
+        "power": 7949
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param2",
+        "power": 8280
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param2",
+        "power": 8611
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param2",
+        "power": 8942
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param2",
+        "power": 9273
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param2",
+        "power": 9604
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param2",
+        "power": 9936
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param3",
+        "power": 2817
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param3",
+        "power": 2889
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param3",
+        "power": 2961
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param3",
+        "power": 3033
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param3",
+        "power": 3105
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param3",
+        "power": 3178
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param3",
+        "power": 3250
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param3",
+        "power": 3322
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param3",
+        "power": 3394
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param3",
+        "power": 3467
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param3",
+        "power": 3539
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param3",
+        "power": 3611
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param3",
+        "power": 3683
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param3",
+        "power": 3756
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param3",
+        "power": 3828
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param3",
+        "power": 3900
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param3",
+        "power": 3972
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param3",
+        "power": 4044
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param3",
+        "power": 4117
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param3",
+        "power": 4189
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param3",
+        "power": 4261
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param3",
+        "power": 4333
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param3",
+        "power": 4406
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param3",
+        "power": 4478
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param3",
+        "power": 4550
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param3",
+        "power": 4622
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param3",
+        "power": 4695
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param3",
+        "power": 4767
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param3",
+        "power": 4839
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param3",
+        "power": 4911
+      },
+      {
+        "cardLevel": 31,
+        "cardParameterType": "param3",
+        "power": 4983
+      },
+      {
+        "cardLevel": 32,
+        "cardParameterType": "param3",
+        "power": 5056
+      },
+      {
+        "cardLevel": 33,
+        "cardParameterType": "param3",
+        "power": 5128
+      },
+      {
+        "cardLevel": 34,
+        "cardParameterType": "param3",
+        "power": 5200
+      },
+      {
+        "cardLevel": 35,
+        "cardParameterType": "param3",
+        "power": 5272
+      },
+      {
+        "cardLevel": 36,
+        "cardParameterType": "param3",
+        "power": 5345
+      },
+      {
+        "cardLevel": 37,
+        "cardParameterType": "param3",
+        "power": 5417
+      },
+      {
+        "cardLevel": 38,
+        "cardParameterType": "param3",
+        "power": 5489
+      },
+      {
+        "cardLevel": 39,
+        "cardParameterType": "param3",
+        "power": 5561
+      },
+      {
+        "cardLevel": 40,
+        "cardParameterType": "param3",
+        "power": 5634
+      },
+      {
+        "cardLevel": 41,
+        "cardParameterType": "param3",
+        "power": 5915
+      },
+      {
+        "cardLevel": 42,
+        "cardParameterType": "param3",
+        "power": 6197
+      },
+      {
+        "cardLevel": 43,
+        "cardParameterType": "param3",
+        "power": 6479
+      },
+      {
+        "cardLevel": 44,
+        "cardParameterType": "param3",
+        "power": 6761
+      },
+      {
+        "cardLevel": 45,
+        "cardParameterType": "param3",
+        "power": 7043
+      },
+      {
+        "cardLevel": 46,
+        "cardParameterType": "param3",
+        "power": 7324
+      },
+      {
+        "cardLevel": 47,
+        "cardParameterType": "param3",
+        "power": 7606
+      },
+      {
+        "cardLevel": 48,
+        "cardParameterType": "param3",
+        "power": 7888
+      },
+      {
+        "cardLevel": 49,
+        "cardParameterType": "param3",
+        "power": 8170
+      },
+      {
+        "cardLevel": 50,
+        "cardParameterType": "param3",
+        "power": 8452
+      }
+    ],
+    "specialTrainingCosts": [
+      {
+        "cardId": 287,
+        "seq": 1,
+        "cost": {
+          "resourceId": 6,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 100
+        }
+      },
+      {
+        "cardId": 287,
+        "seq": 2,
+        "cost": {
+          "resourceId": 14,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 50
+        }
+      }
+    ],
+    "masterLessonAchieveResources": []
+  },
+  {
+    "id": 288,
+    "seq": 2880,
+    "characterId": 17,
+    "rarity": 2,
+    "specialTrainingPower1BonusFixed": 0,
+    "specialTrainingPower2BonusFixed": 0,
+    "specialTrainingPower3BonusFixed": 0,
+    "attr": "pure",
+    "supportUnit": "none",
+    "skillId": 2,
+    "cardSkillName": "來自真冬的道謝",
+    "prefix": "笨拙的下午茶",
+    "assetbundleName": "res017_no011",
+    "releaseAt": 1663743600000,
+    "cardParameters": [
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param1",
+        "power": 2171
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param1",
+        "power": 2283
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param1",
+        "power": 2395
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param1",
+        "power": 2507
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param1",
+        "power": 2620
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param1",
+        "power": 2732
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param1",
+        "power": 2844
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param1",
+        "power": 2956
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param1",
+        "power": 3069
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param1",
+        "power": 3181
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param1",
+        "power": 3293
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param1",
+        "power": 3406
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param1",
+        "power": 3518
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param1",
+        "power": 3630
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param1",
+        "power": 3742
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param1",
+        "power": 3855
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param1",
+        "power": 3967
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param1",
+        "power": 4079
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param1",
+        "power": 4191
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param1",
+        "power": 4304
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param1",
+        "power": 4416
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param1",
+        "power": 4528
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param1",
+        "power": 4641
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param1",
+        "power": 4753
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param1",
+        "power": 4865
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param1",
+        "power": 4977
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param1",
+        "power": 5090
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param1",
+        "power": 5202
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param1",
+        "power": 5314
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param1",
+        "power": 5427
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param2",
+        "power": 2412
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param2",
+        "power": 2536
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param2",
+        "power": 2661
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param2",
+        "power": 2786
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param2",
+        "power": 2911
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param2",
+        "power": 3035
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param2",
+        "power": 3160
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param2",
+        "power": 3285
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param2",
+        "power": 3410
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param2",
+        "power": 3535
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param2",
+        "power": 3659
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param2",
+        "power": 3784
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param2",
+        "power": 3909
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param2",
+        "power": 4034
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param2",
+        "power": 4159
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param2",
+        "power": 4283
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param2",
+        "power": 4408
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param2",
+        "power": 4533
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param2",
+        "power": 4658
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param2",
+        "power": 4783
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param2",
+        "power": 4907
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param2",
+        "power": 5032
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param2",
+        "power": 5157
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param2",
+        "power": 5282
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param2",
+        "power": 5407
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param2",
+        "power": 5531
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param2",
+        "power": 5656
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param2",
+        "power": 5781
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param2",
+        "power": 5906
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param2",
+        "power": 6031
+      },
+      {
+        "cardLevel": 1,
+        "cardParameterType": "param3",
+        "power": 2204
+      },
+      {
+        "cardLevel": 2,
+        "cardParameterType": "param3",
+        "power": 2318
+      },
+      {
+        "cardLevel": 3,
+        "cardParameterType": "param3",
+        "power": 2432
+      },
+      {
+        "cardLevel": 4,
+        "cardParameterType": "param3",
+        "power": 2546
+      },
+      {
+        "cardLevel": 5,
+        "cardParameterType": "param3",
+        "power": 2660
+      },
+      {
+        "cardLevel": 6,
+        "cardParameterType": "param3",
+        "power": 2774
+      },
+      {
+        "cardLevel": 7,
+        "cardParameterType": "param3",
+        "power": 2888
+      },
+      {
+        "cardLevel": 8,
+        "cardParameterType": "param3",
+        "power": 3002
+      },
+      {
+        "cardLevel": 9,
+        "cardParameterType": "param3",
+        "power": 3116
+      },
+      {
+        "cardLevel": 10,
+        "cardParameterType": "param3",
+        "power": 3230
+      },
+      {
+        "cardLevel": 11,
+        "cardParameterType": "param3",
+        "power": 3344
+      },
+      {
+        "cardLevel": 12,
+        "cardParameterType": "param3",
+        "power": 3458
+      },
+      {
+        "cardLevel": 13,
+        "cardParameterType": "param3",
+        "power": 3572
+      },
+      {
+        "cardLevel": 14,
+        "cardParameterType": "param3",
+        "power": 3686
+      },
+      {
+        "cardLevel": 15,
+        "cardParameterType": "param3",
+        "power": 3800
+      },
+      {
+        "cardLevel": 16,
+        "cardParameterType": "param3",
+        "power": 3914
+      },
+      {
+        "cardLevel": 17,
+        "cardParameterType": "param3",
+        "power": 4028
+      },
+      {
+        "cardLevel": 18,
+        "cardParameterType": "param3",
+        "power": 4142
+      },
+      {
+        "cardLevel": 19,
+        "cardParameterType": "param3",
+        "power": 4256
+      },
+      {
+        "cardLevel": 20,
+        "cardParameterType": "param3",
+        "power": 4370
+      },
+      {
+        "cardLevel": 21,
+        "cardParameterType": "param3",
+        "power": 4484
+      },
+      {
+        "cardLevel": 22,
+        "cardParameterType": "param3",
+        "power": 4598
+      },
+      {
+        "cardLevel": 23,
+        "cardParameterType": "param3",
+        "power": 4712
+      },
+      {
+        "cardLevel": 24,
+        "cardParameterType": "param3",
+        "power": 4826
+      },
+      {
+        "cardLevel": 25,
+        "cardParameterType": "param3",
+        "power": 4940
+      },
+      {
+        "cardLevel": 26,
+        "cardParameterType": "param3",
+        "power": 5054
+      },
+      {
+        "cardLevel": 27,
+        "cardParameterType": "param3",
+        "power": 5168
+      },
+      {
+        "cardLevel": 28,
+        "cardParameterType": "param3",
+        "power": 5282
+      },
+      {
+        "cardLevel": 29,
+        "cardParameterType": "param3",
+        "power": 5396
+      },
+      {
+        "cardLevel": 30,
+        "cardParameterType": "param3",
+        "power": 5510
       }
     ],
     "specialTrainingCosts": [],
