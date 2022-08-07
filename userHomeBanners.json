@@ -22,16 +22,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 194,
-    "seq": 70,
-    "homeBannerType": "general",
-    "name": "[2021/08]高階任務通行證（月初優先度UP用）",
-    "assetbundleName": "banner_premiummissionpass_2021_08",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1659283200000,
-    "endAt": 1659887999000
-  },
-  {
     "homeBannerId": 195,
     "seq": 100,
     "homeBannerType": "event",
@@ -63,6 +53,16 @@
     "transitionDestinationId": 108,
     "startAt": 1659596400000,
     "endAt": 1659963599000
+  },
+  {
+    "homeBannerId": 199,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[2021/08]高階任務通行證",
+    "assetbundleName": "banner_premiummissionpass_2021_08",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1659888000000,
+    "endAt": 1661961599000
   },
   {
     "homeBannerId": 10005,
