@@ -690,6 +690,52 @@
     ]
   },
   {
+    "id": 35,
+    "assetbundleName": "event_show_obt34_banner",
+    "showType": "ONCE",
+    "startAt": 1662793200000,
+    "endAt": 1663592399000,
+    "behaviors": [
+      {
+        "id": 78,
+        "eventShowDialogueId": 35,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "118"
+      },
+      {
+        "id": 79,
+        "eventShowDialogueId": 35,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "34"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "assetbundleName": "event_show_obt35_banner",
+    "showType": "ONCE",
+    "startAt": 1663743600000,
+    "endAt": 1664456399000,
+    "behaviors": [
+      {
+        "id": 80,
+        "eventShowDialogueId": 36,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "120"
+      },
+      {
+        "id": 81,
+        "eventShowDialogueId": 36,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "35"
+      }
+    ]
+  },
+  {
     "id": 1000,
     "assetbundleName": "jewel_show_150w",
     "showType": "ONCE",
@@ -721,6 +767,28 @@
       {
         "id": 75,
         "eventShowDialogueId": 1001,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_value_set"
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "assetbundleName": "jewel_show_tonghua2022",
+    "showType": "ONCE",
+    "startAt": 1662534000000,
+    "endAt": 1663343999000,
+    "behaviors": [
+      {
+        "id": 76,
+        "eventShowDialogueId": 1002,
+        "buttonStyle": "NORMAL",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10372"
+      },
+      {
+        "id": 77,
+        "eventShowDialogueId": 1002,
         "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "billing_shop_for_value_set"
       }
