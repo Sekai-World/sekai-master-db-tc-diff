@@ -22,39 +22,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 195,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[活動]一定是最棒的summer！",
-    "assetbundleName": "event_summer_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 30,
-    "startAt": 1659250800000,
-    "endAt": 1660114799000
-  },
-  {
-    "homeBannerId": 196,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "SHUFFLE臨海學校活動_常態招募橫幅",
-    "assetbundleName": "banner_gacha107",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 107,
-    "startAt": 1659250800000,
-    "endAt": 1660114799000
-  },
-  {
-    "homeBannerId": 198,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "HAPPY BIRTHDAY LIVE 一歌",
-    "assetbundleName": "banner_virtuallive88",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 88,
-    "startAt": 1660028400000,
-    "endAt": 1660287599000
-  },
-  {
     "homeBannerId": 199,
     "seq": 200,
     "homeBannerType": "general",
@@ -65,6 +32,39 @@
     "endAt": 1661961599000
   },
   {
+    "homeBannerId": 200,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[活動]Happy lovely everyday!",
+    "assetbundleName": "event_everyday_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 31,
+    "startAt": 1660114800000,
+    "endAt": 1660978799000
+  },
+  {
+    "homeBannerId": 201,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "MORE MORE JUMP！第5次巡迴_常態招募橫幅",
+    "assetbundleName": "banner_gacha110",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 110,
+    "startAt": 1660114800000,
+    "endAt": 1660978799000
+  },
+  {
+    "homeBannerId": 202,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "MORE MORE JUMP！第5次巡迴_成員出現率UP招募橫幅",
+    "assetbundleName": "banner_gacha111",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 111,
+    "startAt": 1660460400000,
+    "endAt": 1660827599000
+  },
+  {
     "homeBannerId": 10005,
     "seq": 132,
     "homeBannerType": "general",
@@ -73,15 +73,5 @@
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1646280000000,
     "endAt": 4094294399000
-  },
-  {
-    "homeBannerId": 10021,
-    "seq": 3,
-    "homeBannerType": "general",
-    "name": "夏日沙灘主題服裝 限時販售中",
-    "assetbundleName": "banner_summer2022",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1658818800000,
-    "endAt": 1660147199000
   }
 ]
