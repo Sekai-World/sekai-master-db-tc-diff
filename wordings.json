@@ -32,6 +32,14 @@
     "value": "此為封測儲值返還活動第%d天的報酬。"
   },
   {
+    "wordingKey": "CHEERFUL_CARNIVAL_1ST_RESULT_REWARD",
+    "value": "此為「%s」第1次中間結果發表的報酬。"
+  },
+  {
+    "wordingKey": "CHEERFUL_CARNIVAL_2ND_RESULT_REWARD",
+    "value": "此為「%s」第2次中間結果發表的報酬。"
+  },
+  {
     "wordingKey": "CHEERFUL_CARNIVAL_ANNOUNCE_CONSECUTIVE_WINS",
     "value": "「%s」團體的「%s」正在%d連勝中！"
   },
@@ -48,6 +56,10 @@
     "value": "「%s」團體的「%s」在%d倍的Special Match中獲勝了！"
   },
   {
+    "wordingKey": "CHEERFUL_CARNIVAL_FINAL_RESULT_REWARD",
+    "value": "此為「%s」最終結果發表的報酬。"
+  },
+  {
     "wordingKey": "CHEERFUL_CARNIVAL_RESULT_REWARD",
     "value": "此為「%s」%s的報酬。"
   },
@@ -56,12 +68,56 @@
     "value": "小隊"
   },
   {
+    "wordingKey": "COLLECTION_BOX_PROVISION_TAB_TITLE",
+    "value": "收藏BOX說明"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_COUNT_OVERFLOW_WARN_MESSAGE",
+    "value": "您將要購買超過公演次數的票券張數。\n剩下的票券將無法使用，也無法用於其他公演或退費。\n\n確定嗎？"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_BALLOON_LABEL_FORMAT",
+    "value": "限定{0}次"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_RIBBON_LABEL_FORMAT",
+    "value": "還有{0}次"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BUTTON_LABEL",
+    "value": "交換"
+  },
+  {
     "wordingKey": "DEFAULT_DECK_NAME",
     "value": "團體01"
   },
   {
     "wordingKey": "DEFAULT_NAME",
     "value": "「世界」的居民"
+  },
+  {
+    "wordingKey": "DIALOG_MESSAGE_VIRTUAL_SHOP_TIME_OVER",
+    "value": "{0}的舉辦期間已經結束。"
+  },
+  {
+    "wordingKey": "DIALOG_OK_BUTTON_LABEL_VIRTUAL_SHOP_TIME_OVER",
+    "value": "關閉"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_COLLECTION_GACHA_CONTENTS",
+    "value": "收藏詳情"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_COLLECTION_GACHA_DETAIL",
+    "value": "收藏BOX詳情"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_COLLECTION_GACHA_SEE_CONTENTS",
+    "value": "收藏詳情"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_VIRTUAL_SHOP_TIME_OVER",
+    "value": "通知"
   },
   {
     "wordingKey": "EASY",
@@ -88,6 +144,10 @@
     "value": "第{0}名"
   },
   {
+    "wordingKey": "FORMAT_CONNECT_LIVE_TICKET_SHOP_ITEM",
+    "value": "{0} x {1}"
+  },
+  {
     "wordingKey": "FRIEND_SHARE_PRESENT_SENTENCE",
     "value": "此為每週分享的禮物。"
   },
@@ -102,6 +162,22 @@
   {
     "wordingKey": "HZ",
     "value": "HZ"
+  },
+  {
+    "wordingKey": "KAKAO_BIND_BUTTON",
+    "value": "연동하기"
+  },
+  {
+    "wordingKey": "KAKAO_BIND_CONTENT",
+    "value": "더 이상 카카오톡 계정을 통한 로그인 방식이 지원되지 않습니다.\\n\n계정이 유실되지 않도록 다른 제3자 플랫폼 계정과\\n\n연동하시길 바랍니다.\\n\n연동 후 크리스탈x100, 라이브 보너스 드링크(대)x1을\\n\n보상으로 드립니다."
+  },
+  {
+    "wordingKey": "KAKAO_BIND_REWARD",
+    "value": "제3자 플랫폼 변경에 대한 보상입니다."
+  },
+  {
+    "wordingKey": "KAKAO_BIND_TITLE",
+    "value": "중요 안내 사항"
   },
   {
     "wordingKey": "KB",
@@ -149,7 +225,7 @@
   },
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT",
-    "value": "累積一定的LIVE P點數後可獲得報酬。\n\n■單人LIVE／多人LIVE■\n每通過一次可<color=#ff55AA>獲得1點</color>LIVE P。\n可使用LIVE BONUS增加獲得量。\n\n■挑戰LIVE■\n每通過一次可<color=#ff55AA>獲得30點</color>LIVE P。\n\n■七彩通行證■\n購買七彩通行證，可獲得2倍LIVE P。 "
+    "value": "累積一定的LIVE P點數後可獲得報酬。\n\n■單人LIVE／多人LIVE■\n每通過一次可<color=#ff55AA>獲得1點</color>LIVE P。\n可使用LIVE BONUS增加獲得量。\n\n■挑戰LIVE■\n每通過一次可<color=#ff55AA>獲得30點</color>LIVE P。"
   },
   {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
@@ -168,6 +244,14 @@
     "value": "設定為自動調整的結果嗎？"
   },
   {
+    "wordingKey": "MSG_ADMISSION_LIMIT_PAID",
+    "value": "免費的觀賞期間已經結束。"
+  },
+  {
+    "wordingKey": "MSG_ADMISSION_LIMIT_PAID_FOR_CONNECT_LIVE",
+    "value": "已超過「試看」的觀賞可能範圍。\n若想繼續觀看公演，請交換票券。"
+  },
+  {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
     "value": "無存取相簿的權限。\n請打開裝置的設定畫面，並允許存取。"
   },
@@ -178,6 +262,10 @@
   {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED_WITH_REASON_ANDROID",
     "value": "若想使用截圖功能，\n必須設定為允許「世界計畫」\n存取裝置中的媒體與檔案。"
+  },
+  {
+    "wordingKey": "MSG_ALERT_TIME_OVER_EXCHANGE_TICKET",
+    "value": "※超過交換期限的票券將無法使用。"
   },
   {
     "wordingKey": "MSG_ALL_UNLOCK_STORY",
@@ -260,6 +348,18 @@
     "value": "因商店已完成退費，將開始進行處理。"
   },
   {
+    "wordingKey": "MSG_BONDS_CHARACTER_SELECT_DESCRIPTION",
+    "value": "請選擇要確認情誼等級的角色。"
+  },
+  {
+    "wordingKey": "MSG_BONDS_RANK_MAX",
+    "value": "情誼等級是最高等級"
+  },
+  {
+    "wordingKey": "MSG_BOND_LIMIT",
+    "value": "提升{0}的角色等級，即可提升情誼等級的上限。"
+  },
+  {
     "wordingKey": "MSG_BOOST_RECOVER_COMPLETE",
     "value": "已恢復{0}LIVE BONUS。"
   },
@@ -269,11 +369,11 @@
   },
   {
     "wordingKey": "MSG_BOOST_RECOVER_METHOD_JEWEL_CONFIRM",
-    "value": "要使用水晶\n恢復{0}LIVE BONUS嗎？"
+    "value": "要使用{0}水晶\n恢復{1}LIVE BONUS嗎？"
   },
   {
     "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
-    "value": "可在服飾店\n製作其他角色的服裝了。"
+    "value": "服飾店已解鎖其他角色可製作的服裝。"
   },
   {
     "wordingKey": "MSG_CHALLENGE_CHARACTER_SELECT_BODY",
@@ -372,6 +472,14 @@
     "value": "可在各區域商店交換各種道具的硬幣。\n透過LIVE等方式取得。"
   },
   {
+    "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
+    "value": "將消耗<color=#FF55AA>{1}個</color>{0} \n打開「{2}」， \n確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
+    "value": "<size=28>打開</size>{0}次"
+  },
+  {
     "wordingKey": "MSG_COLORFUL_PASS_ALERT",
     "value": "七彩通行證已超過有效期限。\n要購買新的嗎？"
   },
@@ -390,6 +498,34 @@
   {
     "wordingKey": "MSG_CONFIRM_OVERWRITE_DATA_LINK_IOS",
     "value": "GameCenter中有連動的遊戲資料。\n要解除連動，並連動至現在的遊戲資料嗎？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_STREAMING_LIVE_ENTER_WITHOUT_TICKET",
+    "value": "因為並無持有LIVE票券\n僅可「試看」。\n確認執行？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_TO_RE_ENTER_STREAMING_LIVE",
+    "value": "即將再次入場。\n確認執行？"
+  },
+  {
+    "wordingKey": "MSG_CONNECT_LIVE_TICKET_EXCHANGE_CONFIRM_TOS",
+    "value": "同意連線LIVE的觀賞服務條款。"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
+    "value": "指定的AUTO LIVE次數已完成。"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_NOT_ENOUGH",
+    "value": "由於LIVE BONUS不足，AUTO LIVE已中斷。\n\n<color=#FF55AA>※將顯示中斷前的LIVE結果。"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_PAUSE_AND_RESTART",
+    "value": "AUTO LIVE已暫時停止。\n要重新開始嗎？"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_UNTILE_NOT_ENOUGH",
+    "value": "直到LIVE BONUS用完為止"
   },
   {
     "wordingKey": "MSG_CONSTUME_FITTING",
@@ -450,6 +586,10 @@
   {
     "wordingKey": "MSG_CUSTOMPROFILE_HONOR_EMPTY",
     "value": "無可顯示稱號"
+  },
+  {
+    "wordingKey": "MSG_CUSTOM_PROFILE_COLLECTION_ALERT",
+    "value": "若選擇的收藏持有數量為0，則無法使用於同一個檔案。\n\n※若刪除收藏的圖層，持有數量將會根據刪除的張數恢復。\n\n※使用數量是以檔案內的總使用量計算。"
   },
   {
     "wordingKey": "MSG_CUSTOM_PROFILE_SAVE_COUNT_ERROR",
@@ -560,8 +700,16 @@
     "value": "未設定最愛貼圖。"
   },
   {
+    "wordingKey": "MSG_EMPTY_STAMP_FAVORITE_FOR_NEW_UI",
+    "value": "未設定最愛貼圖。"
+  },
+  {
     "wordingKey": "MSG_EMPTY_STAMP_HISTORY",
     "value": "無使用貼圖的記錄。"
+  },
+  {
+    "wordingKey": "MSG_ENTER_STREAMING_LIVE_CONFIRM_TO_USE",
+    "value": "將消耗「{0}」<color=#ff5588>{1}張</color>入場。\n確認執行？"
   },
   {
     "wordingKey": "MSG_ENTRY_CONFIRMATION",
@@ -616,8 +764,12 @@
     "value": "活動期間的消耗數量最多可設定為<color=#ff55AA>{0}</color>。"
   },
   {
+    "wordingKey": "MSG_EXCHANGED_LIVE_TICKET",
+    "value": "已與{0}交換。"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_ERROR",
-    "value": "沒有可以交換的道具。\n返回主畫面"
+    "value": "此功能預計將於9/30開啟，敬請期待哦～"
   },
   {
     "wordingKey": "MSG_EXCHANGE_GACHA_CIEL_1",
@@ -691,6 +843,14 @@
     "wordingKey": "MSG_FRIEND_DEFAULT_REQUEST"
   },
   {
+    "wordingKey": "MSG_FRIEND_INVITE_APPROVE",
+    "value": "邀請已被接受。"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REJECT",
+    "value": "邀請已被拒絕。"
+  },
+  {
     "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
     "value": "對方的好友數量已達上限。"
   },
@@ -739,6 +899,10 @@
     "value": "交換所期限已過。"
   },
   {
+    "wordingKey": "MSG_GACHA_LIMIT_SPIN_COUNT",
+    "value": "已達上限"
+  },
+  {
     "wordingKey": "MSG_GACHA_PAID_JEWEL_PRIORITY_USE",
     "value": "將優先使用付費水晶\n（僅使用付費水晶招募時，招募附贈點數提升為2倍）"
   },
@@ -769,6 +933,10 @@
   {
     "wordingKey": "MSG_GACHA_SPIN_LIMIT",
     "value": "還有{0}次"
+  },
+  {
+    "wordingKey": "MSG_GACHA_TICKET_SPIN",
+    "value": "將消耗<color=#FF55AA>{1}個</color>{0}\n來抽「{2}」，\n確定嗎？"
   },
   {
     "wordingKey": "MSG_GACHA_TOP_SEAL_ON",
@@ -827,12 +995,32 @@
     "value": "請輸入玩家ID。"
   },
   {
+    "wordingKey": "MSG_INVITE_FAILED_CHEERFUL_INVALID_TEAM",
+    "value": "由於所屬小隊不同，無法進入邀請房間。"
+  },
+  {
+    "wordingKey": "MSG_INVITE_FAILED_CHEERFUL_NOT_JOIN",
+    "value": "由於沒有參加Cheerful嘉年華的團體，因此無法接受邀請。"
+  },
+  {
+    "wordingKey": "MSG_INVITE_FAILED_TOTAL_POWER",
+    "value": "由於綜合力不足，無法進入邀請房間。"
+  },
+  {
     "wordingKey": "MSG_IN_SESSION",
     "value": "表演中！"
   },
   {
     "wordingKey": "MSG_JOINED_GROUP_REWARD",
     "value": "已取得團體造型服裝。"
+  },
+  {
+    "wordingKey": "MSG_KICKOUT_TO_HOME",
+    "value": "現在發生了問題。\n請稍後再試。"
+  },
+  {
+    "wordingKey": "MSG_KICKOUT_TO_WAITING_AREA",
+    "value": "現在無法入場。\n請稍後再試。"
   },
   {
     "wordingKey": "MSG_LANE_ALPHA",
@@ -1029,6 +1217,14 @@
   {
     "wordingKey": "MSG_MODULE_MAINTENANCE",
     "value": "目前此功能正在維護，無法使用。\n很抱歉造成您的困擾，\n請靜待處理完成。"
+  },
+  {
+    "wordingKey": "MSG_MOVE_STAGE_FAILED",
+    "value": "無法移動到會場。"
+  },
+  {
+    "wordingKey": "MSG_MOVE_TO_LIVESTAGE",
+    "value": "前往LIVE會場中"
   },
   {
     "wordingKey": "MSG_MOVIE_SKIP_BODY",
@@ -1259,12 +1455,20 @@
     "value": "水晶不足，\n要移動到水晶商店嗎？"
   },
   {
+    "wordingKey": "MSG_NOT_ENOUGH_CURRENCY_FOR_VIRTUAL_LIVE_TICKET",
+    "value": "用於交換「{0}」入場票券的水晶不足。"
+  },
+  {
     "wordingKey": "MSG_NOT_ENOUGH_JEWEL",
     "value": "水晶不足。"
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_PAID_JEWEL",
     "value": "付費水晶不足。\n要移動到水晶商店嗎？"
+  },
+  {
+    "wordingKey": "MSG_NOT_ENOUGH_RESOURCE",
+    "value": "{0}不足。"
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_TICKET",
@@ -1281,6 +1485,10 @@
   {
     "wordingKey": "MSG_NOT_PLAYABLE_EVENT",
     "value": "活動已經結束。"
+  },
+  {
+    "wordingKey": "MSG_NOT_PUBLISH_MUSIC_ERROR",
+    "value": "還無法遊玩這首歌曲。"
   },
   {
     "wordingKey": "MSG_NOT_RESULT_CONFIRM_NOW",
@@ -1317,6 +1525,10 @@
   {
     "wordingKey": "MSG_NO_FILTERING_RESULT",
     "value": "無符合篩選的結果。"
+  },
+  {
+    "wordingKey": "MSG_NO_INVITE",
+    "value": "無邀請。"
   },
   {
     "wordingKey": "MSG_NO_VIRTUAL_LIVE",
@@ -1387,6 +1599,10 @@
     "value": "將隊長設為固定"
   },
   {
+    "wordingKey": "MSG_PLACEHOLDER_LIMITED",
+    "value": "限定{0}次"
+  },
+  {
     "wordingKey": "MSG_PRACTICE_EXECUTE",
     "value": "將消耗{0}進行練習，\n確定嗎？"
   },
@@ -1401,6 +1617,10 @@
   {
     "wordingKey": "MSG_PRACTICE_TICKET_ERROR",
     "value": "未正確套用前一次的練習結果。\n為了重新取得資料，將取消練習。\n\n請確認成員等級與使用的練習譜數量後，\n嘗試再次練習。"
+  },
+  {
+    "wordingKey": "MSG_PRELIMINARY_TOURNAMENT_ENDED",
+    "value": "預選的期間已結束。\n將返回主畫面。"
   },
   {
     "wordingKey": "MSG_PREMIUM_BEFORE_SALE",
@@ -1595,6 +1815,10 @@
     "value": "{0}%OFF"
   },
   {
+    "wordingKey": "MSG_SHOP_EXCHANGE_CONFIRM",
+    "value": "要交換{0}嗎？"
+  },
+  {
     "wordingKey": "MSG_SHOP_EXCHANGE_SUCCESS",
     "value": "交換成功"
   },
@@ -1719,6 +1943,30 @@
     "value": "執行遊戲所需的裝置剩餘容量不足，\n無法下載檔案。\n返回標題畫面。"
   },
   {
+    "wordingKey": "MSG_STREAMING_LIVE_FINISH",
+    "value": "公演結束"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_HOME_REWARD_DIALOG_BODY",
+    "value": "從已參加的虛擬LIVE\n「{0}」中獲得了{1}報酬。"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_OPEN",
+    "value": "開始入場"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_PROMOTE_TO_BUY",
+    "value": "※LIVE票券可在等待區域的\n「票券商店」購買。"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_READY",
+    "value": "準備中"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_SCHEDULE_WARNING",
+    "value": "※開演時間僅為預定，有可能提早或延遲。"
+  },
+  {
     "wordingKey": "MSG_TICKET_EXCHANGE_EXPIRED",
     "value": "交換所期限已過。"
   },
@@ -1729,6 +1977,18 @@
   {
     "wordingKey": "MSG_TOTAL_LIVE_POINT",
     "value": "本月累計LIVE P♪"
+  },
+  {
+    "wordingKey": "MSG_TOURNAMENT_LIVE_FAILED",
+    "value": "體力已耗盡。\n將無法以大賽模式繼續。"
+  },
+  {
+    "wordingKey": "MSG_TOURNAMENT_LIVE_NOTICE",
+    "value": "由於大會模式是採公平的分數紀錄方式，因此編成團體的綜合力、技能均為無效。\n此外，無法獲得LIVE報酬。"
+  },
+  {
+    "wordingKey": "MSG_TOURNAMENT_MODE_MASTER_NOT_RELEASED",
+    "value": "歌曲Master難度未解鎖"
   },
   {
     "wordingKey": "MSG_TO_BE_HELD_SOON",
@@ -1847,6 +2107,10 @@
     "value": "距離開演還剩{0}分鐘"
   },
   {
+    "wordingKey": "MSG_VL_MESSAGE_CURRENCY_NOT_ENOUGH",
+    "value": "因使用的數量不足，無法送出"
+  },
+  {
     "wordingKey": "MSG_VOCAL_CHANGE",
     "value": "更換主唱"
   },
@@ -1875,8 +2139,20 @@
     "value": "即將完成準備，請稍待。"
   },
   {
+    "wordingKey": "MSG_WARN_ALREADY_USE_STREAMING_LIVE_TICKET",
+    "value": "※已使用「{0}」，因此無法消耗。"
+  },
+  {
+    "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_DIALOG",
+    "value": "※僅限本公演可自由再次入場。"
+  },
+  {
+    "wordingKey": "MSG_WARN_STREAMING_LIVE_WITHOUT_TICKET",
+    "value": "※僅可欣賞LIVE的開場。"
+  },
+  {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
-    "value": "‧獲得「<color=#00CCBB>[{0}] {1}</color>」後，\n可讓<color=#00CCBB>{1}</color>穿著「<color=#00CCBB>{2}</color>」。"
+    "value": "・獲得「<color=#00CCBB>[{0}] {1}</color>」後，\n可讓<color=#00CCBB>{1}</color>穿著「<color=#00CCBB>{2}</color>」。"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
@@ -1935,6 +2211,10 @@
     "value": "NORMAL"
   },
   {
+    "wordingKey": "OMIKUJI_PROVISION_TAB_TITLE",
+    "value": "運籤說明"
+  },
+  {
     "wordingKey": "PB",
     "value": "PB"
   },
@@ -1945,6 +2225,10 @@
   {
     "wordingKey": "RETURN_MISSION_RECEIVE_INVALID_TERM_REWARD",
     "value": "此為回歸任務的禮物。"
+  },
+  {
+    "wordingKey": "SHOW_ICON_LIMIT_MISSION_GROUP_ID",
+    "value": "8"
   },
   {
     "wordingKey": "SLV",
@@ -1992,7 +2276,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_BOOST_LIVE_RANK",
-    "value": "粉絲數        倍"
+    "value": "粉絲數       倍"
   },
   {
     "wordingKey": "SUPPORT_EVENT_GRAND_TOTAL",
@@ -2000,7 +2284,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_LIVE_RANK",
-    "value": "{0}<color='#00ccbb'>倍</color>"
+    "value": "{0}  <color='#00ccbb'>倍</color>"
   },
   {
     "wordingKey": "SUPPORT_EVENT_LIVE_RESULT",
@@ -2016,11 +2300,11 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_PERSONAL_REWARD",
-    "value": "测试"
+    "value": "此為中秋應援活動的個人粉絲數獎勵"
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LEGEND",
-    "value": "個人獎勵於{0}統一發送到「禮物」"
+    "value": "個人獎勵於9/14 11:00統一發送到「禮物」"
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LOCK",
@@ -2032,15 +2316,39 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_TOTAL_REWARD",
-    "value": "测试"
+    "value": "此為中秋應援活動的「世界」粉絲數獎勵"
   },
   {
     "wordingKey": "TB",
     "value": "TB"
   },
   {
+    "wordingKey": "TITLE_CONNECT_LIVE_TICKET_EXCHANGE_COMPLETE_DIALOG",
+    "value": "交換完成"
+  },
+  {
+    "wordingKey": "TITLE_CONNECT_LIVE_TICKET_OVERFLOW_WARN_DIALOG",
+    "value": "確定"
+  },
+  {
     "wordingKey": "TITLE_PERMISSION_NOT_GRANTED",
     "value": "無權限"
+  },
+  {
+    "wordingKey": "TITLE_PRELIMINARY_TOURNAMENT_ENDED",
+    "value": "確定"
+  },
+  {
+    "wordingKey": "TITLE_TOURNAMENT_LIVE_NOTICE",
+    "value": "關於大賽模式"
+  },
+  {
+    "wordingKey": "UPGRADE_1_13_CHALLENGE_STAGE_REWARD",
+    "value": "此為調整挑戰STAGE經驗值的補償。"
+  },
+  {
+    "wordingKey": "UPGRADE_1_13_CHARACTER_RANK_REWARD",
+    "value": "此為調整角色等級的補償。"
   },
   {
     "wordingKey": "USER_POLICY",
@@ -2049,6 +2357,18 @@
   {
     "wordingKey": "VirtualLiveLobbyLiveStatusView_Distance_To_Start",
     "value": "距離開演"
+  },
+  {
+    "wordingKey": "WARD_BONDS_RANK_REWARD_ANOTHER_VOCAL",
+    "value": "新增到Another Vocal的商店清單"
+  },
+  {
+    "wordingKey": "WARD_BONDS_RANK_REWARD_AREA_TALK",
+    "value": "新增區域對話"
+  },
+  {
+    "wordingKey": "WARD_BONDS_RANK_REWARD_INGAME_VOICE",
+    "value": "解鎖節奏遊戲中相互對話的原創語音\n{0}×{1}"
   },
   {
     "wordingKey": "WORD_\bEXCHANGE_NUM",
@@ -2073,6 +2393,10 @@
   {
     "wordingKey": "WORD_3DMV_NL",
     "value": "3D\nMV"
+  },
+  {
+    "wordingKey": "WORD_3DMV_QUALITY",
+    "value": "3DMV品質"
   },
   {
     "wordingKey": "WORD_3DMV_QUALITY_SETTING",
@@ -2151,6 +2475,10 @@
     "value": "新增好友"
   },
   {
+    "wordingKey": "WORD_ADD_VALUE",
+    "value": "＋{0}"
+  },
+  {
     "wordingKey": "WORD_AFTER_LIVE",
     "value": "AFTER LIVE"
   },
@@ -2223,6 +2551,10 @@
     "value": "登場團體"
   },
   {
+    "wordingKey": "WORD_AP_COMBO_EFFECT",
+    "value": "AP繼續演出"
+  },
+  {
     "wordingKey": "WORD_ARCHIVE_EVENT_STORY_ERROR_TITLE",
     "value": "活動劇情錯誤"
   },
@@ -2233,6 +2565,10 @@
   {
     "wordingKey": "WORD_ARCHIVE_EVESTO_CHARA_FILTER_TITLE",
     "value": "篩選角色"
+  },
+  {
+    "wordingKey": "WORD_ARCHIVE_PREMIUM_PASS_CLOTH_SHOP",
+    "value": "限定服裝"
   },
   {
     "wordingKey": "WORD_AREA_ITEM_EFFECT",
@@ -2275,12 +2611,20 @@
     "value": "自動"
   },
   {
+    "wordingKey": "WORD_AUTO_LIVE_COMPLETE",
+    "value": "AUTO LIVE完成"
+  },
+  {
     "wordingKey": "WORD_AUTO_LIVE_LIMIT",
     "value": "本日額度已用盡"
   },
   {
     "wordingKey": "WORD_AUTO_LIVE_NUMBER_OF_PLAY",
     "value": "還剩{0}次"
+  },
+  {
+    "wordingKey": "WORD_AUTO_LIVE_PAUSE",
+    "value": "AUTO LIVE中斷"
   },
   {
     "wordingKey": "WORD_AVATAR_COSTUME",
@@ -2328,7 +2672,7 @@
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_4",
-    "value": "\n三種<color=#FF55AA>高階任務通行證</color>的價格如下："
+    "value": "三種<color=#FF55AA>高階任務通行證</color>的價格如下："
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_5",
@@ -2353,6 +2697,70 @@
   {
     "wordingKey": "WORD_BODY",
     "value": "服裝"
+  },
+  {
+    "wordingKey": "WORD_BOND",
+    "value": "情誼"
+  },
+  {
+    "wordingKey": "WORD_BONDS",
+    "value": "情誼"
+  },
+  {
+    "wordingKey": "WORD_BONDS_RANK_CONFIRM_REWARD_TITLE",
+    "value": "情誼等級報酬一覽"
+  },
+  {
+    "wordingKey": "WORD_BOND_GET_EXP",
+    "value": "獲得情誼等級EXP"
+  },
+  {
+    "wordingKey": "WORD_BOND_GET_EXP_LIST_BUTTON",
+    "value": "詳情"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_CHARACHTER",
+    "value": "選擇角色配置"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_RANK",
+    "value": "選擇等級"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_TITLE",
+    "value": "確認稱號顯示"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_WORD",
+    "value": "選擇稱號名稱"
+  },
+  {
+    "wordingKey": "WORD_BOND_NO_PAIR_DESCRIPTION",
+    "value": "由於還未解鎖情誼等級，\n無法獲得情誼EXP。"
+  },
+  {
+    "wordingKey": "WORD_BOND_OTHER_EXP_DESCRIPTION",
+    "value": "※有其他獲得已情誼EXP的角色。"
+  },
+  {
+    "wordingKey": "WORD_BOND_RANK",
+    "value": "情誼等級"
+  },
+  {
+    "wordingKey": "WORD_BOND_RANK_FORMAT",
+    "value": "情誼等級{0}"
+  },
+  {
+    "wordingKey": "WORD_BOND_RANK_UP",
+    "value": "情誼等級UP！"
+  },
+  {
+    "wordingKey": "WORD_BOND_REWARD",
+    "value": "情誼等級報酬"
+  },
+  {
+    "wordingKey": "WORD_BOND_REWARD_LIST",
+    "value": "情誼等級報酬一覽"
   },
   {
     "wordingKey": "WORD_BONUS",
@@ -2639,6 +3047,30 @@
     "value": "硬幣"
   },
   {
+    "wordingKey": "WORD_COLLABORATION_AREA",
+    "value": "聯動限定「世界」登場"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA",
+    "value": "新年\n收藏"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA_NOTICE",
+    "value": "注意事項"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA_PROVISION_DETAIL_EXPLANATION",
+    "value": "收藏說明"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA_PROVISION_DETAIL_LIST",
+    "value": "收藏一覽"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GOODS",
+    "value": "甘酒"
+  },
+  {
     "wordingKey": "WORD_COLOR",
     "value": "顏色"
   },
@@ -2648,15 +3080,15 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT",
-    "value": "多次購買不僅能立即獲得水晶（付費）×300，還可額外獲得免費水晶獎勵。獎勵如下：\n※可從購買頁面查看下個月獲得的累計購買獎勵額度。"
+    "value": "獎勵額度與購買次數的關係如下：\n※可從購買頁面查看下個月獲得的累計購買獎勵額度。"
   },
   {
     "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT_1",
-    "value": "第1次：<color=#FF55AA>150</color>水晶 （免費）\n第2次：<color=#FF55AA>200</color>水晶 （免費）\n第3次：<color=#FF55AA>250</color>水晶 （免費）"
+    "value": "  第1次：<color=#FF55AA>150</color>水晶 （免費）\n  第2次：<color=#FF55AA>200</color>水晶 （免費）\n  第3次：<color=#FF55AA>250</color>水晶 （免費）"
   },
   {
     "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT_2",
-    "value": "第4次：<color=#FF55AA>350</color>水晶 （免費）\n第5次：<color=#FF55AA>450</color>水晶 （免費）\n第6次：<color=#FF55AA>600</color>水晶 （免費）"
+    "value": "  第4次：<color=#FF55AA>350</color>水晶 （免費）\n  第5次：<color=#FF55AA>450</color>水晶 （免費）\n  第6次：<color=#FF55AA>600</color>水晶 （免費）"
   },
   {
     "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT_3",
@@ -2668,7 +3100,7 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_EFFECT_CONTENT",
-    "value": "<color=#FF55AA>30</color>天效果為七彩通行證有效期間內可以獲得的獎勵效果：\n・挑戰P（挑戰LIVE等級）獲得量增加為<color=#FF55AA>2</color>倍。\n・LIVE P（LIVE任務）獲得量增加為<color=#FF55AA>2</color>倍。"
+    "value": "<color=#FF55AA>30</color>天效果為七彩通行證有效期間內可以獲得的獎勵效果：\n<color=#FF55AA>※提升「七彩通行證」 權益！</color>\n・每日AUTO LIVE次數上線增加為<color=#FF55AA>20</color>次。\n・挑戰P獲得量增加為<color=#FF55AA>2</color>倍。\n・LIVE P獲得量增加為<color=#FF55AA>2</color>倍。"
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_EFFECT_CONTENT_1",
@@ -2680,7 +3112,7 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_REWARD_CONTENT",
-    "value": "<color=#FF55AA>300</color>個水晶（付費），多次購買將額外獲得水晶（免費）\n七彩通行證生效期間，每天可從「禮物」領取<color=#FF55AA>50</color>個水晶（免費）。"
+    "value": "<color=#FF55AA>300</color>個水晶（付費）\n七彩通行證生效期間，每天可從「禮物」領取<color=#FF55AA>50</color>個水晶（免費）。"
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_RULE",
@@ -2739,12 +3171,28 @@
     "value": "作曲"
   },
   {
+    "wordingKey": "WORD_CONDITION_CUSTOMIZED",
+    "value": "自製條件"
+  },
+  {
     "wordingKey": "WORD_CONFIRM",
     "value": "確定"
   },
   {
     "wordingKey": "WORD_CONFIRM_EXCHANGE",
     "value": "確定交換"
+  },
+  {
+    "wordingKey": "WORD_CONNECT_LIVE_GUIDE_LINE",
+    "value": "規範"
+  },
+  {
+    "wordingKey": "WORD_CONNECT_LIVE_GUIDE_LINE_TITLE",
+    "value": "規範"
+  },
+  {
+    "wordingKey": "WORD_CONSECUTIVE_AUTO_LIVE_NUMBER_OF_PLAY",
+    "value": "還有{0}次"
   },
   {
     "wordingKey": "WORD_CONSUME_NUM",
@@ -2999,8 +3447,7 @@
     "value": "還剩4次"
   },
   {
-    "wordingKey": "Word_Custom_1027",
-    "value": " "
+    "wordingKey": "Word_Custom_1027"
   },
   {
     "wordingKey": "Word_Custom_1028",
@@ -3467,24 +3914,19 @@
     "value": "EXP"
   },
   {
-    "wordingKey": "Word_Custom_121",
-    "value": " "
+    "wordingKey": "Word_Custom_121"
   },
   {
-    "wordingKey": "Word_Custom_122",
-    "value": " "
+    "wordingKey": "Word_Custom_122"
   },
   {
-    "wordingKey": "Word_Custom_123",
-    "value": " "
+    "wordingKey": "Word_Custom_123"
   },
   {
-    "wordingKey": "Word_Custom_124",
-    "value": " "
+    "wordingKey": "Word_Custom_124"
   },
   {
-    "wordingKey": "Word_Custom_125",
-    "value": " "
+    "wordingKey": "Word_Custom_125"
   },
   {
     "wordingKey": "Word_Custom_126",
@@ -3492,7 +3934,7 @@
   },
   {
     "wordingKey": "Word_Custom_1269",
-    "value": "必要"
+    "value": "需要"
   },
   {
     "wordingKey": "Word_Custom_127",
@@ -3500,7 +3942,7 @@
   },
   {
     "wordingKey": "Word_Custom_1270",
-    "value": "所持"
+    "value": "持有"
   },
   {
     "wordingKey": "Word_Custom_1271",
@@ -3508,15 +3950,15 @@
   },
   {
     "wordingKey": "Word_Custom_1272",
-    "value": "名前１０文字まで入る"
+    "value": "名字最多可輸入10個字元"
   },
   {
     "wordingKey": "Word_Custom_1273",
-    "value": "メッセ最大８文字"
+    "value": "訊息最多可輸入8個文字"
   },
   {
     "wordingKey": "Word_Custom_1274",
-    "value": "名前１０文字まで入る"
+    "value": "名字最多可輸入10個字元"
   },
   {
     "wordingKey": "Word_Custom_1275",
@@ -3524,19 +3966,19 @@
   },
   {
     "wordingKey": "Word_Custom_1276",
-    "value": "キャラクター"
+    "value": "角色"
   },
   {
     "wordingKey": "Word_Custom_1277",
-    "value": "キズナ"
+    "value": "情誼"
   },
   {
     "wordingKey": "Word_Custom_1278",
-    "value": "アチーブメント"
+    "value": "成就"
   },
   {
     "wordingKey": "Word_Custom_1279",
-    "value": "イベント"
+    "value": "活動"
   },
   {
     "wordingKey": "Word_Custom_128",
@@ -3544,27 +3986,27 @@
   },
   {
     "wordingKey": "Word_Custom_1280",
-    "value": "100%"
+    "value": "1"
   },
   {
     "wordingKey": "Word_Custom_1281",
-    "value": "自動でページを送る"
+    "value": "自動送出頁面"
   },
   {
     "wordingKey": "Word_Custom_1282",
-    "value": "データダウンロード中"
+    "value": "資料下載中"
   },
   {
     "wordingKey": "Word_Custom_1283",
-    "value": "0.00%"
+    "value": "0"
   },
   {
     "wordingKey": "Word_Custom_1284",
-    "value": "※通信環境の良いところで通信を行なってください。通信状況により時間がかかる場合があります。"
+    "value": "※請在網路連線順暢的地方進行下載。根據連線狀況，有時會花較多時間。"
   },
   {
     "wordingKey": "Word_Custom_1285",
-    "value": "他のプレイヤーを待っています...(3/5)"
+    "value": "正在等待其他玩家……(3/5)"
   },
   {
     "wordingKey": "Word_Custom_1286",
@@ -3588,11 +4030,11 @@
   },
   {
     "wordingKey": "Word_Custom_1290",
-    "value": "ステージのセカイ"
+    "value": "舞台的「世界」"
   },
   {
     "wordingKey": "Word_Custom_1291",
-    "value": "ステージのセカイ"
+    "value": "舞台的「世界」"
   },
   {
     "wordingKey": "Word_Custom_1292",
@@ -3600,31 +4042,31 @@
   },
   {
     "wordingKey": "Word_Custom_1293",
-    "value": "セカイへ"
+    "value": "前往「世界」"
   },
   {
     "wordingKey": "Word_Custom_1294",
-    "value": "現実世界へ"
+    "value": "前往現實世界"
   },
   {
     "wordingKey": "Word_Custom_1295",
-    "value": "バーチャルライブ"
+    "value": "虛擬LIVE"
   },
   {
     "wordingKey": "Word_Custom_1296",
-    "value": "ショッピングモール"
+    "value": "購物中心"
   },
   {
     "wordingKey": "Word_Custom_1297",
-    "value": "ショッピングモール"
+    "value": "購物中心"
   },
   {
     "wordingKey": "Word_Custom_1298",
-    "value": "スタートダッシュミッション"
+    "value": "起跑衝刺任務"
   },
   {
     "wordingKey": "Word_Custom_1299",
-    "value": "イベント\\nストーリー"
+    "value": "活動\\n劇情"
   },
   {
     "wordingKey": "Word_Custom_13",
@@ -3636,35 +4078,35 @@
   },
   {
     "wordingKey": "Word_Custom_1300",
-    "value": "メイン\\nストーリー"
+    "value": "主線\\n劇情"
   },
   {
     "wordingKey": "Word_Custom_1301",
-    "value": "00:00:00"
+    "value": "0"
   },
   {
     "wordingKey": "Word_Custom_1302",
-    "value": "キャラ"
+    "value": "角色"
   },
   {
     "wordingKey": "Word_Custom_1303",
-    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+    "value": "將這裡設定為ON，\\n就只會顯示出\\n正在表演中的角色的物品喔！"
   },
   {
     "wordingKey": "Word_Custom_1304",
-    "value": "メッセージ"
+    "value": "訊息"
   },
   {
     "wordingKey": "Word_Custom_1305",
-    "value": "キャラ"
+    "value": "角色"
   },
   {
     "wordingKey": "Word_Custom_1306",
-    "value": "一般"
+    "value": "通常"
   },
   {
     "wordingKey": "Word_Custom_1307",
-    "value": "利用できません"
+    "value": "無法使用"
   },
   {
     "wordingKey": "Word_Custom_1308",
@@ -3672,7 +4114,7 @@
   },
   {
     "wordingKey": "Word_Custom_1309",
-    "value": "利用できません"
+    "value": "無法使用"
   },
   {
     "wordingKey": "Word_Custom_131",
@@ -3684,7 +4126,7 @@
   },
   {
     "wordingKey": "Word_Custom_1311",
-    "value": "利用できません"
+    "value": "無法使用"
   },
   {
     "wordingKey": "Word_Custom_1312",
@@ -3692,7 +4134,7 @@
   },
   {
     "wordingKey": "Word_Custom_1313",
-    "value": "利用できません"
+    "value": "無法使用"
   },
   {
     "wordingKey": "Word_Custom_1314",
@@ -3700,23 +4142,23 @@
   },
   {
     "wordingKey": "Word_Custom_1315",
-    "value": "利用できません"
+    "value": "無法使用"
   },
   {
     "wordingKey": "Word_Custom_1316",
-    "value": "ステージの方向以外にアイテムを投げることはできません"
+    "value": "無法朝舞台以外的方向投擲道具"
   },
   {
     "wordingKey": "Word_Custom_1317",
-    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+    "value": "將這裡設定為ON，\\n就只會顯示出\\n正在表演中的角色的物品喔！"
   },
   {
     "wordingKey": "Word_Custom_1318",
-    "value": "お守り 星野 一歌"
+    "value": "御守 星野一歌"
   },
   {
     "wordingKey": "Word_Custom_1319",
-    "value": "0.05%"
+    "value": "0.0005"
   },
   {
     "wordingKey": "Word_Custom_132",
@@ -3724,7 +4166,7 @@
   },
   {
     "wordingKey": "Word_Custom_1320",
-    "value": "アイテム"
+    "value": "道具"
   },
   {
     "wordingKey": "Word_Custom_1321",
@@ -3732,35 +4174,35 @@
   },
   {
     "wordingKey": "Word_Custom_1322",
-    "value": "まだキズナランクは\\n発生しません"
+    "value": "還未產生\\n情誼等級"
   },
   {
     "wordingKey": "Word_Custom_1323",
-    "value": "選択済み"
+    "value": "已選擇"
   },
   {
     "wordingKey": "Word_Custom_1324",
-    "value": "キャラ"
+    "value": "角色"
   },
   {
     "wordingKey": "Word_Custom_1325",
-    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+    "value": "將這裡設定為ON，\\n就只會顯示出\\n正在表演中的角色的物品喔！"
   },
   {
     "wordingKey": "Word_Custom_1326",
-    "value": "00:00:00"
+    "value": "0"
   },
   {
     "wordingKey": "Word_Custom_1327",
-    "value": "キャラ"
+    "value": "角色"
   },
   {
     "wordingKey": "Word_Custom_1328",
-    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+    "value": "將這裡設定為ON，\\n就只會顯示出\\n正在表演中的角色的物品喔！"
   },
   {
     "wordingKey": "Word_Custom_1329",
-    "value": "メッセージ"
+    "value": "訊息"
   },
   {
     "wordingKey": "Word_Custom_133",
@@ -3768,15 +4210,15 @@
   },
   {
     "wordingKey": "Word_Custom_1330",
-    "value": "キャラ"
+    "value": "角色"
   },
   {
     "wordingKey": "Word_Custom_1331",
-    "value": "一般"
+    "value": "通常"
   },
   {
     "wordingKey": "Word_Custom_1332",
-    "value": "利用できません"
+    "value": "無法使用。"
   },
   {
     "wordingKey": "Word_Custom_1333",
@@ -3784,7 +4226,7 @@
   },
   {
     "wordingKey": "Word_Custom_1334",
-    "value": "利用できません"
+    "value": "無法使用。"
   },
   {
     "wordingKey": "Word_Custom_1335",
@@ -3792,7 +4234,7 @@
   },
   {
     "wordingKey": "Word_Custom_1336",
-    "value": "利用できません"
+    "value": "無法使用。"
   },
   {
     "wordingKey": "Word_Custom_1337",
@@ -3800,7 +4242,7 @@
   },
   {
     "wordingKey": "Word_Custom_1338",
-    "value": "利用できません"
+    "value": "無法使用。"
   },
   {
     "wordingKey": "Word_Custom_1339",
@@ -3812,43 +4254,43 @@
   },
   {
     "wordingKey": "Word_Custom_1340",
-    "value": "利用できません"
+    "value": "無法使用。"
   },
   {
     "wordingKey": "Word_Custom_1341",
-    "value": "ステージの方向以外にアイテムを投げることはできません"
+    "value": "無法朝舞台以外的方向投擲道具"
   },
   {
     "wordingKey": "Word_Custom_1342",
-    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+    "value": "將這裡設定為ON，\\n就只會顯示出\\n正在表演中的角色的物品喔！"
   },
   {
     "wordingKey": "Word_Custom_1343",
-    "value": "バーチャルライブ"
+    "value": "虛擬LIVE"
   },
   {
     "wordingKey": "Word_Custom_1344",
-    "value": "ショッピングモール"
+    "value": "購物中心"
   },
   {
     "wordingKey": "Word_Custom_1345",
-    "value": "ショッピングモール"
+    "value": "購物中心"
   },
   {
     "wordingKey": "Word_Custom_1346",
-    "value": "スタートダッシュミッション"
+    "value": "起跑衝刺任務"
   },
   {
     "wordingKey": "Word_Custom_1347",
-    "value": "プレミアムパス"
+    "value": "高階任務通行證"
   },
   {
     "wordingKey": "Word_Custom_1348",
-    "value": "交換期限が近いセレクトチケットがあります。\\nチケット交換所へ移動しますか？"
+    "value": "有快到期的選擇券。\\n是否要前往票券交換所？"
   },
   {
     "wordingKey": "Word_Custom_1349",
-    "value": "初心者限定★4メンバー交換チケット"
+    "value": "新手限定★4成員交換券"
   },
   {
     "wordingKey": "Word_Custom_135",
@@ -3872,19 +4314,19 @@
   },
   {
     "wordingKey": "Word_Custom_1354",
-    "value": "「{0}」を\\n<color=#ff5588>{1}枚</color>消費して入場します。\\nよろしいですか？"
+    "value": "將消耗「{0}」<color=#ff5588>{1}張</color>入場。\n確認執行？"
   },
   {
     "wordingKey": "Word_Custom_1355",
-    "value": "所持"
+    "value": "持有"
   },
   {
     "wordingKey": "Word_Custom_1356",
-    "value": "必要"
+    "value": "需要"
   },
   {
     "wordingKey": "Word_Custom_1357",
-    "value": "バーチャルシンガー"
+    "value": "虛擬歌手"
   },
   {
     "wordingKey": "Word_Custom_1358",
@@ -3908,7 +4350,7 @@
   },
   {
     "wordingKey": "Word_Custom_1362",
-    "value": "LV ?/<size=28>?</size>"
+    "value": "等級 ?/<size=28>?</size>"
   },
   {
     "wordingKey": "Word_Custom_1363",
@@ -3916,7 +4358,7 @@
   },
   {
     "wordingKey": "Word_Custom_1364",
-    "value": "LV ?/<size=28>?</size>"
+    "value": "等級 ?/<size=28>?</size>"
   },
   {
     "wordingKey": "Word_Custom_1365",
@@ -3932,7 +4374,7 @@
   },
   {
     "wordingKey": "Word_Custom_1368",
-    "value": "開演まで\\n00:00:00"
+    "value": "距離開演還剩\\n00:00:00"
   },
   {
     "wordingKey": "Word_Custom_1369",
@@ -3944,35 +4386,35 @@
   },
   {
     "wordingKey": "Word_Custom_1370",
-    "value": "クリスタル<color=#FF55AA>1500個</color>を消費して\\n「BOX名」を\\n引きます。よろしいですか？"
+    "value": "將消耗水晶<color=#FF55AA>1500個來抽\\n「BOX名稱」\\n。確定嗎？"
   },
   {
     "wordingKey": "Word_Custom_1371",
-    "value": "所持"
+    "value": "持有"
   },
   {
     "wordingKey": "Word_Custom_1372",
-    "value": "必要"
+    "value": "需要"
   },
   {
     "wordingKey": "Word_Custom_1373",
-    "value": "引く"
+    "value": "招募"
   },
   {
     "wordingKey": "Word_Custom_1374",
-    "value": "2000/99/99 14:59まで"
+    "value": "到2000/99/99 14:59為止"
   },
   {
     "wordingKey": "Word_Custom_1375",
-    "value": "1回<size=28>引く</size>"
+    "value": "<size=28>招募</size>1次"
   },
   {
     "wordingKey": "Word_Custom_1376",
-    "value": "去活动兑换所获取资源"
+    "value": "去活動交換所交換道具"
   },
   {
     "wordingKey": "Word_Custom_1377",
-    "value": "選択メンバー"
+    "value": "選擇成員"
   },
   {
     "wordingKey": "Word_Custom_1378",
@@ -3980,7 +4422,7 @@
   },
   {
     "wordingKey": "Word_Custom_1379",
-    "value": "想いの純結晶"
+    "value": "心願純結晶"
   },
   {
     "wordingKey": "Word_Custom_138",
@@ -3992,11 +4434,11 @@
   },
   {
     "wordingKey": "Word_Custom_1381",
-    "value": "想いの純結晶"
+    "value": "心願純結晶"
   },
   {
     "wordingKey": "Word_Custom_1382",
-    "value": "バンド名"
+    "value": "樂團名稱"
   },
   {
     "wordingKey": "Word_Custom_1383",
@@ -4004,11 +4446,11 @@
   },
   {
     "wordingKey": "Word_Custom_1384",
-    "value": "スコア獲得日時"
+    "value": "分數獲得日期"
   },
   {
     "wordingKey": "Word_Custom_1385",
-    "value": "2022/2/1 00:00"
+    "value": "44593"
   },
   {
     "wordingKey": "Word_Custom_1386",
@@ -4024,7 +4466,7 @@
   },
   {
     "wordingKey": "Word_Custom_1389",
-    "value": "クリスタルを50消費して\\nライブボーナスを回復しますか？"
+    "value": "要使用50水晶恢復\\nLIVE BONUS嗎？"
   },
   {
     "wordingKey": "Word_Custom_139",
@@ -4052,11 +4494,11 @@
   },
   {
     "wordingKey": "Word_Custom_1395",
-    "value": "3TAP ユーザー削除"
+    "value": "點擊3次 刪除用戶"
   },
   {
     "wordingKey": "Word_Custom_1396",
-    "value": "Tutorial突破ユーザ"
+    "value": "完成教學的用戶"
   },
   {
     "wordingKey": "Word_Custom_1397",
@@ -4071,8 +4513,7 @@
     "value": "<color=#444466>0</color>"
   },
   {
-    "wordingKey": "Word_Custom_14",
-    "value": " "
+    "wordingKey": "Word_Custom_14"
   },
   {
     "wordingKey": "Word_Custom_140",
@@ -4092,7 +4533,7 @@
   },
   {
     "wordingKey": "Word_Custom_1403",
-    "value": "1回<size=28>引く</size>"
+    "value": "<size=28>招募</size>1次"
   },
   {
     "wordingKey": "Word_Custom_1404",
@@ -4124,7 +4565,7 @@
   },
   {
     "wordingKey": "Word_Custom_1410",
-    "value": "200%"
+    "value": "2"
   },
   {
     "wordingKey": "Word_Custom_1411",
@@ -4156,11 +4597,11 @@
   },
   {
     "wordingKey": "Word_Custom_1418",
-    "value": "500%"
+    "value": "5"
   },
   {
     "wordingKey": "Word_Custom_1419",
-    "value": "yyyy/mm/dd hh:ssまで"
+    "value": "到yyyy/mm/dd hh:mm為止"
   },
   {
     "wordingKey": "Word_Custom_142",
@@ -4172,15 +4613,15 @@
   },
   {
     "wordingKey": "Word_Custom_1421",
-    "value": "あと1回"
+    "value": "還剩1次"
   },
   {
     "wordingKey": "Word_Custom_1422",
-    "value": "2000/99/99 14:59まで"
+    "value": "到2000/99/99 14:59為止"
   },
   {
     "wordingKey": "Word_Custom_1423",
-    "value": "1回<size=28>引く</size>"
+    "value": "<size=28>招募</size>1次"
   },
   {
     "wordingKey": "Word_Custom_1424",
@@ -4188,23 +4629,23 @@
   },
   {
     "wordingKey": "Word_Custom_1425",
-    "value": "フリー B"
+    "value": "自由 B"
   },
   {
     "wordingKey": "Word_Custom_1426",
-    "value": "フリー A"
+    "value": "自由 A"
   },
   {
     "wordingKey": "Word_Custom_1427",
-    "value": "ベテラン B"
+    "value": "進階 B"
   },
   {
     "wordingKey": "Word_Custom_1428",
-    "value": "ベテランA"
+    "value": "進階 A"
   },
   {
     "wordingKey": "Word_Custom_1429",
-    "value": "協力ライブ\\n"
+    "value": "協力LIVE\\n"
   },
   {
     "wordingKey": "Word_Custom_143",
@@ -4224,11 +4665,11 @@
   },
   {
     "wordingKey": "Word_Custom_1433",
-    "value": "※開演時間は予定で、前後する可能性があります。"
+    "value": "※開演時間僅為預定，有可能提早或延遲。"
   },
   {
     "wordingKey": "Word_Custom_1434",
-    "value": "バンド名"
+    "value": "樂團名稱"
   },
   {
     "wordingKey": "Word_Custom_1435",
@@ -4236,23 +4677,22 @@
   },
   {
     "wordingKey": "Word_Custom_1436",
-    "value": "名前．最大１０文字"
+    "value": "名字．10個字元以內"
   },
   {
     "wordingKey": "Word_Custom_1437",
-    "value": "メッセージ．最大３２文字１２３４５６７８９０１２３４２５６７１２３"
+    "value": "訊息．最多可輸入32文字１２３４５６７８９０１２３４２５６７１２３"
   },
   {
     "wordingKey": "Word_Custom_1438",
-    "value": "名前．最大１０文字"
+    "value": "名字．10個字元以內"
   },
   {
     "wordingKey": "Word_Custom_1439",
     "value": "2020/99/00 23:59:59"
   },
   {
-    "wordingKey": "Word_Custom_144",
-    "value": " "
+    "wordingKey": "Word_Custom_144"
   },
   {
     "wordingKey": "Word_Custom_1440",
@@ -4268,7 +4708,7 @@
   },
   {
     "wordingKey": "Word_Custom_1443",
-    "value": "前"
+    "value": "上一頁"
   },
   {
     "wordingKey": "Word_Custom_1444",
@@ -4276,31 +4716,30 @@
   },
   {
     "wordingKey": "Word_Custom_1445",
-    "value": "メッセージ"
+    "value": "訊息"
   },
   {
     "wordingKey": "Word_Custom_1446",
-    "value": "キャラ"
+    "value": "角色"
   },
   {
     "wordingKey": "Word_Custom_1447",
-    "value": "一般"
+    "value": "通常"
   },
   {
     "wordingKey": "Word_Custom_1448",
-    "value": "利用できません"
+    "value": "無法使用。"
   },
   {
     "wordingKey": "Word_Custom_1449",
     "value": "100?999"
   },
   {
-    "wordingKey": "Word_Custom_145",
-    "value": " "
+    "wordingKey": "Word_Custom_145"
   },
   {
     "wordingKey": "Word_Custom_1450",
-    "value": "利用できません"
+    "value": "無法使用。"
   },
   {
     "wordingKey": "Word_Custom_1451",
@@ -4308,7 +4747,7 @@
   },
   {
     "wordingKey": "Word_Custom_1452",
-    "value": "利用できません"
+    "value": "無法使用。"
   },
   {
     "wordingKey": "Word_Custom_1453",
@@ -4316,7 +4755,7 @@
   },
   {
     "wordingKey": "Word_Custom_1454",
-    "value": "利用できません"
+    "value": "無法使用。"
   },
   {
     "wordingKey": "Word_Custom_1455",
@@ -4324,39 +4763,38 @@
   },
   {
     "wordingKey": "Word_Custom_1456",
-    "value": "利用できません"
+    "value": "無法使用。"
   },
   {
     "wordingKey": "Word_Custom_1457",
-    "value": "ステージの方向以外にアイテムを投げることはできません"
+    "value": "無法朝舞台以外的方向投擲道具"
   },
   {
     "wordingKey": "Word_Custom_1458",
-    "value": "ここをONにすると\\n出演中のキャラクターのもの\\nのみ表示できるよ！"
+    "value": "將這裡設定為ON，\\n就只會顯示出\\n正在表演中的角色的物品喔！"
   },
   {
     "wordingKey": "Word_Custom_1459",
-    "value": "公演は終了しました"
+    "value": "公演已結束。"
   },
   {
-    "wordingKey": "Word_Custom_146",
-    "value": " "
+    "wordingKey": "Word_Custom_146"
   },
   {
     "wordingKey": "Word_Custom_1460",
-    "value": "自動退場まで"
+    "value": "距離自動退場"
   },
   {
     "wordingKey": "Word_Custom_1461",
-    "value": "00:00"
+    "value": "0"
   },
   {
     "wordingKey": "Word_Custom_1462",
-    "value": "開演まで"
+    "value": "距離開演"
   },
   {
     "wordingKey": "Word_Custom_1463",
-    "value": "00:00"
+    "value": "0"
   },
   {
     "wordingKey": "Word_Custom_1464",
@@ -4372,35 +4810,34 @@
   },
   {
     "wordingKey": "Word_Custom_1467",
-    "value": "まだキズナランクは\\n発生しません"
+    "value": "還未產生\\n情誼等級"
   },
   {
     "wordingKey": "Word_Custom_1468",
-    "value": "選択済み"
+    "value": "已選擇"
   },
   {
     "wordingKey": "Word_Custom_1469",
-    "value": "カード冠名あああああ32px最大15w"
+    "value": "卡片冠名aaaaa32px最多15w"
   },
   {
-    "wordingKey": "Word_Custom_147",
-    "value": " "
+    "wordingKey": "Word_Custom_147"
   },
   {
     "wordingKey": "Word_Custom_1470",
-    "value": "小豆沢 こはね40px#446"
+    "value": "小豆澤心羽40px#446"
   },
   {
     "wordingKey": "Word_Custom_1471",
-    "value": "カード冠名あああああああ36px"
+    "value": "卡片冠名aaaaaaa36px"
   },
   {
     "wordingKey": "Word_Custom_1472",
-    "value": "小豆沢 こはね"
+    "value": "小豆澤心羽"
   },
   {
     "wordingKey": "Word_Custom_1473",
-    "value": "衣装名36p#446中央寄せ"
+    "value": "服裝名稱36p#446置中對齊"
   },
   {
     "wordingKey": "Word_Custom_1474",
@@ -4408,15 +4845,15 @@
   },
   {
     "wordingKey": "Word_Custom_1475",
-    "value": "所持クリスタル"
+    "value": "持有水晶"
   },
   {
     "wordingKey": "Word_Custom_1476",
-    "value": "必要"
+    "value": "需要"
   },
   {
     "wordingKey": "Word_Custom_1477",
-    "value": "所持"
+    "value": "持有"
   },
   {
     "wordingKey": "Word_Custom_1478",
@@ -4427,8 +4864,7 @@
     "value": "Lv.60"
   },
   {
-    "wordingKey": "Word_Custom_148",
-    "value": " "
+    "wordingKey": "Word_Custom_148"
   },
   {
     "wordingKey": "Word_Custom_1480",
@@ -4444,31 +4880,31 @@
   },
   {
     "wordingKey": "Word_Custom_1483",
-    "value": "クリスタル<color=#FF55AA>1500個</color>を消費して\\n「BOX名」を\\n引きます。よろしいですか？"
+    "value": "將消耗水晶<color=#FF55AA>1500個來抽\\n「BOX名稱」\\n。確定嗎？"
   },
   {
     "wordingKey": "Word_Custom_1484",
-    "value": "必要"
+    "value": "需要"
   },
   {
     "wordingKey": "Word_Custom_1485",
-    "value": "所持"
+    "value": "持有"
   },
   {
     "wordingKey": "Word_Custom_1486",
-    "value": "キャンセル"
+    "value": "取消"
   },
   {
     "wordingKey": "Word_Custom_1487",
-    "value": "引く"
+    "value": "招募"
   },
   {
     "wordingKey": "Word_Custom_1488",
-    "value": "タイトル"
+    "value": "標題畫面"
   },
   {
     "wordingKey": "Word_Custom_1489",
-    "value": "全員を選択"
+    "value": "選擇全員"
   },
   {
     "wordingKey": "Word_Custom_149",
@@ -4480,23 +4916,23 @@
   },
   {
     "wordingKey": "Word_Custom_1491",
-    "value": "00:00:00"
+    "value": "0"
   },
   {
     "wordingKey": "Word_Custom_1492",
-    "value": "開演まで\\n00:00:00"
+    "value": "距離開演還剩\\n00:00:00"
   },
   {
     "wordingKey": "Word_Custom_1493",
-    "value": "名前．最大１０文字"
+    "value": "名字．10個字元以內"
   },
   {
     "wordingKey": "Word_Custom_1494",
-    "value": "メッセージ．最大１６文字"
+    "value": "訊息．最多可輸入16個文字"
   },
   {
     "wordingKey": "Word_Custom_1495",
-    "value": "名前．最大１０文字"
+    "value": "名字．10個字元以內"
   },
   {
     "wordingKey": "Word_Custom_1496",
@@ -4515,8 +4951,7 @@
     "value": "Lv.60"
   },
   {
-    "wordingKey": "Word_Custom_15",
-    "value": " "
+    "wordingKey": "Word_Custom_15"
   },
   {
     "wordingKey": "Word_Custom_150",
@@ -4572,7 +5007,7 @@
   },
   {
     "wordingKey": "Word_Custom_1511",
-    "value": "全員を選択"
+    "value": "選擇全員"
   },
   {
     "wordingKey": "Word_Custom_1512",
@@ -4584,15 +5019,15 @@
   },
   {
     "wordingKey": "Word_Custom_1514",
-    "value": "Enter text..."
+    "value": "Enter text…"
   },
   {
     "wordingKey": "Word_Custom_1515",
-    "value": "Group数"
+    "value": "Group數量"
   },
   {
     "wordingKey": "Word_Custom_1516",
-    "value": "Enter text..."
+    "value": "Enter text…"
   },
   {
     "wordingKey": "Word_Custom_1517",
@@ -4604,7 +5039,7 @@
   },
   {
     "wordingKey": "Word_Custom_1519",
-    "value": "課金ユーザ含む"
+    "value": "包含付費玩家"
   },
   {
     "wordingKey": "Word_Custom_152",
@@ -4612,7 +5047,7 @@
   },
   {
     "wordingKey": "Word_Custom_1520",
-    "value": "接続"
+    "value": "連線中"
   },
   {
     "wordingKey": "Word_Custom_1521",
@@ -4624,31 +5059,31 @@
   },
   {
     "wordingKey": "Word_Custom_1523",
-    "value": "あと1回"
+    "value": "還剩1次"
   },
   {
     "wordingKey": "Word_Custom_1524",
-    "value": "必要"
+    "value": "需要"
   },
   {
     "wordingKey": "Word_Custom_1525",
-    "value": "所持"
+    "value": "持有"
   },
   {
     "wordingKey": "Word_Custom_1526",
-    "value": "クリスタルが不足しています"
+    "value": "水晶不足。"
   },
   {
     "wordingKey": "Word_Custom_1527",
-    "value": "「申請文収まる場合！あああ」"
+    "value": "「申請文收納起來的情況！aaa」"
   },
   {
     "wordingKey": "Word_Custom_1528",
-    "value": "コネクトライブ招待"
+    "value": "邀請「連線LIVE」"
   },
   {
     "wordingKey": "Word_Custom_1529",
-    "value": "あつあつホットケーキから\\nライフボーナス×１０をもらいました"
+    "value": "透過熱呼呼的鬆餅\\n獲得了LIVE BONUS×10"
   },
   {
     "wordingKey": "Word_Custom_153",
@@ -4664,7 +5099,7 @@
   },
   {
     "wordingKey": "Word_Custom_1532",
-    "value": "メッセージ．最大２４文字１２３４６７８９０１２"
+    "value": "訊息．最多可輸入24個文字１２３４６７８９０１２"
   },
   {
     "wordingKey": "Word_Custom_1533",
@@ -4672,19 +5107,19 @@
   },
   {
     "wordingKey": "Word_Custom_1534",
-    "value": "あと"
+    "value": "還剩"
   },
   {
     "wordingKey": "Word_Custom_1535",
-    "value": "小豆沢 こはねのキャラクターランクを\\n上げることでキズナランクの上限がアップします"
+    "value": "提升小豆澤心羽的角色等級\\n，即可提升情誼等級的上限。"
   },
   {
     "wordingKey": "Word_Custom_1536",
-    "value": "ステージのセカイ"
+    "value": "舞台的「世界」"
   },
   {
     "wordingKey": "Word_Custom_1537",
-    "value": "ステージのセカイ"
+    "value": "舞台的「世界」"
   },
   {
     "wordingKey": "Word_Custom_1538",
@@ -4692,7 +5127,7 @@
   },
   {
     "wordingKey": "Word_Custom_1539",
-    "value": "1回<size=28>引く</size>"
+    "value": "<size=28>招募</size>1次"
   },
   {
     "wordingKey": "Word_Custom_154",
@@ -4700,31 +5135,31 @@
   },
   {
     "wordingKey": "Word_Custom_1540",
-    "value": "開催まであと"
+    "value": "距離開演還剩"
   },
   {
     "wordingKey": "Word_Custom_1541",
-    "value": "所持ジュエル"
+    "value": "持有寶石"
   },
   {
     "wordingKey": "Word_Custom_1542",
-    "value": "必要"
+    "value": "需要"
   },
   {
     "wordingKey": "Word_Custom_1543",
-    "value": "所持"
+    "value": "持有"
   },
   {
     "wordingKey": "Word_Custom_1544",
-    "value": "yyyy/mm/dd hh:ssまで"
+    "value": "到yyyy/mm/dd hh:mm為止"
   },
   {
     "wordingKey": "Word_Custom_1545",
-    "value": "次"
+    "value": "下一頁"
   },
   {
     "wordingKey": "Word_Custom_1546",
-    "value": "前"
+    "value": "上一頁"
   },
   {
     "wordingKey": "Word_Custom_1547",
@@ -4736,7 +5171,7 @@
   },
   {
     "wordingKey": "Word_Custom_1549",
-    "value": "プレイヤー名36px#446"
+    "value": "玩家名36px#446"
   },
   {
     "wordingKey": "Word_Custom_155",
@@ -4744,7 +5179,7 @@
   },
   {
     "wordingKey": "Word_Custom_1550",
-    "value": "よろしくお願いします！！最大３０文字が入ります。ああああ"
+    "value": "請多關照！！最多可輸入30個文字。aaaa"
   },
   {
     "wordingKey": "Word_Custom_1551",
@@ -4752,11 +5187,11 @@
   },
   {
     "wordingKey": "Word_Custom_1552",
-    "value": "プレイヤー名36px#446"
+    "value": "玩家名36px#446"
   },
   {
     "wordingKey": "Word_Custom_1553",
-    "value": "ああああああああああああああああああああああああああああああ"
+    "value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
   },
   {
     "wordingKey": "Word_Custom_1554",
@@ -4764,23 +5199,23 @@
   },
   {
     "wordingKey": "Word_Custom_1555",
-    "value": "プレイヤー名36px#446"
+    "value": "玩家名36px#446"
   },
   {
     "wordingKey": "Word_Custom_1556",
-    "value": "みんなでライブ招待"
+    "value": "邀請「多人LIVE」"
   },
   {
     "wordingKey": "Word_Custom_1557",
-    "value": "ライブ招待が届きました。"
+    "value": "已收到LIVE邀請。"
   },
   {
     "wordingKey": "Word_Custom_1558",
-    "value": "あと180秒"
+    "value": "還剩180秒"
   },
   {
     "wordingKey": "Word_Custom_1559",
-    "value": "グループ\\nエリア"
+    "value": "團體\\n區域"
   },
   {
     "wordingKey": "Word_Custom_156",
@@ -4788,11 +5223,11 @@
   },
   {
     "wordingKey": "Word_Custom_1560",
-    "value": "チアフル\\nライブ"
+    "value": "Cheerful\\nLIVE"
   },
   {
     "wordingKey": "Word_Custom_1561",
-    "value": "12345678位"
+    "value": "12345678名"
   },
   {
     "wordingKey": "Word_Custom_1562",
@@ -4800,31 +5235,31 @@
   },
   {
     "wordingKey": "Word_Custom_1563",
-    "value": "すべてのストーリーを解放しました。"
+    "value": "已解鎖所有劇情。"
   },
   {
     "wordingKey": "Word_Custom_1564",
-    "value": "2020/99/99 14:59まで"
+    "value": "至2020/99/99 14:59為止"
   },
   {
     "wordingKey": "Word_Custom_1565",
-    "value": "あと3日"
+    "value": "還剩3天"
   },
   {
     "wordingKey": "Word_Custom_1566",
-    "value": "12/12\\n23時頃"
+    "value": "12/12\\n23點左右"
   },
   {
     "wordingKey": "Word_Custom_1567",
-    "value": "12/12\\n23時頃"
+    "value": "12/12\\n23點左右"
   },
   {
     "wordingKey": "Word_Custom_1568",
-    "value": "00:00:00"
+    "value": "0"
   },
   {
     "wordingKey": "Word_Custom_1569",
-    "value": "開演まで\\n00:00:00"
+    "value": "距離開演還剩\\n00:00:00"
   },
   {
     "wordingKey": "Word_Custom_157",
@@ -4832,27 +5267,27 @@
   },
   {
     "wordingKey": "Word_Custom_1570",
-    "value": "オートライブ設定"
+    "value": "設定AUTO LIVE"
   },
   {
     "wordingKey": "Word_Custom_1571",
-    "value": "ライブボーナスがなくなるまで"
+    "value": "直到LIVE BONUS用完為止"
   },
   {
     "wordingKey": "Word_Custom_1572",
-    "value": "回数を指定"
+    "value": "指定次數"
   },
   {
     "wordingKey": "Word_Custom_1573",
-    "value": "オートライブ回数"
+    "value": "AUTO LIVE次數"
   },
   {
     "wordingKey": "Word_Custom_1574",
-    "value": "消費アイテム"
+    "value": "消耗道具"
   },
   {
     "wordingKey": "Word_Custom_1575",
-    "value": "※ライブボーナスドリンクが優先して使用されます。"
+    "value": "※優先使用LIVE BONUS飲料。"
   },
   {
     "wordingKey": "Word_Custom_1576",
@@ -4860,15 +5295,15 @@
   },
   {
     "wordingKey": "Word_Custom_1577",
-    "value": "「申請文収まる場合！あああ」"
+    "value": "「申請文收納起來的情況！aaa」"
   },
   {
     "wordingKey": "Word_Custom_1578",
-    "value": "コネクトライブ招待"
+    "value": "邀請「連線LIVE」"
   },
   {
     "wordingKey": "Word_Custom_1579",
-    "value": "あつあつホットケーキから\\nライフボーナス×１０をもらいました"
+    "value": "透過熱呼呼的鬆餅\\n獲得了LIVE BONUS×10"
   },
   {
     "wordingKey": "Word_Custom_158",
@@ -4876,43 +5311,43 @@
   },
   {
     "wordingKey": "Word_Custom_1580",
-    "value": "「申請文収まる場合！あああ」"
+    "value": "「申請文收納起來的情況！aaa」"
   },
   {
     "wordingKey": "Word_Custom_1581",
-    "value": "コネクトライブ招待"
+    "value": "邀請「連線LIVE」"
   },
   {
     "wordingKey": "Word_Custom_1582",
-    "value": "あつあつホットケーキから\\nライフボーナス×１０をもらいました"
+    "value": "透過熱呼呼的鬆餅\\n獲得了LIVE BONUS×10"
   },
   {
     "wordingKey": "Word_Custom_1583",
-    "value": "「申請文収まる場合！あああ」"
+    "value": "「申請文收納起來的情況！aaa」"
   },
   {
     "wordingKey": "Word_Custom_1584",
-    "value": "コネクトライブ招待"
+    "value": "邀請「連線LIVE」"
   },
   {
     "wordingKey": "Word_Custom_1585",
-    "value": "あつあつホットケーキから\\nライフボーナス×１０をもらいました"
+    "value": "透過熱呼呼的鬆餅\\n獲得了LIVE BONUS×10"
   },
   {
     "wordingKey": "Word_Custom_1586",
-    "value": "「申請文収まる場合！あああ」"
+    "value": "「申請文收納起來的情況！aaa」"
   },
   {
     "wordingKey": "Word_Custom_1587",
-    "value": "コネクトライブ招待"
+    "value": "邀請「連線LIVE」"
   },
   {
     "wordingKey": "Word_Custom_1588",
-    "value": "あつあつホットケーキから\\nライフボーナス×１０をもらいました"
+    "value": "透過熱呼呼的鬆餅\\n獲得了LIVE BONUS×10"
   },
   {
     "wordingKey": "Word_Custom_1589",
-    "value": "音楽ショップで交換する"
+    "value": "在唱片行交換"
   },
   {
     "wordingKey": "Word_Custom_159",
@@ -4920,7 +5355,7 @@
   },
   {
     "wordingKey": "Word_Custom_1590",
-    "value": "バンド名"
+    "value": "樂團名稱"
   },
   {
     "wordingKey": "Word_Custom_1591",
@@ -4928,11 +5363,11 @@
   },
   {
     "wordingKey": "Word_Custom_1592",
-    "value": "0.05%"
+    "value": "0.0005"
   },
   {
     "wordingKey": "Word_Custom_1593",
-    "value": "1回限定"
+    "value": "限定1次"
   },
   {
     "wordingKey": "Word_Custom_1594",
@@ -4944,23 +5379,22 @@
   },
   {
     "wordingKey": "Word_Custom_1596",
-    "value": "プレイヤー名36px#446"
+    "value": "玩家名36px#446"
   },
   {
     "wordingKey": "Word_Custom_1597",
-    "value": "招待"
+    "value": "邀請"
   },
   {
     "wordingKey": "Word_Custom_1598",
-    "value": "『お題64px15w以上は縮小』といえば？"
+    "value": "說到「題目64px15w以上要縮小」？"
   },
   {
     "wordingKey": "Word_Custom_1599",
-    "value": "32px 中央寄席 #446"
+    "value": "32px 靠近中央的位置 #446"
   },
   {
-    "wordingKey": "Word_Custom_16",
-    "value": " "
+    "wordingKey": "Word_Custom_16"
   },
   {
     "wordingKey": "Word_Custom_160",
@@ -4968,7 +5402,7 @@
   },
   {
     "wordingKey": "Word_Custom_1600",
-    "value": "32px 中央寄席 #446"
+    "value": "32px 靠近中央的位置 #446"
   },
   {
     "wordingKey": "Word_Custom_1601",
@@ -5023,36 +5457,54 @@
     "value": "對話框標題"
   },
   {
-    "wordingKey": "Word_Custom_17",
-    "value": " "
+    "wordingKey": "Word_Custom_17"
   },
   {
-    "wordingKey": "Word_Custom_170",
-    "value": " "
+    "wordingKey": "Word_Custom_170"
   },
   {
-    "wordingKey": "Word_Custom_171",
-    "value": " "
+    "wordingKey": "Word_Custom_171"
   },
   {
-    "wordingKey": "Word_Custom_172",
-    "value": " "
+    "wordingKey": "Word_Custom_172"
   },
   {
-    "wordingKey": "Word_Custom_173",
-    "value": " "
+    "wordingKey": "Word_Custom_1720",
+    "value": "今年是接近夢想實現的一年\\n好好珍惜過去結下的緣分吧\\n"
   },
   {
-    "wordingKey": "Word_Custom_174",
-    "value": " "
+    "wordingKey": "Word_Custom_1722",
+    "value": "可輸入文字大小35Pt/n十四個字元×兩行哦。"
+  },
+  {
+    "wordingKey": "Word_Custom_173"
+  },
+  {
+    "wordingKey": "Word_Custom_174"
   },
   {
     "wordingKey": "Word_Custom_175",
     "value": "點擊3次 刪除用戶"
   },
   {
+    "wordingKey": "Word_Custom_1750",
+    "value": "虛擬LIVE"
+  },
+  {
+    "wordingKey": "Word_Custom_1758",
+    "value": "活動\\n劇情"
+  },
+  {
     "wordingKey": "Word_Custom_176",
     "value": "完成教學的用戶"
+  },
+  {
+    "wordingKey": "Word_Custom_1760",
+    "value": "主線\\n劇情"
+  },
+  {
+    "wordingKey": "Word_Custom_1764",
+    "value": "將這裡設定為ON，就只會顯示出\\n正在表演中的角色的物品\\n喔！"
   },
   {
     "wordingKey": "Word_Custom_177",
@@ -5063,12 +5515,23 @@
     "value": "舉辦時間截止至12/12 03:59"
   },
   {
+    "wordingKey": "Word_Custom_1784",
+    "value": "御守 星野一歌"
+  },
+  {
+    "wordingKey": "Word_Custom_1788",
+    "value": "還未產生情誼等級\\n"
+  },
+  {
     "wordingKey": "Word_Custom_179",
     "value": "舉辦時間截止至12/12 03:59"
   },
   {
-    "wordingKey": "Word_Custom_18",
-    "value": " "
+    "wordingKey": "Word_Custom_1796",
+    "value": "再點擊一次即可決定！"
+  },
+  {
+    "wordingKey": "Word_Custom_18"
   },
   {
     "wordingKey": "Word_Custom_180",
@@ -5087,24 +5550,55 @@
     "value": "小隊名"
   },
   {
+    "wordingKey": "Word_Custom_1830",
+    "value": "有快到期的選擇券。\\n是否要前往票券交換所？"
+  },
+  {
+    "wordingKey": "Word_Custom_1834",
+    "value": "將消耗「{0}」<color=#ff5588>{1}張</color>入場。\n確認執行？"
+  },
+  {
+    "wordingKey": "Word_Custom_1838",
+    "value": "距離開演還剩\\n00:00:00"
+  },
+  {
     "wordingKey": "Word_Custom_184",
     "value": "？"
+  },
+  {
+    "wordingKey": "Word_Custom_1840",
+    "value": "將消耗水晶<color=#FF55AA>1500個來抽\\n「BOX名稱」\\n。確定嗎？"
   },
   {
     "wordingKey": "Word_Custom_185",
     "value": "？"
   },
   {
+    "wordingKey": "Word_Custom_1856",
+    "value": "ーーーーーーーーーーーーーーーーー"
+  },
+  {
+    "wordingKey": "Word_Custom_1858",
+    "value": "ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー"
+  },
+  {
     "wordingKey": "Word_Custom_186",
     "value": "1/40"
   },
   {
-    "wordingKey": "Word_Custom_187",
-    "value": " "
+    "wordingKey": "Word_Custom_1864",
+    "value": "要使用50水晶恢復\\nLIVE BONUS嗎？"
+  },
+  {
+    "wordingKey": "Word_Custom_187"
   },
   {
     "wordingKey": "Word_Custom_188",
     "value": "piapro角色"
+  },
+  {
+    "wordingKey": "Word_Custom_1888",
+    "value": "協力LIVE\\n"
   },
   {
     "wordingKey": "Word_Custom_189",
@@ -5167,24 +5661,42 @@
     "value": "Large Star"
   },
   {
+    "wordingKey": "Word_Custom_2004",
+    "value": "透過熱呼呼的鬆餅\\n獲得了LIVE BONUS×10"
+  },
+  {
     "wordingKey": "Word_Custom_201",
     "value": "----------\\n----------"
   },
   {
-    "wordingKey": "Word_Custom_202",
-    "value": " "
+    "wordingKey": "Word_Custom_2018",
+    "value": "提升小豆澤心羽的角色等級\\n，即可提升情誼等級的上限。"
+  },
+  {
+    "wordingKey": "Word_Custom_202"
   },
   {
     "wordingKey": "Word_Custom_203",
     "value": "傳單"
   },
   {
+    "wordingKey": "Word_Custom_2034",
+    "value": "選擇的卡片將被刪除。\\n確定嗎？"
+  },
+  {
     "wordingKey": "Word_Custom_204",
     "value": "Player Name"
   },
   {
-    "wordingKey": "Word_Custom_205",
-    "value": " "
+    "wordingKey": "Word_Custom_205"
+  },
+  {
+    "wordingKey": "Word_Custom_2052",
+    "value": "團體\\n區域"
+  },
+  {
+    "wordingKey": "Word_Custom_2054",
+    "value": "Cheerful\\nLIVE"
   },
   {
     "wordingKey": "Word_Custom_206",
@@ -5193,6 +5705,10 @@
   {
     "wordingKey": "Word_Custom_207",
     "value": "10%"
+  },
+  {
+    "wordingKey": "Word_Custom_2078",
+    "value": "綁定Game Center"
   },
   {
     "wordingKey": "Word_Custom_208",
@@ -5215,6 +5731,10 @@
     "value": "--/---"
   },
   {
+    "wordingKey": "Word_Custom_2112",
+    "value": "MVP・SUPERSTAR"
+  },
+  {
     "wordingKey": "Word_Custom_212",
     "value": "心之碎片\\n"
   },
@@ -5231,28 +5751,23 @@
     "value": "EXPERT"
   },
   {
-    "wordingKey": "Word_Custom_216",
-    "value": " "
+    "wordingKey": "Word_Custom_216"
   },
   {
-    "wordingKey": "Word_Custom_217",
-    "value": " "
+    "wordingKey": "Word_Custom_217"
   },
   {
-    "wordingKey": "Word_Custom_218",
-    "value": " "
+    "wordingKey": "Word_Custom_218"
   },
   {
-    "wordingKey": "Word_Custom_219",
-    "value": " "
+    "wordingKey": "Word_Custom_219"
   },
   {
     "wordingKey": "Word_Custom_22",
     "value": "最初的聲音"
   },
   {
-    "wordingKey": "Word_Custom_220",
-    "value": " "
+    "wordingKey": "Word_Custom_220"
   },
   {
     "wordingKey": "Word_Custom_221",
@@ -5267,20 +5782,16 @@
     "value": "的为为"
   },
   {
-    "wordingKey": "Word_Custom_224",
-    "value": " "
+    "wordingKey": "Word_Custom_224"
   },
   {
-    "wordingKey": "Word_Custom_225",
-    "value": " "
+    "wordingKey": "Word_Custom_225"
   },
   {
-    "wordingKey": "Word_Custom_226",
-    "value": " "
+    "wordingKey": "Word_Custom_226"
   },
   {
-    "wordingKey": "Word_Custom_227",
-    "value": " "
+    "wordingKey": "Word_Custom_227"
   },
   {
     "wordingKey": "Word_Custom_228",
@@ -5303,16 +5814,14 @@
     "value": "標準顏色"
   },
   {
-    "wordingKey": "Word_Custom_232",
-    "value": " "
+    "wordingKey": "Word_Custom_232"
   },
   {
     "wordingKey": "Word_Custom_233",
     "value": "2020/10/01〜"
   },
   {
-    "wordingKey": "Word_Custom_234",
-    "value": " "
+    "wordingKey": "Word_Custom_234"
   },
   {
     "wordingKey": "Word_Custom_235",
@@ -5327,8 +5836,7 @@
     "value": "--/10"
   },
   {
-    "wordingKey": "Word_Custom_238",
-    "value": " "
+    "wordingKey": "Word_Custom_238"
   },
   {
     "wordingKey": "Word_Custom_239",
@@ -5347,24 +5855,19 @@
     "value": "樂團名稱"
   },
   {
-    "wordingKey": "Word_Custom_242",
-    "value": " "
+    "wordingKey": "Word_Custom_242"
   },
   {
-    "wordingKey": "Word_Custom_243",
-    "value": " "
+    "wordingKey": "Word_Custom_243"
   },
   {
-    "wordingKey": "Word_Custom_244",
-    "value": " "
+    "wordingKey": "Word_Custom_244"
   },
   {
-    "wordingKey": "Word_Custom_245",
-    "value": " "
+    "wordingKey": "Word_Custom_245"
   },
   {
-    "wordingKey": "Word_Custom_246",
-    "value": " "
+    "wordingKey": "Word_Custom_246"
   },
   {
     "wordingKey": "Word_Custom_247",
@@ -5391,12 +5894,10 @@
     "value": "10"
   },
   {
-    "wordingKey": "Word_Custom_252",
-    "value": " "
+    "wordingKey": "Word_Custom_252"
   },
   {
-    "wordingKey": "Word_Custom_253",
-    "value": " "
+    "wordingKey": "Word_Custom_253"
   },
   {
     "wordingKey": "Word_Custom_254",
@@ -5419,8 +5920,7 @@
     "value": "2020/99/00 23:59:59"
   },
   {
-    "wordingKey": "Word_Custom_259",
-    "value": " "
+    "wordingKey": "Word_Custom_259"
   },
   {
     "wordingKey": "Word_Custom_26",
@@ -5479,8 +5979,7 @@
     "value": "還剩3次"
   },
   {
-    "wordingKey": "Word_Custom_272",
-    "value": " "
+    "wordingKey": "Word_Custom_272"
   },
   {
     "wordingKey": "Word_Custom_273",
@@ -5547,8 +6046,7 @@
     "value": "aaaaaaaaaa"
   },
   {
-    "wordingKey": "Word_Custom_288",
-    "value": " "
+    "wordingKey": "Word_Custom_288"
   },
   {
     "wordingKey": "Word_Custom_289",
@@ -5559,8 +6057,7 @@
     "value": "任務內容"
   },
   {
-    "wordingKey": "Word_Custom_290",
-    "value": " "
+    "wordingKey": "Word_Custom_290"
   },
   {
     "wordingKey": "Word_Custom_291",
@@ -5619,8 +6116,7 @@
     "value": "Enter text..."
   },
   {
-    "wordingKey": "Word_Custom_303",
-    "value": " "
+    "wordingKey": "Word_Custom_303"
   },
   {
     "wordingKey": "Word_Custom_304",
@@ -5730,16 +6226,14 @@
     "value": "距離開演還剩\\n00:00:00"
   },
   {
-    "wordingKey": "Word_Custom_329",
-    "value": " "
+    "wordingKey": "Word_Custom_329"
   },
   {
     "wordingKey": "Word_Custom_33",
     "value": "NORMAL"
   },
   {
-    "wordingKey": "Word_Custom_330",
-    "value": " "
+    "wordingKey": "Word_Custom_330"
   },
   {
     "wordingKey": "Word_Custom_331",
@@ -5762,8 +6256,7 @@
     "value": "文字"
   },
   {
-    "wordingKey": "Word_Custom_336",
-    "value": " "
+    "wordingKey": "Word_Custom_336"
   },
   {
     "wordingKey": "Word_Custom_337",
@@ -5786,24 +6279,19 @@
     "value": "自我介紹"
   },
   {
-    "wordingKey": "Word_Custom_341",
-    "value": " "
+    "wordingKey": "Word_Custom_341"
   },
   {
-    "wordingKey": "Word_Custom_342",
-    "value": " "
+    "wordingKey": "Word_Custom_342"
   },
   {
-    "wordingKey": "Word_Custom_343",
-    "value": " "
+    "wordingKey": "Word_Custom_343"
   },
   {
-    "wordingKey": "Word_Custom_344",
-    "value": " "
+    "wordingKey": "Word_Custom_344"
   },
   {
-    "wordingKey": "Word_Custom_345",
-    "value": " "
+    "wordingKey": "Word_Custom_345"
   },
   {
     "wordingKey": "Word_Custom_346",
@@ -5859,11 +6347,11 @@
   },
   {
     "wordingKey": "Word_Custom_358",
-    "value": "\u0005\u0005\u0005\u0005\u0005\u0005★★★★"
+    "value": "★★★★"
   },
   {
     "wordingKey": "Word_Custom_359",
-    "value": "\u0005\u0005\u0005\u0005\u0005\u0005★★★"
+    "value": "★★★"
   },
   {
     "wordingKey": "Word_Custom_36",
@@ -5871,19 +6359,18 @@
   },
   {
     "wordingKey": "Word_Custom_360",
-    "value": "\u0005\u0005\u0005\u0005\u0005\u0005★★"
+    "value": "★★"
   },
   {
     "wordingKey": "Word_Custom_361",
-    "value": "\u0005\u0005\u0005\u0005\u0005\u0005★★★★"
+    "value": "★★★★"
   },
   {
     "wordingKey": "Word_Custom_362",
-    "value": "\u0005\u0005\u0005\u0005\u0005\u0005★★★"
+    "value": "★★★"
   },
   {
-    "wordingKey": "Word_Custom_363",
-    "value": " "
+    "wordingKey": "Word_Custom_363"
   },
   {
     "wordingKey": "Word_Custom_364",
@@ -5902,32 +6389,26 @@
     "value": "？"
   },
   {
-    "wordingKey": "Word_Custom_368",
-    "value": " "
+    "wordingKey": "Word_Custom_368"
   },
   {
-    "wordingKey": "Word_Custom_369",
-    "value": " "
+    "wordingKey": "Word_Custom_369"
   },
   {
     "wordingKey": "Word_Custom_37",
     "value": "稱號「」"
   },
   {
-    "wordingKey": "Word_Custom_370",
-    "value": " "
+    "wordingKey": "Word_Custom_370"
   },
   {
-    "wordingKey": "Word_Custom_371",
-    "value": " "
+    "wordingKey": "Word_Custom_371"
   },
   {
-    "wordingKey": "Word_Custom_372",
-    "value": " "
+    "wordingKey": "Word_Custom_372"
   },
   {
-    "wordingKey": "Word_Custom_373",
-    "value": " "
+    "wordingKey": "Word_Custom_373"
   },
   {
     "wordingKey": "Word_Custom_374",
@@ -6054,8 +6535,7 @@
     "value": "無法朝舞台以外的方向投擲道具"
   },
   {
-    "wordingKey": "Word_Custom_401",
-    "value": " "
+    "wordingKey": "Word_Custom_401"
   },
   {
     "wordingKey": "Word_Custom_402",
@@ -6086,44 +6566,38 @@
     "value": "+"
   },
   {
-    "wordingKey": "Word_Custom_409",
-    "value": " "
+    "wordingKey": "Word_Custom_409"
   },
   {
-    "wordingKey": "Word_Custom_41",
-    "value": " "
+    "wordingKey": "Word_Custom_41"
   },
   {
     "wordingKey": "Word_Custom_410",
     "value": "EXPERT"
   },
   {
-    "wordingKey": "Word_Custom_411",
-    "value": " "
+    "wordingKey": "Word_Custom_411"
   },
   {
     "wordingKey": "Word_Custom_412",
     "value": "EXPERT"
   },
   {
-    "wordingKey": "Word_Custom_413",
-    "value": " "
+    "wordingKey": "Word_Custom_413"
   },
   {
     "wordingKey": "Word_Custom_414",
     "value": "EXPERT"
   },
   {
-    "wordingKey": "Word_Custom_415",
-    "value": " "
+    "wordingKey": "Word_Custom_415"
   },
   {
     "wordingKey": "Word_Custom_416",
     "value": "EXPERT"
   },
   {
-    "wordingKey": "Word_Custom_417",
-    "value": " "
+    "wordingKey": "Word_Custom_417"
   },
   {
     "wordingKey": "Word_Custom_418",
@@ -6134,8 +6608,7 @@
     "value": "無範本（空白）"
   },
   {
-    "wordingKey": "Word_Custom_42",
-    "value": " "
+    "wordingKey": "Word_Custom_42"
   },
   {
     "wordingKey": "Word_Custom_420",
@@ -6170,16 +6643,14 @@
     "value": "10/200"
   },
   {
-    "wordingKey": "Word_Custom_428",
-    "value": " "
+    "wordingKey": "Word_Custom_428"
   },
   {
     "wordingKey": "Word_Custom_429",
     "value": "玩家名36px#446"
   },
   {
-    "wordingKey": "Word_Custom_43",
-    "value": " "
+    "wordingKey": "Word_Custom_43"
   },
   {
     "wordingKey": "Word_Custom_430",
@@ -6190,8 +6661,7 @@
     "value": "請多關照！！最多可輸入30個文字。aaaa"
   },
   {
-    "wordingKey": "Word_Custom_432",
-    "value": " "
+    "wordingKey": "Word_Custom_432"
   },
   {
     "wordingKey": "Word_Custom_433",
@@ -6206,28 +6676,22 @@
     "value": "解鎖內容"
   },
   {
-    "wordingKey": "Word_Custom_436",
-    "value": " "
+    "wordingKey": "Word_Custom_436"
   },
   {
-    "wordingKey": "Word_Custom_437",
-    "value": " "
+    "wordingKey": "Word_Custom_437"
   },
   {
-    "wordingKey": "Word_Custom_438",
-    "value": " "
+    "wordingKey": "Word_Custom_438"
   },
   {
-    "wordingKey": "Word_Custom_439",
-    "value": " "
+    "wordingKey": "Word_Custom_439"
   },
   {
-    "wordingKey": "Word_Custom_44",
-    "value": " "
+    "wordingKey": "Word_Custom_44"
   },
   {
-    "wordingKey": "Word_Custom_440",
-    "value": " "
+    "wordingKey": "Word_Custom_440"
   },
   {
     "wordingKey": "Word_Custom_441",
@@ -6266,8 +6730,7 @@
     "value": "EXPERT"
   },
   {
-    "wordingKey": "Word_Custom_45",
-    "value": " "
+    "wordingKey": "Word_Custom_45"
   },
   {
     "wordingKey": "Word_Custom_450",
@@ -6470,8 +6933,7 @@
     "value": "名字．10個字元以內"
   },
   {
-    "wordingKey": "Word_Custom_54",
-    "value": " "
+    "wordingKey": "Word_Custom_54"
   },
   {
     "wordingKey": "Word_Custom_55",
@@ -6490,8 +6952,7 @@
     "value": "？"
   },
   {
-    "wordingKey": "Word_Custom_59",
-    "value": " "
+    "wordingKey": "Word_Custom_59"
   },
   {
     "wordingKey": "Word_Custom_6",
@@ -6582,8 +7043,7 @@
     "value": "付費0000"
   },
   {
-    "wordingKey": "Word_Custom_8",
-    "value": " "
+    "wordingKey": "Word_Custom_8"
   },
   {
     "wordingKey": "Word_Custom_80",
@@ -6642,24 +7102,19 @@
     "value": "PlayerName10"
   },
   {
-    "wordingKey": "Word_Custom_93",
-    "value": " "
+    "wordingKey": "Word_Custom_93"
   },
   {
-    "wordingKey": "Word_Custom_94",
-    "value": " "
+    "wordingKey": "Word_Custom_94"
   },
   {
-    "wordingKey": "Word_Custom_95",
-    "value": " "
+    "wordingKey": "Word_Custom_95"
   },
   {
-    "wordingKey": "Word_Custom_96",
-    "value": " "
+    "wordingKey": "Word_Custom_96"
   },
   {
-    "wordingKey": "Word_Custom_97",
-    "value": " "
+    "wordingKey": "Word_Custom_97"
   },
   {
     "wordingKey": "Word_Custom_98",
@@ -6706,8 +7161,7 @@
     "value": "前往「世界」"
   },
   {
-    "wordingKey": "Word_Custom_99",
-    "value": " "
+    "wordingKey": "Word_Custom_99"
   },
   {
     "wordingKey": "Word_Custom_990",
@@ -6752,6 +7206,14 @@
   {
     "wordingKey": "WORD_CUSTOM_PROFILE",
     "value": "自製個人資料"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_COLLECTION_ALERT_TITLE",
+    "value": "關於收藏的使用數量"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_COLLECTION_GACHA_OPEN",
+    "value": "打開"
   },
   {
     "wordingKey": "WORD_CUSTOM_PROFILE_EDIT_CARD",
@@ -6918,6 +7380,10 @@
     "value": "表演中！"
   },
   {
+    "wordingKey": "WORD_EASY_FILTER",
+    "value": "簡單篩選"
+  },
+  {
     "wordingKey": "WORD_EFFECT",
     "value": "效果"
   },
@@ -7082,6 +7548,10 @@
     "value": "排行報酬"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_billing_shop_for_colorful_pass",
+    "value": "七彩通行證"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_billing_shop_for_jewel",
     "value": "水晶商店"
   },
@@ -7154,12 +7624,20 @@
     "value": "確定交換"
   },
   {
+    "wordingKey": "WORD_EXCHANGE_LIMIT",
+    "value": "交換期限"
+  },
+  {
+    "wordingKey": "WORD_EXCHANGE_LIMIT_FORMAT",
+    "value": "{0}/{01:00}/{02:00} {03:00}:{04:00}"
+  },
+  {
     "wordingKey": "WORD_EXCHANGE_SELECT_ALL_MEMBER",
     "value": "選擇所有成員"
   },
   {
     "wordingKey": "WORD_EXIST_3D_MV",
-    "value": "有3D MV"
+    "value": "有3DMV"
   },
   {
     "wordingKey": "WORD_EXP_REWARD",
@@ -7202,6 +7680,14 @@
     "value": "篩選"
   },
   {
+    "wordingKey": "WORD_FILTER_SKILL_SCORE",
+    "value": "分數UP"
+  },
+  {
+    "wordingKey": "WORD_FILTER_SKILL_SCORE_UP_SPECIAL",
+    "value": "分數UP（特殊）"
+  },
+  {
     "wordingKey": "WORD_FINAL_CONFIRM",
     "value": "最終確認"
   },
@@ -7226,6 +7712,14 @@
     "value": "範例abc"
   },
   {
+    "wordingKey": "WORD_FORTUNE",
+    "value": "吉"
+  },
+  {
+    "wordingKey": "WORD_FORTUNE_GACHA",
+    "value": "抽籤"
+  },
+  {
     "wordingKey": "WORD_FREE",
     "value": "免費"
   },
@@ -7248,6 +7742,10 @@
   {
     "wordingKey": "WORD_FRIEND_COUNT",
     "value": "好友"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE",
+    "value": "從<color=#ff5599>{0}</color>收到了LIVE的邀請。"
   },
   {
     "wordingKey": "WORD_FRIEND_LIST",
@@ -7290,6 +7788,10 @@
     "value": "拒絕好友申請"
   },
   {
+    "wordingKey": "WORD_FRIENT_INVITE_TITLE",
+    "value": "送出好友邀請"
+  },
+  {
     "wordingKey": "WORD_FULLSET",
     "value": "套裝"
   },
@@ -7330,6 +7832,10 @@
     "value": "招募說明"
   },
   {
+    "wordingKey": "WORD_GACHA_EXTRA_BONUS",
+    "value": "獲得BONUS"
+  },
+  {
     "wordingKey": "WORD_GACHA_SELECT_LIST",
     "value": "選擇清單招募"
   },
@@ -7352,6 +7858,14 @@
   {
     "wordingKey": "WORD_GET_CHARACTER_RANK_UP_REWARD",
     "value": "獲得角色等級提升報酬"
+  },
+  {
+    "wordingKey": "WORD_GET_CONNECT_LIVE_REWARD",
+    "value": "連線LIVE報酬"
+  },
+  {
+    "wordingKey": "WORD_GET_COSTUME_DIALOG",
+    "value": "{0} {1}\\n\\n<color={2}>{3}</color>"
   },
   {
     "wordingKey": "WORD_GET_ORDER",
@@ -7390,6 +7904,10 @@
     "value": "前往區域商店"
   },
   {
+    "wordingKey": "WORD_GO_CARD_LEVEL_UP",
+    "value": "前往練習頁面"
+  },
+  {
     "wordingKey": "WORD_GO_CHALLENGE_LIVE",
     "value": "前往挑戰LIVE"
   },
@@ -7408,6 +7926,10 @@
   {
     "wordingKey": "WORD_GO_COSTUME_SHOP",
     "value": "前往服飾店"
+  },
+  {
+    "wordingKey": "WORD_GO_DECK_EDIT",
+    "value": "前往編組頁面"
   },
   {
     "wordingKey": "WORD_GO_EVENT_EXCHANGE",
@@ -7470,6 +7992,14 @@
     "value": "前往劇情頁面"
   },
   {
+    "wordingKey": "WORD_GO_TO_CRYSTAL_SHOP_FOR_STREAMING_LIVE_TICKET",
+    "value": "水晶\n商店"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
+    "value": "購入票券"
+  },
+  {
     "wordingKey": "WORD_GO_TRAINING",
     "value": "前往特訓頁面"
   },
@@ -7484,6 +8014,14 @@
   {
     "wordingKey": "WORD_GO_WAITING_ROOM",
     "value": "前往休息室"
+  },
+  {
+    "wordingKey": "WORD_GRATE_FORTUNE",
+    "value": "大吉"
+  },
+  {
+    "wordingKey": "WORD_GRATE_MISFORTUNE",
+    "value": "大凶"
   },
   {
     "wordingKey": "WORD_GROUP_POINT_TOTAL",
@@ -7766,6 +8304,10 @@
     "value": "稱號設定"
   },
   {
+    "wordingKey": "WORD_HONOR_WORD_GET_HOLDER",
+    "value": "稱號名稱「{0}」"
+  },
+  {
     "wordingKey": "Word_HoursTimeSpan",
     "value": "還剩{0}小時{1}分鐘"
   },
@@ -7794,12 +8336,51 @@
     "value": "輸入名稱"
   },
   {
+    "wordingKey": "WORD_INSTRUMENTLE_VERSION",
+    "value": "Inst. ver."
+  },
+  {
+    "wordingKey": "WORD_INSTRUMENTLE_VERSION_NAMES"
+  },
+  {
     "wordingKey": "WORD_INVALIDLIVE",
     "value": "得分異常\n不計入小隊分數"
   },
   {
     "wordingKey": "WORD_INVENTORY",
     "value": "持有物"
+  },
+  {
+    "wordingKey": "WORD_INVITE",
+    "value": "邀請"
+  },
+  {
+    "wordingKey": "WORD_INVITE_CHEERFUL_LIVE",
+    "value": "邀請「Cheerful LIVE」"
+  },
+  {
+    "wordingKey": "WORD_INVITE_CONNECT_LIVE",
+    "value": "邀請「連線LIVE」"
+  },
+  {
+    "wordingKey": "WORD_INVITE_FAILED",
+    "value": "邀請失敗"
+  },
+  {
+    "wordingKey": "WORD_INVITE_MULTI_LIVE",
+    "value": "邀請「多人LIVE」"
+  },
+  {
+    "wordingKey": "WORD_INVITE_SUCCESS",
+    "value": "已邀請"
+  },
+  {
+    "wordingKey": "WORD_INVITE_VIRTUAL_LIVE",
+    "value": "邀請「虛擬LIVE」"
+  },
+  {
+    "wordingKey": "WORD_INVITING",
+    "value": "邀請中"
   },
   {
     "wordingKey": "WORD_IP_INTERCEPT",
@@ -7880,6 +8461,10 @@
   {
     "wordingKey": "WORD_LEVEL_UP",
     "value": "升級"
+  },
+  {
+    "wordingKey": "WORD_LIMITED_TIME_RELEASE",
+    "value": "期間限定開放中"
   },
   {
     "wordingKey": "WORD_LIMIT_MISSION_TIME",
@@ -7964,6 +8549,10 @@
   {
     "wordingKey": "WORD_LIVE_FAILED2",
     "value": "LIVE失敗"
+  },
+  {
+    "wordingKey": "WORD_LIVE_INVITE",
+    "value": "邀請LIVE"
   },
   {
     "wordingKey": "WORD_LIVE_MISSION_BALLOON_TIPS",
@@ -8094,6 +8683,10 @@
     "value": "登入失敗，請重新登入"
   },
   {
+    "wordingKey": "WORD_LOGPOUT",
+    "value": "帳號刪除"
+  },
+  {
     "wordingKey": "WORD_LV",
     "value": "Lv."
   },
@@ -8218,6 +8811,14 @@
     "value": "確認交換成員"
   },
   {
+    "wordingKey": "WORD_MEMBER_EXCHANGE_CONFIRM_SHOP",
+    "value": "先前已經獲得，要交換嗎？\n<color=#ff5588>※已獲得的成員將會被送至休息室。</color>"
+  },
+  {
+    "wordingKey": "WORD_MEMBER_EXCHANGE_SHOP",
+    "value": "成員交換所"
+  },
+  {
     "wordingKey": "WORD_MEMBER_INFO",
     "value": "成員資料"
   },
@@ -8254,6 +8855,10 @@
     "value": "訊息"
   },
   {
+    "wordingKey": "WORD_MIDDLE_FORTUNE",
+    "value": "中吉"
+  },
+  {
     "wordingKey": "WORD_MIGRATION_NL",
     "value": "帳號綁定"
   },
@@ -8268,6 +8873,10 @@
   {
     "wordingKey": "Word_MinutesTimeSpan",
     "value": "還剩{0}分鐘"
+  },
+  {
+    "wordingKey": "WORD_MISFORTUNE",
+    "value": "凶"
   },
   {
     "wordingKey": "WORD_MISSING_ADD_FRIEND",
@@ -8296,6 +8905,10 @@
   {
     "wordingKey": "WORD_MISSION_DETAIL",
     "value": "任務詳情"
+  },
+  {
+    "wordingKey": "WORD_MODE",
+    "value": "模式"
   },
   {
     "wordingKey": "WORD_MODE_SETTING",
@@ -8902,6 +9515,10 @@
     "value": "MV設定"
   },
   {
+    "wordingKey": "WORD_MV_SETTINGS",
+    "value": "MV設定"
+  },
+  {
     "wordingKey": "WORD_MV_VIEWING",
     "value": "觀看MV"
   },
@@ -8978,8 +9595,16 @@
     "value": "未FULL COMBO"
   },
   {
+    "wordingKey": "WORD_NOT_INVITED",
+    "value": "不可邀請"
+  },
+  {
     "wordingKey": "WORD_NOT_JOIN",
     "value": "不參加"
+  },
+  {
+    "wordingKey": "WORD_NOT_PUBLISH_MUSIC_ERROR_TITLE",
+    "value": "錯誤"
   },
   {
     "wordingKey": "WORD_NOT_PURCHASE",
@@ -9010,6 +9635,10 @@
     "value": "免費"
   },
   {
+    "wordingKey": "WORD_NO_ENTER",
+    "value": "禁止入場"
+  },
+  {
     "wordingKey": "WORD_NO_PLACE_CONTENT",
     "value": "尚未設置"
   },
@@ -9036,6 +9665,18 @@
   {
     "wordingKey": "WORD_OK",
     "value": "OK"
+  },
+  {
+    "wordingKey": "WORD_OMIKUJI_DETAIL",
+    "value": "運籤詳情"
+  },
+  {
+    "wordingKey": "WORD_OMIKUJI_LIST",
+    "value": "運籤一覽"
+  },
+  {
+    "wordingKey": "WORD_OMIKUJI_SUMMURY_TITLE",
+    "value": "運籤概要"
   },
   {
     "wordingKey": "WORD_ON",
@@ -9068,6 +9709,10 @@
   {
     "wordingKey": "WORD_OPEN_WINDOW",
     "value": "開啟"
+  },
+  {
+    "wordingKey": "WORD_OPERATION_MESSAGE_TITLE",
+    "value": "營運方敬上"
   },
   {
     "wordingKey": "WORD_OPTION",
@@ -9174,6 +9819,10 @@
     "value": "演出者"
   },
   {
+    "wordingKey": "Word_Phone_MissNotch_Type",
+    "value": "samsung SM-F916N*samsung SM-F907N"
+  },
+  {
     "wordingKey": "WORD_PIAPRO_IDOL_STORY_TITLE",
     "value": "舞台的「世界」篇"
   },
@@ -9262,6 +9911,10 @@
     "value": "練習譜"
   },
   {
+    "wordingKey": "WORD_PREFIX_SPIN_COLLECTION_GACHA",
+    "value": "<size=28>打開</size>{0}次"
+  },
+  {
     "wordingKey": "WORD_PREMIUM",
     "value": "高階"
   },
@@ -9348,6 +10001,10 @@
   {
     "wordingKey": "WORD_PULL",
     "value": "招募"
+  },
+  {
+    "wordingKey": "WORD_PUNCTUATION",
+    "value": "、"
   },
   {
     "wordingKey": "WORD_PURCHASE",
@@ -9446,6 +10103,10 @@
     "value": "領取禮物"
   },
   {
+    "wordingKey": "WORD_RECHARGEREWARD_DETAIL",
+    "value": "초회 구입 특전"
+  },
+  {
     "wordingKey": "WORD_RECOMMEND",
     "value": "推薦"
   },
@@ -9484,6 +10145,10 @@
   {
     "wordingKey": "WORD_RECOVER",
     "value": "恢復"
+  },
+  {
+    "wordingKey": "WORD_RECOVER_BY_CRYSTAL",
+    "value": "以水晶恢復"
   },
   {
     "wordingKey": "Word_RecruitNotEnough1",
@@ -9538,6 +10203,14 @@
     "value": "解鎖技能升級"
   },
   {
+    "wordingKey": "WORD_RELEASING_ON_EVENT",
+    "value": "活動時開放！"
+  },
+  {
+    "wordingKey": "WORD_REMAIN_NUM",
+    "value": "剩餘次數"
+  },
+  {
     "wordingKey": "WORD_REQUEST",
     "value": "申請"
   },
@@ -9566,8 +10239,16 @@
     "value": "還剩{0}P"
   },
   {
+    "wordingKey": "WORD_REST_TIME",
+    "value": "還有{0}秒"
+  },
+  {
     "wordingKey": "WORD_REST_VALUE",
     "value": "還剩{0}"
+  },
+  {
+    "wordingKey": "WORD_RESUME",
+    "value": "繼續"
   },
   {
     "wordingKey": "WORD_RETRY",
@@ -9600,6 +10281,10 @@
   {
     "wordingKey": "WORD_REWARD_AND_EXP",
     "value": "報酬、EXP"
+  },
+  {
+    "wordingKey": "WORD_REWARD_COUNT_FORMAT",
+    "value": "獲得×{0}"
   },
   {
     "wordingKey": "WORD_RIGHT_NATATION",
@@ -9650,6 +10335,10 @@
     "value": "分數等級"
   },
   {
+    "wordingKey": "WORD_SCORE_REGISTER_DATE",
+    "value": "分數獲得日期"
+  },
+  {
     "wordingKey": "WORD_SCREEN_FIXED",
     "value": "固定畫面"
   },
@@ -9668,6 +10357,10 @@
   {
     "wordingKey": "WORD_SEARCH_PLAYER_ID",
     "value": "搜尋玩家ID"
+  },
+  {
+    "wordingKey": "WORD_SEE_CONTENT",
+    "value": "看內容物"
   },
   {
     "wordingKey": "WORD_SEKAI_VERSION",
@@ -9704,6 +10397,10 @@
   {
     "wordingKey": "WORD_SELECT_CLEANUP_TITLE",
     "value": "取消確認"
+  },
+  {
+    "wordingKey": "WORD_SELECT_COLLECTION",
+    "value": "選擇收藏"
   },
   {
     "wordingKey": "WORD_SELECT_COLOR",
@@ -9922,8 +10619,16 @@
     "value": "顯示"
   },
   {
+    "wordingKey": "WORD_SKILL",
+    "value": "技能"
+  },
+  {
     "wordingKey": "WORD_SKILL_LEVEL",
     "value": "技能等級"
+  },
+  {
+    "wordingKey": "WORD_SKILL_LV",
+    "value": "SLv."
   },
   {
     "wordingKey": "WORD_SKILL_NAME",
@@ -9954,8 +10659,40 @@
     "value": "跳過"
   },
   {
+    "wordingKey": "WORD_SL_SETTINGS_CAMERA_SHAKE",
+    "value": "移動時相機的晃動"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_ENABLE_SE",
+    "value": "會場的歡呼聲"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN",
+    "value": "會場內角色的顯示數量"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN_ALL",
+    "value": "標準"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN_REDUCED",
+    "value": "較少"
+  },
+  {
+    "wordingKey": "WORD_SMALL_FORTUNE",
+    "value": "小吉"
+  },
+  {
+    "wordingKey": "WORD_SOHW_ONLINE",
+    "value": "顯示線上"
+  },
+  {
     "wordingKey": "WORD_SOLO",
     "value": "獨唱"
+  },
+  {
+    "wordingKey": "WORD_SOLO_LIVE_SHUFFLE_BUTTON",
+    "value": "隨機"
   },
   {
     "wordingKey": "WORD_SORT",
@@ -9984,6 +10721,10 @@
   {
     "wordingKey": "WORD_SORT_REGISTRATION_LABEL",
     "value": "依登錄時間排序"
+  },
+  {
+    "wordingKey": "WORD_SORT_SKILL_EFFECT_VALUE",
+    "value": "技能效果值"
   },
   {
     "wordingKey": "WORD_SPECIAL_SKILL",
@@ -10110,6 +10851,22 @@
     "value": "跳過劇情"
   },
   {
+    "wordingKey": "WORD_STREAMING_LIVE_ENTER_CONFIRM",
+    "value": "確認入場"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_EXIT_DIALOG_MESSAGE",
+    "value": "中途退場，會回到等待區域嗎？\n根據票券的使用狀況，能再次入場的期間會有所不同。"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_RE_ENTER_TITLE",
+    "value": "確認再次入場"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_TICKET_SHOP",
+    "value": "票券商店"
+  },
+  {
     "wordingKey": "WORD_SUB_UNIT",
     "value": "副團體"
   },
@@ -10126,8 +10883,20 @@
     "value": "stage_midaccount_bg"
   },
   {
+    "wordingKey": "WORD_SUPPORT_EVENT_REWARD_DESCRIBE_X",
+    "value": "此為中秋應援活動「世界」粉絲數{0}萬的獎勵"
+  },
+  {
+    "wordingKey": "WORD_SUPPORT_EVENT_UNIT_SCORE_REWARD",
+    "value": "查看獎勵"
+  },
+  {
     "wordingKey": "WORD_SUPPORT_MEMBR",
     "value": "輔助成員"
+  },
+  {
+    "wordingKey": "WORD_SUSPENSION",
+    "value": "中斷"
   },
   {
     "wordingKey": "WORD_SYSTEM_VOLUME",
@@ -10182,6 +10951,18 @@
     "value": "票券交換所"
   },
   {
+    "wordingKey": "WORD_TIME_LIMIT_COLLABORATION_AREA",
+    "value": "區域的出現期間已結束。\n將返回主畫面。"
+  },
+  {
+    "wordingKey": "WORD_TIME_LIMIT_FROAMT",
+    "value": "到{0}/{1:00}/{2:00} {3:00}:{4:00}為止"
+  },
+  {
+    "wordingKey": "WORD_TIME_LIMIT_RANGE_FORMAT",
+    "value": "{0}/{01:00}/{02:00} {03:00}:{04:00} ~ {5}/{06:00}/{07:00} {08:00}:{09:00}"
+  },
+  {
     "wordingKey": "WORD_TIMING_ADJUSTMENT",
     "value": "調整按鍵時機"
   },
@@ -10200,6 +10981,10 @@
   {
     "wordingKey": "WORD_TITLE_COSTUME_CHANGE_TITLE",
     "value": "已設定服裝"
+  },
+  {
+    "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
+    "value": "確定交換"
   },
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
@@ -10278,6 +11063,22 @@
     "value": "稱號獎勵"
   },
   {
+    "wordingKey": "WORD_TOURNAMENT_HIGH_SCORE",
+    "value": "大會最高分"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_MUSIC",
+    "value": "大會指定歌曲"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_SCORE_DETAIL",
+    "value": "詳情"
+  },
+  {
+    "wordingKey": "WORD_TO_EXCHANGE_SHOP",
+    "value": "前往交換所"
+  },
+  {
     "wordingKey": "WORD_TranslateMusicName",
     "value": "中譯版歌曲名稱"
   },
@@ -10288,6 +11089,10 @@
   {
     "wordingKey": "WORD_UERLOGOUT_TITLE",
     "value": "賬號註銷"
+  },
+  {
+    "wordingKey": "WORD_UNCERTAIN_LUCK",
+    "value": "末吉"
   },
   {
     "wordingKey": "WORD_UNIT",
@@ -10540,6 +11345,10 @@
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_ITEM_SE",
     "value": "虛擬道具效果音"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_LIVE_ACTION_BUTTON",
+    "value": "LIVE中的動作按鈕"
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_OTHER_PLAYER_ITEM",

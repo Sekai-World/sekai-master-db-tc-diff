@@ -367,5 +367,59 @@
     "requirement": 5,
     "sentence": "通過所有夏日限時任務吧。",
     "resourceBoxId": 100206
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 47,
+    "seq": 1,
+    "limitMissionType": "clear_live_miku_leader",
+    "requirement": 15,
+    "sentence": "將初音未來設為隊長並進行15次LIVE吧。",
+    "resourceBoxId": 100301
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 48,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 100,
+    "sentence": "累計消耗100LIVE BONUS吧。（可以從[LIVE]->[設定]的圖示中變更LIVE BONUS的消費量）",
+    "resourceBoxId": 100302
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 49,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 100303
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 50,
+    "seq": 1,
+    "limitMissionType": "character_rank_miku",
+    "requirement": 5,
+    "sentence": "將初音未來的角色等級提升至5級吧。",
+    "resourceBoxId": 100304
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 51,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_miku",
+    "requirement": 3,
+    "sentence": "選擇初音未來進行3次挑戰LIVE吧。",
+    "resourceBoxId": 100305
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 52,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成所有的初音未來週年慶限時任務吧。",
+    "resourceBoxId": 100306
   }
 ]

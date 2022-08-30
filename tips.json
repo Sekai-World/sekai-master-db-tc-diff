@@ -63,6 +63,13 @@
     "toUserRank": 30
   },
   {
+    "id": 19,
+    "title": "奇蹟寶石的使用方式&取得方式",
+    "description": "可讓★3以上的成員進行「特訓」，\n提升素質與上限Lv.。",
+    "fromUserRank": 1,
+    "toUserRank": 20
+  },
+  {
     "id": 21,
     "title": "服裝素材的使用方式&取得方式",
     "description": "可在購物中心的「服飾店」中，\n製作角色的演出服裝。",
@@ -227,6 +234,13 @@
     "id": 63,
     "title": "心願結晶的使用方式&取得方式",
     "description": "「心願純結晶」可在休息室\n用★4成員交換獲得。",
+    "fromUserRank": 25,
+    "toUserRank": 50
+  },
+  {
+    "id": 64,
+    "title": "心願結晶的使用方式&取得方式",
+    "description": "「心願碎片」可在休息室\n用★2、★3以及生日成員交換獲得。",
     "fromUserRank": 25,
     "toUserRank": 50
   },
@@ -514,6 +528,55 @@
     "id": 115,
     "title": "個人資料",
     "description": "「自製個人資料」可透過編輯素材來製作原創的個人資料。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 116,
+    "title": "生日成員",
+    "description": "生日成員是指\n擁有稀有度「生日」的特別成員。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 117,
+    "title": "成員交換所",
+    "description": "在「成員交換所」\n可以交換過去曾經登場過的常駐成員。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 118,
+    "title": "活動獎勵",
+    "description": "專精等級提升後\n會增加活動獎勵。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 119,
+    "title": "情誼等級",
+    "description": "若提升「情誼等級」，兩位角色可獲得特別稱號和報酬。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 120,
+    "title": "情誼等級",
+    "description": "「情誼EXP」是透過遊玩LIVE，被編組進團體的隊長和其他4名成員獲得。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 121,
+    "title": "好友",
+    "description": "可以邀請好友到「多人LIVE」、「虛擬LIVE」的私人房間。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 122,
+    "title": "AUTO LIVE",
+    "description": "使用「AUTO LIVE設定」，可將LIVE BONUS設定為自動恢復並連續進行LIVE。",
     "fromUserRank": 1,
     "toUserRank": 999
   },

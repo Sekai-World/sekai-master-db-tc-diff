@@ -315,6 +315,13 @@
     "materialType": "card_ticket"
   },
   {
+    "id": 46,
+    "seq": 46,
+    "name": "★4成員選擇券",
+    "flavorText": "可在★4票券交換所交換喜歡的★4成員。",
+    "materialType": "card_ticket"
+  },
+  {
     "id": 47,
     "seq": 47,
     "name": "招募貼紙交換券",
@@ -369,5 +376,40 @@
     "name": "25點，Nightcord見。\n 主唱卡交換券",
     "flavorText": "可在主唱卡交換所中，交換對象團體角色的主唱卡。",
     "materialType": "vocal_card_ticket"
+  },
+  {
+    "id": 55,
+    "seq": 55,
+    "name": "新手限定選擇券",
+    "flavorText": "[新手限定]可在★4成員交換所中，交換★4成員。",
+    "materialType": "card_ticket"
+  },
+  {
+    "id": 56,
+    "seq": 56,
+    "name": "[新春2022]★3成員選擇券",
+    "flavorText": "[新春2022]可在★3成員交換所中，交換★3成員。",
+    "materialType": "card_ticket"
+  },
+  {
+    "id": 1001,
+    "seq": 1001,
+    "name": "七彩通行證兌換券",
+    "flavorText": "七彩通行證",
+    "materialType": "web_ticket"
+  },
+  {
+    "id": 1002,
+    "seq": 1002,
+    "name": "高階任務通行證兌換券",
+    "flavorText": "高階任務通行證",
+    "materialType": "web_ticket"
+  },
+  {
+    "id": 1003,
+    "seq": 1003,
+    "name": "高階任務通行證兌換券（進階版）",
+    "flavorText": "高階任務通行證（進階版）",
+    "materialType": "web_ticket"
   }
 ]

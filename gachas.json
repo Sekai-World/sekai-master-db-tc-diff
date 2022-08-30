@@ -5,14 +5,32 @@
     "name": "開服紀念招募",
     "seq": 1,
     "assetbundleName": "ab_gacha_1",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1632985200000,
     "endAt": 1633762799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 1,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1,
@@ -445,7 +463,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 2,
@@ -499,13 +517,25 @@
     "name": "必中★3以上票券招募",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 2,
     "startAt": 1475218800000,
     "endAt": 1641797999000,
+    "isShowPeriod": false,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 4,
+        "groupId": 2,
+        "cardRarityType": "rarity_3",
+        "rate": 97
+      },
+      {
+        "id": 5,
+        "groupId": 2,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 61,
@@ -766,13 +796,31 @@
     "name": "虛擬歌手限定招募",
     "seq": 10,
     "assetbundleName": "ab_gacha_3",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1475218800000,
     "endAt": 1633762799000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 91,
@@ -918,7 +966,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 2000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -960,14 +1008,32 @@
     "name": "星辰降落的夜空回憶招募",
     "seq": 1,
     "assetbundleName": "ab_gacha_4",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1633762800000,
     "endAt": 1634713199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 2,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 110,
@@ -1351,7 +1417,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 7,
@@ -1398,17 +1464,35 @@
   {
     "id": 5,
     "gachaType": "ceil",
-    "name": "人偶們的舞會招募",
+    "name": "[限定1次] 人偶們的舞會招募",
     "seq": 1,
     "assetbundleName": "ab_gacha_5",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1634713200000,
     "endAt": 1635663599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 3,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 163,
@@ -1813,7 +1897,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 10,
@@ -1863,14 +1947,32 @@
     "name": "紳士★馬鈴薯之星招募",
     "seq": 1,
     "assetbundleName": "ab_gacha_6",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1635663600000,
     "endAt": 1636441199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 4,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 219,
@@ -2296,7 +2398,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 13,
@@ -2346,14 +2448,32 @@
     "name": "[限定1次] 紳士★馬鈴薯之星招募",
     "seq": 2,
     "assetbundleName": "ab_gacha_7",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1635663600000,
     "endAt": 1636441199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 4,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 278,
@@ -2779,7 +2899,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -2809,14 +2929,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 3,
     "assetbundleName": "ab_gacha_8",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1636009200000,
     "endAt": 1636289999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 4,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 337,
@@ -3289,14 +3427,32 @@
     "name": "元氣滿滿♪應援團招募",
     "seq": 10,
     "assetbundleName": "ab_gacha_9",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1636441200000,
     "endAt": 1637305199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 5,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 396,
@@ -3743,7 +3899,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 19,
@@ -3793,14 +3949,32 @@
     "name": "[限定1次] 元氣滿滿♪應援團招募",
     "seq": 20,
     "assetbundleName": "ab_gacha_10",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1636441200000,
     "endAt": 1637305199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 5,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 458,
@@ -4247,7 +4421,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -4277,14 +4451,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 30,
     "assetbundleName": "ab_gacha_11",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1636786800000,
     "endAt": 1637153999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 5,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 520,
@@ -4778,14 +4970,32 @@
     "name": "MORE MORE SMILE！招募",
     "seq": 50,
     "assetbundleName": "ab_gacha_12",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1637305200000,
     "endAt": 1638255599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 6,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 582,
@@ -5253,7 +5463,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 25,
@@ -5303,14 +5513,32 @@
     "name": "[限定1次] MORE MORE SMILE！招募",
     "seq": 60,
     "assetbundleName": "ab_gacha_13",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1637305200000,
     "endAt": 1638255599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 6,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 647,
@@ -5778,7 +6006,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -5808,14 +6036,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 70,
     "assetbundleName": "ab_gacha_14",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1637737200000,
     "endAt": 1638104399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 6,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 712,
@@ -6330,13 +6576,31 @@
     "name": "250萬人突破紀念★4成員必中1人招募",
     "seq": 40,
     "assetbundleName": "ab_gacha_15",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1636354800000,
     "endAt": 1637477999000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 777,
@@ -6762,7 +7026,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -6804,13 +7068,32 @@
     "name": "新手應援起跑衝刺招募",
     "seq": 1,
     "assetbundleName": "ab_gacha_16",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
-    "startAt": 1635750000000,
-    "endAt": 4102415999000,
+    "gachaCardRarityRateGroupId": 1,
+    "startAt": 1607065200000,
+    "endAt": 1665471599000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "drawableGachaHour": 168,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 836,
@@ -7236,7 +7519,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -7278,14 +7561,32 @@
     "name": "等級1的夥伴招募",
     "seq": 80,
     "assetbundleName": "ab_gacha_17",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1638255600000,
     "endAt": 1639119599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 7,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 895,
@@ -7774,7 +8075,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 33,
@@ -7824,14 +8125,32 @@
     "name": "[限定1次] 等級1的夥伴招募",
     "seq": 90,
     "assetbundleName": "ab_gacha_18",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1638255600000,
     "endAt": 1639119599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 7,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 963,
@@ -8320,7 +8639,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -8350,14 +8669,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 100,
     "assetbundleName": "ab_gacha_19",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1638601200000,
     "endAt": 1638968399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 7,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1031,
@@ -8893,14 +9230,32 @@
     "name": "高中嘉年華招募",
     "seq": 80,
     "assetbundleName": "ab_gacha_20",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1639119600000,
     "endAt": 1639983599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 8,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1099,
@@ -9410,7 +9765,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 39,
@@ -9460,14 +9815,32 @@
     "name": "[限定1次] 高中嘉年華招募",
     "seq": 90,
     "assetbundleName": "ab_gacha_21",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1639119600000,
     "endAt": 1639983599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 8,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1170,
@@ -9977,7 +10350,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -10007,14 +10380,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 100,
     "assetbundleName": "ab_gacha_22",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1639378800000,
     "endAt": 1639832399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 8,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1241,
@@ -10571,14 +10962,32 @@
     "name": "奇幻頌歌招募",
     "seq": 80,
     "assetbundleName": "ab_gacha_23",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1639983600000,
     "endAt": 1640933999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 9,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1312,
@@ -11109,7 +11518,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 45,
@@ -11159,14 +11568,32 @@
     "name": "[限定1次] 奇幻頌歌招募",
     "seq": 90,
     "assetbundleName": "ab_gacha_24",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1639983600000,
     "endAt": 1640933999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 9,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1386,
@@ -11697,7 +12124,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -11727,14 +12154,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 100,
     "assetbundleName": "ab_gacha_25",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1640329200000,
     "endAt": 1640782799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 9,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1460,
@@ -12312,14 +12757,32 @@
     "name": "[迎接2022年] 七彩慶典招募",
     "seq": 90,
     "assetbundleName": "ab_gacha_26",
-    "rarity1Rate": 0,
-    "rarity2Rate": 85.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "gachaCardRarityRateGroupId": 3,
     "startAt": 1640934000000,
     "endAt": 1641279599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 10,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 6,
+        "groupId": 3,
+        "cardRarityType": "rarity_2",
+        "rate": 85.5
+      },
+      {
+        "id": 7,
+        "groupId": 3,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 8,
+        "groupId": 3,
+        "cardRarityType": "rarity_4",
+        "rate": 6
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1534,
@@ -12943,14 +13406,32 @@
     "name": "[送別2021年] 七彩慶典招募",
     "seq": 100,
     "assetbundleName": "ab_gacha_27",
-    "rarity1Rate": 0,
-    "rarity2Rate": 85.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "gachaCardRarityRateGroupId": 3,
     "startAt": 1640934000000,
     "endAt": 1641279599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 10,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 6,
+        "groupId": 3,
+        "cardRarityType": "rarity_2",
+        "rate": 85.5
+      },
+      {
+        "id": 7,
+        "groupId": 3,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 8,
+        "groupId": 3,
+        "cardRarityType": "rarity_4",
+        "rate": 6
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1612,
@@ -13546,14 +14027,32 @@
     "name": "「世界」的興奮雀躍新年招募",
     "seq": 90,
     "assetbundleName": "ab_gacha_28",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1641279600000,
     "endAt": 1641797999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 10,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1686,
@@ -14112,7 +14611,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 55,
@@ -14188,14 +14687,32 @@
     "name": "[限定1次] 「世界」的興奮雀躍新年招募",
     "seq": 100,
     "assetbundleName": "ab_gacha_29",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1641279600000,
     "endAt": 1641797999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 10,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1764,
@@ -14754,7 +15271,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -14788,13 +15305,31 @@
     "name": "新春1天限定1次！10連免費招募",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1640966400000,
     "endAt": 1641052799000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1842,
@@ -15283,7 +15818,7 @@
         "costResourceType": "jewel",
         "costResourceQuantity": 0,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -15325,13 +15860,31 @@
     "name": "新春1天限定1次！10連免費招募",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1641052800000,
     "endAt": 1641139199000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1910,
@@ -15820,7 +16373,7 @@
         "costResourceType": "jewel",
         "costResourceQuantity": 0,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -15862,13 +16415,31 @@
     "name": "新春1天限定1次！10連免費招募",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1641139200000,
     "endAt": 1641225599000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 1978,
@@ -16357,7 +16928,7 @@
         "costResourceType": "jewel",
         "costResourceQuantity": 0,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -16399,13 +16970,31 @@
     "name": "新春1天限定1次！10連免費招募",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1641225600000,
     "endAt": 1641311999000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 2046,
@@ -16894,7 +17483,7 @@
         "costResourceType": "jewel",
         "costResourceQuantity": 0,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -16936,13 +17525,31 @@
     "name": "新春1天限定1次！10連免費招募",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1641312000000,
     "endAt": 1641398399000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 2114,
@@ -17431,7 +18038,7 @@
         "costResourceType": "jewel",
         "costResourceQuantity": 0,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -17473,13 +18080,31 @@
     "name": "新春1天限定1次！10連免費招募",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1641398400000,
     "endAt": 1641484799000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 2182,
@@ -17968,7 +18593,7 @@
         "costResourceType": "jewel",
         "costResourceQuantity": 0,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -18010,13 +18635,31 @@
     "name": "新春1天限定1次！10連免費招募",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1641484800000,
     "endAt": 1641571199000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 2250,
@@ -18505,7 +19148,7 @@
         "costResourceType": "jewel",
         "costResourceQuantity": 0,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -18547,13 +19190,31 @@
     "name": "新春1天限定1次！10連免費招募",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1641571200000,
     "endAt": 1641657599000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 2318,
@@ -19042,7 +19703,7 @@
         "costResourceType": "jewel",
         "costResourceQuantity": 0,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -19084,13 +19745,25 @@
     "name": "必中★3以上票券招募",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 2,
     "startAt": 1641798000000,
     "endAt": 1644389999000,
+    "isShowPeriod": false,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 4,
+        "groupId": 2,
+        "cardRarityType": "rarity_3",
+        "rate": 97
+      },
+      {
+        "id": 5,
+        "groupId": 2,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 2386,
@@ -19414,15 +20087,33 @@
     "name": "小小的勇氣，大大的一步招募",
     "seq": 100,
     "assetbundleName": "ab_gacha_39",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1641798000000,
     "endAt": 1642748399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 11,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 2425,
@@ -20002,7 +20693,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 68,
@@ -20013,7 +20704,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 69,
@@ -20085,14 +20776,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 120,
     "assetbundleName": "ab_gacha_41",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1642143600000,
     "endAt": 1642597199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 11,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 2587,
@@ -20524,15 +21233,33 @@
     "name": "雨後閃耀的彩虹招募",
     "seq": 130,
     "assetbundleName": "ab_gacha_42",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1642748400000,
     "endAt": 1643612399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 12,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 2637,
@@ -21133,7 +21860,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 74,
@@ -21144,7 +21871,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 75,
@@ -21216,14 +21943,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 150,
     "assetbundleName": "ab_gacha_44",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1643007600000,
     "endAt": 1643461199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 12,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 2805,
@@ -21683,15 +22428,33 @@
     "name": "古典回憶招募",
     "seq": 160,
     "assetbundleName": "ab_gacha_45",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1643612400000,
     "endAt": 1644389999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 13,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 2859,
@@ -22313,7 +23076,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 80,
@@ -22324,7 +23087,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 81,
@@ -22396,14 +23159,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 180,
     "assetbundleName": "ab_gacha_47",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1643958000000,
     "endAt": 1644238799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 13,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 3033,
@@ -22898,15 +23679,33 @@
     "name": "Rockin'Parade招募",
     "seq": 190,
     "assetbundleName": "ab_gacha_48",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1644390000000,
     "endAt": 1645167599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 14,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 3092,
@@ -23549,7 +24348,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 86,
@@ -23560,7 +24359,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 87,
@@ -23632,14 +24431,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 210,
     "assetbundleName": "ab_gacha_50",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1644649200000,
     "endAt": 1645016399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 14,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 3272,
@@ -24134,13 +24951,25 @@
     "name": "必中★3以上票券招募",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 2,
     "startAt": 1644390000000,
     "endAt": 1646895599000,
+    "isShowPeriod": false,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 4,
+        "groupId": 2,
+        "cardRarityType": "rarity_3",
+        "rate": 97
+      },
+      {
+        "id": 5,
+        "groupId": 2,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 3331,
@@ -24527,15 +25356,33 @@
     "name": "光芒映射的畫布招募",
     "seq": 220,
     "assetbundleName": "ab_gacha_52",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1645167600000,
     "endAt": 1646031599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 15,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 3379,
@@ -25199,7 +26046,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 93,
@@ -25210,7 +26057,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 94,
@@ -25282,14 +26129,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 240,
     "assetbundleName": "ab_gacha_54",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1645426800000,
     "endAt": 1645880399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 15,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 3565,
@@ -25801,13 +26666,31 @@
     "name": "選擇清單招募",
     "seq": 200,
     "assetbundleName": "ab_gacha_55",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1645772400000,
     "endAt": 1646290799000,
+    "isShowPeriod": true,
     "wishSelectCount": 10,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 3627,
@@ -26429,7 +27312,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -26471,14 +27354,32 @@
     "name": "輕飄飄☆夢幻國度招募",
     "seq": 250,
     "assetbundleName": "ab_gacha_56",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1646031600000,
     "endAt": 1646895599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 16,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 3714,
@@ -27163,7 +28064,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 100,
@@ -27235,14 +28136,32 @@
     "name": "[限定1次]輕飄飄☆夢幻國度招募",
     "seq": 260,
     "assetbundleName": "ab_gacha_57",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1646031600000,
     "endAt": 1646895599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 16,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 3810,
@@ -27927,7 +28846,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -27957,14 +28876,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 270,
     "assetbundleName": "ab_gacha_58",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1646290800000,
     "endAt": 1646744399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 16,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 3906,
@@ -28508,13 +29445,25 @@
     "name": "必中★3以上票券招募",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 2,
     "startAt": 1646895600000,
     "endAt": 1649660399000,
+    "isShowPeriod": false,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 4,
+        "groupId": 2,
+        "cardRarityType": "rarity_3",
+        "rate": 97
+      },
+      {
+        "id": 5,
+        "groupId": 2,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 3972,
@@ -28971,15 +29920,33 @@
     "name": "天空飛翔的快樂女兒節☆招募",
     "seq": 280,
     "assetbundleName": "ab_gacha_60",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1646895600000,
     "endAt": 1647932399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 17,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 4030,
@@ -29671,7 +30638,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 107,
@@ -29682,7 +30649,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 108,
@@ -29754,14 +30721,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 300,
     "assetbundleName": "ab_gacha_62",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1647154800000,
     "endAt": 1647781199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 17,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 4224,
@@ -30301,15 +31286,33 @@
     "name": "從這裡展翅的天使招募",
     "seq": 310,
     "assetbundleName": "ab_gacha_63",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1647932400000,
     "endAt": 1648796399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 18,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 4290,
@@ -31022,7 +32025,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 113,
@@ -31033,7 +32036,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 114,
@@ -31105,14 +32108,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 330,
     "assetbundleName": "ab_gacha_65",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1648105200000,
     "endAt": 1648645199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 18,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 4490,
@@ -31684,14 +32705,32 @@
     "name": "開服半年紀念七彩慶典招募",
     "seq": 290,
     "assetbundleName": "ab_gacha_66",
-    "rarity1Rate": 0,
-    "rarity2Rate": 85.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "gachaCardRarityRateGroupId": 3,
     "startAt": 1648623600000,
     "endAt": 1649228399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 19,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 6,
+        "groupId": 3,
+        "cardRarityType": "rarity_2",
+        "rate": 85.5
+      },
+      {
+        "id": 7,
+        "groupId": 3,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 8,
+        "groupId": 3,
+        "cardRarityType": "rarity_4",
+        "rate": 6
+      }
+    ],
     "gachaDetails": [
       {
         "id": 4560,
@@ -32488,7 +33527,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 119,
@@ -32556,14 +33595,32 @@
     "name": "[限定1次]開服半年紀念七彩慶典招募",
     "seq": 300,
     "assetbundleName": "ab_gacha_67",
-    "rarity1Rate": 0,
-    "rarity2Rate": 85.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "gachaCardRarityRateGroupId": 3,
     "startAt": 1648623600000,
     "endAt": 1649228399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 19,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 6,
+        "groupId": 3,
+        "cardRarityType": "rarity_2",
+        "rate": 85.5
+      },
+      {
+        "id": 7,
+        "groupId": 3,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 8,
+        "groupId": 3,
+        "cardRarityType": "rarity_4",
+        "rate": 6
+      }
+    ],
     "gachaDetails": [
       {
         "id": 4672,
@@ -33360,7 +34417,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -33386,15 +34443,33 @@
     "name": "與妳相遇的櫻花道招募",
     "seq": 360,
     "assetbundleName": "ab_gacha_68",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1648796400000,
     "endAt": 1649660399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 20,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 4784,
@@ -34198,7 +35273,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 123,
@@ -34209,7 +35284,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 124,
@@ -34281,14 +35356,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 380,
     "assetbundleName": "ab_gacha_70",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1649055600000,
     "endAt": 1649509199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 20,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 5010,
@@ -34902,13 +35995,25 @@
     "name": "必中★3以上票券招募",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 2,
     "startAt": 1649660400000,
     "endAt": 1652165999000,
+    "isShowPeriod": false,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 4,
+        "groupId": 2,
+        "cardRarityType": "rarity_3",
+        "rate": 97
+      },
+      {
+        "id": 5,
+        "groupId": 2,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 5086,
@@ -35428,15 +36533,33 @@
     "name": "秘密的更衣間招募",
     "seq": 390,
     "assetbundleName": "ab_gacha_72",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1649660400000,
     "endAt": 1650524399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 21,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 5153,
@@ -36261,7 +37384,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 130,
@@ -36272,7 +37395,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 131,
@@ -36344,14 +37467,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 410,
     "assetbundleName": "ab_gacha_74",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1649919600000,
     "endAt": 1650373199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 21,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 5385,
@@ -36972,15 +38113,33 @@
     "name": "4=1招募",
     "seq": 420,
     "assetbundleName": "ab_gacha_75",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1650524400000,
     "endAt": 1651301999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 22,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 5462,
@@ -37826,7 +38985,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 136,
@@ -37837,7 +38996,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 137,
@@ -37909,14 +39068,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 440,
     "assetbundleName": "ab_gacha_77",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1650783600000,
     "endAt": 1651150799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 22,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 5700,
@@ -38558,14 +39735,32 @@
     "name": "共同前行的團隊招募",
     "seq": 450,
     "assetbundleName": "ab_gacha_78",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1651302000000,
     "endAt": 1652165999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 23,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 5780,
@@ -39432,7 +40627,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 142,
@@ -39504,14 +40699,32 @@
     "name": "[限定1次]共同前行的團隊招募",
     "seq": 460,
     "assetbundleName": "ab_gacha_79",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1651302000000,
     "endAt": 1652165999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 23,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 5902,
@@ -40378,7 +41591,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -40408,14 +41621,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 470,
     "assetbundleName": "ab_gacha_80",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1651561200000,
     "endAt": 1652014799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 23,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 6024,
@@ -41085,13 +42316,25 @@
     "name": "必中★3以上票券招募",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 2,
     "startAt": 1652166000000,
     "endAt": 1654930799000,
+    "isShowPeriod": false,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 4,
+        "groupId": 2,
+        "cardRarityType": "rarity_3",
+        "rate": 97
+      },
+      {
+        "id": 5,
+        "groupId": 2,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 6108,
@@ -41660,15 +42903,33 @@
     "name": "森林妖精招募",
     "seq": 480,
     "assetbundleName": "ab_gacha_82",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1652166000000,
     "endAt": 1653116399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 24,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 6182,
@@ -42542,7 +43803,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 149,
@@ -42553,7 +43814,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 150,
@@ -42625,14 +43886,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 500,
     "assetbundleName": "ab_gacha_84",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1652425200000,
     "endAt": 1652965199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 24,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 6428,
@@ -43295,15 +44574,33 @@
     "name": "歡迎來到企鵝咖啡廳♪招募",
     "seq": 510,
     "assetbundleName": "ab_gacha_85",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1653116400000,
     "endAt": 1653980399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 25,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 6511,
@@ -44198,7 +45495,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 155,
@@ -44209,7 +45506,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 156,
@@ -44281,14 +45578,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 530,
     "assetbundleName": "ab_gacha_87",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1653375600000,
     "endAt": 1653829199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 25,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 6763,
@@ -44989,13 +46304,31 @@
     "name": "必中1名★4以上成員招募",
     "seq": 505,
     "assetbundleName": "ab_gacha_88",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1655967600000,
     "endAt": 1656572399000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 6852,
@@ -45848,7 +47181,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -45890,14 +47223,32 @@
     "name": "浪漫新娘招募",
     "seq": 550,
     "assetbundleName": "ab_gacha_89",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1653980400000,
     "endAt": 1654930799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 26,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 6972,
@@ -46813,7 +48164,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 162,
@@ -46885,14 +48236,32 @@
     "name": "[限定1次]浪漫新娘招募",
     "seq": 560,
     "assetbundleName": "ab_gacha_90",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1653980400000,
     "endAt": 1654930799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 26,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 7101,
@@ -47808,7 +49177,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -47838,14 +49207,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 570,
     "assetbundleName": "ab_gacha_91",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1654239600000,
     "endAt": 1654779599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 26,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 7230,
@@ -48557,15 +49944,33 @@
     "name": "Welcome♪不可思議的「世界」招募",
     "seq": 580,
     "assetbundleName": "ab_gacha_92",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1654930800000,
     "endAt": 1655794799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 27,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 7320,
@@ -49488,7 +50893,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 168,
@@ -49499,7 +50904,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 169,
@@ -49571,14 +50976,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 600,
     "assetbundleName": "ab_gacha_94",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1655103600000,
     "endAt": 1655643599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 27,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 7580,
@@ -50297,13 +51720,25 @@
     "name": "必中★3以上票券招募",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 2,
     "startAt": 1654930800000,
     "endAt": 1657349999000,
+    "isShowPeriod": false,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 4,
+        "groupId": 2,
+        "cardRarityType": "rarity_3",
+        "rate": 97
+      },
+      {
+        "id": 5,
+        "groupId": 2,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 7671,
@@ -50935,15 +52370,33 @@
     "name": "回憶的旋律招募",
     "seq": 610,
     "assetbundleName": "ab_gacha_96",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1655794800000,
     "endAt": 1656572399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 28,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 7754,
@@ -51887,7 +53340,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 175,
@@ -51898,7 +53351,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 176,
@@ -51970,14 +53423,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 620,
     "assetbundleName": "ab_gacha_97",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1656054000000,
     "endAt": 1656421199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 28,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 7887,
@@ -52724,14 +54195,32 @@
     "name": "七彩慶典招募",
     "seq": 630,
     "assetbundleName": "ab_gacha_98",
-    "rarity1Rate": 0,
-    "rarity2Rate": 85.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "gachaCardRarityRateGroupId": 3,
     "startAt": 1656572400000,
     "endAt": 1657004399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 29,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 6,
+        "groupId": 3,
+        "cardRarityType": "rarity_2",
+        "rate": 85.5
+      },
+      {
+        "id": 7,
+        "groupId": 3,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 8,
+        "groupId": 3,
+        "cardRarityType": "rarity_4",
+        "rate": 6
+      }
+    ],
     "gachaDetails": [
       {
         "id": 7982,
@@ -53724,7 +55213,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 181,
@@ -53735,7 +55224,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 182,
@@ -53803,15 +55292,33 @@
     "name": "七色彩虹和聲招募",
     "seq": 640,
     "assetbundleName": "ab_gacha_99",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1656572400000,
     "endAt": 1657349999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 30,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 8122,
@@ -54776,7 +56283,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 185,
@@ -54787,7 +56294,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 186,
@@ -54859,14 +56366,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 650,
     "assetbundleName": "ab_gacha_100",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1656831600000,
     "endAt": 1657198799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 30,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 8258,
@@ -55634,13 +57159,25 @@
     "name": "必中★3以上票券招募",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 2,
     "startAt": 1657350000000,
     "endAt": 1660114799000,
+    "isShowPeriod": false,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 4,
+        "groupId": 2,
+        "cardRarityType": "rarity_3",
+        "rate": 97
+      },
+      {
+        "id": 5,
+        "groupId": 2,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 8356,
@@ -56321,15 +57858,33 @@
     "name": "隱藏的狂野之心招募",
     "seq": 670,
     "assetbundleName": "ab_gacha_102",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1657350000000,
     "endAt": 1658300399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 31,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 8446,
@@ -57315,7 +58870,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 192,
@@ -57326,7 +58881,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 193,
@@ -57398,14 +58953,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 680,
     "assetbundleName": "ab_gacha_103",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1657782000000,
     "endAt": 1658149199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 31,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 8585,
@@ -58194,15 +59767,33 @@
     "name": "在夏夜浮現的往事招募",
     "seq": 690,
     "assetbundleName": "ab_gacha_104",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1658300400000,
     "endAt": 1659250799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 32,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 8686,
@@ -59209,7 +60800,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 198,
@@ -59220,7 +60811,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 199,
@@ -59292,14 +60883,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 700,
     "assetbundleName": "ab_gacha_105",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1658646000000,
     "endAt": 1659099599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 32,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 8828,
@@ -60116,13 +61725,31 @@
     "name": "選擇清單招募",
     "seq": 100,
     "assetbundleName": "ab_gacha_106",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1658818800000,
     "endAt": 1659596399000,
+    "isShowPeriod": true,
     "wishSelectCount": 10,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 8933,
@@ -61087,7 +62714,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -61129,14 +62756,32 @@
     "name": "大家一起Enjoy Summer！招募",
     "seq": 720,
     "assetbundleName": "ab_gacha_107",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1659250800000,
     "endAt": 1660114799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 33,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 9069,
@@ -62164,7 +63809,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 205,
@@ -62175,7 +63820,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 206,
@@ -62247,14 +63892,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 730,
     "assetbundleName": "ab_gacha_108",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1659596400000,
     "endAt": 1659963599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 33,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 9214,
@@ -63085,13 +64748,25 @@
     "name": "必中★3以上票券招募",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 2,
     "startAt": 1660114800000,
     "endAt": 1662793199000,
+    "isShowPeriod": false,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 4,
+        "groupId": 2,
+        "cardRarityType": "rarity_3",
+        "rate": 97
+      },
+      {
+        "id": 5,
+        "groupId": 2,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 9321,
@@ -63821,15 +65496,33 @@
     "name": "可愛信使招募",
     "seq": 740,
     "assetbundleName": "ab_gacha_110",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1660114800000,
     "endAt": 1660978799000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 34,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 9418,
@@ -64857,7 +66550,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 212,
@@ -64868,7 +66561,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 213,
@@ -64940,14 +66633,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 750,
     "assetbundleName": "ab_gacha_111",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1660460400000,
     "endAt": 1660827599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 34,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 9563,
@@ -65792,15 +67503,33 @@
     "name": "響亮歌聲！做夢的美人魚招募",
     "seq": 760,
     "assetbundleName": "ab_gacha_112",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1660978800000,
     "endAt": 1661929199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 35,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 9672,
@@ -66856,7 +68585,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 218,
@@ -66867,7 +68596,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 219,
@@ -66939,14 +68668,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 770,
     "assetbundleName": "ab_gacha_113",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1661324400000,
     "endAt": 1661777999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 35,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 9821,
@@ -67788,16 +69535,34 @@
   {
     "id": 114,
     "gachaType": "normal",
-    "name": "必中1名★4以上成員招募",
+    "name": "必中1名★4成員招募",
     "seq": 100,
     "assetbundleName": "ab_gacha_114",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1661497200000,
     "endAt": 1662274799000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 9930,
@@ -68811,7 +70576,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -68853,14 +70618,32 @@
     "name": "月夜的兔子姊妹招募",
     "seq": 780,
     "assetbundleName": "ab_gacha_115",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1661929200000,
     "endAt": 1662793199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 36,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 10073,
@@ -69937,7 +71720,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 225,
@@ -69948,7 +71731,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 226,
@@ -70020,14 +71803,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 790,
     "assetbundleName": "ab_gacha_116",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1662274800000,
     "endAt": 1662641999000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 36,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 10225,
@@ -70886,13 +72687,25 @@
     "name": "必中★3以上票券招募",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 2,
     "startAt": 1662793200000,
     "endAt": 1664467199000,
+    "isShowPeriod": false,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 4,
+        "groupId": 2,
+        "cardRarityType": "rarity_3",
+        "rate": 97
+      },
+      {
+        "id": 5,
+        "groupId": 2,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 10336,
@@ -71682,18 +73495,36 @@
   {
     "id": 118,
     "gachaType": "ceil",
-    "name": "斬斷迷惘的鋼鐵部隊招募",
+    "name": "斬斷迷惘的鋼鐵招募",
     "seq": 800,
     "assetbundleName": "ab_gacha_118",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1662793200000,
     "endAt": 1663743599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 37,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 10442,
@@ -72777,7 +74608,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 232,
@@ -72788,7 +74619,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 233,
@@ -72860,14 +74691,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 810,
     "assetbundleName": "ab_gacha_119",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1663138800000,
     "endAt": 1663592399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 37,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 10595,
@@ -73754,15 +75603,33 @@
     "name": "遺忘的白雪公主招募",
     "seq": 820,
     "assetbundleName": "ab_gacha_120",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1663743600000,
     "endAt": 1664607599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 38,
     "wishSelectCount": 0,
     "gachaBonusId": 1,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 10710,
@@ -74867,7 +76734,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 100,
         "spinCount": 1,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 238,
@@ -74878,7 +76745,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       },
       {
         "id": 239,
@@ -74972,14 +76839,32 @@
     "name": "活動成員出現率UP招募",
     "seq": 830,
     "assetbundleName": "ab_gacha_121",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1664002800000,
     "endAt": 1664456399000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 38,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 10866,
@@ -75904,19 +77789,2640 @@
     }
   },
   {
+    "id": 123,
+    "gachaType": "normal",
+    "name": "[1周年紀念]10連免費招募",
+    "seq": 90000,
+    "assetbundleName": "ab_gacha_123",
+    "gachaCardRarityRateGroupId": 1,
+    "startAt": 1664481600000,
+    "endAt": 1666022399000,
+    "isShowPeriod": true,
+    "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 11107,
+        "gachaId": 123,
+        "cardId": 2,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11108,
+        "gachaId": 123,
+        "cardId": 3,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11109,
+        "gachaId": 123,
+        "cardId": 4,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11110,
+        "gachaId": 123,
+        "cardId": 6,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11111,
+        "gachaId": 123,
+        "cardId": 7,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11112,
+        "gachaId": 123,
+        "cardId": 10,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11113,
+        "gachaId": 123,
+        "cardId": 11,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11114,
+        "gachaId": 123,
+        "cardId": 14,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11115,
+        "gachaId": 123,
+        "cardId": 15,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11116,
+        "gachaId": 123,
+        "cardId": 18,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11117,
+        "gachaId": 123,
+        "cardId": 19,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11118,
+        "gachaId": 123,
+        "cardId": 22,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11119,
+        "gachaId": 123,
+        "cardId": 23,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11120,
+        "gachaId": 123,
+        "cardId": 26,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11121,
+        "gachaId": 123,
+        "cardId": 27,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11122,
+        "gachaId": 123,
+        "cardId": 30,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11123,
+        "gachaId": 123,
+        "cardId": 31,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11124,
+        "gachaId": 123,
+        "cardId": 34,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11125,
+        "gachaId": 123,
+        "cardId": 35,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11126,
+        "gachaId": 123,
+        "cardId": 38,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11127,
+        "gachaId": 123,
+        "cardId": 39,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11128,
+        "gachaId": 123,
+        "cardId": 42,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11129,
+        "gachaId": 123,
+        "cardId": 43,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11130,
+        "gachaId": 123,
+        "cardId": 46,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11131,
+        "gachaId": 123,
+        "cardId": 47,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11132,
+        "gachaId": 123,
+        "cardId": 50,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11133,
+        "gachaId": 123,
+        "cardId": 51,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11134,
+        "gachaId": 123,
+        "cardId": 54,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11135,
+        "gachaId": 123,
+        "cardId": 55,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11136,
+        "gachaId": 123,
+        "cardId": 58,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11137,
+        "gachaId": 123,
+        "cardId": 59,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11138,
+        "gachaId": 123,
+        "cardId": 62,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11139,
+        "gachaId": 123,
+        "cardId": 63,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11140,
+        "gachaId": 123,
+        "cardId": 66,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11141,
+        "gachaId": 123,
+        "cardId": 67,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11142,
+        "gachaId": 123,
+        "cardId": 70,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11143,
+        "gachaId": 123,
+        "cardId": 71,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11144,
+        "gachaId": 123,
+        "cardId": 74,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11145,
+        "gachaId": 123,
+        "cardId": 75,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11146,
+        "gachaId": 123,
+        "cardId": 78,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11147,
+        "gachaId": 123,
+        "cardId": 79,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11148,
+        "gachaId": 123,
+        "cardId": 82,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11149,
+        "gachaId": 123,
+        "cardId": 83,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11150,
+        "gachaId": 123,
+        "cardId": 84,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11151,
+        "gachaId": 123,
+        "cardId": 85,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11152,
+        "gachaId": 123,
+        "cardId": 86,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11153,
+        "gachaId": 123,
+        "cardId": 87,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11154,
+        "gachaId": 123,
+        "cardId": 88,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11155,
+        "gachaId": 123,
+        "cardId": 90,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11156,
+        "gachaId": 123,
+        "cardId": 91,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11157,
+        "gachaId": 123,
+        "cardId": 92,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11158,
+        "gachaId": 123,
+        "cardId": 94,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11159,
+        "gachaId": 123,
+        "cardId": 95,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11160,
+        "gachaId": 123,
+        "cardId": 96,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11161,
+        "gachaId": 123,
+        "cardId": 98,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11162,
+        "gachaId": 123,
+        "cardId": 99,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11163,
+        "gachaId": 123,
+        "cardId": 102,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11164,
+        "gachaId": 123,
+        "cardId": 103,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11165,
+        "gachaId": 123,
+        "cardId": 106,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11166,
+        "gachaId": 123,
+        "cardId": 107,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11167,
+        "gachaId": 123,
+        "cardId": 109,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11168,
+        "gachaId": 123,
+        "cardId": 110,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11169,
+        "gachaId": 123,
+        "cardId": 111,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11170,
+        "gachaId": 123,
+        "cardId": 112,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11171,
+        "gachaId": 123,
+        "cardId": 113,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11172,
+        "gachaId": 123,
+        "cardId": 114,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11173,
+        "gachaId": 123,
+        "cardId": 115,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11174,
+        "gachaId": 123,
+        "cardId": 116,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11175,
+        "gachaId": 123,
+        "cardId": 117,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11176,
+        "gachaId": 123,
+        "cardId": 118,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11177,
+        "gachaId": 123,
+        "cardId": 119,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11178,
+        "gachaId": 123,
+        "cardId": 120,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11179,
+        "gachaId": 123,
+        "cardId": 121,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11180,
+        "gachaId": 123,
+        "cardId": 122,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11181,
+        "gachaId": 123,
+        "cardId": 123,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11182,
+        "gachaId": 123,
+        "cardId": 124,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11183,
+        "gachaId": 123,
+        "cardId": 125,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11184,
+        "gachaId": 123,
+        "cardId": 126,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11185,
+        "gachaId": 123,
+        "cardId": 127,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11186,
+        "gachaId": 123,
+        "cardId": 128,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11187,
+        "gachaId": 123,
+        "cardId": 129,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11188,
+        "gachaId": 123,
+        "cardId": 130,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11189,
+        "gachaId": 123,
+        "cardId": 131,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11190,
+        "gachaId": 123,
+        "cardId": 132,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11191,
+        "gachaId": 123,
+        "cardId": 133,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11192,
+        "gachaId": 123,
+        "cardId": 134,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11193,
+        "gachaId": 123,
+        "cardId": 135,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11194,
+        "gachaId": 123,
+        "cardId": 136,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11195,
+        "gachaId": 123,
+        "cardId": 137,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11196,
+        "gachaId": 123,
+        "cardId": 138,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11197,
+        "gachaId": 123,
+        "cardId": 139,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11198,
+        "gachaId": 123,
+        "cardId": 140,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11199,
+        "gachaId": 123,
+        "cardId": 141,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11200,
+        "gachaId": 123,
+        "cardId": 142,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11201,
+        "gachaId": 123,
+        "cardId": 143,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11202,
+        "gachaId": 123,
+        "cardId": 144,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11203,
+        "gachaId": 123,
+        "cardId": 145,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11204,
+        "gachaId": 123,
+        "cardId": 146,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11205,
+        "gachaId": 123,
+        "cardId": 147,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11206,
+        "gachaId": 123,
+        "cardId": 148,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11207,
+        "gachaId": 123,
+        "cardId": 149,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11208,
+        "gachaId": 123,
+        "cardId": 150,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11209,
+        "gachaId": 123,
+        "cardId": 151,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11210,
+        "gachaId": 123,
+        "cardId": 152,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11211,
+        "gachaId": 123,
+        "cardId": 153,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11212,
+        "gachaId": 123,
+        "cardId": 154,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11213,
+        "gachaId": 123,
+        "cardId": 155,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11214,
+        "gachaId": 123,
+        "cardId": 156,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11215,
+        "gachaId": 123,
+        "cardId": 157,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11216,
+        "gachaId": 123,
+        "cardId": 158,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11217,
+        "gachaId": 123,
+        "cardId": 159,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11218,
+        "gachaId": 123,
+        "cardId": 160,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11219,
+        "gachaId": 123,
+        "cardId": 161,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11220,
+        "gachaId": 123,
+        "cardId": 162,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11221,
+        "gachaId": 123,
+        "cardId": 163,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11222,
+        "gachaId": 123,
+        "cardId": 164,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11223,
+        "gachaId": 123,
+        "cardId": 165,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11224,
+        "gachaId": 123,
+        "cardId": 166,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11225,
+        "gachaId": 123,
+        "cardId": 167,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11226,
+        "gachaId": 123,
+        "cardId": 168,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11227,
+        "gachaId": 123,
+        "cardId": 169,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11228,
+        "gachaId": 123,
+        "cardId": 170,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11229,
+        "gachaId": 123,
+        "cardId": 171,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11230,
+        "gachaId": 123,
+        "cardId": 172,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11231,
+        "gachaId": 123,
+        "cardId": 173,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11232,
+        "gachaId": 123,
+        "cardId": 174,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11233,
+        "gachaId": 123,
+        "cardId": 175,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11234,
+        "gachaId": 123,
+        "cardId": 176,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11235,
+        "gachaId": 123,
+        "cardId": 177,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11236,
+        "gachaId": 123,
+        "cardId": 178,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11237,
+        "gachaId": 123,
+        "cardId": 179,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11238,
+        "gachaId": 123,
+        "cardId": 182,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11239,
+        "gachaId": 123,
+        "cardId": 183,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11240,
+        "gachaId": 123,
+        "cardId": 184,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11241,
+        "gachaId": 123,
+        "cardId": 185,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11242,
+        "gachaId": 123,
+        "cardId": 186,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11243,
+        "gachaId": 123,
+        "cardId": 187,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11244,
+        "gachaId": 123,
+        "cardId": 188,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11245,
+        "gachaId": 123,
+        "cardId": 189,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11246,
+        "gachaId": 123,
+        "cardId": 190,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11247,
+        "gachaId": 123,
+        "cardId": 191,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11248,
+        "gachaId": 123,
+        "cardId": 192,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11249,
+        "gachaId": 123,
+        "cardId": 193,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11250,
+        "gachaId": 123,
+        "cardId": 194,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11251,
+        "gachaId": 123,
+        "cardId": 197,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11252,
+        "gachaId": 123,
+        "cardId": 198,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11253,
+        "gachaId": 123,
+        "cardId": 199,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11254,
+        "gachaId": 123,
+        "cardId": 202,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11255,
+        "gachaId": 123,
+        "cardId": 203,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11256,
+        "gachaId": 123,
+        "cardId": 204,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11257,
+        "gachaId": 123,
+        "cardId": 207,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11258,
+        "gachaId": 123,
+        "cardId": 208,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11259,
+        "gachaId": 123,
+        "cardId": 209,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11260,
+        "gachaId": 123,
+        "cardId": 214,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11261,
+        "gachaId": 123,
+        "cardId": 217,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11262,
+        "gachaId": 123,
+        "cardId": 218,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11263,
+        "gachaId": 123,
+        "cardId": 219,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11264,
+        "gachaId": 123,
+        "cardId": 222,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11265,
+        "gachaId": 123,
+        "cardId": 223,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11266,
+        "gachaId": 123,
+        "cardId": 224,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11267,
+        "gachaId": 123,
+        "cardId": 229,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11268,
+        "gachaId": 123,
+        "cardId": 232,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11269,
+        "gachaId": 123,
+        "cardId": 233,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11270,
+        "gachaId": 123,
+        "cardId": 234,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11271,
+        "gachaId": 123,
+        "cardId": 237,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11272,
+        "gachaId": 123,
+        "cardId": 238,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11273,
+        "gachaId": 123,
+        "cardId": 239,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11274,
+        "gachaId": 123,
+        "cardId": 244,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11275,
+        "gachaId": 123,
+        "cardId": 245,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11276,
+        "gachaId": 123,
+        "cardId": 246,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11277,
+        "gachaId": 123,
+        "cardId": 249,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11278,
+        "gachaId": 123,
+        "cardId": 250,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 11279,
+        "gachaId": 123,
+        "cardId": 251,
+        "weight": 1,
+        "isWish": false
+      }
+    ],
+    "gachaBehaviors": [
+      {
+        "id": 248,
+        "gachaId": 123,
+        "groupId": 1,
+        "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 3,
+        "costResourceQuantity": 1,
+        "spinCount": 10
+      },
+      {
+        "id": 447,
+        "gachaId": 123,
+        "groupId": 1,
+        "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 3,
+        "costResourceQuantity": 1,
+        "spinCount": 10
+      }
+    ],
+    "gachaPickups": [
+      {
+        "gachaId": 123,
+        "cardId": 88
+      },
+      {
+        "gachaId": 123,
+        "cardId": 197
+      },
+      {
+        "gachaId": 123,
+        "cardId": 190
+      },
+      {
+        "gachaId": 123,
+        "cardId": 249
+      },
+      {
+        "gachaId": 123,
+        "cardId": 232
+      },
+      {
+        "gachaId": 123,
+        "cardId": 237
+      }
+    ],
+    "gachaPickupCostumes": [],
+    "gachaInformation": {
+      "gachaId": 123,
+      "summary": "「[1週年紀念]10連免費招募」登場！\n\n此招募必定會出現★2以上的成員，以及1名★3以上的成員。\n出現的★4成員限定為曾於7/9 15:00以前招募中登場過的成員。\n※不會出現期間限定、七彩慶典限定成員。\n\n首次獲得部分★4成員時，會附帶「演出服裝」。\n獲得「演出服裝」後，可於「服飾店」為其他可穿著該服裝的角色製作服裝。\n其他可穿著該服裝角色的「演出服裝」可能會有部分設計不同，或是飾品增減。\n請由[成員]->[演出服裝]畫面進行確認。",
+      "description": "・本招募可以使用「1週年紀念10連免費招募票券」進行招募。\n・「1週年紀念10連免費招募票券」可以透過「[1週年紀念]登入活動」取得。\n・出現的成員均為特訓前的狀態。\n・招募時可能會出現相同成員。\n・重複獲得的成員將自動送至休息室。\n・每1次招募都是依據成員出現機率獨立抽取。例如成員的出現機率為1%，並不代表抽100次該成員就一定會出現1次。\n・使用[招募10次]時，若沒有招募到任何一名★3以上的成員，則最後一次招募會改從必中出現機率表中重新抽取。\n・可以從出現機率分頁中確認成員的出現機率。\n・可以從招募頁面確認這次成員的數值與技能等詳細內容。\n・請從出現機率分頁中，確認附帶演出服裝的成員。\n・進行招募後強制關閉遊戲，或中斷網路連線而未正常顯示招募結果畫面時，仍會正常取得成員。請至成員清單或休息室確認。\n・本招募不會獲得招募貼紙。\n・活動時間可能不經預告而改變。"
+    }
+  },
+  {
+    "id": 138,
+    "gachaType": "beginner",
+    "name": "新手應援起跑衝刺招募",
+    "seq": 1,
+    "assetbundleName": "ab_gacha_16",
+    "gachaCardRarityRateGroupId": 1,
+    "startAt": 1665471600000,
+    "endAt": 4102405199000,
+    "isShowPeriod": true,
+    "wishSelectCount": 0,
+    "drawableGachaHour": 168,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
+    "gachaDetails": [
+      {
+        "id": 12634,
+        "gachaId": 138,
+        "cardId": 2,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12635,
+        "gachaId": 138,
+        "cardId": 3,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12636,
+        "gachaId": 138,
+        "cardId": 4,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12637,
+        "gachaId": 138,
+        "cardId": 6,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12638,
+        "gachaId": 138,
+        "cardId": 7,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12639,
+        "gachaId": 138,
+        "cardId": 10,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12640,
+        "gachaId": 138,
+        "cardId": 11,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12641,
+        "gachaId": 138,
+        "cardId": 14,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12642,
+        "gachaId": 138,
+        "cardId": 15,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12643,
+        "gachaId": 138,
+        "cardId": 18,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12644,
+        "gachaId": 138,
+        "cardId": 19,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12645,
+        "gachaId": 138,
+        "cardId": 22,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12646,
+        "gachaId": 138,
+        "cardId": 23,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12647,
+        "gachaId": 138,
+        "cardId": 26,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12648,
+        "gachaId": 138,
+        "cardId": 27,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12649,
+        "gachaId": 138,
+        "cardId": 30,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12650,
+        "gachaId": 138,
+        "cardId": 31,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12651,
+        "gachaId": 138,
+        "cardId": 34,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12652,
+        "gachaId": 138,
+        "cardId": 35,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12653,
+        "gachaId": 138,
+        "cardId": 38,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12654,
+        "gachaId": 138,
+        "cardId": 39,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12655,
+        "gachaId": 138,
+        "cardId": 42,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12656,
+        "gachaId": 138,
+        "cardId": 43,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12657,
+        "gachaId": 138,
+        "cardId": 46,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12658,
+        "gachaId": 138,
+        "cardId": 47,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12659,
+        "gachaId": 138,
+        "cardId": 50,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12660,
+        "gachaId": 138,
+        "cardId": 51,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12661,
+        "gachaId": 138,
+        "cardId": 54,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12662,
+        "gachaId": 138,
+        "cardId": 55,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12663,
+        "gachaId": 138,
+        "cardId": 58,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12664,
+        "gachaId": 138,
+        "cardId": 59,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12665,
+        "gachaId": 138,
+        "cardId": 62,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12666,
+        "gachaId": 138,
+        "cardId": 63,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12667,
+        "gachaId": 138,
+        "cardId": 66,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12668,
+        "gachaId": 138,
+        "cardId": 67,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12669,
+        "gachaId": 138,
+        "cardId": 70,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12670,
+        "gachaId": 138,
+        "cardId": 71,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12671,
+        "gachaId": 138,
+        "cardId": 74,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12672,
+        "gachaId": 138,
+        "cardId": 75,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12673,
+        "gachaId": 138,
+        "cardId": 78,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12674,
+        "gachaId": 138,
+        "cardId": 79,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12675,
+        "gachaId": 138,
+        "cardId": 82,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12676,
+        "gachaId": 138,
+        "cardId": 83,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12677,
+        "gachaId": 138,
+        "cardId": 84,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12678,
+        "gachaId": 138,
+        "cardId": 85,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12679,
+        "gachaId": 138,
+        "cardId": 86,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12680,
+        "gachaId": 138,
+        "cardId": 87,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12681,
+        "gachaId": 138,
+        "cardId": 88,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12682,
+        "gachaId": 138,
+        "cardId": 90,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12683,
+        "gachaId": 138,
+        "cardId": 91,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12684,
+        "gachaId": 138,
+        "cardId": 92,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12685,
+        "gachaId": 138,
+        "cardId": 94,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12686,
+        "gachaId": 138,
+        "cardId": 95,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12687,
+        "gachaId": 138,
+        "cardId": 96,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12688,
+        "gachaId": 138,
+        "cardId": 98,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12689,
+        "gachaId": 138,
+        "cardId": 99,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12690,
+        "gachaId": 138,
+        "cardId": 102,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12691,
+        "gachaId": 138,
+        "cardId": 103,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12692,
+        "gachaId": 138,
+        "cardId": 106,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12693,
+        "gachaId": 138,
+        "cardId": 107,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12694,
+        "gachaId": 138,
+        "cardId": 109,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12695,
+        "gachaId": 138,
+        "cardId": 110,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12696,
+        "gachaId": 138,
+        "cardId": 111,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12697,
+        "gachaId": 138,
+        "cardId": 112,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12698,
+        "gachaId": 138,
+        "cardId": 113,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12699,
+        "gachaId": 138,
+        "cardId": 114,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12700,
+        "gachaId": 138,
+        "cardId": 115,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12701,
+        "gachaId": 138,
+        "cardId": 116,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12702,
+        "gachaId": 138,
+        "cardId": 117,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12703,
+        "gachaId": 138,
+        "cardId": 118,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12704,
+        "gachaId": 138,
+        "cardId": 119,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12705,
+        "gachaId": 138,
+        "cardId": 120,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12706,
+        "gachaId": 138,
+        "cardId": 121,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12707,
+        "gachaId": 138,
+        "cardId": 122,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12708,
+        "gachaId": 138,
+        "cardId": 123,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12709,
+        "gachaId": 138,
+        "cardId": 124,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12710,
+        "gachaId": 138,
+        "cardId": 125,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12711,
+        "gachaId": 138,
+        "cardId": 126,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12712,
+        "gachaId": 138,
+        "cardId": 127,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12713,
+        "gachaId": 138,
+        "cardId": 128,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12714,
+        "gachaId": 138,
+        "cardId": 129,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12715,
+        "gachaId": 138,
+        "cardId": 130,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12716,
+        "gachaId": 138,
+        "cardId": 131,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12717,
+        "gachaId": 138,
+        "cardId": 132,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12718,
+        "gachaId": 138,
+        "cardId": 133,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12719,
+        "gachaId": 138,
+        "cardId": 134,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12720,
+        "gachaId": 138,
+        "cardId": 135,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12721,
+        "gachaId": 138,
+        "cardId": 136,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12722,
+        "gachaId": 138,
+        "cardId": 137,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12723,
+        "gachaId": 138,
+        "cardId": 138,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12724,
+        "gachaId": 138,
+        "cardId": 139,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12725,
+        "gachaId": 138,
+        "cardId": 140,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12726,
+        "gachaId": 138,
+        "cardId": 141,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12727,
+        "gachaId": 138,
+        "cardId": 142,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12728,
+        "gachaId": 138,
+        "cardId": 143,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12729,
+        "gachaId": 138,
+        "cardId": 144,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12730,
+        "gachaId": 138,
+        "cardId": 145,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12731,
+        "gachaId": 138,
+        "cardId": 146,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12732,
+        "gachaId": 138,
+        "cardId": 147,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12733,
+        "gachaId": 138,
+        "cardId": 148,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12734,
+        "gachaId": 138,
+        "cardId": 149,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12735,
+        "gachaId": 138,
+        "cardId": 150,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12736,
+        "gachaId": 138,
+        "cardId": 151,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12737,
+        "gachaId": 138,
+        "cardId": 152,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12738,
+        "gachaId": 138,
+        "cardId": 153,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12739,
+        "gachaId": 138,
+        "cardId": 154,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12740,
+        "gachaId": 138,
+        "cardId": 155,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12741,
+        "gachaId": 138,
+        "cardId": 156,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12742,
+        "gachaId": 138,
+        "cardId": 157,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12743,
+        "gachaId": 138,
+        "cardId": 158,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12744,
+        "gachaId": 138,
+        "cardId": 159,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12745,
+        "gachaId": 138,
+        "cardId": 160,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12746,
+        "gachaId": 138,
+        "cardId": 161,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12747,
+        "gachaId": 138,
+        "cardId": 162,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12748,
+        "gachaId": 138,
+        "cardId": 163,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12749,
+        "gachaId": 138,
+        "cardId": 164,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12750,
+        "gachaId": 138,
+        "cardId": 165,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12751,
+        "gachaId": 138,
+        "cardId": 166,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12752,
+        "gachaId": 138,
+        "cardId": 167,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12753,
+        "gachaId": 138,
+        "cardId": 168,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12754,
+        "gachaId": 138,
+        "cardId": 169,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12755,
+        "gachaId": 138,
+        "cardId": 170,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12756,
+        "gachaId": 138,
+        "cardId": 171,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12757,
+        "gachaId": 138,
+        "cardId": 172,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12758,
+        "gachaId": 138,
+        "cardId": 173,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12759,
+        "gachaId": 138,
+        "cardId": 174,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12760,
+        "gachaId": 138,
+        "cardId": 175,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12761,
+        "gachaId": 138,
+        "cardId": 176,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12762,
+        "gachaId": 138,
+        "cardId": 177,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12763,
+        "gachaId": 138,
+        "cardId": 178,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12764,
+        "gachaId": 138,
+        "cardId": 179,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12765,
+        "gachaId": 138,
+        "cardId": 182,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12766,
+        "gachaId": 138,
+        "cardId": 183,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12767,
+        "gachaId": 138,
+        "cardId": 184,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12768,
+        "gachaId": 138,
+        "cardId": 185,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12769,
+        "gachaId": 138,
+        "cardId": 186,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12770,
+        "gachaId": 138,
+        "cardId": 187,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12771,
+        "gachaId": 138,
+        "cardId": 188,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12772,
+        "gachaId": 138,
+        "cardId": 189,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12773,
+        "gachaId": 138,
+        "cardId": 190,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12774,
+        "gachaId": 138,
+        "cardId": 191,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12775,
+        "gachaId": 138,
+        "cardId": 192,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12776,
+        "gachaId": 138,
+        "cardId": 193,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12777,
+        "gachaId": 138,
+        "cardId": 194,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12778,
+        "gachaId": 138,
+        "cardId": 197,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12779,
+        "gachaId": 138,
+        "cardId": 198,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12780,
+        "gachaId": 138,
+        "cardId": 199,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12781,
+        "gachaId": 138,
+        "cardId": 202,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12782,
+        "gachaId": 138,
+        "cardId": 203,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12783,
+        "gachaId": 138,
+        "cardId": 204,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12784,
+        "gachaId": 138,
+        "cardId": 207,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12785,
+        "gachaId": 138,
+        "cardId": 208,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12786,
+        "gachaId": 138,
+        "cardId": 209,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12787,
+        "gachaId": 138,
+        "cardId": 214,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12788,
+        "gachaId": 138,
+        "cardId": 217,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12789,
+        "gachaId": 138,
+        "cardId": 218,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12790,
+        "gachaId": 138,
+        "cardId": 219,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12791,
+        "gachaId": 138,
+        "cardId": 222,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12792,
+        "gachaId": 138,
+        "cardId": 223,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12793,
+        "gachaId": 138,
+        "cardId": 224,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12794,
+        "gachaId": 138,
+        "cardId": 229,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12795,
+        "gachaId": 138,
+        "cardId": 232,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12796,
+        "gachaId": 138,
+        "cardId": 233,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12797,
+        "gachaId": 138,
+        "cardId": 234,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12798,
+        "gachaId": 138,
+        "cardId": 237,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12799,
+        "gachaId": 138,
+        "cardId": 238,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12800,
+        "gachaId": 138,
+        "cardId": 239,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12801,
+        "gachaId": 138,
+        "cardId": 244,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12802,
+        "gachaId": 138,
+        "cardId": 245,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12803,
+        "gachaId": 138,
+        "cardId": 246,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12804,
+        "gachaId": 138,
+        "cardId": 249,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12805,
+        "gachaId": 138,
+        "cardId": 250,
+        "weight": 1,
+        "isWish": false
+      },
+      {
+        "id": 12806,
+        "gachaId": 138,
+        "cardId": 251,
+        "weight": 1,
+        "isWish": false
+      }
+    ],
+    "gachaBehaviors": [
+      {
+        "id": 287,
+        "gachaId": 138,
+        "groupId": 1,
+        "priority": 1,
+        "gachaBehaviorType": "over_rarity_4_once",
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 3000,
+        "spinCount": 10,
+        "executeLimit": 1
+      },
+      {
+        "id": 486,
+        "gachaId": 138,
+        "groupId": 1,
+        "priority": 1,
+        "gachaBehaviorType": "over_rarity_4_once",
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 3000,
+        "spinCount": 10,
+        "executeLimit": 1
+      }
+    ],
+    "gachaPickups": [
+      {
+        "gachaId": 138,
+        "cardId": 88
+      },
+      {
+        "gachaId": 138,
+        "cardId": 92
+      },
+      {
+        "gachaId": 138,
+        "cardId": 96
+      },
+      {
+        "gachaId": 138,
+        "cardId": 109
+      },
+      {
+        "gachaId": 138,
+        "cardId": 114
+      },
+      {
+        "gachaId": 138,
+        "cardId": 119
+      }
+    ],
+    "gachaPickupCostumes": [],
+    "gachaInformation": {
+      "gachaId": 138,
+      "summary": "「新手應援起跑衝刺招募」登場！\n\n為必定會出現★2以上成員的招募。\n必定會出現一名★4成員。\n該名★4成員限定為曾於2022/7/9以前招募中登場過的成員。\n※不會出現期間限定、七彩慶典限定成員。\n\n首次獲得部分★4成員時，會附帶「演出服裝」。\n獲得「演出服裝」後，可於「服飾店」為其他可穿著該服裝的角色製作服裝。\n其他可穿著該服裝角色的「演出服裝」可能會有部分設計不同，或是飾品增減。\n請由[成員]->[演出服裝]畫面進行確認。",
+      "description": "・此為僅能使用付費水晶進行的招募。\n・本招募僅能進行一次。招募後本按鈕將不會顯示在招募頁面中。\n・本招募僅可在完成教學後的一週內使用。\n・出現的成員均為特訓前的狀態。\n・招募時可能會出現相同成員。\n・重複獲得的成員將自動送至休息室。\n・每1次招募都是依據成員出現機率獨立抽取。例如成員的出現機率為1%，並不代表抽100次該成員就一定會出現1次。\n・使用[招募10次]時，若沒有招募到任何一名★4成員，則最後一次招募會改從必中出現機率表中重新抽取。\n・可以從出現機率分頁中確認成員的出現機率。\n・可以從招募頁面確認成員的數值與技能等詳細內容。\n・請從招募頁面的出現機率中，確認附帶演出服裝的成員。\n・進行招募後強制關閉遊戲，或中斷網路連線而未正常顯示招募結果畫面時，仍會正常取得成員。請至成員清單或休息室確認。\n・本招募不會獲得招募貼紙。\n・活動時間可能不經預告而改變。"
+    }
+  },
+  {
     "id": 1000,
     "gachaType": "ceil",
     "name": "[限定1次] 星辰降落的夜空回憶招募",
     "seq": 1000,
     "assetbundleName": "ab_gacha_1000",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1633762800000,
     "endAt": 1634713199000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 2,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13086,
@@ -76297,8 +80803,7 @@
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
-        "spinCount": 10,
-        "spinLimit": 1
+        "spinCount": 10
       }
     ],
     "gachaPickups": [
@@ -76328,14 +80833,32 @@
     "name": "[限定1次] 人偶們的舞會招募",
     "seq": 2000,
     "assetbundleName": "ab_gacha_1001",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1634713200000,
     "endAt": 1635663599000,
+    "isShowPeriod": true,
     "gachaCeilItemId": 3,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13139,
@@ -76737,8 +81260,7 @@
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 1500,
-        "spinCount": 10,
-        "spinLimit": 1
+        "spinCount": 10
       }
     ],
     "gachaPickups": [
@@ -76768,13 +81290,31 @@
     "name": "[Leo/need]★4成員必中1人招募",
     "seq": 1000,
     "assetbundleName": "ab_gacha_1002",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1643515200000,
     "endAt": 1644389999000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13195,
@@ -76885,7 +81425,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -76923,13 +81463,31 @@
     "name": "[MORE MORE JUMP！]★4成員必中1人招募",
     "seq": 1010,
     "assetbundleName": "ab_gacha_1003",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1643515200000,
     "endAt": 1644389999000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13209,
@@ -77040,7 +81598,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -77078,13 +81636,31 @@
     "name": "[Vivid BAD SQUAD]★4成員必中1人招募",
     "seq": 1020,
     "assetbundleName": "ab_gacha_1004",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1643515200000,
     "endAt": 1644389999000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13223,
@@ -77209,7 +81785,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -77251,13 +81827,31 @@
     "name": "[Wonderlands×Showtime]★4成員必中1人招募",
     "seq": 1030,
     "assetbundleName": "ab_gacha_1005",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1643515200000,
     "endAt": 1644389999000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13239,
@@ -77410,7 +82004,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -77472,13 +82066,31 @@
     "name": "[25點，Nightcord見。]★4成員必中1人招募",
     "seq": 1040,
     "assetbundleName": "ab_gacha_1006",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1643515200000,
     "endAt": 1644389999000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13259,
@@ -77589,7 +82201,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -77627,13 +82239,31 @@
     "name": "必中1名★4成員招募",
     "seq": 1050,
     "assetbundleName": "ab_gacha_1007",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1648105200000,
     "endAt": 1648623599000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13273,
@@ -78255,7 +82885,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -78437,13 +83067,31 @@
     "name": "選擇清單招募",
     "seq": 100,
     "assetbundleName": "ab_gacha_1008",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1651129200000,
     "endAt": 1651561199000,
+    "isShowPeriod": true,
     "wishSelectCount": 10,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13360,
@@ -79142,7 +83790,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -79184,13 +83832,31 @@
     "name": "[虛擬歌手]★4成員必中1人招募",
     "seq": 1000,
     "assetbundleName": "ab_gacha_1009",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1653289200000,
     "endAt": 1653375599000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13458,
@@ -79434,7 +84100,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -79520,13 +84186,31 @@
     "name": "[Leo/need]★4成員必中1人招募",
     "seq": 1010,
     "assetbundleName": "ab_gacha_1010",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1653375600000,
     "endAt": 1653461999000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13486,
@@ -79651,7 +84335,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -79701,13 +84385,31 @@
     "name": "[MORE MORE JUMP！]★4成員必中1人招募",
     "seq": 1020,
     "assetbundleName": "ab_gacha_1011",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1653462000000,
     "endAt": 1653548399000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13502,
@@ -79832,7 +84534,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -79882,13 +84584,31 @@
     "name": "[Vivid BAD SQUAD]★4成員必中1人招募",
     "seq": 1030,
     "assetbundleName": "ab_gacha_1012",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1653548400000,
     "endAt": 1653634799000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13518,
@@ -80006,7 +84726,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -80052,13 +84772,31 @@
     "name": "[Wonderlands×Showtime]★4成員必中1人招募",
     "seq": 1040,
     "assetbundleName": "ab_gacha_1013",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1653634800000,
     "endAt": 1653721199000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13533,
@@ -80176,7 +84914,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [
@@ -80222,13 +84960,31 @@
     "name": "[25點，Nightcord見。]★4成員必中1人招募",
     "seq": 1050,
     "assetbundleName": "ab_gacha_1014",
-    "rarity1Rate": 0,
-    "rarity2Rate": 88.5,
-    "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "gachaCardRarityRateGroupId": 1,
     "startAt": 1653721200000,
     "endAt": 1653807599000,
+    "isShowPeriod": true,
     "wishSelectCount": 0,
+    "gachaCardRarityRates": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "cardRarityType": "rarity_2",
+        "rate": 88.5
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "cardRarityType": "rarity_3",
+        "rate": 8.5
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "cardRarityType": "rarity_4",
+        "rate": 3
+      }
+    ],
     "gachaDetails": [
       {
         "id": 13548,
@@ -80346,7 +85102,7 @@
         "costResourceType": "paid_jewel",
         "costResourceQuantity": 3000,
         "spinCount": 10,
-        "spinLimit": 1
+        "executeLimit": 1
       }
     ],
     "gachaPickups": [

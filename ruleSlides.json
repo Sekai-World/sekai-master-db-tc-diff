@@ -262,5 +262,22 @@
     "assetbundleName": "tutorial/slide/custom_profile",
     "redisplay": "once",
     "tutorialpanel": "CustomProfileSelect"
+  },
+  {
+    "id": 41,
+    "ruleSlideType": "PIAPRO_BONUS",
+    "assetbundleName": "tutorial/slide/piapro_bonus",
+    "redisplay": "once"
+  },
+  {
+    "id": 42,
+    "ruleSlideType": "BONDS",
+    "assetbundleName": "tutorial/slide/bonds"
+  },
+  {
+    "id": 1000,
+    "ruleSlideType": "EVENT_PERSONAL",
+    "assetbundleName": "event/{0}/slide/personal",
+    "redisplay": "once"
   }
 ]

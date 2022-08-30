@@ -152,7 +152,7 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "day",
-    "billableLimitResetIntervalValue": 30,
+    "billableLimitResetIntervalValue": 27,
     "assetbundleName": "shop_13",
     "resourceBoxId": 1,
     "startAt": 1475218800000
@@ -940,7 +940,7 @@
   {
     "id": 1041,
     "seq": 2001,
-    "billingShopItemType": "value_set",
+    "billingShopItemType": "costume_3d",
     "billingProductGroupId": 1042,
     "name": "童話服裝組合包（女性）",
     "description": "童话主题服装（男性）\n付费水晶×1800",
@@ -956,7 +956,7 @@
   {
     "id": 1042,
     "seq": 2000,
-    "billingShopItemType": "value_set",
+    "billingShopItemType": "costume_3d",
     "billingProductGroupId": 1041,
     "name": "童話服裝組合包（男性）",
     "description": "童话主题服装（女性）\n付费水晶×1800",
@@ -990,15 +990,45 @@
     "seq": 2020,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1044,
-    "name": "★3以上必中票券組合包",
+    "name": "★3以上必中票券組合包（小）",
     "description": "\"水晶（付費）*450\n三星以上必中券×1\"",
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_1014",
+    "assetbundleName": "shop_1044",
     "resourceBoxId": 1044,
     "bonusResourceBoxId": 1012,
     "startAt": 1661842800000
+  },
+  {
+    "id": 1045,
+    "seq": 2020,
+    "billingShopItemType": "value_set",
+    "name": "中秋應援組合包",
+    "description": "招募票券*5\n月饼*3\n主唱卡交换券×1\n奇迹宝石*50",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1045",
+    "resourceBoxId": 1045,
+    "startAt": 1662534000000,
+    "endAt": 1663343999000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 1046,
+    "seq": 2021,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1046,
+    "name": "★3以上必中票券組合包",
+    "description": "水晶（付費）*450\n三星以上必中券×1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_1014",
+    "resourceBoxId": 1012,
+    "bonusResourceBoxId": 1012,
+    "startAt": 1661929200000
   },
   {
     "id": 1100,
@@ -1687,7 +1717,7 @@
     "assetbundleName": "shop_1143",
     "resourceBoxId": 1143,
     "bonusResourceBoxId": 1143,
-    "startAt": 1662534000000,
+    "startAt": 1661929200000,
     "endAt": 1663343999000
   },
   {
@@ -1703,7 +1733,7 @@
     "assetbundleName": "shop_1133",
     "resourceBoxId": 1133,
     "bonusResourceBoxId": 1133,
-    "startAt": 1662534000000,
+    "startAt": 1661929200000,
     "endAt": 1663343999000
   },
   {
@@ -1719,7 +1749,7 @@
     "assetbundleName": "shop_1134",
     "resourceBoxId": 1134,
     "bonusResourceBoxId": 1134,
-    "startAt": 1662534000000,
+    "startAt": 1661929200000,
     "endAt": 1663343999000
   },
   {
@@ -1850,38 +1880,6 @@
     "resourceBoxId": 10021,
     "startAt": 1646031600000,
     "endAt": 1646744399000,
-    "purchaseOption": "exchange"
-  },
-  {
-    "id": 10026,
-    "seq": 1125,
-    "billingShopItemType": "value_set",
-    "name": "[期間限定]每日免費組合包",
-    "description": "水晶（付费）×110\nLIVE BONUS饮料（大）×1",
-    "billableLimitType": "count",
-    "billableLimitValue": 1,
-    "billableLimitResetIntervalType": "day",
-    "billableLimitResetIntervalValue": 1,
-    "assetbundleName": "shop_1007",
-    "resourceBoxId": 20001,
-    "bonusResourceBoxId": 20001,
-    "startAt": 1648569600000,
-    "endAt": 1649692799000,
-    "purchaseOption": "exchange"
-  },
-  {
-    "id": 10033,
-    "seq": 1051,
-    "billingShopItemType": "value_set",
-    "name": "勞動節紀念組合包",
-    "description": "招募票券×6\n心願碎片×150\n技能練習譜(中級)×5\n練習譜(中級)×50\n硬幣×150,000",
-    "billableLimitType": "count",
-    "billableLimitValue": 1,
-    "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_10033",
-    "resourceBoxId": 10033,
-    "startAt": 1651129200000,
-    "endAt": 1651939199000,
     "purchaseOption": "exchange"
   },
   {

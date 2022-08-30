@@ -3,6 +3,7 @@
     "id": 1,
     "description": "{{1;d}}秒內 分數提升{{1;v}}%",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 1,
@@ -45,6 +46,7 @@
     "id": 2,
     "description": "{{2;d}}秒內 分數提升{{2;v}}%",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 2,
@@ -87,6 +89,7 @@
     "id": 3,
     "description": "{{3;d}}秒內 分數提升{{3;v}}%",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 3,
@@ -129,6 +132,7 @@
     "id": 4,
     "description": "{{4;d}}秒內 分數提升{{4;v}}%",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 4,
@@ -171,6 +175,7 @@
     "id": 5,
     "description": "{{8;d}}秒內GREAT轉為PERFECT，\n{{5;d}}秒內分數提升{{5;v}}%",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 5,
@@ -248,6 +253,7 @@
     "id": 6,
     "description": "{{9;d}}秒內GOOD以上轉為PERFECT，\n{{6;d}}秒內分數提升{{6;v}}%",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 6,
@@ -325,6 +331,7 @@
     "id": 7,
     "description": "{{10;d}}秒內BAD以上轉為PERFECT，\n{{7;d}}秒內分數提升{{7;v}}%",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 7,
@@ -402,6 +409,7 @@
     "id": 8,
     "description": "體力恢復{{14;v}}，\n{{11;d}}秒內分數提升{{11;v}}%",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 11,
@@ -478,6 +486,7 @@
     "id": 9,
     "description": "體力恢復{{15;v}}，\n{{12;d}}秒內分數提升{{12;v}}%",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 12,
@@ -554,6 +563,7 @@
     "id": 10,
     "description": "體力恢復{{16;v}}，\n{{13;d}}秒內分數提升{{13;v}}%",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 13,
@@ -630,6 +640,7 @@
     "id": 11,
     "description": "{{17;d}}秒內僅PERFECT時分數提升{{17;v}}%",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 17,
@@ -672,6 +683,7 @@
     "id": 12,
     "description": "{{38;d}}秒內 發動時若體力未滿800則分數提升{{39;v}}%，\n800以上則提升{{38;v}}%。\n之後體力每增加10則提升1%（上限為{{18;v}}%）",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 18,
@@ -1471,6 +1483,7 @@
     "id": 13,
     "description": "{{40;d}}秒內 分數提升{{41;v}}％，\n若判定保持PERFECT則提升{{40;v}}％",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 40,
@@ -1539,6 +1552,83 @@
             "activateEffectDuration": 5,
             "activateEffectValueType": "rate",
             "activateEffectValue": 90
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "description": "體力恢復{{42;v}}，\n{{43;d}}秒內僅PERFECT時分數提升{{43;v}}%",
+    "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
+    "skillEffects": [
+      {
+        "id": 42,
+        "skillEffectType": "life_recovery",
+        "skillEffectDetails": [
+          {
+            "id": 165,
+            "level": 1,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 700
+          },
+          {
+            "id": 166,
+            "level": 2,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 750
+          },
+          {
+            "id": 167,
+            "level": 3,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 800
+          },
+          {
+            "id": 168,
+            "level": 4,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 850
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "perfect",
+        "skillEffectDetails": [
+          {
+            "id": 169,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 60
+          },
+          {
+            "id": 170,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 65
+          },
+          {
+            "id": 171,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 70
+          },
+          {
+            "id": 172,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
           }
         ]
       }

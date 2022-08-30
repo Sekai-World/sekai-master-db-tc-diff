@@ -782,15 +782,53 @@
       {
         "id": 76,
         "eventShowDialogueId": 1002,
-        "buttonStyle": "NORMAL",
+        "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "information",
-        "transitionDestinationId": "10372"
+        "transitionDestinationId": "10412"
       },
       {
         "id": 77,
         "eventShowDialogueId": 1002,
         "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "billing_shop_for_value_set"
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "assetbundleName": "limitmission_show_miku2022",
+    "showType": "DAILY",
+    "startAt": 1661842800000,
+    "endAt": 1662641999000,
+    "behaviors": [
+      {
+        "id": 82,
+        "eventShowDialogueId": 1003,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10403"
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "assetbundleName": "jewel_show_ccolorfulpass_aotu",
+    "showType": "ONCE",
+    "startAt": 1661842800000,
+    "endAt": 1662393599000,
+    "behaviors": [
+      {
+        "id": 83,
+        "eventShowDialogueId": 1004,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_colorful_pass"
+      },
+      {
+        "id": 84,
+        "eventShowDialogueId": 1004,
+        "buttonStyle": "NORMAL",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10404"
       }
     ]
   }

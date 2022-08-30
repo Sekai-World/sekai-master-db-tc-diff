@@ -1,11 +1,12 @@
 [
   {
     "id": 1,
+    "seq": 1,
     "exchangeCategory": "master_piece",
+    "materialExchangeType": "normal",
     "name": "心願碎片",
     "assetbundleName": "icon_heartPiece",
     "startAt": 1546272000000,
-    "endAt": 4102415999000,
     "materialExchanges": [
       {
         "id": 1,
@@ -267,11 +268,14 @@
   },
   {
     "id": 2,
+    "seq": 3,
     "exchangeCategory": "card_ticket",
+    "materialExchangeType": "normal",
     "name": "★3成員",
     "assetbundleName": "icon_memberTicket_star3",
     "startAt": 1607324400000,
-    "endAt": 1670309999000,
+    "endAt": 1701845999000,
+    "notificationRemainHour": 168,
     "materialExchanges": [
       {
         "id": 17,
@@ -693,11 +697,12 @@
   },
   {
     "id": 4,
+    "seq": 4,
     "exchangeCategory": "vocal_card_ticket",
+    "materialExchangeType": "normal",
     "name": "主唱卡",
     "assetbundleName": "icon_vocalTicket",
     "startAt": 1612076400000,
-    "endAt": 4102415999000,
     "materialExchanges": [
       {
         "id": 40001,
@@ -1256,5 +1261,58 @@
         ]
       }
     ]
+  },
+  {
+    "id": 5,
+    "seq": 3,
+    "exchangeCategory": "gacha_seal",
+    "materialExchangeType": "normal",
+    "name": "★2成員",
+    "assetbundleName": "icon_gachaSealTicket",
+    "startAt": 1664467200000,
+    "materialExchanges": []
+  },
+  {
+    "id": 6,
+    "seq": 2,
+    "exchangeCategory": "gacha_seal",
+    "materialExchangeType": "normal",
+    "name": "★3成員",
+    "assetbundleName": "icon_gachaSealTicket",
+    "startAt": 1664467200000,
+    "materialExchanges": []
+  },
+  {
+    "id": 7,
+    "seq": 1,
+    "exchangeCategory": "gacha_seal",
+    "materialExchangeType": "normal",
+    "name": "★4成員",
+    "assetbundleName": "icon_gachaSealTicket",
+    "startAt": 1664467200000,
+    "materialExchanges": []
+  },
+  {
+    "id": 8,
+    "seq": 1,
+    "exchangeCategory": "card_ticket",
+    "materialExchangeType": "beginner",
+    "name": "[新手限定]\n★4成員",
+    "assetbundleName": "icon_memberTicket_star4",
+    "startAt": 1667199600000,
+    "notificationRemainHour": 168,
+    "materialExchanges": []
+  },
+  {
+    "id": 9,
+    "seq": 10,
+    "exchangeCategory": "card_ticket",
+    "materialExchangeType": "normal",
+    "name": "[新春2022]★3成員",
+    "assetbundleName": "icon_memberTicket_star3",
+    "startAt": 1672470000000,
+    "endAt": 1644562799000,
+    "notificationRemainHour": 168,
+    "materialExchanges": []
   }
 ]
