@@ -22,38 +22,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 199,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "[2021/08]高階任務通行證",
-    "assetbundleName": "banner_premiummissionpass_2021_08",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1659888000000,
-    "endAt": 1661961599000
-  },
-  {
-    "homeBannerId": 208,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[活動]對美人魚充滿憧憬",
-    "assetbundleName": "event_mermaid_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 32,
-    "startAt": 1660978800000,
-    "endAt": 1661929199000
-  },
-  {
-    "homeBannerId": 210,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "Wonderlands×Showtime第5次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha112",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 112,
-    "startAt": 1660978800000,
-    "endAt": 1661929199000
-  },
-  {
     "homeBannerId": 212,
     "seq": 80,
     "homeBannerType": "general",
@@ -74,6 +42,38 @@
     "transitionDestinationId": 92,
     "startAt": 1661756400000,
     "endAt": 1662015599000
+  },
+  {
+    "homeBannerId": 219,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[活動]兩人與月兔",
+    "assetbundleName": "event_moonrabbit_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 33,
+    "startAt": 1661929200000,
+    "endAt": 1662793199000
+  },
+  {
+    "homeBannerId": 221,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "SHUFFLE兩人與月兔活動_常態招募橫幅",
+    "assetbundleName": "banner_gacha115",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 115,
+    "startAt": 1661929200000,
+    "endAt": 1662793199000
+  },
+  {
+    "homeBannerId": 225,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[2021/09]高階任務通行證",
+    "assetbundleName": "banner_premiummissionpass_2021_09",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1661961600000,
+    "endAt": 1664553599000
   },
   {
     "homeBannerId": 10005,
