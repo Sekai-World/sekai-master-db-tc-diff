@@ -2280,11 +2280,11 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_GRAND_TOTAL",
-    "value": "個人粉絲數累計"
+    "value": "累計個人粉絲數"
   },
   {
     "wordingKey": "SUPPORT_EVENT_LIVE_RANK",
-    "value": "{0}  <color='#00ccbb'>倍</color>"
+    "value": "{0}<color='#00ccbb'>倍</color>"
   },
   {
     "wordingKey": "SUPPORT_EVENT_LIVE_RESULT",
@@ -2300,11 +2300,11 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_PERSONAL_REWARD",
-    "value": "此為中秋應援活動的個人粉絲數獎勵"
+    "value": "此為中秋應援活動的個人獎勵"
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LEGEND",
-    "value": "個人獎勵於9/14 11:00統一發送到「禮物」"
+    "value": "個人獎勵於{0}統一發送到「禮物」"
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LOCK",
@@ -2316,7 +2316,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_TOTAL_REWARD",
-    "value": "此為中秋應援活動的「世界」粉絲數獎勵"
+    "value": "此為中秋應援活動的世界獎勵"
   },
   {
     "wordingKey": "TB",
@@ -8073,43 +8073,43 @@
   },
   {
     "wordingKey": "WORD_GUIDEGROUP_GUIDETEXT_001",
-    "value": "從活動交換所中交換獲得"
+    "value": "可至活動交換所交換獲得"
   },
   {
     "wordingKey": "WORD_GUIDEGROUP_GUIDETEXT_002",
-    "value": "從心願碎片交換所中交換獲得"
+    "value": "可至心願碎片交換所交換獲得"
   },
   {
     "wordingKey": "WORD_GUIDEGROUP_GUIDETEXT_003",
-    "value": "透過LIVE報酬獲得"
+    "value": "可透過LIVE報酬獲得"
   },
   {
     "wordingKey": "WORD_GUIDEGROUP_GUIDETEXT_004",
-    "value": "從水晶商店購買組合包"
+    "value": "可至水晶商店購買組合包"
   },
   {
     "wordingKey": "WORD_GUIDEGROUP_GUIDETEXT_005",
-    "value": "透過觀看劇情獲得"
+    "value": "可透過觀看劇情獲得"
   },
   {
     "wordingKey": "WORD_GUIDEGROUP_GUIDETEXT_006",
-    "value": "從票券交換所中交換獲得"
+    "value": "可至票券交換所交換獲得"
   },
   {
     "wordingKey": "WORD_GUIDEGROUP_GUIDETEXT_007",
-    "value": "從休息室交換成員獲得"
+    "value": "可至休息室交換成員獲得"
   },
   {
     "wordingKey": "WORD_GUIDEGROUP_GUIDETEXT_008",
-    "value": "從水晶商店購買"
+    "value": "可至水晶商店購買"
   },
   {
     "wordingKey": "WORD_GUIDEGROUP_GUIDETEXT_009",
-    "value": "透過購買任務通行證獲得"
+    "value": "可透過購買任務通行證獲得"
   },
   {
     "wordingKey": "WORD_GUIDEGROUP_GUIDETEXT_010",
-    "value": "透過購買七彩通行證獲得"
+    "value": "可透過購買七彩通行證獲得"
   },
   {
     "wordingKey": "WORD_GUIDEGROUP_TITLE_001",
@@ -8161,11 +8161,11 @@
   },
   {
     "wordingKey": "WORD_HASUERLOGOUT_CONTENT",
-    "value": "賬號已成功註銷，即將返回標題界面。"
+    "value": "已成功刪除帳號，將返回標題畫面。"
   },
   {
     "wordingKey": "WORD_HASUERLOGOUT_UNDO",
-    "value": "您的賬號【%s】已註銷，在%s前您都可以恢復該賬號。要恢復被註銷的賬號嗎？"
+    "value": "您的帳號【%s】已刪除，在%s前您都可以恢復該帳號。要恢復被刪除的帳號嗎？"
   },
   {
     "wordingKey": "WORD_HATED_FOOD",
@@ -10884,7 +10884,7 @@
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_REWARD_DESCRIBE_X",
-    "value": "此為中秋應援活動「世界」粉絲數{0}萬的獎勵"
+    "value": "此為中秋應援活動的「世界」粉絲數獎勵"
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_UNIT_SCORE_REWARD",
@@ -11088,7 +11088,7 @@
   },
   {
     "wordingKey": "WORD_UERLOGOUT_TITLE",
-    "value": "賬號註銷"
+    "value": "刪除帳號"
   },
   {
     "wordingKey": "WORD_UNCERTAIN_LUCK",
@@ -11156,7 +11156,7 @@
   },
   {
     "wordingKey": "WORD_UNSUBSCRIBE",
-    "value": "賬號已註銷"
+    "value": "已刪除帳號"
   },
   {
     "wordingKey": "WORD_UNTIL_LIVE",
@@ -11508,7 +11508,7 @@
   },
   {
     "wordingKey": "WORD_WAITLOGOFF_CONTENT",
-    "value": "正在註銷賬號，請稍等……"
+    "value": "正在刪除帳號，請稍等……"
   },
   {
     "wordingKey": "WORD_WAIT_APPROVAL_LIST",
