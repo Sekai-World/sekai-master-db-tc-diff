@@ -517,7 +517,7 @@
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_NOT_ENOUGH",
-    "value": "由於LIVE BONUS不足，AUTO LIVE已中斷。\n\n<color=#FF55AA>※將顯示中斷前的LIVE結果。"
+    "value": "由於LIVE BONUS不足，AUTO LIVE已中斷。\n\n<color=#FF55AA>※將顯示中斷前的LIVE結果。</color>"
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_PAUSE_AND_RESTART",
@@ -2304,7 +2304,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LEGEND",
-    "value": "個人獎勵於{0}統一發送到「禮物」"
+    "value": "個人獎勵將於活動結束時，統一發送到「禮物」"
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LOCK",
@@ -10884,11 +10884,11 @@
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_REWARD_DESCRIBE_X",
-    "value": "此為中秋應援活動的「世界」粉絲數獎勵"
+    "value": "此為中秋應援活動「世界」粉絲數{0}萬的獎勵"
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_UNIT_SCORE_REWARD",
-    "value": "查看獎勵"
+    "value": "粉絲數獎勵"
   },
   {
     "wordingKey": "WORD_SUPPORT_MEMBR",
