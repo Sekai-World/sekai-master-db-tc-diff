@@ -44,15 +44,15 @@
     "endAt": 1662793199000
   },
   {
-    "homeBannerId": 222,
-    "seq": 120,
+    "homeBannerId": 223,
+    "seq": 130,
     "homeBannerType": "general",
-    "name": "SHUFFLE兩人與月兔活動_成員出現率UP招募橫幅",
-    "assetbundleName": "banner_gacha116",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 116,
-    "startAt": 1662274800000,
-    "endAt": 1662641999000
+    "name": "HAPPY BIRTHDAY LIVE 笑夢",
+    "assetbundleName": "banner_virtuallive94",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 94,
+    "startAt": 1662534000000,
+    "endAt": 1662793199000
   },
   {
     "homeBannerId": 225,
@@ -73,5 +73,25 @@
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1646280000000,
     "endAt": 4094294399000
+  },
+  {
+    "homeBannerId": 10007,
+    "seq": 1,
+    "homeBannerType": "general",
+    "name": "兒童節服裝banner",
+    "assetbundleName": "banner_childrensday",
+    "transitionDestinationType": "billing_shop_for_costume_3d",
+    "startAt": 1662534000000,
+    "endAt": 1663099199000
+  },
+  {
+    "homeBannerId": 10022,
+    "seq": 4,
+    "homeBannerType": "general",
+    "name": "中秋应援活动banner",
+    "assetbundleName": "banner_support_2022",
+    "transitionDestinationType": "support_event",
+    "startAt": 1662523200000,
+    "endAt": 1663073999000
   }
 ]
