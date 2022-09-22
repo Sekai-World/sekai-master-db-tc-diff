@@ -17320,6 +17320,39 @@
   },
   {
     "resourceBoxPurpose": "billing_shop_item",
+    "id": 1146,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 1800
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 1147,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 5000
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 1148,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 10500
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
     "id": 2000,
     "resourceBoxType": "expand",
     "details": [
@@ -18816,6 +18849,39 @@
       {
         "resourceType": "jewel",
         "resourceQuantity": 3500
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 2039,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 540
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 2040,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 3380
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 2041,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 10300
       }
     ]
   },
@@ -28148,6 +28214,39 @@
       {
         "resourceType": "jewel",
         "resourceQuantity": 540
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 1146,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 380
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 1147,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 1080
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 1148,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 2300
       }
     ]
   },
@@ -106234,6 +106333,22 @@
       {
         "resourceType": "boost_item",
         "resourceId": 2,
+        "resourceQuantity": 2
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 10036,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      },
+      {
+        "resourceType": "boost_item",
+        "resourceId": 1,
         "resourceQuantity": 2
       }
     ]

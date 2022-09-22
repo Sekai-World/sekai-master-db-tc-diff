@@ -923,5 +923,52 @@
         "transitionDestinationId": "10404"
       }
     ]
+  },
+  {
+    "id": 1005,
+    "assetbundleName": "anniversary_1",
+    "showType": "ONCE",
+    "startAt": 1664020800000,
+    "endAt": 1664359199000,
+    "behaviors": [
+      {
+        "id": 94,
+        "eventShowDialogueId": 1005,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10449"
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "assetbundleName": "anniversary_2",
+    "showType": "ONCE",
+    "startAt": 1664366400000,
+    "endAt": 1664607599000,
+    "behaviors": [
+      {
+        "id": 95,
+        "eventShowDialogueId": 1006,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10450"
+      }
+    ]
+  },
+  {
+    "id": 2001,
+    "assetbundleName": "event_show_livemissionpass_202210",
+    "showType": "ONCE",
+    "startAt": 1664568000000,
+    "endAt": 1667231999000,
+    "behaviors": [
+      {
+        "id": 93,
+        "eventShowDialogueId": 2001,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_live_mission_pass"
+      }
+    ]
   }
 ]
