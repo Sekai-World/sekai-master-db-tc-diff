@@ -54,15 +54,36 @@
     "endAt": 1664607599000
   },
   {
-    "homeBannerId": 233,
-    "seq": 120,
+    "homeBannerId": 237,
+    "seq": 50,
     "homeBannerType": "general",
-    "name": "25第6次巡迴_成員出現率UP招募橫幅",
-    "assetbundleName": "banner_gacha121",
+    "name": "[一週年紀念]紀念選擇招募",
+    "assetbundleName": "banner_gacha124",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 119,
-    "startAt": 1664002800000,
-    "endAt": 1664456399000
+    "transitionDestinationId": 124,
+    "startAt": 1664467200000,
+    "endAt": 1667199599000
+  },
+  {
+    "homeBannerId": 238,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "一週年紀念水晶商店",
+    "assetbundleName": "banner_1st_anniversary_shop",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1664467200000,
+    "endAt": 1665464399000
+  },
+  {
+    "homeBannerId": 239,
+    "seq": 180,
+    "homeBannerType": "general",
+    "name": "一週年紀念Special LIVE",
+    "assetbundleName": "banner_virtuallive97",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 97,
+    "startAt": 1664467500000,
+    "endAt": 1664693999000
   },
   {
     "homeBannerId": 10005,
