@@ -1462,20 +1462,6 @@
   {
     "id": 1004,
     "virtualItemCategory": "normal",
-    "seq": 7,
-    "priority": 1170,
-    "name": "初音未来&星乃一歌",
-    "assetbundleName": "event_new_year_104",
-    "costVirtualCoin": 930,
-    "costJewel": 930,
-    "cheerPoint": 930,
-    "effectAssetbundleName": "event_new_year_104",
-    "effectExpressionType": "throw_effect",
-    "gameCharacterUnitId": 10
-  },
-  {
-    "id": 1005,
-    "virtualItemCategory": "normal",
     "seq": 8,
     "priority": 1180,
     "name": "初音未来&花里实乃理",
@@ -1485,7 +1471,21 @@
     "cheerPoint": 930,
     "effectAssetbundleName": "event_new_year_101",
     "effectExpressionType": "throw_effect",
-    "gameCharacterUnitId": 1
+    "gameCharacterUnitId": 5
+  },
+  {
+    "id": 1005,
+    "virtualItemCategory": "normal",
+    "seq": 10,
+    "priority": 1200,
+    "name": "初音未来&天马司",
+    "assetbundleName": "event_new_year_102",
+    "costVirtualCoin": 930,
+    "costJewel": 930,
+    "cheerPoint": 930,
+    "effectAssetbundleName": "event_new_year_102",
+    "effectExpressionType": "throw_effect",
+    "gameCharacterUnitId": 13
   },
   {
     "id": 1006,
@@ -1499,13 +1499,27 @@
     "cheerPoint": 930,
     "effectAssetbundleName": "event_new_year_103",
     "effectExpressionType": "throw_effect",
-    "gameCharacterUnitId": 20
+    "gameCharacterUnitId": 9
   },
   {
     "id": 1007,
     "virtualItemCategory": "normal",
+    "seq": 7,
+    "priority": 1170,
+    "name": "初音未来&星乃一歌",
+    "assetbundleName": "event_new_year_104",
+    "costVirtualCoin": 930,
+    "costJewel": 930,
+    "cheerPoint": 930,
+    "effectAssetbundleName": "event_new_year_104",
+    "effectExpressionType": "throw_effect",
+    "gameCharacterUnitId": 1
+  },
+  {
+    "id": 1008,
+    "virtualItemCategory": "normal",
     "seq": 11,
-    "priority": 1200,
+    "priority": 1210,
     "name": "初音未来&宵崎奏",
     "assetbundleName": "event_new_year_105",
     "costVirtualCoin": 930,
@@ -1513,20 +1527,6 @@
     "cheerPoint": 930,
     "effectAssetbundleName": "event_new_year_105",
     "effectExpressionType": "throw_effect",
-    "gameCharacterUnitId": 21
-  },
-  {
-    "id": 1008,
-    "virtualItemCategory": "normal",
-    "seq": 10,
-    "priority": 1210,
-    "name": "初音未来&天马司",
-    "assetbundleName": "event_new_year_102",
-    "costVirtualCoin": 930,
-    "costJewel": 930,
-    "cheerPoint": 930,
-    "effectAssetbundleName": "event_new_year_102",
-    "effectExpressionType": "throw_effect",
-    "gameCharacterUnitId": 14
+    "gameCharacterUnitId": 17
   }
 ]
