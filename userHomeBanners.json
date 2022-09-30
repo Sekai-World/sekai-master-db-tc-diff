@@ -22,16 +22,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 225,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "[2021/09]高階任務通行證",
-    "assetbundleName": "banner_premiummissionpass_2021_09",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1661961600000,
-    "endAt": 1664553599000
-  },
-  {
     "homeBannerId": 230,
     "seq": 100,
     "homeBannerType": "event",
@@ -84,6 +74,37 @@
     "transitionDestinationId": 97,
     "startAt": 1664467500000,
     "endAt": 1664693999000
+  },
+  {
+    "homeBannerId": 240,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[一週年紀念]免費10連票券招募",
+    "assetbundleName": "banner_gacha123",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 123,
+    "startAt": 1664481600000,
+    "endAt": 1666022399000
+  },
+  {
+    "homeBannerId": 241,
+    "seq": 20,
+    "homeBannerType": "general",
+    "name": "[2021/10]高階任務通行證（月初優先度UP用）",
+    "assetbundleName": "banner_premiummissionpass_2021_10",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1664553600000,
+    "endAt": 1667231999000
+  },
+  {
+    "homeBannerId": 242,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "再次販售「次文化男孩風格」",
+    "assetbundleName": "banner_costume_resale_2021_10",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1664553600000,
+    "endAt": 1667231999000
   },
   {
     "homeBannerId": 10005,
