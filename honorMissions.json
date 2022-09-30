@@ -72,6 +72,18 @@
     ]
   },
   {
+    "id": 205,
+    "seq": 5,
+    "honorMissionType": "player_rank",
+    "requirement": 400,
+    "sentence": "將玩家等級提升至400吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 1185
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
