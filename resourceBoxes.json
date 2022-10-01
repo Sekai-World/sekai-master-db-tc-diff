@@ -106355,6 +106355,22 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
+    "id": 10037,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 200
+      },
+      {
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
     "id": 9999999,
     "resourceBoxType": "expand",
     "details": [
