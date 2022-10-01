@@ -22,28 +22,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 230,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[活動]光之幻影",
-    "assetbundleName": "event_mirage_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 34,
-    "startAt": 1663743600000,
-    "endAt": 1664607599000
-  },
-  {
-    "homeBannerId": 232,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "25第6次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha120",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 118,
-    "startAt": 1663743600000,
-    "endAt": 1664607599000
-  },
-  {
     "homeBannerId": 237,
     "seq": 50,
     "homeBannerType": "general",
@@ -105,6 +83,39 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1664553600000,
     "endAt": 1667231999000
+  },
+  {
+    "homeBannerId": 243,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "[一週年紀念]七彩慶典招募",
+    "assetbundleName": "banner_gacha125",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 125,
+    "startAt": 1664607600000,
+    "endAt": 1664953199000
+  },
+  {
+    "homeBannerId": 244,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[活動]混亂的粉絲感謝祭！",
+    "assetbundleName": "event_scramble_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 35,
+    "startAt": 1664607600000,
+    "endAt": 1665471599000
+  },
+  {
+    "homeBannerId": 245,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "高級禮物招募（虛擬歌手）",
+    "assetbundleName": "banner_gacha126",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 126,
+    "startAt": 1664607600000,
+    "endAt": 1664866740000
   },
   {
     "homeBannerId": 10005,
