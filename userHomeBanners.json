@@ -43,17 +43,6 @@
     "endAt": 1665464399000
   },
   {
-    "homeBannerId": 239,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "一週年紀念Special LIVE",
-    "assetbundleName": "banner_virtuallive97",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 97,
-    "startAt": 1664467500000,
-    "endAt": 1664693999000
-  },
-  {
     "homeBannerId": 240,
     "seq": 140,
     "homeBannerType": "general",
@@ -116,6 +105,17 @@
     "transitionDestinationId": 126,
     "startAt": 1664607600000,
     "endAt": 1664866740000
+  },
+  {
+    "homeBannerId": 246,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "高級禮物招募（Leo/need）",
+    "assetbundleName": "banner_gacha127",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 127,
+    "startAt": 1664694000000,
+    "endAt": 1664953140000
   },
   {
     "homeBannerId": 10005,
