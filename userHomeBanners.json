@@ -33,16 +33,6 @@
     "endAt": 1667199599000
   },
   {
-    "homeBannerId": 238,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "一週年紀念水晶商店",
-    "assetbundleName": "banner_1st_anniversary_shop",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1664467200000,
-    "endAt": 1665464399000
-  },
-  {
     "homeBannerId": 240,
     "seq": 140,
     "homeBannerType": "general",
@@ -74,81 +64,37 @@
     "endAt": 1667231999000
   },
   {
-    "homeBannerId": 243,
-    "seq": 30,
-    "homeBannerType": "general",
-    "name": "[一週年紀念]七彩慶典招募",
-    "assetbundleName": "banner_gacha125",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 125,
-    "startAt": 1664607600000,
-    "endAt": 1664953199000
-  },
-  {
-    "homeBannerId": 244,
+    "homeBannerId": 256,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[活動]混亂的粉絲感謝祭！",
-    "assetbundleName": "event_scramble_2021",
+    "name": "[活動]Bout for Beside You",
+    "assetbundleName": "event_besideyou_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 35,
-    "startAt": 1664607600000,
-    "endAt": 1665471599000
+    "transitionDestinationId": 37,
+    "startAt": 1665471600000,
+    "endAt": 1666335599000
   },
   {
-    "homeBannerId": 246,
-    "seq": 40,
+    "homeBannerId": 258,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "高級禮物招募（Leo/need）",
-    "assetbundleName": "banner_gacha127",
+    "name": "Vivid BAD SQUAD第5次巡迴_常態招募橫幅",
+    "assetbundleName": "banner_gacha136",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 127,
-    "startAt": 1664694000000,
-    "endAt": 1664953140000
+    "transitionDestinationId": 136,
+    "startAt": 1665471600000,
+    "endAt": 1666335599000
   },
   {
-    "homeBannerId": 247,
-    "seq": 40,
+    "homeBannerId": 259,
+    "seq": 120,
     "homeBannerType": "general",
-    "name": "高級禮物招募（MORE MORE JUMP！）",
-    "assetbundleName": "banner_gacha128",
+    "name": "Vivid BAD SQUAD第5次巡迴_成員出現率UP招募橫幅",
+    "assetbundleName": "banner_gacha137",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 128,
-    "startAt": 1664780400000,
-    "endAt": 1665039540000
-  },
-  {
-    "homeBannerId": 248,
-    "seq": 40,
-    "homeBannerType": "general",
-    "name": "高級禮物招募（Vivid BAD SQUAD ）",
-    "assetbundleName": "banner_gacha129",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 129,
-    "startAt": 1664866800000,
-    "endAt": 1665125940000
-  },
-  {
-    "homeBannerId": 253,
-    "seq": 40,
-    "homeBannerType": "general",
-    "name": "[桐谷遙]HAPPY BIRTHDAY招募",
-    "assetbundleName": "banner_gacha134",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 134,
-    "startAt": 1664899200000,
-    "endAt": 1665503999000
-  },
-  {
-    "homeBannerId": 254,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "[桐谷遙]HAPPY BIRTHDAY LIVE",
-    "assetbundleName": "banner_virtuallive98",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 98,
-    "startAt": 1664780400000,
-    "endAt": 1665039599000
+    "transitionDestinationId": 137,
+    "startAt": 1665730800000,
+    "endAt": 1666184399000
   },
   {
     "homeBannerId": 10005,
