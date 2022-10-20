@@ -828,6 +828,144 @@
     ]
   },
   {
+    "id": 41,
+    "assetbundleName": "event_show_obt40_banner",
+    "showType": "ONCE",
+    "startAt": 1668150000000,
+    "endAt": 1668776399000,
+    "behaviors": [
+      {
+        "id": 96,
+        "eventShowDialogueId": 41,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "40"
+      },
+      {
+        "id": 103,
+        "eventShowDialogueId": 41,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "147"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "assetbundleName": "event_show_obt41_banner",
+    "showType": "ONCE",
+    "startAt": 1668927600000,
+    "endAt": 1669640399000,
+    "behaviors": [
+      {
+        "id": 97,
+        "eventShowDialogueId": 42,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "41"
+      },
+      {
+        "id": 104,
+        "eventShowDialogueId": 42,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "150"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "assetbundleName": "event_show_obt42_banner",
+    "showType": "ONCE",
+    "startAt": 1669791600000,
+    "endAt": 1670504399000,
+    "behaviors": [
+      {
+        "id": 98,
+        "eventShowDialogueId": 43,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "42"
+      },
+      {
+        "id": 105,
+        "eventShowDialogueId": 43,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "153"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "assetbundleName": "event_show_obt43_banner",
+    "showType": "ONCE",
+    "startAt": 1670655600000,
+    "endAt": 1671368399000,
+    "behaviors": [
+      {
+        "id": 99,
+        "eventShowDialogueId": 44,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "43"
+      },
+      {
+        "id": 106,
+        "eventShowDialogueId": 44,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "157"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "assetbundleName": "event_show_obt44_banner",
+    "showType": "ONCE",
+    "startAt": 1671519600000,
+    "endAt": 1672318799000,
+    "behaviors": [
+      {
+        "id": 100,
+        "eventShowDialogueId": 45,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "44"
+      },
+      {
+        "id": 107,
+        "eventShowDialogueId": 45,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "160"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "assetbundleName": "event_show_obt45_banner",
+    "showType": "ONCE",
+    "startAt": 1672470000000,
+    "endAt": 1673355599000,
+    "behaviors": [
+      {
+        "id": 101,
+        "eventShowDialogueId": 46,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "45"
+      },
+      {
+        "id": 108,
+        "eventShowDialogueId": 46,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "164"
+      }
+    ]
+  },
+  {
     "id": 1000,
     "assetbundleName": "jewel_show_150w",
     "showType": "ONCE",
@@ -966,6 +1104,21 @@
       {
         "id": 93,
         "eventShowDialogueId": 2001,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_live_mission_pass"
+      }
+    ]
+  },
+  {
+    "id": 2002,
+    "assetbundleName": "event_show_livemissionpass_202211",
+    "showType": "ONCE",
+    "startAt": 1667246400000,
+    "endAt": 1669823999000,
+    "behaviors": [
+      {
+        "id": 102,
+        "eventShowDialogueId": 2002,
         "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "billing_shop_for_live_mission_pass"
       }

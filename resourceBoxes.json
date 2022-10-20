@@ -108698,7 +108698,7 @@
     "resourceBoxPurpose": "login_bonus",
     "id": 55,
     "resourceBoxType": "list",
-    "name": "ハロウィンボックス",
+    "name": "萬聖節快樂登入活動的報酬",
     "assetbundleName": "item_box_special",
     "details": [
       {
@@ -108737,7 +108737,7 @@
     "resourceBoxPurpose": "login_bonus",
     "id": 57,
     "resourceBoxType": "list",
-    "name": "クリスマスプレゼントボックス",
+    "name": "聖誕節登入活動的報酬",
     "assetbundleName": "item_box_special",
     "details": [
       {
@@ -165525,6 +165525,78 @@
   },
   {
     "resourceBoxPurpose": "shop_item",
+    "id": 10304,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 204,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10305,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 494,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10306,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 495,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10307,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 205,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10308,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 498,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10309,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 499,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
     "id": 10311,
     "resourceBoxType": "expand",
     "details": [
@@ -174907,7 +174979,7 @@
     "details": [
       {
         "resourceType": "honor",
-        "resourceId": 1126,
+        "resourceId": 1140,
         "resourceLevel": 1,
         "resourceQuantity": 1
       },
@@ -174925,7 +174997,7 @@
     "details": [
       {
         "resourceType": "honor",
-        "resourceId": 1140,
+        "resourceId": 1126,
         "resourceLevel": 1,
         "resourceQuantity": 1
       },

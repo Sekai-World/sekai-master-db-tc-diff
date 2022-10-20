@@ -1999,6 +1999,38 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 10011,
+    "seq": 70,
+    "billingShopItemType": "costume_3d",
+    "name": "2022萬聖節服裝組合包A",
+    "description": "2022萬聖節服裝組合包Aセット",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10011",
+    "resourceBoxId": 53,
+    "label": "期間限定",
+    "startAt": 1667026800000,
+    "endAt": 1667372399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10012,
+    "seq": 60,
+    "billingShopItemType": "costume_3d",
+    "name": "2022萬聖節服裝組合包B",
+    "description": "2022萬聖節服裝組合包Bセット",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10012",
+    "resourceBoxId": 54,
+    "label": "期間限定",
+    "startAt": 1667026800000,
+    "endAt": 1667372399000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 10018,
     "seq": 1108,
     "billingShopItemType": "value_set",
