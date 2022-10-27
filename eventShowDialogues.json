@@ -1095,6 +1095,21 @@
     ]
   },
   {
+    "id": 1007,
+    "assetbundleName": "jewel_show_halloween_2022",
+    "showType": "ONCE",
+    "startAt": 1667026800000,
+    "endAt": 1667372399000,
+    "behaviors": [
+      {
+        "id": 109,
+        "eventShowDialogueId": 1007,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_costume_3d"
+      }
+    ]
+  },
+  {
     "id": 2001,
     "assetbundleName": "event_show_livemissionpass_202210",
     "showType": "ONCE",

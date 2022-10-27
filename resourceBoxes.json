@@ -106563,6 +106563,22 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
+    "id": 10038,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      },
+      {
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 2
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
     "id": 9999999,
     "resourceBoxType": "expand",
     "details": [
@@ -169383,6 +169399,66 @@
       {
         "resourceType": "stamp",
         "resourceId": 10011,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 100012,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "stamp",
+        "resourceId": 10012,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 100013,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "stamp",
+        "resourceId": 10013,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 100014,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "stamp",
+        "resourceId": 10014,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 100015,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "stamp",
+        "resourceId": 10015,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 100016,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "stamp",
+        "resourceId": 10016,
         "resourceQuantity": 1
       }
     ]

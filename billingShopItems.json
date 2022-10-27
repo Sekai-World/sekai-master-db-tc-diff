@@ -1849,6 +1849,38 @@
     "endAt": 1665730799000
   },
   {
+    "id": 1149,
+    "seq": 21,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1149,
+    "name": "聯動限定水晶A",
+    "description": "付费水晶 ×950\n免费水晶 ×200（奖励",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1106",
+    "resourceBoxId": 1106,
+    "bonusResourceBoxId": 1106,
+    "startAt": 1667286000000,
+    "endAt": 1667804399000
+  },
+  {
+    "id": 1150,
+    "seq": 20,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1150,
+    "name": "聯動限定水晶B",
+    "description": "付费水晶 ×5000\n免费水晶 ×1080（奖励",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1109",
+    "resourceBoxId": 1109,
+    "bonusResourceBoxId": 1109,
+    "startAt": 1667286000000,
+    "endAt": 1667804399000
+  },
+  {
     "id": 10001,
     "seq": 1012,
     "billingShopItemType": "value_set",
