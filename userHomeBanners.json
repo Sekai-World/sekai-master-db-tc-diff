@@ -75,26 +75,36 @@
     "endAt": 1667199599000
   },
   {
-    "homeBannerId": 263,
-    "seq": 120,
+    "homeBannerId": 264,
+    "seq": 40,
     "homeBannerType": "general",
-    "name": "Wonderlands×Showtime第6次巡迴_成員出現率UP招募橫幅",
-    "assetbundleName": "banner_gacha140",
+    "name": "[望月穗波]HAPPY BIRTHDAY招募",
+    "assetbundleName": "banner_gacha141",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 140,
-    "startAt": 1666594800000,
-    "endAt": 1667048399000
+    "transitionDestinationId": 141,
+    "startAt": 1666800000000,
+    "endAt": 1667404799000
   },
   {
-    "homeBannerId": 265,
-    "seq": 160,
+    "homeBannerId": 275,
+    "seq": 180,
     "homeBannerType": "general",
-    "name": "[望月穗波]HAPPY BIRTHDAY LIVE",
-    "assetbundleName": "banner_virtuallive102",
+    "name": "萬聖節2021 LIVE",
+    "assetbundleName": "banner_virtuallive103",
     "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 102,
-    "startAt": 1666681200000,
-    "endAt": 1666940399000
+    "transitionDestinationId": 103,
+    "startAt": 1667026800000,
+    "endAt": 1667372399000
+  },
+  {
+    "homeBannerId": 277,
+    "seq": 190,
+    "homeBannerType": "general",
+    "name": "販售萬聖節服裝",
+    "assetbundleName": "banner_shop_halloween_costume_2021",
+    "transitionDestinationType": "billing_shop_for_costume_3d",
+    "startAt": 1667026800000,
+    "endAt": 1667372399000
   },
   {
     "homeBannerId": 10005,
