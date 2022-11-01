@@ -1110,6 +1110,22 @@
     ]
   },
   {
+    "id": 1008,
+    "assetbundleName": "jewel_show_firstrecharge",
+    "showType": "ONCE",
+    "startAt": 1667196000000,
+    "endAt": 4097285999000,
+    "behaviors": [
+      {
+        "id": 110,
+        "eventShowDialogueId": 1008,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10499"
+      }
+    ]
+  },
+  {
     "id": 2001,
     "assetbundleName": "event_show_livemissionpass_202210",
     "showType": "ONCE",

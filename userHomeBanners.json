@@ -3,7 +3,6 @@
     "homeBannerId": 18,
     "seq": 9999,
     "homeBannerType": "general",
-    "name": "新手指南",
     "assetbundleName": "banner_beginners_guide",
     "transitionDestinationType": "information",
     "transitionDestinationId": 10003,
@@ -14,7 +13,6 @@
     "homeBannerId": 48,
     "seq": 9998,
     "homeBannerType": "general",
-    "name": "Welcome LIVE橫幅",
     "assetbundleName": "banner_welcomelive",
     "transitionDestinationType": "virtual_live",
     "transitionDestinationId": 20001,
@@ -22,63 +20,9 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 237,
-    "seq": 50,
-    "homeBannerType": "general",
-    "name": "[一週年紀念]紀念選擇招募",
-    "assetbundleName": "banner_gacha124",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 124,
-    "startAt": 1664467200000,
-    "endAt": 1667199599000
-  },
-  {
-    "homeBannerId": 241,
-    "seq": 20,
-    "homeBannerType": "general",
-    "name": "[2021/10]高階任務通行證（月初優先度UP用）",
-    "assetbundleName": "banner_premiummissionpass_2021_10",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1664553600000,
-    "endAt": 1667231999000
-  },
-  {
-    "homeBannerId": 242,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "再次販售「次文化男孩風格」",
-    "assetbundleName": "banner_costume_resale_2021_10",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1664553600000,
-    "endAt": 1667231999000
-  },
-  {
-    "homeBannerId": 260,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[活動]Revival my dream",
-    "assetbundleName": "event_revival_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 38,
-    "startAt": 1666335600000,
-    "endAt": 1667199599000
-  },
-  {
-    "homeBannerId": 262,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "Wonderlands×Showtime第6次巡迴_常態招募橫幅",
-    "assetbundleName": "banner_gacha139",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 139,
-    "startAt": 1666335600000,
-    "endAt": 1667199599000
-  },
-  {
     "homeBannerId": 264,
     "seq": 40,
     "homeBannerType": "general",
-    "name": "[望月穗波]HAPPY BIRTHDAY招募",
     "assetbundleName": "banner_gacha141",
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 141,
@@ -86,10 +30,47 @@
     "endAt": 1667404799000
   },
   {
+    "homeBannerId": 267,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_premiummissionpass_2021_11",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1667232000000,
+    "endAt": 1669823999000
+  },
+  {
+    "homeBannerId": 268,
+    "seq": 220,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_costume_resale_2021_11",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1667232000000,
+    "endAt": 1669823999000
+  },
+  {
+    "homeBannerId": 269,
+    "seq": 100,
+    "homeBannerType": "event",
+    "assetbundleName": "event_ashiato_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 39,
+    "startAt": 1667199600000,
+    "endAt": 1668149999000
+  },
+  {
+    "homeBannerId": 271,
+    "seq": 110,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha142",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 142,
+    "startAt": 1667199600000,
+    "endAt": 1668149999000
+  },
+  {
     "homeBannerId": 275,
     "seq": 180,
     "homeBannerType": "general",
-    "name": "萬聖節2021 LIVE",
     "assetbundleName": "banner_virtuallive103",
     "transitionDestinationType": "virtual_live",
     "transitionDestinationId": 103,
@@ -100,20 +81,37 @@
     "homeBannerId": 277,
     "seq": 190,
     "homeBannerType": "general",
-    "name": "販售萬聖節服裝",
     "assetbundleName": "banner_shop_halloween_costume_2021",
     "transitionDestinationType": "billing_shop_for_costume_3d",
     "startAt": 1667026800000,
     "endAt": 1667372399000
   },
   {
+    "homeBannerId": 302,
+    "seq": 20,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha159",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 159,
+    "startAt": 1667199600000,
+    "endAt": 1668409199000
+  },
+  {
     "homeBannerId": 10005,
     "seq": 132,
     "homeBannerType": "general",
-    "name": "七彩通行证",
     "assetbundleName": "banner_colorfulpass",
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1646280000000,
     "endAt": 4094294399000
+  },
+  {
+    "homeBannerId": 10024,
+    "seq": 6,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_firstrecharge",
+    "transitionDestinationType": "billing_shop_for_first_recharge",
+    "startAt": 1667199600000,
+    "endAt": 4097113200000
   }
 ]
