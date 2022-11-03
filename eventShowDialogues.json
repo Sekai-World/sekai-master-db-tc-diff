@@ -1126,6 +1126,22 @@
     ]
   },
   {
+    "id": 1009,
+    "assetbundleName": "limitmission_show_meiko2022",
+    "showType": "ONCE",
+    "startAt": 1667545200000,
+    "endAt": 1668409199000,
+    "behaviors": [
+      {
+        "id": 111,
+        "eventShowDialogueId": 1009,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10516"
+      }
+    ]
+  },
+  {
     "id": 2001,
     "assetbundleName": "event_show_livemissionpass_202210",
     "showType": "ONCE",
