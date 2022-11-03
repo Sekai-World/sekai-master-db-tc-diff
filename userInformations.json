@@ -6634,7 +6634,8 @@
     "title": "即將舉辦「[MEIKO]HAPPY ANNIVERSARY招募」！",
     "path": "https://act.sgsnssdk.com/gms/3ac488f7c3/?from_source=h5",
     "startAt": 1667458800000,
-    "endAt": 1676098800000
+    "endAt": 1676098800000,
+    "bannerAssetbundleName": "banner_gacha144"
   },
   {
     "id": 10508,
@@ -6723,7 +6724,7 @@
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "關於首次充值贈禮活動的詳情",
+    "title": "關於首次儲值贈禮活動的詳情",
     "path": "https://act.sgsnssdk.com/gms/289356865d/?from_source=h5",
     "startAt": 1667458800000,
     "endAt": 1676098800000,
@@ -6732,7 +6733,7 @@
   {
     "id": 10526,
     "seq": 1,
-    "displayOrder": 1999999999,
+    "displayOrder": 1667286000,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
@@ -6741,5 +6742,18 @@
     "path": "https://act.sgsnssdk.com/gms/af638aa284/?from_source=h5",
     "startAt": 1667286000000,
     "endAt": 1675926000000
+  },
+  {
+    "id": 10527,
+    "seq": 1,
+    "displayOrder": 1999999999,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "關於「惡之大罪系列聯動」活動延長及補償更改說明",
+    "path": "https://act.sgsnssdk.com/gms/ab8c307715/?from_source=h5",
+    "startAt": 1667444400000,
+    "endAt": 1676084400000
   }
 ]
