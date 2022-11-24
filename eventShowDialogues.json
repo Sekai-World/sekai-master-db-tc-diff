@@ -1170,5 +1170,20 @@
         "transitionDestinationType": "billing_shop_for_live_mission_pass"
       }
     ]
+  },
+  {
+    "id": 2003,
+    "assetbundleName": "event_show_livemissionpass_202212",
+    "showType": "ONCE",
+    "startAt": 1669824000000,
+    "endAt": 1672502399000,
+    "behaviors": [
+      {
+        "id": 112,
+        "eventShowDialogueId": 2003,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_live_mission_pass"
+      }
+    ]
   }
 ]
