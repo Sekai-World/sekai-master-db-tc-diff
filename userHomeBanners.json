@@ -20,44 +20,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 267,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_premiummissionpass_2021_11",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1667232000000,
-    "endAt": 1669823999000
-  },
-  {
-    "homeBannerId": 268,
-    "seq": 220,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_costume_resale_2021_11",
-    "transitionDestinationType": "billing_shop_for_costume_3d",
-    "startAt": 1667232000000,
-    "endAt": 1669823999000
-  },
-  {
-    "homeBannerId": 285,
-    "seq": 100,
-    "homeBannerType": "event",
-    "assetbundleName": "event_buddy_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 41,
-    "startAt": 1668927600000,
-    "endAt": 1669791599000
-  },
-  {
-    "homeBannerId": 286,
-    "seq": 110,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha150",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 150,
-    "startAt": 1668927600000,
-    "endAt": 1669791599000
-  },
-  {
     "homeBannerId": 288,
     "seq": 90,
     "homeBannerType": "general",
@@ -66,6 +28,44 @@
     "transitionDestinationId": 152,
     "startAt": 1669446000000,
     "endAt": 1670137199000
+  },
+  {
+    "homeBannerId": 289,
+    "seq": 200,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_premiummissionpass_2021_12",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1669824000000,
+    "endAt": 1672502399000
+  },
+  {
+    "homeBannerId": 290,
+    "seq": 220,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_costume_resale_2021_12",
+    "transitionDestinationType": "billing_shop_for_costume_3d",
+    "startAt": 1669824000000,
+    "endAt": 1672502399000
+  },
+  {
+    "homeBannerId": 291,
+    "seq": 100,
+    "homeBannerType": "event",
+    "assetbundleName": "event_melody_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 42,
+    "startAt": 1669791600000,
+    "endAt": 1670655599000
+  },
+  {
+    "homeBannerId": 292,
+    "seq": 110,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha153",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 153,
+    "startAt": 1669791600000,
+    "endAt": 1670655599000
   },
   {
     "homeBannerId": 10005,
