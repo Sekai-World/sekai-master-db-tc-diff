@@ -1142,6 +1142,21 @@
     ]
   },
   {
+    "id": 1010,
+    "assetbundleName": "jewel_show_christmas_2022",
+    "showType": "ONCE",
+    "startAt": 1671692400000,
+    "endAt": 1672124399000,
+    "behaviors": [
+      {
+        "id": 113,
+        "eventShowDialogueId": 1010,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_costume_3d"
+      }
+    ]
+  },
+  {
     "id": 2001,
     "assetbundleName": "event_show_livemissionpass_202210",
     "showType": "ONCE",

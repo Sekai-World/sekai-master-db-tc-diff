@@ -429,6 +429,38 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 506,
+    "seq": 200,
+    "billingShopItemType": "costume_3d",
+    "name": "【再次販售】聖誕節服裝組合包A（女性）",
+    "description": "【再次販售】聖誕節服裝組合包A（女性）セット",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10023",
+    "resourceBoxId": 65,
+    "label": "期間限定",
+    "startAt": 1671692400000,
+    "endAt": 1672124399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 507,
+    "seq": 190,
+    "billingShopItemType": "costume_3d",
+    "name": "【再次販售】聖誕節服裝組合包A（男性）",
+    "description": "【再次販售】聖誕節服裝組合包A（男性）セット",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10024",
+    "resourceBoxId": 66,
+    "label": "期間限定",
+    "startAt": 1671692400000,
+    "endAt": 1672124399000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 1000,
     "seq": 1006,
     "billingShopItemType": "value_set",
