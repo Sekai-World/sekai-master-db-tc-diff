@@ -475,5 +475,59 @@
     "requirement": 5,
     "sentence": "完成所有的MEIKO週年紀念限時任務吧。",
     "resourceBoxId": 100312
+  },
+  {
+    "limitMissionGroupId": 10,
+    "id": 59,
+    "seq": 1,
+    "limitMissionType": "clear_live_miku_leader",
+    "requirement": 15,
+    "sentence": "將鏡音連和鏡音鈴編入隊伍中進行15次LIVE吧。",
+    "resourceBoxId": 100307
+  },
+  {
+    "limitMissionGroupId": 10,
+    "id": 60,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "在「心願碎片交換所」進行一次交換吧。（心願碎片可透過在「休息室」交換成員獲得）",
+    "resourceBoxId": 100308
+  },
+  {
+    "limitMissionGroupId": 10,
+    "id": 61,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 100309
+  },
+  {
+    "limitMissionGroupId": 10,
+    "id": 62,
+    "seq": 1,
+    "limitMissionType": "character_rank_miku",
+    "requirement": 5,
+    "sentence": "將鏡音連和鏡音鈴的角色等級全部提升至5級吧。",
+    "resourceBoxId": 100313
+  },
+  {
+    "limitMissionGroupId": 10,
+    "id": 63,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成員的專精等級吧。",
+    "resourceBoxId": 100311
+  },
+  {
+    "limitMissionGroupId": 10,
+    "id": 64,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成所有的鏡音連和鏡音鈴週年紀念限時任務吧。",
+    "resourceBoxId": 100314
   }
 ]
