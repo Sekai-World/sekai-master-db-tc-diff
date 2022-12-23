@@ -2728,5 +2728,22 @@
       }
     ],
     "virtualShopType": "other"
+  },
+  {
+    "id": 1002,
+    "name": "春节虚拟LIVE商品2023",
+    "virtualShopItems": [
+      {
+        "id": 10006,
+        "virtualShopId": 1002,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000006,
+        "resourceBoxId": 10003,
+        "costPaidJewel": 1000,
+        "startAt": 1674198000000,
+        "endAt": 1676876400000
+      }
+    ],
+    "virtualShopType": "other"
   }
 ]

@@ -1157,6 +1157,22 @@
     ]
   },
   {
+    "id": 1011,
+    "assetbundleName": "limitmission_show_kagami2022",
+    "showType": "ONCE",
+    "startAt": 1672038000000,
+    "endAt": 1672923599000,
+    "behaviors": [
+      {
+        "id": 116,
+        "eventShowDialogueId": 1011,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10567"
+      }
+    ]
+  },
+  {
     "id": 2001,
     "assetbundleName": "event_show_livemissionpass_202210",
     "showType": "ONCE",

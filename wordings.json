@@ -1447,6 +1447,10 @@
     "value": "深夜時的通知"
   },
   {
+    "wordingKey": "MSG_NOT_BONUS_EVENT_INSESSION",
+    "value": "無舉辦中的活動。"
+  },
+  {
     "wordingKey": "MSG_NOT_CONSUME",
     "value": "無消耗"
   },
@@ -2156,7 +2160,7 @@
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
-    "value": "‧獲得「<color=#00CCBB>[{0}] {1}</color>」後，\n服飾店將會新增「<color=#00CCBB>{2}</color>」。\n\n若在服飾店裡指定可穿著「<color=#00CCBB>{2}</color>」的角色並製作服裝，"
+    "value": "・獲得「<color=#00CCBB>[{0}] {1}</color>」後，\n服飾店將會新增「<color=#00CCBB>{2}</color>」。\n\n若在服飾店裡指定可穿著「<color=#00CCBB>{2}</color>」的角色並製作服裝，"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
@@ -2256,19 +2260,19 @@
   },
   {
     "wordingKey": "SPRING_EVENT_RANKING_REWARD",
-    "value": "此為「應援！新春的世界」排行第%d名的報酬。"
+    "value": "此為「應援！新春的『世界』」排行第%d名的報酬。"
   },
   {
     "wordingKey": "SPRING_EVENT_RECEIVE_INVALID_TERM_REWARD",
-    "value": "此為「應援！新春的世界」團體應援P%d萬的報酬。"
+    "value": "此為「應援！新春的『世界』」團體應援P%d萬的報酬。"
   },
   {
     "wordingKey": "SPRING_EVENT_RECEIVE_INVALID_TOTAL_REWARD",
-    "value": "此為「應援！新春的世界」全團體應援P3900萬的報酬。"
+    "value": "此為「應援！新春的『世界』」全團體應援P3900萬的報酬。"
   },
   {
     "wordingKey": "SPRING_EVENT_RECEIVE_ZERO_REWARD",
-    "value": "此為參與「應援！新春的世界」活動的報酬。"
+    "value": "此為參與「應援！新春的『世界』」活動的報酬。"
   },
   {
     "wordingKey": "STAFF_URL",
@@ -2300,7 +2304,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_PERSONAL_REWARD",
-    "value": "此為中秋應援活動的個人獎勵"
+    "value": "此為「應援！新春的『世界 』2023」的個人獎勵"
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LEGEND",
@@ -2316,7 +2320,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_TOTAL_REWARD",
-    "value": "此為中秋應援活動的世界獎勵"
+    "value": "此為「應援！新春的『世界 』2023」的世界獎勵"
   },
   {
     "wordingKey": "TB",
@@ -2437,6 +2441,10 @@
   {
     "wordingKey": "WORD_ACCESSORY_DEFAULT_HAIR",
     "value": "設定條件"
+  },
+  {
+    "wordingKey": "WORD_ACCOUNTBONUSEFFECT_TITLE",
+    "value": "加成效果"
   },
   {
     "wordingKey": "WORD_ACHIEVED",
@@ -2781,6 +2789,34 @@
   {
     "wordingKey": "WORD_BONUS",
     "value": "獎勵"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_BONDSEXP",
+    "value": "情誼等級EXP獲得量提升{0}倍"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_NUMBEREXP",
+    "value": "成員等級EXP獲得量提升{0}倍"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_RANKEXP",
+    "value": "玩家等級EXP獲得量提升{0}倍"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_RATE",
+    "value": "LIVE獲得{0}的概率提升{1}倍"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_UNITEXP",
+    "value": "團體等級EXP獲得量提升{0}倍"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_VALUE",
+    "value": "LIVE獲得{0}+{1}"
+  },
+  {
+    "wordingKey": "WORD_BONUSEVENT_NAME",
+    "value": "活動加成"
   },
   {
     "wordingKey": "WORD_BOOST_RECOVERY",
@@ -7516,12 +7552,20 @@
     "value": "活動"
   },
   {
+    "wordingKey": "WORD_EVENTBONUSEFFECT_TITLE",
+    "value": "活動期間加成效果"
+  },
+  {
     "wordingKey": "WORD_EVENT_BONUS",
     "value": "活動獎勵"
   },
   {
     "wordingKey": "WORD_EVENT_BONUS_NL",
     "value": "活動\n獎勵"
+  },
+  {
+    "wordingKey": "WORD_EVENT_BONUS_PROGRESS",
+    "value": "今日進度"
   },
   {
     "wordingKey": "WORD_EVENT_CLOSE",
@@ -7618,6 +7662,10 @@
   {
     "wordingKey": "WORD_EVENT_SHOW_questionnaire",
     "value": "問卷"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_return",
+    "value": "回歸任務"
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_virtual_live",
@@ -8349,7 +8397,7 @@
   },
   {
     "wordingKey": "WORD_HUNDRED_MILLION",
-    "value": "{0}亿"
+    "value": "{0}億"
   },
   {
     "wordingKey": "WORD_ID",
@@ -10284,6 +10332,14 @@
     "value": "還剩{0}"
   },
   {
+    "wordingKey": "WORD_RESULTBONUS",
+    "value": "活動加成"
+  },
+  {
+    "wordingKey": "WORD_RESULTBONUS_TITLE",
+    "value": "LIVE BONUS"
+  },
+  {
     "wordingKey": "WORD_RESUME",
     "value": "繼續"
   },
@@ -10764,6 +10820,18 @@
     "value": "技能效果值"
   },
   {
+    "wordingKey": "WORD_SPECIALREWARD_DETAIL",
+    "value": "報酬詳情"
+  },
+  {
+    "wordingKey": "WORD_SPECIALREWARD_GET_REWARD",
+    "value": "隨機獲得"
+  },
+  {
+    "wordingKey": "WORD_SPECIALREWARD_TITLE",
+    "value": "特別報酬"
+  },
+  {
     "wordingKey": "WORD_SPECIAL_SKILL",
     "value": "特技"
   },
@@ -10793,7 +10861,7 @@
   },
   {
     "wordingKey": "WORD_SPRING_EVENT_REWARD_DESCRIBE_0",
-    "value": "參與「應援！新春的世界」的活動獎勵"
+    "value": "參與「應援！新春的『世界』」的活動獎勵"
   },
   {
     "wordingKey": "WORD_SPRING_EVENT_REWARD_DESCRIBE_X",
@@ -10921,7 +10989,7 @@
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_REWARD_DESCRIBE_X",
-    "value": "此為中秋應援活動「世界」粉絲數{0}萬的獎勵"
+    "value": "此為「應援！新春的『世界 』 2023」粉絲數破{0}億的獎勵"
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_UNIT_SCORE_REWARD",
