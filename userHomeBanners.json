@@ -68,25 +68,6 @@
     "endAt": 1672318799000
   },
   {
-    "homeBannerId": 309,
-    "seq": 170,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_virtuallive114",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 114,
-    "startAt": 1671692400000,
-    "endAt": 1672037999000
-  },
-  {
-    "homeBannerId": 310,
-    "seq": 195,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_shop_xmas_costume_2021",
-    "transitionDestinationType": "billing_shop_for_costume_3d",
-    "startAt": 1671692400000,
-    "endAt": 1672124399000
-  },
-  {
     "homeBannerId": 311,
     "seq": 180,
     "homeBannerType": "general",
@@ -105,6 +86,26 @@
     "transitionDestinationId": 116,
     "startAt": 1671951600000,
     "endAt": 1672210799000
+  },
+  {
+    "homeBannerId": 313,
+    "seq": 80,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha162",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 162,
+    "startAt": 1672070400000,
+    "endAt": 1672469999000
+  },
+  {
+    "homeBannerId": 315,
+    "seq": 90,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha163",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 163,
+    "startAt": 1672070400000,
+    "endAt": 1672469999000
   },
   {
     "homeBannerId": 10005,
