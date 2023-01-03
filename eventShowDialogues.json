@@ -966,6 +966,75 @@
     ]
   },
   {
+    "id": 47,
+    "assetbundleName": "event_show_obt46_banner",
+    "showType": "ONCE",
+    "startAt": 1673506800000,
+    "endAt": 1674133199000,
+    "behaviors": [
+      {
+        "id": 119,
+        "eventShowDialogueId": 47,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "46"
+      },
+      {
+        "id": 122,
+        "eventShowDialogueId": 47,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "171"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "assetbundleName": "event_show_obt47_banner",
+    "showType": "ONCE",
+    "startAt": 1674284400000,
+    "endAt": 1674997199000,
+    "behaviors": [
+      {
+        "id": 120,
+        "eventShowDialogueId": 48,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "47"
+      },
+      {
+        "id": 123,
+        "eventShowDialogueId": 48,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "173"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "assetbundleName": "event_show_obt48_banner",
+    "showType": "ONCE",
+    "startAt": 1675148400000,
+    "endAt": 1675774799000,
+    "behaviors": [
+      {
+        "id": 121,
+        "eventShowDialogueId": 49,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "48"
+      },
+      {
+        "id": 124,
+        "eventShowDialogueId": 49,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "177"
+      }
+    ]
+  },
+  {
     "id": 1000,
     "assetbundleName": "jewel_show_150w",
     "showType": "ONCE",
@@ -1173,6 +1242,36 @@
     ]
   },
   {
+    "id": 1012,
+    "assetbundleName": "jewel_show_newyear_2023_2",
+    "showType": "ONCE",
+    "startAt": 1672470000000,
+    "endAt": 1673506799000,
+    "behaviors": [
+      {
+        "id": 117,
+        "eventShowDialogueId": 1012,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_value_set"
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "assetbundleName": "jewel_show_newyear_2023",
+    "showType": "ONCE",
+    "startAt": 1674198000000,
+    "endAt": 1674802799000,
+    "behaviors": [
+      {
+        "id": 118,
+        "eventShowDialogueId": 1013,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_costume_3d"
+      }
+    ]
+  },
+  {
     "id": 2001,
     "assetbundleName": "event_show_livemissionpass_202210",
     "showType": "ONCE",
@@ -1214,6 +1313,43 @@
         "eventShowDialogueId": 2003,
         "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "billing_shop_for_live_mission_pass"
+      }
+    ]
+  },
+  {
+    "id": 2004,
+    "assetbundleName": "event_show_livemissionpass_202301",
+    "showType": "ONCE",
+    "startAt": 1672502400000,
+    "endAt": 1675180799000,
+    "behaviors": [
+      {
+        "id": 125,
+        "eventShowDialogueId": 2004,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_live_mission_pass"
+      }
+    ]
+  },
+  {
+    "id": 3001,
+    "assetbundleName": "event_show_return",
+    "showType": "ONCE",
+    "startAt": 1672293600000,
+    "endAt": 4094521199000,
+    "behaviors": [
+      {
+        "id": 114,
+        "eventShowDialogueId": 3001,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "1100"
+      },
+      {
+        "id": 115,
+        "eventShowDialogueId": 3001,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "return"
       }
     ]
   }
