@@ -48,16 +48,6 @@
     "endAt": 1673506799000
   },
   {
-    "homeBannerId": 321,
-    "seq": 50,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha164",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 164,
-    "startAt": 1672470000000,
-    "endAt": 1672815599000
-  },
-  {
     "homeBannerId": 322,
     "seq": 60,
     "homeBannerType": "general",
@@ -66,6 +56,26 @@
     "transitionDestinationId": 167,
     "startAt": 1672470000000,
     "endAt": 1673506799000
+  },
+  {
+    "homeBannerId": 324,
+    "seq": 110,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha165",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 165,
+    "startAt": 1672815600000,
+    "endAt": 1673506799000
+  },
+  {
+    "homeBannerId": 325,
+    "seq": 120,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha166",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 166,
+    "startAt": 1672815600000,
+    "endAt": 1673355599000
   },
   {
     "homeBannerId": 326,
@@ -85,16 +95,6 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1672470000000,
     "endAt": 1673506799000
-  },
-  {
-    "homeBannerId": 332,
-    "seq": 175,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_virtuallive119",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 122,
-    "startAt": 1672729200000,
-    "endAt": 1672815599000
   },
   {
     "homeBannerId": 335,
