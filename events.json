@@ -13637,5 +13637,541 @@
         ]
       }
     ]
+  },
+  {
+    "id": 52,
+    "eventType": "marathon",
+    "name": "Cast Spell on You",
+    "assetbundleName": "event_castspell_2022",
+    "bgmAssetbundleName": "event/event_castspell_2022/bgm/event_castspell_2022_top",
+    "eventPointAssetbundleName": "icon_point",
+    "startAt": 1678518000000,
+    "aggregateAt": 1679144399000,
+    "rankingAnnounceAt": 1679144999000,
+    "closedAt": 1679295598000,
+    "virtualLiveId": 137,
+    "unit": "idol",
+    "eventRankingRewardRanges": [
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1429
+          }
+        ]
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1430
+          }
+        ]
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1431
+          }
+        ]
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1432
+          }
+        ]
+      },
+      {
+        "fromRank": 11,
+        "toRank": 20,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1433
+          }
+        ]
+      },
+      {
+        "fromRank": 21,
+        "toRank": 30,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1434
+          }
+        ]
+      },
+      {
+        "fromRank": 31,
+        "toRank": 40,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1435
+          }
+        ]
+      },
+      {
+        "fromRank": 41,
+        "toRank": 50,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1436
+          }
+        ]
+      },
+      {
+        "fromRank": 51,
+        "toRank": 100,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1437
+          }
+        ]
+      },
+      {
+        "fromRank": 101,
+        "toRank": 200,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1438
+          }
+        ]
+      },
+      {
+        "fromRank": 201,
+        "toRank": 300,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1439
+          }
+        ]
+      },
+      {
+        "fromRank": 301,
+        "toRank": 400,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1440
+          }
+        ]
+      },
+      {
+        "fromRank": 401,
+        "toRank": 500,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1441
+          }
+        ]
+      },
+      {
+        "fromRank": 501,
+        "toRank": 1000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1442
+          }
+        ]
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1443
+          }
+        ]
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 3000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1444
+          }
+        ]
+      },
+      {
+        "fromRank": 3001,
+        "toRank": 4000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1445
+          }
+        ]
+      },
+      {
+        "fromRank": 4001,
+        "toRank": 5000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1446
+          }
+        ]
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1447
+          }
+        ]
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1448
+          }
+        ]
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1449
+          }
+        ]
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 40000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1450
+          }
+        ]
+      },
+      {
+        "fromRank": 40001,
+        "toRank": 50000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1451
+          }
+        ]
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1452
+          }
+        ]
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 200000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1453
+          }
+        ]
+      },
+      {
+        "fromRank": 200001,
+        "toRank": 300000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1454
+          }
+        ]
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 400000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1455
+          }
+        ]
+      },
+      {
+        "fromRank": 400001,
+        "toRank": 500000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1456
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "eventType": "marathon",
+    "name": "在空白畫布作畫的我",
+    "assetbundleName": "event_canvas_2022",
+    "bgmAssetbundleName": "event/event_canvas_2022/bgm/event_canvas_2022_top",
+    "eventPointAssetbundleName": "icon_point",
+    "startAt": 1679295600000,
+    "aggregateAt": 1680008399000,
+    "rankingAnnounceAt": 1680008999000,
+    "closedAt": 1680159598000,
+    "virtualLiveId": 140,
+    "unit": "school_refusal",
+    "eventRankingRewardRanges": [
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1457
+          }
+        ]
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1458
+          }
+        ]
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1459
+          }
+        ]
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1460
+          }
+        ]
+      },
+      {
+        "fromRank": 11,
+        "toRank": 20,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1461
+          }
+        ]
+      },
+      {
+        "fromRank": 21,
+        "toRank": 30,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1462
+          }
+        ]
+      },
+      {
+        "fromRank": 31,
+        "toRank": 40,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1463
+          }
+        ]
+      },
+      {
+        "fromRank": 41,
+        "toRank": 50,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1464
+          }
+        ]
+      },
+      {
+        "fromRank": 51,
+        "toRank": 100,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1465
+          }
+        ]
+      },
+      {
+        "fromRank": 101,
+        "toRank": 200,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1466
+          }
+        ]
+      },
+      {
+        "fromRank": 201,
+        "toRank": 300,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1467
+          }
+        ]
+      },
+      {
+        "fromRank": 301,
+        "toRank": 400,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1468
+          }
+        ]
+      },
+      {
+        "fromRank": 401,
+        "toRank": 500,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1469
+          }
+        ]
+      },
+      {
+        "fromRank": 501,
+        "toRank": 1000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1470
+          }
+        ]
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1471
+          }
+        ]
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 3000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1472
+          }
+        ]
+      },
+      {
+        "fromRank": 3001,
+        "toRank": 4000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1473
+          }
+        ]
+      },
+      {
+        "fromRank": 4001,
+        "toRank": 5000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1474
+          }
+        ]
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1475
+          }
+        ]
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1476
+          }
+        ]
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1477
+          }
+        ]
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 40000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1478
+          }
+        ]
+      },
+      {
+        "fromRank": 40001,
+        "toRank": 50000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1479
+          }
+        ]
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1480
+          }
+        ]
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 200000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1481
+          }
+        ]
+      },
+      {
+        "fromRank": 200001,
+        "toRank": 300000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1482
+          }
+        ]
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 400000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1483
+          }
+        ]
+      },
+      {
+        "fromRank": 400001,
+        "toRank": 500000,
+        "eventRankingRewards": [
+          {
+            "resourceBoxId": 1484
+          }
+        ]
+      }
+    ]
   }
 ]
