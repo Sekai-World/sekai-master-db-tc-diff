@@ -1035,6 +1035,75 @@
     ]
   },
   {
+    "id": 50,
+    "assetbundleName": "event_show_obt49_banner",
+    "showType": "ONCE",
+    "startAt": 1675926000000,
+    "endAt": 1676552399000,
+    "behaviors": [
+      {
+        "id": 126,
+        "eventShowDialogueId": 50,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "49"
+      },
+      {
+        "id": 129,
+        "eventShowDialogueId": 50,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "181"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "assetbundleName": "event_show_obt50_banner",
+    "showType": "ONCE",
+    "startAt": 1676703600000,
+    "endAt": 1677416399000,
+    "behaviors": [
+      {
+        "id": 127,
+        "eventShowDialogueId": 51,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "50"
+      },
+      {
+        "id": 130,
+        "eventShowDialogueId": 51,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "185"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "assetbundleName": "event_show_obt51_banner",
+    "showType": "ONCE",
+    "startAt": 1677567600000,
+    "endAt": 1678366799000,
+    "behaviors": [
+      {
+        "id": 128,
+        "eventShowDialogueId": 52,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "51"
+      },
+      {
+        "id": 131,
+        "eventShowDialogueId": 52,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "188"
+      }
+    ]
+  },
+  {
     "id": 1000,
     "assetbundleName": "jewel_show_150w",
     "showType": "ONCE",
@@ -1272,6 +1341,22 @@
     ]
   },
   {
+    "id": 1014,
+    "assetbundleName": "limitmission_show_luka2023",
+    "showType": "ONCE",
+    "startAt": 1674975600000,
+    "endAt": 1675861199000,
+    "behaviors": [
+      {
+        "id": 133,
+        "eventShowDialogueId": 1014,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10627"
+      }
+    ]
+  },
+  {
     "id": 2001,
     "assetbundleName": "event_show_livemissionpass_202210",
     "showType": "ONCE",
@@ -1326,6 +1411,21 @@
       {
         "id": 125,
         "eventShowDialogueId": 2004,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_live_mission_pass"
+      }
+    ]
+  },
+  {
+    "id": 2005,
+    "assetbundleName": "event_show_livemissionpass_202302",
+    "showType": "ONCE",
+    "startAt": 1675180800000,
+    "endAt": 1677599999000,
+    "behaviors": [
+      {
+        "id": 132,
+        "eventShowDialogueId": 2005,
         "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "billing_shop_for_live_mission_pass"
       }

@@ -2422,8 +2422,8 @@
         "resourceBoxId": 147,
         "costVirtualCoin": 300,
         "costJewel": 100,
-        "startAt": 1672470000000,
-        "endAt": 1673506799000,
+        "startAt": 1674284400000,
+        "endAt": 1674401399000,
         "limitValue": 10
       },
       {
@@ -2434,8 +2434,8 @@
         "resourceBoxId": 148,
         "costVirtualCoin": 1500,
         "costJewel": 500,
-        "startAt": 1672470000000,
-        "endAt": 1673506799000,
+        "startAt": 1674284400000,
+        "endAt": 1674401399000,
         "limitValue": 5
       }
     ],
@@ -2670,6 +2670,84 @@
     "virtualShopType": "birthday"
   },
   {
+    "id": 101,
+    "name": "第52回活動販售",
+    "virtualShopItems": [
+      {
+        "id": 202,
+        "virtualShopId": 101,
+        "virtualShopItemType": "penlight",
+        "seq": 199932,
+        "resourceBoxId": 160,
+        "costPaidJewel": 1000,
+        "startAt": 1678518000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 102,
+    "name": "白色情人節LIVE",
+    "virtualShopItems": [
+      {
+        "id": 203,
+        "virtualShopId": 102,
+        "virtualShopItemType": "accessory",
+        "seq": 99911,
+        "resourceBoxId": 161,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1678604400000,
+        "endAt": 1678949999000
+      },
+      {
+        "id": 204,
+        "virtualShopId": 102,
+        "virtualShopItemType": "coordinate",
+        "seq": 99910,
+        "resourceBoxId": 86,
+        "costPaidJewel": 1000,
+        "startAt": 1678604400000,
+        "endAt": 1678949999000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 103,
+    "name": "愛莉 生日",
+    "virtualShopItems": [
+      {
+        "id": 205,
+        "virtualShopId": 103,
+        "virtualShopItemType": "coordinate",
+        "seq": 99909,
+        "resourceBoxId": 87,
+        "costPaidJewel": 1000,
+        "startAt": 1679036400000,
+        "endAt": 1679295599000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 104,
+    "name": "第53回活動販售",
+    "virtualShopItems": [
+      {
+        "id": 206,
+        "virtualShopId": 104,
+        "virtualShopItemType": "accessory",
+        "seq": 199931,
+        "resourceBoxId": 162,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1679295600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
     "id": 1001,
     "name": "春节虚拟LIVE商品",
     "virtualShopItems": [
@@ -2705,17 +2783,6 @@
         "endAt": 1674975600000
       },
       {
-        "id": 10004,
-        "virtualShopId": 1001,
-        "virtualShopItemType": "penlight",
-        "seq": 1000004,
-        "resourceBoxId": 57,
-        "costVirtualCoin": 6000,
-        "costJewel": 2000,
-        "startAt": 1674284400000,
-        "endAt": 1674975600000
-      },
-      {
         "id": 10005,
         "virtualShopId": 1001,
         "virtualShopItemType": "accessory",
@@ -2737,10 +2804,20 @@
         "id": 10006,
         "virtualShopId": 1002,
         "virtualShopItemType": "coordinate",
-        "seq": 1000006,
+        "seq": 99902,
         "resourceBoxId": 10003,
         "costPaidJewel": 1000,
-        "startAt": 1674198000000,
+        "startAt": 1674284400000,
+        "endAt": 1674975600000
+      },
+      {
+        "id": 10007,
+        "virtualShopId": 1002,
+        "virtualShopItemType": "coordinate",
+        "seq": 99901,
+        "resourceBoxId": 10004,
+        "costPaidJewel": 1000,
+        "startAt": 1674284400000,
         "endAt": 1674975600000
       }
     ],
