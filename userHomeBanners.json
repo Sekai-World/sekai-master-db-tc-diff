@@ -48,24 +48,54 @@
     "endAt": 1675180799000
   },
   {
-    "homeBannerId": 338,
+    "homeBannerId": 343,
     "seq": 100,
     "homeBannerType": "event",
-    "assetbundleName": "event_nikkori_2022",
+    "assetbundleName": "event_tricolo_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 46,
-    "startAt": 1673506800000,
-    "endAt": 1674284399000
+    "transitionDestinationId": 47,
+    "startAt": 1674284400000,
+    "endAt": 1675148399000
   },
   {
-    "homeBannerId": 340,
+    "homeBannerId": 345,
     "seq": 110,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha171",
+    "assetbundleName": "banner_gacha173",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 171,
-    "startAt": 1673506800000,
-    "endAt": 1674284399000
+    "transitionDestinationId": 173,
+    "startAt": 1674284400000,
+    "endAt": 1675148399000
+  },
+  {
+    "homeBannerId": 346,
+    "seq": 120,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha174",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 174,
+    "startAt": 1674543600000,
+    "endAt": 1674997199000
+  },
+  {
+    "homeBannerId": 351,
+    "seq": 160,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive127",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 127,
+    "startAt": 1674630000000,
+    "endAt": 1674889199000
+  },
+  {
+    "homeBannerId": 359,
+    "seq": 80,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha179",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 179,
+    "startAt": 1674198000000,
+    "endAt": 1674802799000
   },
   {
     "homeBannerId": 10005,
