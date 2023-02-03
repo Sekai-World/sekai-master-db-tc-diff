@@ -20,44 +20,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 318,
-    "seq": 200,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_premiummissionpass_2022_01",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1673506800000,
-    "endAt": 1675180799000
-  },
-  {
-    "homeBannerId": 319,
-    "seq": 220,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_costume_resale_2022_01",
-    "transitionDestinationType": "billing_shop_for_costume_3d",
-    "startAt": 1672502400000,
-    "endAt": 1675180799000
-  },
-  {
-    "homeBannerId": 326,
-    "seq": 140,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha168",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 168,
-    "startAt": 1672516800000,
-    "endAt": 1675180799000
-  },
-  {
-    "homeBannerId": 348,
-    "seq": 135,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha175",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 175,
-    "startAt": 1675148400000,
-    "endAt": 1675353599000
-  },
-  {
     "homeBannerId": 350,
     "seq": 130,
     "homeBannerType": "general",
@@ -66,6 +28,24 @@
     "transitionDestinationId": 176,
     "startAt": 1675148400000,
     "endAt": 1675612799000
+  },
+  {
+    "homeBannerId": 353,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_premiummissionpass_2023_02",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1675180800000,
+    "endAt": 1677599999000
+  },
+  {
+    "homeBannerId": 355,
+    "seq": 220,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_costume_resale_2022_02",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1675180800000,
+    "endAt": 1677599999000
   },
   {
     "homeBannerId": 356,
