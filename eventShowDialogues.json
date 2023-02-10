@@ -1357,6 +1357,22 @@
     ]
   },
   {
+    "id": 1015,
+    "assetbundleName": "limitmission_show_kaito2023",
+    "showType": "ONCE",
+    "startAt": 1676530800000,
+    "endAt": 1677416399000,
+    "behaviors": [
+      {
+        "id": 134,
+        "eventShowDialogueId": 1015,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10648"
+      }
+    ]
+  },
+  {
     "id": 2001,
     "assetbundleName": "event_show_livemissionpass_202210",
     "showType": "ONCE",
