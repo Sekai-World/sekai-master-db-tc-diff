@@ -1104,6 +1104,75 @@
     ]
   },
   {
+    "id": 53,
+    "assetbundleName": "event_show_obt52_banner",
+    "showType": "ONCE",
+    "startAt": 1678518000000,
+    "endAt": 1679144399000,
+    "behaviors": [
+      {
+        "id": 135,
+        "eventShowDialogueId": 53,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "52"
+      },
+      {
+        "id": 138,
+        "eventShowDialogueId": 53,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "192"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "assetbundleName": "event_show_obt53_banner",
+    "showType": "ONCE",
+    "startAt": 1679295600000,
+    "endAt": 1680008399000,
+    "behaviors": [
+      {
+        "id": 136,
+        "eventShowDialogueId": 54,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "53"
+      },
+      {
+        "id": 139,
+        "eventShowDialogueId": 54,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "195"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "assetbundleName": "event_show_obt54_banner",
+    "showType": "ONCE",
+    "startAt": 1680159600000,
+    "endAt": 1681045199000,
+    "behaviors": [
+      {
+        "id": 137,
+        "eventShowDialogueId": 55,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "54"
+      },
+      {
+        "id": 140,
+        "eventShowDialogueId": 55,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "198"
+      }
+    ]
+  },
+  {
     "id": 1000,
     "assetbundleName": "jewel_show_150w",
     "showType": "ONCE",
