@@ -1,5 +1,18 @@
 [
   {
+    "id": 1009,
+    "virtualItemCategory": "normal",
+    "seq": 1170,
+    "priority": 1170,
+    "name": "2023生肖「兔」",
+    "assetbundleName": "event_new_year_2023_02",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_new_year_2023_02",
+    "effectExpressionType": "throw_effect"
+  },
+  {
     "id": 1,
     "virtualItemCategory": "normal",
     "seq": 10,
@@ -838,6 +851,19 @@
     "effectExpressionType": "throw_effect"
   },
   {
+    "id": 66,
+    "virtualItemCategory": "normal",
+    "seq": 660,
+    "priority": 660,
+    "name": "2020生肖「牛」",
+    "assetbundleName": "event_new_year_07",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_new_year_07",
+    "effectExpressionType": "throw_effect"
+  },
+  {
     "id": 67,
     "virtualItemCategory": "normal",
     "seq": 670,
@@ -1395,6 +1421,103 @@
     "gameCharacterUnitId": 14
   },
   {
+    "id": 107,
+    "virtualItemCategory": "normal",
+    "seq": 1070,
+    "priority": 1070,
+    "name": "1st ANNIVERSARY",
+    "assetbundleName": "event_anniversary_01",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_anniversary_01",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 108,
+    "virtualItemCategory": "normal",
+    "seq": 1080,
+    "priority": 1080,
+    "name": "紀念道具[虛擬歌手]",
+    "assetbundleName": "event_anniversary_02",
+    "costVirtualCoin": 1000,
+    "costJewel": 1000,
+    "cheerPoint": 1000,
+    "effectAssetbundleName": "event_anniversary_02",
+    "effectExpressionType": "throw_effect",
+    "unit": "piapro"
+  },
+  {
+    "id": 109,
+    "virtualItemCategory": "normal",
+    "seq": 1090,
+    "priority": 1090,
+    "name": "紀念道具[Leo\/need]",
+    "assetbundleName": "event_anniversary_03",
+    "costVirtualCoin": 1000,
+    "costJewel": 1000,
+    "cheerPoint": 1000,
+    "effectAssetbundleName": "event_anniversary_03",
+    "effectExpressionType": "throw_effect",
+    "unit": "light_sound"
+  },
+  {
+    "id": 110,
+    "virtualItemCategory": "normal",
+    "seq": 1100,
+    "priority": 1100,
+    "name": "紀念道具[MORE MORE JUMP！]",
+    "assetbundleName": "event_anniversary_04",
+    "costVirtualCoin": 1000,
+    "costJewel": 1000,
+    "cheerPoint": 1000,
+    "effectAssetbundleName": "event_anniversary_04",
+    "effectExpressionType": "throw_effect",
+    "unit": "idol"
+  },
+  {
+    "id": 111,
+    "virtualItemCategory": "normal",
+    "seq": 1110,
+    "priority": 1110,
+    "name": "紀念道具[Vivid BAD SQUAD]",
+    "assetbundleName": "event_anniversary_05",
+    "costVirtualCoin": 1000,
+    "costJewel": 1000,
+    "cheerPoint": 1000,
+    "effectAssetbundleName": "event_anniversary_05",
+    "effectExpressionType": "throw_effect",
+    "unit": "street"
+  },
+  {
+    "id": 112,
+    "virtualItemCategory": "normal",
+    "seq": 1120,
+    "priority": 1120,
+    "name": "紀念道具[Wonderlands×Showtime]",
+    "assetbundleName": "event_anniversary_06",
+    "costVirtualCoin": 1000,
+    "costJewel": 1000,
+    "cheerPoint": 1000,
+    "effectAssetbundleName": "event_anniversary_06",
+    "effectExpressionType": "throw_effect",
+    "unit": "theme_park"
+  },
+  {
+    "id": 113,
+    "virtualItemCategory": "normal",
+    "seq": 1130,
+    "priority": 1130,
+    "name": "紀念道具[25點，Nightcord見。]",
+    "assetbundleName": "event_anniversary_07",
+    "costVirtualCoin": 1000,
+    "costJewel": 1000,
+    "cheerPoint": 1000,
+    "effectAssetbundleName": "event_anniversary_07",
+    "effectExpressionType": "throw_effect",
+    "unit": "school_refusal"
+  },
+  {
     "id": 114,
     "virtualItemCategory": "normal",
     "seq": 1140,
@@ -1528,18 +1651,5 @@
     "effectAssetbundleName": "event_new_year_105",
     "effectExpressionType": "throw_effect",
     "gameCharacterUnitId": 17
-  },
-  {
-    "id": 1009,
-    "virtualItemCategory": "normal",
-    "seq": 1170,
-    "priority": 1170,
-    "name": "2023生肖「兔」",
-    "assetbundleName": "event_new_year_2023_02",
-    "costVirtualCoin": 1500,
-    "costJewel": 1500,
-    "cheerPoint": 1500,
-    "effectAssetbundleName": "event_new_year_2023_02",
-    "effectExpressionType": "throw_effect"
   }
 ]

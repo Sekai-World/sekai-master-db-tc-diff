@@ -41,7 +41,7 @@
   },
   {
     "id": 2,
-    "seq": 240,
+    "seq": 260,
     "groupId": 1,
     "honorRarity": "middle",
     "name": "一歌粉絲",
@@ -3069,7 +3069,7 @@
         "honorId": 133,
         "level": 1,
         "bonus": 10,
-        "description": "在「多人LIVE」中，5個人使用相同的稱號吧。"
+        "description": "在「多人LIVE、Cheerful LIVE」中，5個人使用相同的稱號吧。"
       }
     ]
   },
@@ -3085,7 +3085,7 @@
         "honorId": 134,
         "level": 1,
         "bonus": 10,
-        "description": "在「多人LIVE」中使用1000次貼圖吧。"
+        "description": "在「多人LIVE、Cheerful LIVE」中使用1000次貼圖吧。"
       }
     ]
   },
@@ -4091,7 +4091,7 @@
   },
   {
     "id": 222,
-    "seq": 2021,
+    "seq": 2020,
     "groupId": 76,
     "honorRarity": "low",
     "name": "25點，Nightcord見。應援隊",
@@ -11863,7 +11863,7 @@
   },
   {
     "id": 724,
-    "seq": 102021,
+    "seq": 102020,
     "groupId": 133,
     "honorRarity": "low",
     "name": "TOP20000",
@@ -14150,22 +14150,6 @@
     ]
   },
   {
-    "id": 873,
-    "seq": 102624,
-    "groupId": 140,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 873,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「康乃馨回憶 」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 874,
     "seq": 200006,
     "groupId": 141,
@@ -14550,22 +14534,6 @@
     ]
   },
   {
-    "id": 898,
-    "seq": 114224,
-    "groupId": 142,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 898,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「Unnamed Harmony 」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 899,
     "seq": 114301,
     "groupId": 143,
@@ -14930,22 +14898,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「Awakening Beat 」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 922,
-    "seq": 114324,
-    "groupId": 143,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 922,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「Awakening Beat 」中拿下前100000名吧。"
       }
     ]
   },
@@ -15318,22 +15270,6 @@
     ]
   },
   {
-    "id": 946,
-    "seq": 114424,
-    "groupId": 144,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 946,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「夏日慶典，那響徹雲霄的聲音」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 947,
     "seq": 114501,
     "groupId": 145,
@@ -15698,22 +15634,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「一定是最棒的summer！」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 970,
-    "seq": 114524,
-    "groupId": 145,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 970,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「一定是最棒的summer！」中拿下前100000名吧。"
       }
     ]
   },
@@ -16086,22 +16006,6 @@
     ]
   },
   {
-    "id": 994,
-    "seq": 114624,
-    "groupId": 146,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 994,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「Happy lovely everyday!」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 995,
     "seq": 114701,
     "groupId": 147,
@@ -16466,22 +16370,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「對美人魚充滿憧憬」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 1018,
-    "seq": 114724,
-    "groupId": 147,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1018,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「對美人魚充滿憧憬」中拿下前100000名吧。"
       }
     ]
   },
@@ -16854,22 +16742,6 @@
     ]
   },
   {
-    "id": 1042,
-    "seq": 114824,
-    "groupId": 148,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1042,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「兩人與月兔」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1043,
     "seq": 114901,
     "groupId": 149,
@@ -17238,22 +17110,6 @@
     ]
   },
   {
-    "id": 1066,
-    "seq": 114924,
-    "groupId": 149,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1066,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「Knock the Future!!」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1067,
     "seq": 115001,
     "groupId": 150,
@@ -17618,22 +17474,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「光之幻影」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 1090,
-    "seq": 115024,
-    "groupId": 150,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1090,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「光之幻影」中拿下前100000名吧。"
       }
     ]
   },
@@ -18022,22 +17862,6 @@
     ]
   },
   {
-    "id": 1115,
-    "seq": 115124,
-    "groupId": 152,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1115,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「混亂的粉絲感謝祭！」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1118,
     "seq": 13500,
     "groupId": 155,
@@ -18375,7 +18199,7 @@
   },
   {
     "id": 1149,
-    "seq": 183101,
+    "seq": 118301,
     "groupId": 183,
     "honorRarity": "highest",
     "name": "第1名",
@@ -18391,7 +18215,7 @@
   },
   {
     "id": 1150,
-    "seq": 183102,
+    "seq": 118302,
     "groupId": 183,
     "honorRarity": "highest",
     "name": "第2名",
@@ -18407,7 +18231,7 @@
   },
   {
     "id": 1151,
-    "seq": 183103,
+    "seq": 118303,
     "groupId": 183,
     "honorRarity": "highest",
     "name": "第3名",
@@ -18423,7 +18247,7 @@
   },
   {
     "id": 1152,
-    "seq": 183104,
+    "seq": 118304,
     "groupId": 183,
     "honorRarity": "highest",
     "name": "TOP10",
@@ -18439,7 +18263,7 @@
   },
   {
     "id": 1153,
-    "seq": 183105,
+    "seq": 118305,
     "groupId": 183,
     "honorRarity": "high",
     "name": "TOP20",
@@ -18455,7 +18279,7 @@
   },
   {
     "id": 1154,
-    "seq": 183106,
+    "seq": 118306,
     "groupId": 183,
     "honorRarity": "high",
     "name": "TOP30",
@@ -18471,7 +18295,7 @@
   },
   {
     "id": 1155,
-    "seq": 183107,
+    "seq": 118307,
     "groupId": 183,
     "honorRarity": "high",
     "name": "TOP40",
@@ -18487,7 +18311,7 @@
   },
   {
     "id": 1156,
-    "seq": 183108,
+    "seq": 118308,
     "groupId": 183,
     "honorRarity": "high",
     "name": "TOP50",
@@ -18503,7 +18327,7 @@
   },
   {
     "id": 1157,
-    "seq": 183109,
+    "seq": 118309,
     "groupId": 183,
     "honorRarity": "high",
     "name": "TOP100",
@@ -18519,7 +18343,7 @@
   },
   {
     "id": 1158,
-    "seq": 183110,
+    "seq": 118310,
     "groupId": 183,
     "honorRarity": "high",
     "name": "TOP200",
@@ -18535,7 +18359,7 @@
   },
   {
     "id": 1159,
-    "seq": 183111,
+    "seq": 118311,
     "groupId": 183,
     "honorRarity": "high",
     "name": "TOP300",
@@ -18551,7 +18375,7 @@
   },
   {
     "id": 1160,
-    "seq": 183112,
+    "seq": 118312,
     "groupId": 183,
     "honorRarity": "high",
     "name": "TOP400",
@@ -18567,7 +18391,7 @@
   },
   {
     "id": 1161,
-    "seq": 183113,
+    "seq": 118313,
     "groupId": 183,
     "honorRarity": "high",
     "name": "TOP500",
@@ -18583,7 +18407,7 @@
   },
   {
     "id": 1162,
-    "seq": 183114,
+    "seq": 118314,
     "groupId": 183,
     "honorRarity": "high",
     "name": "TOP1000",
@@ -18599,7 +18423,7 @@
   },
   {
     "id": 1163,
-    "seq": 183115,
+    "seq": 118315,
     "groupId": 183,
     "honorRarity": "middle",
     "name": "TOP2000",
@@ -18615,7 +18439,7 @@
   },
   {
     "id": 1164,
-    "seq": 183116,
+    "seq": 118316,
     "groupId": 183,
     "honorRarity": "middle",
     "name": "TOP3000",
@@ -18631,7 +18455,7 @@
   },
   {
     "id": 1165,
-    "seq": 183117,
+    "seq": 118317,
     "groupId": 183,
     "honorRarity": "middle",
     "name": "TOP4000",
@@ -18647,7 +18471,7 @@
   },
   {
     "id": 1166,
-    "seq": 183118,
+    "seq": 118318,
     "groupId": 183,
     "honorRarity": "middle",
     "name": "TOP5000",
@@ -18663,7 +18487,7 @@
   },
   {
     "id": 1167,
-    "seq": 183119,
+    "seq": 118319,
     "groupId": 183,
     "honorRarity": "middle",
     "name": "TOP10000",
@@ -18679,7 +18503,7 @@
   },
   {
     "id": 1168,
-    "seq": 183120,
+    "seq": 118320,
     "groupId": 183,
     "honorRarity": "low",
     "name": "TOP20000",
@@ -18695,7 +18519,7 @@
   },
   {
     "id": 1169,
-    "seq": 183121,
+    "seq": 118321,
     "groupId": 183,
     "honorRarity": "low",
     "name": "TOP30000",
@@ -18711,7 +18535,7 @@
   },
   {
     "id": 1170,
-    "seq": 183122,
+    "seq": 118322,
     "groupId": 183,
     "honorRarity": "low",
     "name": "TOP40000",
@@ -18727,7 +18551,7 @@
   },
   {
     "id": 1171,
-    "seq": 183123,
+    "seq": 118323,
     "groupId": 183,
     "honorRarity": "low",
     "name": "TOP50000",
@@ -18738,22 +18562,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「Bout for Beside You」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 1172,
-    "seq": 183124,
-    "groupId": 183,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1172,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「Bout for Beside You」中拿下前100000名吧。"
       }
     ]
   },
@@ -19126,22 +18934,6 @@
     ]
   },
   {
-    "id": 1196,
-    "seq": 118424,
-    "groupId": 184,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1196,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「Revival my dream」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1197,
     "seq": 118501,
     "groupId": 185,
@@ -19506,22 +19298,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「我的腳印 妳的目的地」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 1220,
-    "seq": 118524,
-    "groupId": 185,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1220,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「我的腳印 妳的目的地」中拿下前100000名吧。"
       }
     ]
   },
@@ -19894,22 +19670,6 @@
     ]
   },
   {
-    "id": 1244,
-    "seq": 118624,
-    "groupId": 186,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1244,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「不會動搖的想法，此刻用話語傳達」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1245,
     "seq": 118701,
     "groupId": 187,
@@ -20274,22 +20034,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「Buddy Funny Spend Time♪」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 1268,
-    "seq": 118724,
-    "groupId": 187,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1268,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「Buddy Funny Spend Time♪」中拿下前100000名吧。"
       }
     ]
   },
@@ -20662,22 +20406,6 @@
     ]
   },
   {
-    "id": 1292,
-    "seq": 118824,
-    "groupId": 188,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1292,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「交錯的旋律 點亮的溫暖」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1293,
     "seq": 118901,
     "groupId": 189,
@@ -21046,22 +20774,6 @@
     ]
   },
   {
-    "id": 1316,
-    "seq": 118924,
-    "groupId": 189,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1316,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「MOREMOREMakingXmas」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1317,
     "seq": 119001,
     "groupId": 190,
@@ -21426,22 +21138,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「Same Dreams,Same Colors」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 1340,
-    "seq": 119024,
-    "groupId": 190,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1340,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「Same Dreams,Same Colors」中拿下前100000名吧。"
       }
     ]
   },
@@ -21846,22 +21542,6 @@
     ]
   },
   {
-    "id": 1366,
-    "seq": 119324,
-    "groupId": 193,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1366,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「祈願的盡頭 期望的明天」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1367,
     "seq": 119401,
     "groupId": 194,
@@ -22226,22 +21906,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「POP IN MY HEART!!」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 1390,
-    "seq": 119424,
-    "groupId": 194,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1390,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「POP IN MY HEART!!」中拿下前100000名吧。"
       }
     ]
   },
@@ -22614,22 +22278,6 @@
     ]
   },
   {
-    "id": 1414,
-    "seq": 119524,
-    "groupId": 195,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1414,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「總有一天，會從絕望的深淵」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1415,
     "seq": 119601,
     "groupId": 196,
@@ -22998,22 +22646,6 @@
     ]
   },
   {
-    "id": 1438,
-    "seq": 119624,
-    "groupId": 196,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1438,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「秘密♡情人節大作戰！」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1439,
     "seq": 119701,
     "groupId": 197,
@@ -23378,22 +23010,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「Legend still vivid」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 1462,
-    "seq": 119724,
-    "groupId": 197,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1462,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「Legend still vivid」中拿下前100000名吧。"
       }
     ]
   },
@@ -23782,22 +23398,6 @@
     ]
   },
   {
-    "id": 1487,
-    "seq": 119924,
-    "groupId": 199,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1487,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「那一日，天空很遙遠」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1488,
     "seq": 120001,
     "groupId": 200,
@@ -24166,22 +23766,6 @@
     ]
   },
   {
-    "id": 1511,
-    "seq": 120024,
-    "groupId": 200,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1511,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「怪盜紳士的緊張刺激！？白色情人節」中拿下前100000名吧。"
-      }
-    ]
-  },
-  {
     "id": 1512,
     "seq": 120101,
     "groupId": 201,
@@ -24546,22 +24130,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「Cast Spell on You」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 1535,
-    "seq": 120124,
-    "groupId": 201,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1535,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「Cast Spell on You」中拿下前100000名吧。"
       }
     ]
   },
@@ -24946,22 +24514,6 @@
         "level": 1,
         "bonus": 0,
         "description": "在活動「在空白畫布作畫的我」中拿下前50000名吧。"
-      }
-    ]
-  },
-  {
-    "id": 1560,
-    "seq": 120324,
-    "groupId": 203,
-    "honorRarity": "low",
-    "name": "TOP100000",
-    "assetbundleName": "honor_top_100000",
-    "levels": [
-      {
-        "honorId": 1560,
-        "level": 1,
-        "bonus": 0,
-        "description": "在活動「在空白畫布作畫的我」中拿下前100000名吧。"
       }
     ]
   },
