@@ -279,19 +279,6 @@
     },
     "virtualItems": [
       {
-        "id": 1,
-        "virtualItemCategory": "normal",
-        "seq": 10,
-        "priority": 10,
-        "name": "彩色紙片",
-        "assetbundleName": "cracker_001",
-        "costVirtualCoin": 100,
-        "costJewel": 100,
-        "cheerPoint": 100,
-        "effectAssetbundleName": "cracker_001",
-        "effectExpressionType": "throw_effect"
-      },
-      {
         "id": 2,
         "virtualItemCategory": "normal",
         "seq": 20,
@@ -17387,160 +17374,6 @@
         "virtualItemLabelType": "special"
       },
       {
-        "id": 114,
-        "virtualItemCategory": "normal",
-        "seq": 1140,
-        "priority": 1140,
-        "name": "HAPPY NEW YEAR 2022",
-        "assetbundleName": "event_new_year_2022_01",
-        "costVirtualCoin": 1000,
-        "costJewel": 1000,
-        "cheerPoint": 1000,
-        "effectAssetbundleName": "event_new_year_2022_01",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 114,
-        "virtualItemCategory": "normal",
-        "seq": 1140,
-        "priority": 1140,
-        "name": "HAPPY NEW YEAR 2022",
-        "assetbundleName": "event_new_year_2022_01",
-        "costVirtualCoin": 1000,
-        "costJewel": 1000,
-        "cheerPoint": 1000,
-        "effectAssetbundleName": "event_new_year_2022_01",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 115,
-        "virtualItemCategory": "normal",
-        "seq": 1150,
-        "priority": 1150,
-        "name": "2022生肖「虎」",
-        "assetbundleName": "event_new_year_2022_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2022_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 114,
-        "virtualItemCategory": "normal",
-        "seq": 1140,
-        "priority": 1140,
-        "name": "HAPPY NEW YEAR 2022",
-        "assetbundleName": "event_new_year_2022_01",
-        "costVirtualCoin": 1000,
-        "costJewel": 1000,
-        "cheerPoint": 1000,
-        "effectAssetbundleName": "event_new_year_2022_01",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 115,
-        "virtualItemCategory": "normal",
-        "seq": 1150,
-        "priority": 1150,
-        "name": "2022生肖「虎」",
-        "assetbundleName": "event_new_year_2022_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2022_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 114,
-        "virtualItemCategory": "normal",
-        "seq": 1140,
-        "priority": 1140,
-        "name": "HAPPY NEW YEAR 2022",
-        "assetbundleName": "event_new_year_2022_01",
-        "costVirtualCoin": 1000,
-        "costJewel": 1000,
-        "cheerPoint": 1000,
-        "effectAssetbundleName": "event_new_year_2022_01",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 115,
-        "virtualItemCategory": "normal",
-        "seq": 1150,
-        "priority": 1150,
-        "name": "2022生肖「虎」",
-        "assetbundleName": "event_new_year_2022_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2022_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 114,
-        "virtualItemCategory": "normal",
-        "seq": 1140,
-        "priority": 1140,
-        "name": "HAPPY NEW YEAR 2022",
-        "assetbundleName": "event_new_year_2022_01",
-        "costVirtualCoin": 1000,
-        "costJewel": 1000,
-        "cheerPoint": 1000,
-        "effectAssetbundleName": "event_new_year_2022_01",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 115,
-        "virtualItemCategory": "normal",
-        "seq": 1150,
-        "priority": 1150,
-        "name": "2022生肖「虎」",
-        "assetbundleName": "event_new_year_2022_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2022_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 114,
-        "virtualItemCategory": "normal",
-        "seq": 1140,
-        "priority": 1140,
-        "name": "HAPPY NEW YEAR 2022",
-        "assetbundleName": "event_new_year_2022_01",
-        "costVirtualCoin": 1000,
-        "costJewel": 1000,
-        "cheerPoint": 1000,
-        "effectAssetbundleName": "event_new_year_2022_01",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 115,
-        "virtualItemCategory": "normal",
-        "seq": 1150,
-        "priority": 1150,
-        "name": "2022生肖「虎」",
-        "assetbundleName": "event_new_year_2022_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2022_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
         "id": 1001,
         "virtualItemCategory": "normal",
         "seq": 1140,
@@ -18326,6 +18159,20 @@
         "virtualItemLabelType": "special"
       },
       {
+        "id": 66,
+        "virtualItemCategory": "normal",
+        "seq": 660,
+        "priority": 660,
+        "name": "2020生肖「牛」",
+        "assetbundleName": "event_new_year_07",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_new_year_07",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
         "id": 1001,
         "virtualItemCategory": "normal",
         "seq": 1140,
@@ -19105,6 +18952,20 @@
         "costJewel": 1000,
         "cheerPoint": 1000,
         "effectAssetbundleName": "event_new_year_06",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 66,
+        "virtualItemCategory": "normal",
+        "seq": 660,
+        "priority": 660,
+        "name": "2020生肖「牛」",
+        "assetbundleName": "event_new_year_07",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_new_year_07",
         "effectExpressionType": "throw_effect",
         "virtualItemLabelType": "special"
       },
@@ -19895,6 +19756,20 @@
         "costJewel": 1000,
         "cheerPoint": 1000,
         "effectAssetbundleName": "event_new_year_06",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 66,
+        "virtualItemCategory": "normal",
+        "seq": 660,
+        "priority": 660,
+        "name": "2020生肖「牛」",
+        "assetbundleName": "event_new_year_07",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_new_year_07",
         "effectExpressionType": "throw_effect",
         "virtualItemLabelType": "special"
       },
@@ -20693,6 +20568,20 @@
         "virtualItemLabelType": "special"
       },
       {
+        "id": 66,
+        "virtualItemCategory": "normal",
+        "seq": 660,
+        "priority": 660,
+        "name": "2020生肖「牛」",
+        "assetbundleName": "event_new_year_07",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_new_year_07",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
         "id": 1001,
         "virtualItemCategory": "normal",
         "seq": 1140,
@@ -21469,6 +21358,20 @@
         "costJewel": 1000,
         "cheerPoint": 1000,
         "effectAssetbundleName": "event_new_year_06",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 66,
+        "virtualItemCategory": "normal",
+        "seq": 660,
+        "priority": 660,
+        "name": "2020生肖「牛」",
+        "assetbundleName": "event_new_year_07",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_new_year_07",
         "effectExpressionType": "throw_effect",
         "virtualItemLabelType": "special"
       },
@@ -45133,7 +45036,7 @@
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",
     "seq": 90,
-    "name": "七夕2022 LIVE",
+    "name": "七夕2021 LIVE",
     "assetbundleName": "vlentrance_00082",
     "screenMvMusicVocalId": 12,
     "startAt": 1659423600000,
@@ -58978,6 +58881,110 @@
     },
     "virtualItems": [
       {
+        "id": 107,
+        "virtualItemCategory": "normal",
+        "seq": 1070,
+        "priority": 1070,
+        "name": "1st ANNIVERSARY",
+        "assetbundleName": "event_anniversary_01",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_anniversary_01",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 108,
+        "virtualItemCategory": "normal",
+        "seq": 1080,
+        "priority": 1080,
+        "name": "紀念道具[虛擬歌手]",
+        "assetbundleName": "event_anniversary_02",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_anniversary_02",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special",
+        "unit": "piapro"
+      },
+      {
+        "id": 109,
+        "virtualItemCategory": "normal",
+        "seq": 1090,
+        "priority": 1090,
+        "name": "紀念道具[Leo\/need]",
+        "assetbundleName": "event_anniversary_03",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_anniversary_03",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special",
+        "unit": "light_sound"
+      },
+      {
+        "id": 110,
+        "virtualItemCategory": "normal",
+        "seq": 1100,
+        "priority": 1100,
+        "name": "紀念道具[MORE MORE JUMP！]",
+        "assetbundleName": "event_anniversary_04",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_anniversary_04",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special",
+        "unit": "idol"
+      },
+      {
+        "id": 111,
+        "virtualItemCategory": "normal",
+        "seq": 1110,
+        "priority": 1110,
+        "name": "紀念道具[Vivid BAD SQUAD]",
+        "assetbundleName": "event_anniversary_05",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_anniversary_05",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special",
+        "unit": "street"
+      },
+      {
+        "id": 112,
+        "virtualItemCategory": "normal",
+        "seq": 1120,
+        "priority": 1120,
+        "name": "紀念道具[Wonderlands×Showtime]",
+        "assetbundleName": "event_anniversary_06",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_anniversary_06",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special",
+        "unit": "theme_park"
+      },
+      {
+        "id": 113,
+        "virtualItemCategory": "normal",
+        "seq": 1130,
+        "priority": 1130,
+        "name": "紀念道具[25點，Nightcord見。]",
+        "assetbundleName": "event_anniversary_07",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_anniversary_07",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special",
+        "unit": "school_refusal"
+      },
+      {
         "id": 1,
         "virtualItemCategory": "normal",
         "seq": 10,
@@ -64557,7 +64564,7 @@
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",
     "seq": 110,
-    "name": "萬聖節2022 LIVE",
+    "name": "萬聖節2021 LIVE",
     "assetbundleName": "vlentrance_00103",
     "screenMvMusicVocalId": 336,
     "startAt": 1667026800000,
@@ -70631,12 +70638,6 @@
     ],
     "virtualLiveCharacters": [
       {
-        "gameCharacterUnitId": 27
-      },
-      {
-        "gameCharacterUnitId": 31
-      },
-      {
         "gameCharacterUnitId": 1
       },
       {
@@ -70653,6 +70654,12 @@
       },
       {
         "gameCharacterUnitId": 18
+      },
+      {
+        "gameCharacterUnitId": 27
+      },
+      {
+        "gameCharacterUnitId": 31
       }
     ],
     "virtualLiveRewards": [
@@ -74675,7 +74682,7 @@
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",
     "seq": 120,
-    "name": "聖誕節2022 LIVE",
+    "name": "聖誕節2021 LIVE",
     "assetbundleName": "vlentrance_00113",
     "screenMvMusicVocalId": 34,
     "startAt": 1671692400000,
@@ -77267,7 +77274,7 @@
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",
     "seq": 100,
-    "name": "跨年倒數2023 LIVE",
+    "name": "跨年倒數2022 LIVE",
     "assetbundleName": "vlentrance_00117",
     "screenMvMusicVocalId": 8,
     "startAt": 1674284400000,
@@ -77417,7 +77424,7 @@
         "virtualLiveId": 117,
         "seq": 11,
         "startAt": 1674399600000,
-        "endAt": 1674400559000
+        "endAt": 1674401399000
       }
     ],
     "virtualLiveCharacters": [
@@ -77535,6 +77542,20 @@
         "costJewel": 100,
         "cheerPoint": 100,
         "effectAssetbundleName": "event_new_year_05",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 114,
+        "virtualItemCategory": "normal",
+        "seq": 1140,
+        "priority": 1140,
+        "name": "HAPPY NEW YEAR 2022",
+        "assetbundleName": "event_new_year_2022_01",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_new_year_2022_01",
         "effectExpressionType": "throw_effect",
         "virtualItemLabelType": "special"
       },
@@ -78171,20 +78192,6 @@
         "costJewel": 1000,
         "cheerPoint": 1000,
         "effectAssetbundleName": "event_new_year_2022_01",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 1009,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023生肖「兔」",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
         "effectExpressionType": "throw_effect",
         "virtualItemLabelType": "special"
       }
@@ -79353,7 +79360,7 @@
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",
     "seq": 110,
-    "name": "HAPPY NEW YEAR 2023 LIVE Leo\/need",
+    "name": "HAPPY NEW YEAR 2022 LIVE Leo\/need",
     "assetbundleName": "vlentrance_00119",
     "screenMvMusicVocalId": 243,
     "startAt": 1674284400000,
@@ -79416,78 +79423,78 @@
         "id": 1908,
         "virtualLiveId": 119,
         "seq": 1,
-        "startAt": 1674360000000,
-        "endAt": 1674360780000
+        "startAt": 1674273600000,
+        "endAt": 1674274380000
       },
       {
         "id": 1909,
         "virtualLiveId": 119,
         "seq": 2,
-        "startAt": 1674381600000,
-        "endAt": 1674382380000
+        "startAt": 1674295200000,
+        "endAt": 1674295980000
       },
       {
         "id": 1910,
         "virtualLiveId": 119,
         "seq": 3,
-        "startAt": 1674385200000,
-        "endAt": 1674385980000
+        "startAt": 1674298800000,
+        "endAt": 1674299580000
       },
       {
         "id": 1911,
         "virtualLiveId": 119,
         "seq": 4,
-        "startAt": 1674388800000,
-        "endAt": 1674389580000
+        "startAt": 1674302400000,
+        "endAt": 1674303180000
       },
       {
         "id": 1912,
         "virtualLiveId": 119,
         "seq": 5,
-        "startAt": 1674392400000,
-        "endAt": 1674393180000
+        "startAt": 1674306000000,
+        "endAt": 1674306780000
       },
       {
         "id": 1913,
         "virtualLiveId": 119,
         "seq": 6,
-        "startAt": 1674396000000,
-        "endAt": 1674396780000
+        "startAt": 1674309600000,
+        "endAt": 1674310380000
       },
       {
         "id": 1914,
         "virtualLiveId": 119,
         "seq": 7,
-        "startAt": 1674399600000,
-        "endAt": 1674400380000
+        "startAt": 1674313200000,
+        "endAt": 1674313980000
       },
       {
         "id": 1915,
         "virtualLiveId": 119,
         "seq": 8,
-        "startAt": 1674403200000,
-        "endAt": 1674403980000
+        "startAt": 1674316800000,
+        "endAt": 1674317580000
       },
       {
         "id": 1916,
         "virtualLiveId": 119,
         "seq": 9,
-        "startAt": 1674406800000,
-        "endAt": 1674407580000
+        "startAt": 1674320400000,
+        "endAt": 1674321180000
       },
       {
         "id": 1917,
         "virtualLiveId": 119,
         "seq": 10,
-        "startAt": 1674410400000,
-        "endAt": 1674411180000
+        "startAt": 1674324000000,
+        "endAt": 1674324780000
       },
       {
         "id": 1918,
         "virtualLiveId": 119,
         "seq": 11,
-        "startAt": 1674432000000,
-        "endAt": 1674432780000
+        "startAt": 1674345600000,
+        "endAt": 1674346380000
       }
     ],
     "virtualLiveCharacters": [
@@ -79535,6 +79542,34 @@
       "endAt": 1674433799000
     },
     "virtualItems": [
+      {
+        "id": 114,
+        "virtualItemCategory": "normal",
+        "seq": 1140,
+        "priority": 1140,
+        "name": "HAPPY NEW YEAR 2022",
+        "assetbundleName": "event_new_year_2022_01",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_new_year_2022_01",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 115,
+        "virtualItemCategory": "normal",
+        "seq": 1150,
+        "priority": 1150,
+        "name": "2022生肖「虎」",
+        "assetbundleName": "event_new_year_2022_02",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_new_year_2022_02",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
       {
         "id": 1,
         "virtualItemCategory": "normal",
@@ -80170,20 +80205,6 @@
         "effectAssetbundleName": "event_new_year_2022_01",
         "effectExpressionType": "throw_effect",
         "virtualItemLabelType": "special"
-      },
-      {
-        "id": 1009,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023生肖「兔」",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
       }
     ],
     "virtualLiveAppeals": [],
@@ -80194,7 +80215,7 @@
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",
     "seq": 120,
-    "name": "HAPPY NEW YEAR 2023 LIVE MORE MORE JUMP！",
+    "name": "HAPPY NEW YEAR 2022 LIVE MORE MORE JUMP！",
     "assetbundleName": "vlentrance_00120",
     "screenMvMusicVocalId": 12,
     "startAt": 1674370800000,
@@ -80257,78 +80278,78 @@
         "id": 1919,
         "virtualLiveId": 120,
         "seq": 1,
-        "startAt": 1674446400000,
-        "endAt": 1674447084000
+        "startAt": 1674360000000,
+        "endAt": 1674360684000
       },
       {
         "id": 1920,
         "virtualLiveId": 120,
         "seq": 2,
-        "startAt": 1674468000000,
-        "endAt": 1674468684000
+        "startAt": 1674381600000,
+        "endAt": 1674382284000
       },
       {
         "id": 1921,
         "virtualLiveId": 120,
         "seq": 3,
-        "startAt": 1674471600000,
-        "endAt": 1674472284000
+        "startAt": 1674385200000,
+        "endAt": 1674385884000
       },
       {
         "id": 1922,
         "virtualLiveId": 120,
         "seq": 4,
-        "startAt": 1674475200000,
-        "endAt": 1674475884000
+        "startAt": 1674388800000,
+        "endAt": 1674389484000
       },
       {
         "id": 1923,
         "virtualLiveId": 120,
         "seq": 5,
-        "startAt": 1674478800000,
-        "endAt": 1674479484000
+        "startAt": 1674392400000,
+        "endAt": 1674393084000
       },
       {
         "id": 1924,
         "virtualLiveId": 120,
         "seq": 6,
-        "startAt": 1674482400000,
-        "endAt": 1674483084000
+        "startAt": 1674396000000,
+        "endAt": 1674396684000
       },
       {
         "id": 1925,
         "virtualLiveId": 120,
         "seq": 7,
-        "startAt": 1674486000000,
-        "endAt": 1674486684000
+        "startAt": 1674399600000,
+        "endAt": 1674400284000
       },
       {
         "id": 1926,
         "virtualLiveId": 120,
         "seq": 8,
-        "startAt": 1674489600000,
-        "endAt": 1674490284000
+        "startAt": 1674403200000,
+        "endAt": 1674403884000
       },
       {
         "id": 1927,
         "virtualLiveId": 120,
         "seq": 9,
-        "startAt": 1674493200000,
-        "endAt": 1674493884000
+        "startAt": 1674406800000,
+        "endAt": 1674407484000
       },
       {
         "id": 1928,
         "virtualLiveId": 120,
         "seq": 10,
-        "startAt": 1674496800000,
-        "endAt": 1674497484000
+        "startAt": 1674410400000,
+        "endAt": 1674411084000
       },
       {
         "id": 1929,
         "virtualLiveId": 120,
         "seq": 11,
-        "startAt": 1674518400000,
-        "endAt": 1674519084000
+        "startAt": 1674432000000,
+        "endAt": 1674432684000
       }
     ],
     "virtualLiveCharacters": [
@@ -80376,6 +80397,34 @@
       "endAt": 1674520199000
     },
     "virtualItems": [
+      {
+        "id": 114,
+        "virtualItemCategory": "normal",
+        "seq": 1140,
+        "priority": 1140,
+        "name": "HAPPY NEW YEAR 2022",
+        "assetbundleName": "event_new_year_2022_01",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_new_year_2022_01",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 115,
+        "virtualItemCategory": "normal",
+        "seq": 1150,
+        "priority": 1150,
+        "name": "2022生肖「虎」",
+        "assetbundleName": "event_new_year_2022_02",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_new_year_2022_02",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
       {
         "id": 1,
         "virtualItemCategory": "normal",
@@ -81011,20 +81060,6 @@
         "effectAssetbundleName": "event_new_year_2022_01",
         "effectExpressionType": "throw_effect",
         "virtualItemLabelType": "special"
-      },
-      {
-        "id": 1009,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023生肖「兔」",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
       }
     ],
     "virtualLiveAppeals": [],
@@ -81035,7 +81070,7 @@
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",
     "seq": 130,
-    "name": "HAPPY NEW YEAR 2023 LIVE Vivid BAD SQUAD",
+    "name": "HAPPY NEW YEAR 2022 LIVE Vivid BAD SQUAD",
     "assetbundleName": "vlentrance_00121",
     "screenMvMusicVocalId": 336,
     "startAt": 1674457200000,
@@ -81097,78 +81132,78 @@
         "id": 1930,
         "virtualLiveId": 121,
         "seq": 1,
-        "startAt": 1674532800000,
-        "endAt": 1674533505000
+        "startAt": 1674446400000,
+        "endAt": 1674447105000
       },
       {
         "id": 1931,
         "virtualLiveId": 121,
         "seq": 2,
-        "startAt": 1674554400000,
-        "endAt": 1674555105000
+        "startAt": 1674468000000,
+        "endAt": 1674468705000
       },
       {
         "id": 1932,
         "virtualLiveId": 121,
         "seq": 3,
-        "startAt": 1674558000000,
-        "endAt": 1674558705000
+        "startAt": 1674471600000,
+        "endAt": 1674472305000
       },
       {
         "id": 1933,
         "virtualLiveId": 121,
         "seq": 4,
-        "startAt": 1674561600000,
-        "endAt": 1674562305000
+        "startAt": 1674475200000,
+        "endAt": 1674475905000
       },
       {
         "id": 1934,
         "virtualLiveId": 121,
         "seq": 5,
-        "startAt": 1674565200000,
-        "endAt": 1674565905000
+        "startAt": 1674478800000,
+        "endAt": 1674479505000
       },
       {
         "id": 1935,
         "virtualLiveId": 121,
         "seq": 6,
-        "startAt": 1674568800000,
-        "endAt": 1674569505000
+        "startAt": 1674482400000,
+        "endAt": 1674483105000
       },
       {
         "id": 1936,
         "virtualLiveId": 121,
         "seq": 7,
-        "startAt": 1674572400000,
-        "endAt": 1674573105000
+        "startAt": 1674486000000,
+        "endAt": 1674486705000
       },
       {
         "id": 1937,
         "virtualLiveId": 121,
         "seq": 8,
-        "startAt": 1674576000000,
-        "endAt": 1674576705000
+        "startAt": 1674489600000,
+        "endAt": 1674490305000
       },
       {
         "id": 1938,
         "virtualLiveId": 121,
         "seq": 9,
-        "startAt": 1674579600000,
-        "endAt": 1674580305000
+        "startAt": 1674493200000,
+        "endAt": 1674493905000
       },
       {
         "id": 1939,
         "virtualLiveId": 121,
         "seq": 10,
-        "startAt": 1674583200000,
-        "endAt": 1674583905000
+        "startAt": 1674496800000,
+        "endAt": 1674497505000
       },
       {
         "id": 1940,
         "virtualLiveId": 121,
         "seq": 11,
-        "startAt": 1674604800000,
-        "endAt": 1674605505000
+        "startAt": 1674518400000,
+        "endAt": 1674519105000
       }
     ],
     "virtualLiveCharacters": [
@@ -81216,6 +81251,34 @@
       "endAt": 1674606599000
     },
     "virtualItems": [
+      {
+        "id": 114,
+        "virtualItemCategory": "normal",
+        "seq": 1140,
+        "priority": 1140,
+        "name": "HAPPY NEW YEAR 2022",
+        "assetbundleName": "event_new_year_2022_01",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_new_year_2022_01",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 115,
+        "virtualItemCategory": "normal",
+        "seq": 1150,
+        "priority": 1150,
+        "name": "2022生肖「虎」",
+        "assetbundleName": "event_new_year_2022_02",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_new_year_2022_02",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
       {
         "id": 1,
         "virtualItemCategory": "normal",
@@ -81851,20 +81914,6 @@
         "effectAssetbundleName": "event_new_year_2022_01",
         "effectExpressionType": "throw_effect",
         "virtualItemLabelType": "special"
-      },
-      {
-        "id": 1009,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023生肖「兔」",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
       }
     ],
     "virtualLiveAppeals": [],
@@ -81875,7 +81924,7 @@
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",
     "seq": 140,
-    "name": "HAPPY NEW YEAR 2023 LIVE Wonderlands×Showtime",
+    "name": "HAPPY NEW YEAR 2022 LIVE Wonderlands×Showtime",
     "assetbundleName": "vlentrance_00122",
     "screenMvMusicVocalId": 379,
     "startAt": 1674543600000,
@@ -81938,78 +81987,78 @@
         "id": 1941,
         "virtualLiveId": 122,
         "seq": 1,
-        "startAt": 1674619200000,
-        "endAt": 1674619968000
+        "startAt": 1674532800000,
+        "endAt": 1674533568000
       },
       {
         "id": 1942,
         "virtualLiveId": 122,
         "seq": 2,
-        "startAt": 1674640800000,
-        "endAt": 1674641568000
+        "startAt": 1674554400000,
+        "endAt": 1674555168000
       },
       {
         "id": 1943,
         "virtualLiveId": 122,
         "seq": 3,
-        "startAt": 1674644400000,
-        "endAt": 1674645168000
+        "startAt": 1674558000000,
+        "endAt": 1674558768000
       },
       {
         "id": 1944,
         "virtualLiveId": 122,
         "seq": 4,
-        "startAt": 1674648000000,
-        "endAt": 1674648768000
+        "startAt": 1674561600000,
+        "endAt": 1674562368000
       },
       {
         "id": 1945,
         "virtualLiveId": 122,
         "seq": 5,
-        "startAt": 1674651600000,
-        "endAt": 1674652368000
+        "startAt": 1674565200000,
+        "endAt": 1674565968000
       },
       {
         "id": 1946,
         "virtualLiveId": 122,
         "seq": 6,
-        "startAt": 1674655200000,
-        "endAt": 1674655968000
+        "startAt": 1674568800000,
+        "endAt": 1674569568000
       },
       {
         "id": 1947,
         "virtualLiveId": 122,
         "seq": 7,
-        "startAt": 1674658800000,
-        "endAt": 1674659568000
+        "startAt": 1674572400000,
+        "endAt": 1674573168000
       },
       {
         "id": 1948,
         "virtualLiveId": 122,
         "seq": 8,
-        "startAt": 1674662400000,
-        "endAt": 1674663168000
+        "startAt": 1674576000000,
+        "endAt": 1674576768000
       },
       {
         "id": 1949,
         "virtualLiveId": 122,
         "seq": 9,
-        "startAt": 1674666000000,
-        "endAt": 1674666768000
+        "startAt": 1674579600000,
+        "endAt": 1674580368000
       },
       {
         "id": 1950,
         "virtualLiveId": 122,
         "seq": 10,
-        "startAt": 1674669600000,
-        "endAt": 1674670368000
+        "startAt": 1674583200000,
+        "endAt": 1674583968000
       },
       {
         "id": 1951,
         "virtualLiveId": 122,
         "seq": 11,
-        "startAt": 1674691200000,
-        "endAt": 1674691968000
+        "startAt": 1674604800000,
+        "endAt": 1674605568000
       }
     ],
     "virtualLiveCharacters": [
@@ -82057,6 +82106,34 @@
       "endAt": 1674692999000
     },
     "virtualItems": [
+      {
+        "id": 114,
+        "virtualItemCategory": "normal",
+        "seq": 1140,
+        "priority": 1140,
+        "name": "HAPPY NEW YEAR 2022",
+        "assetbundleName": "event_new_year_2022_01",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_new_year_2022_01",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 115,
+        "virtualItemCategory": "normal",
+        "seq": 1150,
+        "priority": 1150,
+        "name": "2022生肖「虎」",
+        "assetbundleName": "event_new_year_2022_02",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_new_year_2022_02",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
       {
         "id": 1,
         "virtualItemCategory": "normal",
@@ -82692,20 +82769,6 @@
         "effectAssetbundleName": "event_new_year_2022_01",
         "effectExpressionType": "throw_effect",
         "virtualItemLabelType": "special"
-      },
-      {
-        "id": 1009,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023生肖「兔」",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
       }
     ],
     "virtualLiveAppeals": [],
@@ -82716,7 +82779,7 @@
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",
     "seq": 150,
-    "name": "HAPPY NEW YEAR 2023 LIVE 25點，Nightcord見。",
+    "name": "HAPPY NEW YEAR 2022 LIVE 25點，Nightcord見。",
     "assetbundleName": "vlentrance_00123",
     "screenMvMusicVocalId": 312,
     "startAt": 1674630000000,
@@ -82785,78 +82848,78 @@
         "id": 1952,
         "virtualLiveId": 123,
         "seq": 1,
-        "startAt": 1674705600000,
-        "endAt": 1674706352000
+        "startAt": 1674619200000,
+        "endAt": 1674619952000
       },
       {
         "id": 1953,
         "virtualLiveId": 123,
         "seq": 2,
-        "startAt": 1674727200000,
-        "endAt": 1674727952000
+        "startAt": 1674640800000,
+        "endAt": 1674641552000
       },
       {
         "id": 1954,
         "virtualLiveId": 123,
         "seq": 3,
-        "startAt": 1674730800000,
-        "endAt": 1674731552000
+        "startAt": 1674644400000,
+        "endAt": 1674645152000
       },
       {
         "id": 1955,
         "virtualLiveId": 123,
         "seq": 4,
-        "startAt": 1674734400000,
-        "endAt": 1674735152000
+        "startAt": 1674648000000,
+        "endAt": 1674648752000
       },
       {
         "id": 1956,
         "virtualLiveId": 123,
         "seq": 5,
-        "startAt": 1674738000000,
-        "endAt": 1674738752000
+        "startAt": 1674651600000,
+        "endAt": 1674652352000
       },
       {
         "id": 1957,
         "virtualLiveId": 123,
         "seq": 6,
-        "startAt": 1674741600000,
-        "endAt": 1674742352000
+        "startAt": 1674655200000,
+        "endAt": 1674655952000
       },
       {
         "id": 1958,
         "virtualLiveId": 123,
         "seq": 7,
-        "startAt": 1674745200000,
-        "endAt": 1674745952000
+        "startAt": 1674658800000,
+        "endAt": 1674659552000
       },
       {
         "id": 1959,
         "virtualLiveId": 123,
         "seq": 8,
-        "startAt": 1674748800000,
-        "endAt": 1674749552000
+        "startAt": 1674662400000,
+        "endAt": 1674663152000
       },
       {
         "id": 1960,
         "virtualLiveId": 123,
         "seq": 9,
-        "startAt": 1674752400000,
-        "endAt": 1674753152000
+        "startAt": 1674666000000,
+        "endAt": 1674666752000
       },
       {
         "id": 1961,
         "virtualLiveId": 123,
         "seq": 10,
-        "startAt": 1674756000000,
-        "endAt": 1674756752000
+        "startAt": 1674669600000,
+        "endAt": 1674670352000
       },
       {
         "id": 1962,
         "virtualLiveId": 123,
         "seq": 11,
-        "startAt": 1674777600000,
-        "endAt": 1674778352000
+        "startAt": 1674691200000,
+        "endAt": 1674691952000
       }
     ],
     "virtualLiveCharacters": [
@@ -82898,6 +82961,34 @@
       "endAt": 1674779399000
     },
     "virtualItems": [
+      {
+        "id": 114,
+        "virtualItemCategory": "normal",
+        "seq": 1140,
+        "priority": 1140,
+        "name": "HAPPY NEW YEAR 2022",
+        "assetbundleName": "event_new_year_2022_01",
+        "costVirtualCoin": 1000,
+        "costJewel": 1000,
+        "cheerPoint": 1000,
+        "effectAssetbundleName": "event_new_year_2022_01",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
+      {
+        "id": 115,
+        "virtualItemCategory": "normal",
+        "seq": 1150,
+        "priority": 1150,
+        "name": "2022生肖「虎」",
+        "assetbundleName": "event_new_year_2022_02",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_new_year_2022_02",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
       {
         "id": 1,
         "virtualItemCategory": "normal",
@@ -83531,20 +83622,6 @@
         "costJewel": 1000,
         "cheerPoint": 1000,
         "effectAssetbundleName": "event_new_year_2022_01",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 1009,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023生肖「兔」",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
         "effectExpressionType": "throw_effect",
         "virtualItemLabelType": "special"
       }
@@ -91271,7 +91348,7 @@
     "virtualLiveType": "normal",
     "virtualLivePlatform": "v2",
     "seq": 150,
-    "name": "情人節2023 LIVE",
+    "name": "情人節2022 LIVE",
     "assetbundleName": "vlentrance_00132",
     "screenMvMusicVocalId": 30,
     "startAt": 1676185200000,
@@ -96189,34 +96266,6 @@
         "seq": 11,
         "startAt": 1679230800000,
         "endAt": 1679231300000
-      },
-      {
-        "id": 2185,
-        "virtualLiveId": 137,
-        "seq": 12,
-        "startAt": 1680184800000,
-        "endAt": 1680185300000
-      },
-      {
-        "id": 2186,
-        "virtualLiveId": 137,
-        "seq": 13,
-        "startAt": 1680188400000,
-        "endAt": 1680188900000
-      },
-      {
-        "id": 2187,
-        "virtualLiveId": 137,
-        "seq": 14,
-        "startAt": 1680192000000,
-        "endAt": 1680192500000
-      },
-      {
-        "id": 2188,
-        "virtualLiveId": 137,
-        "seq": 15,
-        "startAt": 1680195600000,
-        "endAt": 1680196100000
       }
     ],
     "virtualLiveCharacters": [
@@ -98202,7 +98251,7 @@
     "virtualLivePlatform": "v2",
     "seq": 90,
     "name": "HAPPY BIRTHDAY LIVE 愛莉",
-    "assetbundleName": "vlentrance_00139_re",
+    "assetbundleName": "vlentrance_00139",
     "screenMvMusicVocalId": 147,
     "startAt": 1679036400000,
     "endAt": 1679295599000,
@@ -98315,20 +98364,6 @@
         "seq": 11,
         "startAt": 1679238000000,
         "endAt": 1679238632000
-      },
-      {
-        "id": 2189,
-        "virtualLiveId": 139,
-        "seq": 12,
-        "startAt": 1680192000000,
-        "endAt": 1680192632000
-      },
-      {
-        "id": 2190,
-        "virtualLiveId": 139,
-        "seq": 13,
-        "startAt": 1680195600000,
-        "endAt": 1680196232000
       }
     ],
     "virtualLiveCharacters": [
