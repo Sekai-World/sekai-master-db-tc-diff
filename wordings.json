@@ -297,7 +297,7 @@
   },
   {
     "wordingKey": "MSG_ANOTHER_COLOR_ACQUISITION_CONDITIONS_NL",
-    "value": "提升「{0} {1}」的\n<color=#00CCBB>專精等級<\/color>後，\n會解鎖其他顏色。"
+    "value": "提升[ {0} {1} ]的\n<color=#00CCBB>專精等級<\/color>後，\n會解鎖其他顏色。"
   },
   {
     "wordingKey": "MSG_ANOTHER_VICAL_RELEASE_CONDITION",
@@ -2116,8 +2116,8 @@
     "value": "已存取未存取的付費道具。"
   },
   {
-    "wordingKey": "MSG_SHOP_SPECIFID_COMMERCIAL_TRANSACTION_LAW_CONFIRM",
-    "value": "  "
+    "wordingKey": "MSG_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_CONFIRM",
+    "value": "   "
   },
   {
     "wordingKey": "MSG_SHOP_WEEKLY_NUMBER_OF_PURCHASE",
@@ -2701,7 +2701,7 @@
   },
   {
     "wordingKey": "USER_POLICY",
-    "value": "https:\/\/lf16-mkovscdn-sg.bytedgame.com\/obj\/sf-game-alisg\/mkoversea\/mktw\/user\/20210429.html"
+    "value": "https:\/\/sf19-draftcdn-sg.ibytedtos.com\/obj\/ies-hotsoon-draft-sg\/GSDK\/c0858dad-b239-41ab-b97e-82a12f225c3b.html"
   },
   {
     "wordingKey": "VirtualLiveLobbyLiveStatusView_Distance_To_Start",
@@ -3061,7 +3061,7 @@
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_2",
-    "value": "<color=#FF55AA>高階任務通行證<\/color>共有三種，讓有不同需求的世界居民選購：購買<color=#FF55AA>高階任務通行證<\/color>能立即解鎖當月LIVE高階任務，且能獲得付費水晶和虛擬硬幣獎勵；"
+    "value": "<color=#FF55AA>高階任務通行證<\/color>共有三種，讓有不同需求的世界居民選購：\n購買<color=#FF55AA>高階任務通行證<\/color>能立即解鎖當月LIVE高階任務，且能獲得付費水晶和虛擬硬幣獎勵；"
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_3",
@@ -3238,6 +3238,14 @@
   {
     "wordingKey": "WORD_BONUS_MISSION_TAB",
     "value": "獎勵"
+  },
+  {
+    "wordingKey": "WORD_BOOST_MAX_1",
+    "value": "LIVE BONUS已恢復"
+  },
+  {
+    "wordingKey": "WORD_BOOST_MAX_2",
+    "value": "現在回來進行LIVE挑戰吧！"
   },
   {
     "wordingKey": "WORD_BOOST_RECOVERY",
@@ -3525,7 +3533,7 @@
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_FREE_MATCH",
-    "value": "自由配對"
+    "value": "自由房間"
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_FREE_MATCH_DESC",
@@ -3549,7 +3557,7 @@
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_VETERAN_MATCH",
-    "value": "進階配對"
+    "value": "進階房間"
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_VETERAN_MATCH_DESC",
@@ -3637,7 +3645,7 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_EFFECT_CONTENT",
-    "value": "<color=#FF55AA>30<\/color>天效果為七彩通行證有效期間內可以獲得的獎勵效果： <color=#FF55AA>※提升「七彩通行證」 權益！<\/color> ・每日AUTO LIVE次數上限增加為<color=#FF55AA>20<\/color>次。 ・挑戰P獲得量增加為<color=#FF55AA>2<\/color>倍。 ・LIVE P獲得量增加為<color=#FF55AA>2<\/color>倍。"
+    "value": "<color=#FF55AA>30<\/color>天效果為七彩通行證有效期間內可以獲得的獎勵效果：\n<color=#FF55AA>※提升「七彩通行證」 權益！<\/color> \n・每日AUTO LIVE次數上限增加為<color=#FF55AA>20<\/color>次。 \n・挑戰P獲得量增加為<color=#FF55AA>2<\/color>倍。 \n・LIVE P獲得量增加為<color=#FF55AA>2<\/color>倍。"
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_EFFECT_CONTENT_1",
@@ -6493,7 +6501,7 @@
   },
   {
     "wordingKey": "Word_Custom_2228",
-    "value": "創建「---------------」的私人房間。"
+    "value": "創建「{0}」的私人房間。"
   },
   {
     "wordingKey": "Word_Custom_2229",
@@ -6533,7 +6541,7 @@
   },
   {
     "wordingKey": "Word_Custom_2237",
-    "value": "創建「---------------」的私人房間。"
+    "value": "創建「{0}」的私人房間。"
   },
   {
     "wordingKey": "Word_Custom_2238",
@@ -7393,7 +7401,7 @@
   },
   {
     "wordingKey": "Word_Custom_408",
-    "value": "=+"
+    "value": "+"
   },
   {
     "wordingKey": "Word_Custom_409",
@@ -10044,6 +10052,10 @@
     "value": "COMBO"
   },
   {
+    "wordingKey": "WORD_MULTILIVE_ROOM_ID",
+    "value": "輸入ID"
+  },
+  {
     "wordingKey": "WORD_MULTI_LIVE",
     "value": "多人LIVE"
   },
@@ -11505,7 +11517,7 @@
   },
   {
     "wordingKey": "WORD_RESULT_ADD_VALUE",
-    "value": "=+{0}"
+    "value": "+{0}"
   },
   {
     "wordingKey": "WORD_RESULT_DAILY_BONUS",
@@ -11825,7 +11837,7 @@
   },
   {
     "wordingKey": "WORD_SHOP_BUTTON_MESSAGE_3_NL",
-    "value": "依特定商業交易法\n條列"
+    "value": "  "
   },
   {
     "wordingKey": "WORD_SHOP_COLORFUL_PATH_DETAIL",
@@ -11837,7 +11849,7 @@
   },
   {
     "wordingKey": "WORD_SHOP_FUND_SETTLEMENT_METHOD",
-    "value": "依資金結算法條列"
+    "value": "  "
   },
   {
     "wordingKey": "WORD_SHOP_IN_SERVICE_CURRENCY",
@@ -11885,15 +11897,15 @@
   },
   {
     "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW",
-    "value": "依特定商業交易法條列"
+    "value": "  "
   },
   {
     "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_12_6",
-    "value": "依特定商業交易法第12條第6項記載"
+    "value": "  "
   },
   {
     "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_SHORT",
-    "value": "特商法"
+    "value": "  "
   },
   {
     "wordingKey": "WORD_SHOP_YEAR",

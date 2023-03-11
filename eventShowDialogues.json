@@ -1328,7 +1328,7 @@
         "eventShowDialogueId": 1008,
         "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "information",
-        "transitionDestinationId": "10499"
+        "transitionDestinationId": "10517"
       }
     ]
   },
@@ -1438,6 +1438,28 @@
         "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "information",
         "transitionDestinationId": "10648"
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "assetbundleName": "pajama2023",
+    "showType": "ONCE",
+    "startAt": 1678690800000,
+    "endAt": 1679414399000,
+    "behaviors": [
+      {
+        "id": 142,
+        "eventShowDialogueId": 1016,
+        "buttonStyle": "NORMAL",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "10676"
+      },
+      {
+        "id": 143,
+        "eventShowDialogueId": 1016,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_costume_3d"
       }
     ]
   },
