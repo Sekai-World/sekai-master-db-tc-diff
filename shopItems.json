@@ -17608,6 +17608,42 @@
     "startAt": 1634626800000
   },
   {
+    "id": 10065,
+    "shopId": 4,
+    "seq": 365376500,
+    "releaseConditionId": 5,
+    "resourceBoxId": 10065,
+    "costs": [
+      {
+        "cost": {
+          "resourceId": 20,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1634565900000
+  },
+  {
+    "id": 10066,
+    "shopId": 4,
+    "seq": 365376500,
+    "releaseConditionId": 5,
+    "resourceBoxId": 10066,
+    "costs": [
+      {
+        "cost": {
+          "resourceId": 21,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 1
+        }
+      }
+    ],
+    "startAt": 1634565900000
+  },
+  {
     "id": 10067,
     "shopId": 4,
     "seq": 366006800,
@@ -22086,24 +22122,6 @@
     "startAt": 1680012300000
   },
   {
-    "id": 10339,
-    "shopId": 2,
-    "seq": 319782800,
-    "releaseConditionId": 1,
-    "resourceBoxId": 10339,
-    "costs": [
-      {
-        "cost": {
-          "resourceId": 13,
-          "resourceType": "material",
-          "resourceLevel": 0,
-          "quantity": 10
-        }
-      }
-    ],
-    "startAt": 1680159600000
-  },
-  {
     "id": 10340,
     "shopId": 2,
     "seq": 319696400,
@@ -22316,24 +22334,6 @@
       }
     ],
     "startAt": 1674370800000
-  },
-  {
-    "id": 10353,
-    "shopId": 4,
-    "seq": 317251700,
-    "releaseConditionId": 5,
-    "resourceBoxId": 10353,
-    "costs": [
-      {
-        "cost": {
-          "resourceId": 18,
-          "resourceType": "material",
-          "resourceLevel": 0,
-          "quantity": 1
-        }
-      }
-    ],
-    "startAt": 1682690700000
   },
   {
     "id": 10355,
@@ -28066,6 +28066,24 @@
       }
     ],
     "startAt": 1664607600000
+  },
+  {
+    "id": 90001,
+    "shopId": 2,
+    "seq": 320560500,
+    "releaseConditionId": 1,
+    "resourceBoxId": 90001,
+    "costs": [
+      {
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1679295600000
   },
   {
     "id": 100001,
