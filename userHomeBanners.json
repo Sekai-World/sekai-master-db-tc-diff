@@ -49,14 +49,24 @@
     "endAt": 1679295599000
   },
   {
-    "homeBannerId": 391,
-    "seq": 170,
+    "homeBannerId": 390,
+    "seq": 120,
     "homeBannerType": "general",
-    "assetbundleName": "banner_virtuallive138",
+    "assetbundleName": "banner_gacha193",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 193,
+    "startAt": 1678777200000,
+    "endAt": 1679144399000
+  },
+  {
+    "homeBannerId": 392,
+    "seq": 160,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive139",
     "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 138,
-    "startAt": 1678604400000,
-    "endAt": 1678949999000
+    "transitionDestinationId": 139,
+    "startAt": 1679036400000,
+    "endAt": 1679295599000
   },
   {
     "homeBannerId": 10005,
@@ -77,12 +87,22 @@
     "endAt": 4097113200000
   },
   {
-    "homeBannerId": 10030,
-    "seq": 10,
+    "homeBannerId": 10031,
+    "seq": 1,
     "homeBannerType": "general",
-    "assetbundleName": "banner_warmspring",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1677567600000,
-    "endAt": 1678723199000
+    "assetbundleName": "banner_pajama2023",
+    "transitionDestinationType": "billing_shop_for_costume_3d",
+    "startAt": 1678690800000,
+    "endAt": 1679414399000
+  },
+  {
+    "homeBannerId": 10101,
+    "seq": 1,
+    "homeBannerType": "return",
+    "assetbundleName": "banner_gacha2001",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1100,
+    "startAt": 1678824000000,
+    "endAt": 1681415999000
   }
 ]
