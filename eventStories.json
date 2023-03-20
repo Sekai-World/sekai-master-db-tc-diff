@@ -6814,7 +6814,896 @@
         "episodeRewards": [
           {
             "storyType": "event_story",
+            "resourceBoxId": 1001
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "eventId": 54,
+    "assetbundleName": "event_sakura_2022",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000431,
+        "eventStoryId": 54,
+        "episodeNo": 1,
+        "title": "去賞花吧",
+        "assetbundleName": "event_sakura_2022_01",
+        "scenarioId": "event_54_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
             "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000432,
+        "eventStoryId": 54,
+        "episodeNo": 2,
+        "title": "尋找櫻花",
+        "assetbundleName": "event_sakura_2022_02",
+        "scenarioId": "event_54_02",
+        "releaseConditionId": 105301,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000433,
+        "eventStoryId": 54,
+        "episodeNo": 3,
+        "title": "賞花LIVE！？",
+        "assetbundleName": "event_sakura_2022_03",
+        "scenarioId": "event_54_03",
+        "releaseConditionId": 105302,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000434,
+        "eventStoryId": 54,
+        "episodeNo": 4,
+        "title": "春天的新菜單",
+        "assetbundleName": "event_sakura_2022_04",
+        "scenarioId": "event_54_04",
+        "releaseConditionId": 105303,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000435,
+        "eventStoryId": 54,
+        "episodeNo": 5,
+        "title": "教室，粉色的她",
+        "assetbundleName": "event_sakura_2022_05",
+        "scenarioId": "event_54_05",
+        "releaseConditionId": 105304,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000436,
+        "eventStoryId": 54,
+        "episodeNo": 6,
+        "title": "為了櫻花飛舞的表演",
+        "assetbundleName": "event_sakura_2022_06",
+        "scenarioId": "event_54_06",
+        "releaseConditionId": 105305,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000437,
+        "eventStoryId": 54,
+        "episodeNo": 7,
+        "title": "相繫的心願",
+        "assetbundleName": "event_sakura_2022_07",
+        "scenarioId": "event_54_07",
+        "releaseConditionId": 105306,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000438,
+        "eventStoryId": 54,
+        "episodeNo": 8,
+        "title": "心願在各自的心中",
+        "assetbundleName": "event_sakura_2022_08",
+        "scenarioId": "event_54_08",
+        "releaseConditionId": 105307,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1002
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "eventId": 55,
+    "assetbundleName": "event_star_2022",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000439,
+        "eventStoryId": 55,
+        "episodeNo": 1,
+        "title": "前往音樂館！",
+        "assetbundleName": "event_star_2022_01",
+        "scenarioId": "event_55_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000440,
+        "eventStoryId": 55,
+        "episodeNo": 2,
+        "title": "名為「多魯貝」的鋼琴家",
+        "assetbundleName": "event_star_2022_02",
+        "scenarioId": "event_55_02",
+        "releaseConditionId": 105401,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000441,
+        "eventStoryId": 55,
+        "episodeNo": 3,
+        "title": "角色的契合度",
+        "assetbundleName": "event_star_2022_03",
+        "scenarioId": "event_55_03",
+        "releaseConditionId": 105402,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000442,
+        "eventStoryId": 55,
+        "episodeNo": 4,
+        "title": "為了成為明星",
+        "assetbundleName": "event_star_2022_04",
+        "scenarioId": "event_55_04",
+        "releaseConditionId": 105403,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000443,
+        "eventStoryId": 55,
+        "episodeNo": 5,
+        "title": "共通點",
+        "assetbundleName": "event_star_2022_05",
+        "scenarioId": "event_55_05",
+        "releaseConditionId": 105404,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000444,
+        "eventStoryId": 55,
+        "episodeNo": 6,
+        "title": "抬頭看到的夜空",
+        "assetbundleName": "event_star_2022_06",
+        "scenarioId": "event_55_06",
+        "releaseConditionId": 105405,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000445,
+        "eventStoryId": 55,
+        "episodeNo": 7,
+        "title": "找到星星",
+        "assetbundleName": "event_star_2022_07",
+        "scenarioId": "event_55_07",
+        "releaseConditionId": 105406,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000446,
+        "eventStoryId": 55,
+        "episodeNo": 8,
+        "title": "光芒閃耀的舞台",
+        "assetbundleName": "event_star_2022_08",
+        "scenarioId": "event_55_08",
+        "releaseConditionId": 105407,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1003
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "eventId": 56,
+    "assetbundleName": "event_memories_2022",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000447,
+        "eventStoryId": 56,
+        "episodeNo": 1,
+        "title": "前往下一步",
+        "assetbundleName": "event_memories_2022_01",
+        "scenarioId": "event_56_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000448,
+        "eventStoryId": 56,
+        "episodeNo": 2,
+        "title": "分開的兄妹",
+        "assetbundleName": "event_memories_2022_02",
+        "scenarioId": "event_56_02",
+        "releaseConditionId": 105501,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000449,
+        "eventStoryId": 56,
+        "episodeNo": 3,
+        "title": "我們能做到的事情",
+        "assetbundleName": "event_memories_2022_03",
+        "scenarioId": "event_56_03",
+        "releaseConditionId": 105502,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000450,
+        "eventStoryId": 56,
+        "episodeNo": 4,
+        "title": "面對的勇氣",
+        "assetbundleName": "event_memories_2022_04",
+        "scenarioId": "event_56_04",
+        "releaseConditionId": 105503,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000451,
+        "eventStoryId": 56,
+        "episodeNo": 5,
+        "title": "為了傳達話語",
+        "assetbundleName": "event_memories_2022_05",
+        "scenarioId": "event_56_05",
+        "releaseConditionId": 105504,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000452,
+        "eventStoryId": 56,
+        "episodeNo": 6,
+        "title": "幸福的回憶",
+        "assetbundleName": "event_memories_2022_06",
+        "scenarioId": "event_56_06",
+        "releaseConditionId": 105505,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000453,
+        "eventStoryId": 56,
+        "episodeNo": 7,
+        "title": "最後的LIVE",
+        "assetbundleName": "event_memories_2022_07",
+        "scenarioId": "event_56_07",
+        "releaseConditionId": 105506,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000454,
+        "eventStoryId": 56,
+        "episodeNo": 8,
+        "title": "與閃耀的回憶一起",
+        "assetbundleName": "event_memories_2022_08",
+        "scenarioId": "event_56_08",
+        "releaseConditionId": 105507,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1004
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "eventId": 57,
+    "assetbundleName": "event_painful_2022",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000455,
+        "eventStoryId": 57,
+        "episodeNo": 1,
+        "title": "新歌邀約？",
+        "assetbundleName": "event_painful_2022_01",
+        "scenarioId": "event_57_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000456,
+        "eventStoryId": 57,
+        "episodeNo": 2,
+        "title": "初次見面！作曲家",
+        "assetbundleName": "event_painful_2022_02",
+        "scenarioId": "event_57_02",
+        "releaseConditionId": 105601,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000457,
+        "eventStoryId": 57,
+        "episodeNo": 3,
+        "title": "能傳遞希望的歌曲",
+        "assetbundleName": "event_painful_2022_03",
+        "scenarioId": "event_57_03",
+        "releaseConditionId": 105602,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000458,
+        "eventStoryId": 57,
+        "episodeNo": 4,
+        "title": "100萬次觀看！？",
+        "assetbundleName": "event_painful_2022_04",
+        "scenarioId": "event_57_04",
+        "releaseConditionId": 105603,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000459,
+        "eventStoryId": 57,
+        "episodeNo": 5,
+        "title": "不安的預感",
+        "assetbundleName": "event_painful_2022_05",
+        "scenarioId": "event_57_05",
+        "releaseConditionId": 105604,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000460,
+        "eventStoryId": 57,
+        "episodeNo": 6,
+        "title": "將前進的勇氣",
+        "assetbundleName": "event_painful_2022_06",
+        "scenarioId": "event_57_06",
+        "releaseConditionId": 105605,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000461,
+        "eventStoryId": 57,
+        "episodeNo": 7,
+        "title": "她的應援",
+        "assetbundleName": "event_painful_2022_07",
+        "scenarioId": "event_57_07",
+        "releaseConditionId": 105606,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000462,
+        "eventStoryId": 57,
+        "episodeNo": 8,
+        "title": "因為妳給了我希望",
+        "assetbundleName": "event_painful_2022_08",
+        "scenarioId": "event_57_08",
+        "releaseConditionId": 105607,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1005
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "eventId": 58,
+    "assetbundleName": "event_cheerteam_2022",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000463,
+        "eventStoryId": 58,
+        "episodeNo": 1,
+        "title": "知名的應援比賽！",
+        "assetbundleName": "event_cheerteam_2022_01",
+        "scenarioId": "event_58_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000464,
+        "eventStoryId": 58,
+        "episodeNo": 2,
+        "title": "託付於運動會的心意",
+        "assetbundleName": "event_cheerteam_2022_02",
+        "scenarioId": "event_58_02",
+        "releaseConditionId": 105701,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000465,
+        "eventStoryId": 58,
+        "episodeNo": 3,
+        "title": "關於應援比賽",
+        "assetbundleName": "event_cheerteam_2022_03",
+        "scenarioId": "event_58_03",
+        "releaseConditionId": 105702,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000466,
+        "eventStoryId": 58,
+        "episodeNo": 4,
+        "title": "上當",
+        "assetbundleName": "event_cheerteam_2022_04",
+        "scenarioId": "event_58_04",
+        "releaseConditionId": 105703,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000467,
+        "eventStoryId": 58,
+        "episodeNo": 5,
+        "title": "從身後被推了一把",
+        "assetbundleName": "event_cheerteam_2022_05",
+        "scenarioId": "event_58_05",
+        "releaseConditionId": 105704,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000468,
+        "eventStoryId": 58,
+        "episodeNo": 6,
+        "title": "運動會開幕！",
+        "assetbundleName": "event_cheerteam_2022_06",
+        "scenarioId": "event_58_06",
+        "releaseConditionId": 105705,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000469,
+        "eventStoryId": 58,
+        "episodeNo": 7,
+        "title": "中間結果發表",
+        "assetbundleName": "event_cheerteam_2022_07",
+        "scenarioId": "event_58_07",
+        "releaseConditionId": 105706,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000470,
+        "eventStoryId": 58,
+        "episodeNo": 8,
+        "title": "相信大家",
+        "assetbundleName": "event_cheerteam_2022_08",
+        "scenarioId": "event_58_08",
+        "releaseConditionId": 105707,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1006
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "eventId": 59,
+    "assetbundleName": "event_unity_2022",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000471,
+        "eventStoryId": 59,
+        "episodeNo": 1,
+        "title": "些微的線索",
+        "assetbundleName": "event_unity_2022_01",
+        "scenarioId": "event_59_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000472,
+        "eventStoryId": 59,
+        "episodeNo": 2,
+        "title": "各自的想法",
+        "assetbundleName": "event_unity_2022_02",
+        "scenarioId": "event_59_02",
+        "releaseConditionId": 105801,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000473,
+        "eventStoryId": 59,
+        "episodeNo": 3,
+        "title": "同志",
+        "assetbundleName": "event_unity_2022_03",
+        "scenarioId": "event_59_03",
+        "releaseConditionId": 105802,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000474,
+        "eventStoryId": 59,
+        "episodeNo": 4,
+        "title": "最後的成員",
+        "assetbundleName": "event_unity_2022_04",
+        "scenarioId": "event_59_04",
+        "releaseConditionId": 105803,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000475,
+        "eventStoryId": 59,
+        "episodeNo": 5,
+        "title": "無法理解的心情",
+        "assetbundleName": "event_unity_2022_05",
+        "scenarioId": "event_59_05",
+        "releaseConditionId": 105804,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000476,
+        "eventStoryId": 59,
+        "episodeNo": 6,
+        "title": "軟綿綿的鬆餅",
+        "assetbundleName": "event_unity_2022_06",
+        "scenarioId": "event_59_06",
+        "releaseConditionId": 105805,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000477,
+        "eventStoryId": 59,
+        "episodeNo": 7,
+        "title": "新與夥伴",
+        "assetbundleName": "event_unity_2022_07",
+        "scenarioId": "event_59_07",
+        "releaseConditionId": 105806,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000478,
+        "eventStoryId": 59,
+        "episodeNo": 8,
+        "title": "向前一步",
+        "assetbundleName": "event_unity_2022_08",
+        "scenarioId": "event_59_08",
+        "releaseConditionId": 105807,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1007
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "eventId": 60,
+    "assetbundleName": "event_happiness_2022",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000479,
+        "eventStoryId": 60,
+        "episodeNo": 1,
+        "title": "我當模特兒！？",
+        "assetbundleName": "event_happiness_2022_01",
+        "scenarioId": "event_60_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000480,
+        "eventStoryId": 60,
+        "episodeNo": 2,
+        "title": "盡量有新娘的樣子",
+        "assetbundleName": "event_happiness_2022_02",
+        "scenarioId": "event_60_02",
+        "releaseConditionId": 105901,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000481,
+        "eventStoryId": 60,
+        "episodeNo": 3,
+        "title": "另一位新娘",
+        "assetbundleName": "event_happiness_2022_03",
+        "scenarioId": "event_60_03",
+        "releaseConditionId": 105902,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000482,
+        "eventStoryId": 60,
+        "episodeNo": 4,
+        "title": "祝福的服裝",
+        "assetbundleName": "event_happiness_2022_04",
+        "scenarioId": "event_60_04",
+        "releaseConditionId": 105903,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000483,
+        "eventStoryId": 60,
+        "episodeNo": 5,
+        "title": "逐漸轉陰的天空",
+        "assetbundleName": "event_happiness_2022_05",
+        "scenarioId": "event_60_05",
+        "releaseConditionId": 105904,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000484,
+        "eventStoryId": 60,
+        "episodeNo": 6,
+        "title": "成為像妳的新娘",
+        "assetbundleName": "event_happiness_2022_06",
+        "scenarioId": "event_60_06",
+        "releaseConditionId": 105905,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000485,
+        "eventStoryId": 60,
+        "episodeNo": 7,
+        "title": "向藍天祈願",
+        "assetbundleName": "event_happiness_2022_07",
+        "scenarioId": "event_60_07",
+        "releaseConditionId": 105906,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000486,
+        "eventStoryId": 60,
+        "episodeNo": 8,
+        "title": "今後也要做自己！",
+        "assetbundleName": "event_happiness_2022_08",
+        "scenarioId": "event_60_08",
+        "releaseConditionId": 105907,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 13
           }
         ]
       }

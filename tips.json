@@ -525,6 +525,13 @@
     "toUserRank": 999
   },
   {
+    "id": 114,
+    "title": "試穿模式",
+    "description": "在「演出服裝」「服飾店」中\n將試穿模式設定為ON ，就可以試穿\n尚未取得的演出服裝或其他配色。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
     "id": 115,
     "title": "個人資料",
     "description": "「自製個人資料」可透過編輯素材來製作原創的個人資料。",
@@ -577,6 +584,20 @@
     "id": 122,
     "title": "AUTO LIVE",
     "description": "使用「AUTO LIVE設定」，可將LIVE BONUS設定為自動恢復並連續進行LIVE。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 125,
+    "title": "心願結晶的使用方式&取得方式",
+    "description": "「心願純結晶」可以到「心願碎片、純結晶交換所」交換。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 126,
+    "title": "角色紀錄",
+    "description": "「角色紀錄」可以確認各個角色的成員、演出服裝、貼圖的獲得狀況。",
     "fromUserRank": 1,
     "toUserRank": 999
   },

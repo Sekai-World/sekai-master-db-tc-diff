@@ -84,6 +84,18 @@
     ]
   },
   {
+    "id": 206,
+    "seq": 6,
+    "honorMissionType": "player_rank",
+    "requirement": 500,
+    "sentence": "將玩家等級提升至500吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 1363
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
@@ -652,7 +664,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_stamp",
     "requirement": 1000,
-    "sentence": "在「多人LIVE」中使用1000次貼圖吧。",
+    "sentence": "在「多人LIVE、Cheerful LIVE」中使用1000次貼圖吧。",
     "rewards": [
       {
         "resourceBoxId": 1042
