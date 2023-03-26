@@ -29,44 +29,24 @@
     "endAt": 1680278399000
   },
   {
-    "homeBannerId": 387,
-    "seq": 100,
-    "homeBannerType": "event",
-    "assetbundleName": "event_castspell_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 52,
-    "startAt": 1678518000000,
-    "endAt": 1679295599000
+    "homeBannerId": 394,
+    "seq": 120,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha195",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 195,
+    "startAt": 1679295600000,
+    "endAt": 1680159599000
   },
   {
-    "homeBannerId": 389,
+    "homeBannerId": 395,
     "seq": 110,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha192",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 192,
-    "startAt": 1678518000000,
-    "endAt": 1679295599000
-  },
-  {
-    "homeBannerId": 392,
-    "seq": 160,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_virtuallive139",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 139,
-    "startAt": 1679036400000,
-    "endAt": 1679295599000
-  },
-  {
-    "homeBannerId": 393,
-    "seq": 130,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha194",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 194,
-    "startAt": 1679155200000,
-    "endAt": 1679759999000
+    "homeBannerType": "event",
+    "assetbundleName": "event_canvas_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 53,
+    "startAt": 1679295600000,
+    "endAt": 1680159599000
   },
   {
     "homeBannerId": 10005,
@@ -85,15 +65,6 @@
     "transitionDestinationType": "billing_shop_for_first_recharge",
     "startAt": 1667199600000,
     "endAt": 4097113200000
-  },
-  {
-    "homeBannerId": 10031,
-    "seq": 1,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_pajama2023",
-    "transitionDestinationType": "billing_shop_for_costume_3d",
-    "startAt": 1678690800000,
-    "endAt": 1679414399000
   },
   {
     "homeBannerId": 10101,

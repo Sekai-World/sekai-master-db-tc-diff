@@ -96,7 +96,8 @@
     "assetbundleName": "shop_8",
     "resourceBoxId": 9,
     "bonusResourceBoxId": 1,
-    "label": "僅限1次"
+    "label": "僅限1次",
+    "endAt": 1680159599000
   },
   {
     "id": 9,
@@ -111,7 +112,8 @@
     "assetbundleName": "shop_9",
     "resourceBoxId": 10,
     "bonusResourceBoxId": 2,
-    "label": "僅限1次"
+    "label": "僅限1次",
+    "endAt": 1682837999000
   },
   {
     "id": 10,
@@ -126,7 +128,8 @@
     "assetbundleName": "shop_10",
     "resourceBoxId": 11,
     "bonusResourceBoxId": 3,
-    "label": "僅限1次"
+    "label": "僅限1次",
+    "endAt": 1680159599000
   },
   {
     "id": 16,
@@ -730,6 +733,86 @@
     "label": "期間限定",
     "startAt": 1677600000000,
     "endAt": 1680278399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 532,
+    "seq": 120,
+    "billingShopItemType": "costume_3d",
+    "name": "「怪盜」服裝 所有顏色",
+    "description": "「怪盜」服裝 所有顏色セット",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10046",
+    "resourceBoxId": 88,
+    "label": "期間限定",
+    "startAt": 1680278400000,
+    "endAt": 1682870399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 533,
+    "seq": 110,
+    "billingShopItemType": "costume_3d",
+    "name": "「怪盜」服裝 原版顏色",
+    "description": "「怪盜」服裝 原版顏色セット",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10047",
+    "resourceBoxId": 89,
+    "label": "期間限定",
+    "startAt": 1680278400000,
+    "endAt": 1682870399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 534,
+    "seq": 100,
+    "billingShopItemType": "costume_3d",
+    "name": "「怪盜」服裝 其他顏色1",
+    "description": "「怪盜」服裝 其他顏色1セット",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10048",
+    "resourceBoxId": 90,
+    "label": "期間限定",
+    "startAt": 1680278400000,
+    "endAt": 1682870399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 535,
+    "seq": 90,
+    "billingShopItemType": "costume_3d",
+    "name": "「怪盜」服裝 其他顏色2",
+    "description": "「怪盜」服裝 其他顏色2セット",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10049",
+    "resourceBoxId": 91,
+    "label": "期間限定",
+    "startAt": 1680278400000,
+    "endAt": 1682870399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 536,
+    "seq": 80,
+    "billingShopItemType": "costume_3d",
+    "name": "「怪盜」服裝 其他顏色3",
+    "description": "「怪盜」服裝 其他顏色3セット",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10050",
+    "resourceBoxId": 92,
+    "label": "期間限定",
+    "startAt": 1680278400000,
+    "endAt": 1682870399000,
     "purchaseOption": "exchange"
   },
   {
@@ -1483,7 +1566,7 @@
     "resourceBoxId": 1044,
     "bonusResourceBoxId": 1012,
     "startAt": 1661842800000,
-    "endAt": 1682870399000
+    "endAt": 1682837999000
   },
   {
     "id": 1045,
@@ -1514,7 +1597,7 @@
     "resourceBoxId": 1012,
     "bonusResourceBoxId": 1012,
     "startAt": 1661929200000,
-    "endAt": 1682870399000
+    "endAt": 1682837999000
   },
   {
     "id": 1047,
@@ -1563,6 +1646,51 @@
     "bonusResourceBoxId": 30,
     "startAt": 1664467200000,
     "endAt": 1665730799000
+  },
+  {
+    "id": 1051,
+    "seq": 1016,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1051,
+    "name": "歡迎來到世界組合包A",
+    "description": "\"付費水晶×440\n心願碎片×300\n奇跡寶石×100\n各色寶石×100\n練習譜（中級）×20\"",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1051",
+    "resourceBoxId": 1051,
+    "bonusResourceBoxId": 1051,
+    "startAt": 1680159600000
+  },
+  {
+    "id": 1052,
+    "seq": 1015,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1052,
+    "name": "歡迎來到世界組合包B",
+    "description": "\"付費水晶×2810\n貼圖交換券×3\n主唱卡交換券×2\n魔法佈×300\n魔法線×30\"",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1052",
+    "resourceBoxId": 1052,
+    "bonusResourceBoxId": 1052,
+    "startAt": 1682838000000
+  },
+  {
+    "id": 1053,
+    "seq": 1014,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1053,
+    "name": "歡迎來到世界組合包C",
+    "description": "\"付费水晶×9200\n心願純結晶×2\n技能升級譜（高級）×3\n不可思議的種子×50\n金幣×500000\"",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1053",
+    "resourceBoxId": 1053,
+    "bonusResourceBoxId": 1053,
+    "startAt": 1680159600000
   },
   {
     "id": 1100,
