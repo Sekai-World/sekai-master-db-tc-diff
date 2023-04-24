@@ -185,11 +185,11 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "monthly",
-    "assetbundleName": "shop_24",
-    "resourceBoxId": 24,
-    "bonusResourceBoxId": 10,
+    "assetbundleName": "shop_62",
+    "resourceBoxId": 90001,
+    "bonusResourceBoxId": 90001,
     "startAt": 1630339200000,
-    "endAt": 1680278399000
+    "endAt": 4097145599000
   },
   {
     "id": 25,
@@ -1702,11 +1702,11 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "monthly",
-    "assetbundleName": "shop_24",
-    "resourceBoxId": 1100,
-    "bonusResourceBoxId": 1100,
+    "assetbundleName": "shop_62",
+    "resourceBoxId": 90002,
+    "bonusResourceBoxId": 90002,
     "startAt": 1630339200000,
-    "endAt": 1680278399000
+    "endAt": 4097145599000
   },
   {
     "id": 1101,
@@ -1717,10 +1717,10 @@
     "billableLimitType": "live_point",
     "billableLimitValue": 3900,
     "billableLimitResetIntervalType": "monthly",
-    "assetbundleName": "shop_24",
+    "assetbundleName": "shop_62",
     "resourceBoxId": 1101,
     "startAt": 1630339200000,
-    "endAt": 1680278399000,
+    "endAt": 4097145599000,
     "purchaseOption": "exchange"
   },
   {
@@ -3225,6 +3225,36 @@
     "label": "期間限定",
     "startAt": 1678690800000,
     "endAt": 1679414399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 30017,
+    "seq": 2020,
+    "billingShopItemType": "costume_3d",
+    "name": "拇指國的玫瑰公主(女性)",
+    "description": "拇指國的玫瑰公主(女性)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30017",
+    "resourceBoxId": 30017,
+    "startAt": 1681196400000,
+    "endAt": 1682405999000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 30018,
+    "seq": 2021,
+    "billingShopItemType": "costume_3d",
+    "name": "綻放的圓舞曲(男性)",
+    "description": "綻放的圓舞曲(男性)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30018",
+    "resourceBoxId": 30018,
+    "startAt": 1681196400000,
+    "endAt": 1682405999000,
     "purchaseOption": "exchange"
   }
 ]

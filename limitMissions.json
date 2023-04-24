@@ -691,5 +691,59 @@
     "requirement": 5,
     "sentence": "完成所有的KAITO週年紀念限時任務吧。",
     "resourceBoxId": 100326
+  },
+  {
+    "limitMissionGroupId": 14,
+    "id": 83,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "通過5次「挑戰LIVE」吧。",
+    "resourceBoxId": 100319
+  },
+  {
+    "limitMissionGroupId": 14,
+    "id": 84,
+    "seq": 1,
+    "limitMissionType": "clear_virtual_live",
+    "requirement": 1,
+    "sentence": "參加1次「虛擬LIVE」吧。",
+    "resourceBoxId": 100320
+  },
+  {
+    "limitMissionGroupId": 14,
+    "id": 85,
+    "seq": 1,
+    "limitMissionType": "use_virtual_item",
+    "requirement": 10,
+    "sentence": "在虛擬LIVE中，使用10次虛擬道具進行應援吧。",
+    "resourceBoxId": 100309
+  },
+  {
+    "limitMissionGroupId": 14,
+    "id": 86,
+    "seq": 1,
+    "limitMissionType": "friend_share",
+    "requirement": 1,
+    "sentence": "進行1次分享吧。（分享按鈕位於[LIVE結算畫面]、[成員詳情]、[招募結果]等畫面的上部）",
+    "resourceBoxId": 100307
+  },
+  {
+    "limitMissionGroupId": 14,
+    "id": 87,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成員的專精等級吧。",
+    "resourceBoxId": 100321
+  },
+  {
+    "limitMissionGroupId": 14,
+    "id": 88,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "通過以上所有任務吧。",
+    "resourceBoxId": 100322
   }
 ]

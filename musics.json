@@ -319,6 +319,7 @@
     "seq": 1600601,
     "releaseConditionId": 5,
     "categories": [
+      "image",
       "mv_2d"
     ],
     "title": "命に嫌われている",
@@ -893,7 +894,7 @@
     "seq": 2602101,
     "releaseConditionId": 10,
     "categories": [
-      "original",
+      "image",
       "mv_2d"
     ],
     "title": "ジャックポットサッドガール",
@@ -1601,6 +1602,7 @@
     "seq": 1602401,
     "releaseConditionId": 5,
     "categories": [
+      "image",
       "original",
       "mv_2d"
     ],
@@ -1627,9 +1629,7 @@
     "id": 93,
     "seq": 1201801,
     "releaseConditionId": 5,
-    "categories": [
-      "image"
-    ],
+    "categories": [],
     "title": "青く駆けろ！",
     "pronunciation": "あおくかけろ",
     "lyricist": "まらしぃ",
@@ -3545,9 +3545,7 @@
     "id": 183,
     "seq": 1511501,
     "releaseConditionId": 5,
-    "categories": [
-      "image"
-    ],
+    "categories": [],
     "title": "フィクサー",
     "pronunciation": "ふぃくさー",
     "lyricist": "ぬゆり",
@@ -3791,7 +3789,7 @@
   },
   {
     "id": 196,
-    "seq": 2216901,
+    "seq": 2217001,
     "releaseConditionId": 10,
     "categories": [
       "mv"
@@ -3965,7 +3963,7 @@
     "seq": 1114401,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      "image"
     ],
     "title": "君色マリンスノウ",
     "pronunciation": "きみいろまりんすのう",
@@ -4058,7 +4056,7 @@
   },
   {
     "id": 211,
-    "seq": 2317501,
+    "seq": 2317601,
     "releaseConditionId": 10,
     "categories": [
       "mv"
@@ -4210,7 +4208,7 @@
   },
   {
     "id": 224,
-    "seq": 2516701,
+    "seq": 2516801,
     "releaseConditionId": 10,
     "categories": [
       "mv_2d"
@@ -4229,7 +4227,7 @@
   },
   {
     "id": 227,
-    "seq": 1116801,
+    "seq": 1116901,
     "releaseConditionId": 5,
     "categories": [
       "image"
@@ -4244,6 +4242,25 @@
     "assetbundleName": "jacket_s_227",
     "publishedAt": 1682060400000,
     "fillerSec": 9.0,
+    "infos": []
+  },
+  {
+    "id": 228,
+    "seq": 1123901,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "Goodbye",
+    "pronunciation": "ぐっどばい",
+    "lyricist": "CircusP",
+    "composer": "CircusP",
+    "arranger": "CircusP",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_228",
+    "publishedAt": 1680332400000,
+    "fillerSec": 8.993300437927246,
     "infos": []
   },
   {
@@ -4267,7 +4284,7 @@
   },
   {
     "id": 230,
-    "seq": 1717401,
+    "seq": 1717501,
     "releaseConditionId": 5,
     "categories": [
       "mv_2d"
@@ -4287,7 +4304,7 @@
   },
   {
     "id": 231,
-    "seq": 1717001,
+    "seq": 1717101,
     "releaseConditionId": 5,
     "categories": [
       "mv_2d"
@@ -4307,7 +4324,7 @@
   },
   {
     "id": 232,
-    "seq": 1717101,
+    "seq": 1717201,
     "releaseConditionId": 5,
     "categories": [
       "mv_2d"
@@ -4327,7 +4344,7 @@
   },
   {
     "id": 233,
-    "seq": 1717201,
+    "seq": 1717301,
     "releaseConditionId": 5,
     "categories": [
       "mv_2d"
@@ -4347,7 +4364,7 @@
   },
   {
     "id": 234,
-    "seq": 1717301,
+    "seq": 1717401,
     "releaseConditionId": 5,
     "categories": [
       "mv_2d"
@@ -4367,7 +4384,7 @@
   },
   {
     "id": 238,
-    "seq": 1117601,
+    "seq": 1117701,
     "releaseConditionId": 5,
     "categories": [
       "original"
@@ -4386,7 +4403,7 @@
   },
   {
     "id": 239,
-    "seq": 2417701,
+    "seq": 2417801,
     "releaseConditionId": 10,
     "categories": [
       "mv_2d"
@@ -4461,6 +4478,25 @@
     "infos": []
   },
   {
+    "id": 247,
+    "seq": 1116701,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "Copycat",
+    "pronunciation": "こぴーきゃっと",
+    "lyricist": "Circus-P",
+    "composer": "Circus-P",
+    "arranger": "Circus-P",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_247",
+    "publishedAt": 1681110000000,
+    "fillerSec": 9.0,
+    "infos": []
+  },
+  {
     "id": 249,
     "seq": 1114801,
     "releaseConditionId": 5,
@@ -4502,9 +4538,7 @@
     "id": 279,
     "seq": 1115601,
     "releaseConditionId": 5,
-    "categories": [
-      "image"
-    ],
+    "categories": [],
     "title": "こちら、幸福安心委員会です。",
     "pronunciation": "こちらこうふくあんしんいいんかいです",
     "lyricist": "鳥居羊",
@@ -4515,6 +4549,43 @@
     "assetbundleName": "jacket_s_279",
     "publishedAt": 1678777200000,
     "fillerSec": 9.0,
+    "infos": []
+  },
+  {
+    "id": 302,
+    "seq": 2221901,
+    "releaseConditionId": 5,
+    "categories": [
+      "mv_2d"
+    ],
+    "title": "フレー",
+    "pronunciation": "ふれー",
+    "lyricist": "HoneyWorks",
+    "composer": "HoneyWorks",
+    "arranger": "HoneyWorks",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_302",
+    "publishedAt": 1700982000000,
+    "fillerSec": 8.991700172424316,
+    "infos": [],
+    "musicCollaborationId": 3
+  },
+  {
+    "id": 317,
+    "seq": 1127201,
+    "releaseConditionId": 5,
+    "categories": [],
+    "title": "魔法みたいなミュージック！",
+    "pronunciation": "まほうみたいなみゅーじっく",
+    "lyricist": "OSTER project",
+    "composer": "OSTER project",
+    "arranger": "OSTER project",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_317",
+    "publishedAt": 1681110000000,
+    "fillerSec": 7.857100009918213,
     "infos": []
   }
 ]

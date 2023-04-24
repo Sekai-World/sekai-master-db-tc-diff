@@ -4559,10 +4559,41 @@
     "id": 124,
     "seq": 1220,
     "groupId": 38,
-    "honorRarity": "highest",
+    "honorRarity": "high",
     "name": "皆傳",
     "assetbundleName": "honor_0124",
-    "levels": []
+    "levels": [
+      {
+        "honorId": 124,
+        "level": 11,
+        "bonus": 0,
+        "description": "在難易度MASTER，達成130首歌曲的FULL COMBO吧。"
+      },
+      {
+        "honorId": 124,
+        "level": 12,
+        "bonus": 0,
+        "description": "在難易度MASTER，達成140首歌曲的FULL COMBO吧。"
+      },
+      {
+        "honorId": 124,
+        "level": 13,
+        "bonus": 0,
+        "description": "在難易度MASTER，達成150首歌曲的FULL COMBO吧。"
+      },
+      {
+        "honorId": 124,
+        "level": 14,
+        "bonus": 0,
+        "description": "在難易度MASTER，達成160首歌曲的FULL COMBO吧。"
+      },
+      {
+        "honorId": 124,
+        "level": 15,
+        "bonus": 0,
+        "description": "在難易度MASTER，達成170首歌曲的FULL COMBO吧。"
+      }
+    ]
   },
   {
     "id": 126,
@@ -33886,7 +33917,38 @@
     "honorRarity": "highest",
     "name": "真・皆傳",
     "assetbundleName": "honor_2046",
-    "levels": []
+    "levels": [
+      {
+        "honorId": 2046,
+        "level": 11,
+        "bonus": 0,
+        "description": "在難易度MASTER下達成130首歌曲的ALL PERFECT吧。"
+      },
+      {
+        "honorId": 2046,
+        "level": 12,
+        "bonus": 0,
+        "description": "在難易度MASTER下達成140首歌曲的ALL PERFECT吧。"
+      },
+      {
+        "honorId": 2046,
+        "level": 13,
+        "bonus": 0,
+        "description": "在難易度MASTER下達成150首歌曲的ALL PERFECT吧。"
+      },
+      {
+        "honorId": 2046,
+        "level": 14,
+        "bonus": 0,
+        "description": "在難易度MASTER下達成160首歌曲的ALL PERFECT吧。"
+      },
+      {
+        "honorId": 2046,
+        "level": 15,
+        "bonus": 0,
+        "description": "在難易度MASTER下達成170首歌曲的ALL PERFECT吧。"
+      }
+    ]
   },
   {
     "id": 2047,
@@ -36898,6 +36960,34 @@
     ]
   },
   {
+    "id": 10053,
+    "seq": 199928,
+    "groupId": 100016,
+    "honorRarity": "middle",
+    "name": "EXP滿溢",
+    "assetbundleName": "honor_exp_1",
+    "levels": [
+      {
+        "honorId": 10053,
+        "level": 1,
+        "bonus": 20,
+        "description": "累計擁有150名滿級的成員吧。"
+      },
+      {
+        "honorId": 10053,
+        "level": 2,
+        "bonus": 20,
+        "description": "累計擁有200名滿級的成員吧。"
+      },
+      {
+        "honorId": 10053,
+        "level": 3,
+        "bonus": 20,
+        "description": "累計擁有250名滿級的成員吧。"
+      }
+    ]
+  },
+  {
     "id": 10054,
     "seq": 199929,
     "groupId": 100017,
@@ -36934,6 +37024,22 @@
         "level": 5,
         "bonus": 10,
         "description": "累計擁有125名完成特訓的成員吧。"
+      }
+    ]
+  },
+  {
+    "id": 10055,
+    "seq": 199930,
+    "groupId": 100017,
+    "honorRarity": "middle",
+    "name": "實力大增",
+    "assetbundleName": "honor_train_1",
+    "levels": [
+      {
+        "honorId": 10055,
+        "level": 1,
+        "bonus": 20,
+        "description": "累計擁有150名完成特訓的成員吧。"
       }
     ]
   },
@@ -36978,6 +37084,34 @@
     ]
   },
   {
+    "id": 10058,
+    "seq": 199933,
+    "groupId": 100018,
+    "honorRarity": "high",
+    "name": "精益求精",
+    "assetbundleName": "honor_masterlesson_1",
+    "levels": [
+      {
+        "honorId": 10058,
+        "level": 1,
+        "bonus": 30,
+        "description": "累計擁有150名專精等級≥2的成員吧。"
+      },
+      {
+        "honorId": 10058,
+        "level": 2,
+        "bonus": 30,
+        "description": "累計擁有200名專精等級≥2的成員吧。"
+      },
+      {
+        "honorId": 10058,
+        "level": 3,
+        "bonus": 30,
+        "description": "累計擁有250名專精等級≥2的成員吧。"
+      }
+    ]
+  },
+  {
     "id": 10059,
     "seq": 199934,
     "groupId": 100019,
@@ -37014,6 +37148,34 @@
         "level": 5,
         "bonus": 20,
         "description": "累計擁有100名技能等級≥2的成員吧。"
+      }
+    ]
+  },
+  {
+    "id": 10060,
+    "seq": 199935,
+    "groupId": 100019,
+    "honorRarity": "high",
+    "name": "潛心鑽研",
+    "assetbundleName": "honor_skill_1",
+    "levels": [
+      {
+        "honorId": 10060,
+        "level": 1,
+        "bonus": 30,
+        "description": "累計擁有150名技能等級≥2的成員吧。"
+      },
+      {
+        "honorId": 10060,
+        "level": 2,
+        "bonus": 30,
+        "description": "累計擁有200名技能等級≥2的成員吧。"
+      },
+      {
+        "honorId": 10060,
+        "level": 3,
+        "bonus": 30,
+        "description": "累計擁有250名技能等級≥2的成員吧。"
       }
     ]
   },
@@ -37058,6 +37220,34 @@
     ]
   },
   {
+    "id": 10062,
+    "seq": 199937,
+    "groupId": 100020,
+    "honorRarity": "middle",
+    "name": "劇情觀賞家",
+    "assetbundleName": "honor_story_after_1",
+    "levels": [
+      {
+        "honorId": 10062,
+        "level": 1,
+        "bonus": 20,
+        "description": "累計觀賞150種前篇劇情吧。"
+      },
+      {
+        "honorId": 10062,
+        "level": 2,
+        "bonus": 20,
+        "description": "累計觀賞200種前篇劇情吧。"
+      },
+      {
+        "honorId": 10062,
+        "level": 3,
+        "bonus": 20,
+        "description": "累計觀賞250種前篇劇情吧。"
+      }
+    ]
+  },
+  {
     "id": 10063,
     "seq": 199938,
     "groupId": 100021,
@@ -37094,6 +37284,34 @@
         "level": 5,
         "bonus": 20,
         "description": "累計觀賞100種後篇劇情吧。"
+      }
+    ]
+  },
+  {
+    "id": 10064,
+    "seq": 199939,
+    "groupId": 100021,
+    "honorRarity": "high",
+    "name": "劇情鑒賞家",
+    "assetbundleName": "honor_story_before_1",
+    "levels": [
+      {
+        "honorId": 10064,
+        "level": 1,
+        "bonus": 30,
+        "description": "累計觀賞150種後篇劇情吧。"
+      },
+      {
+        "honorId": 10064,
+        "level": 2,
+        "bonus": 30,
+        "description": "累計觀賞200種後篇劇情吧。"
+      },
+      {
+        "honorId": 10064,
+        "level": 3,
+        "bonus": 30,
+        "description": "累計觀賞250種後篇劇情吧。"
       }
     ]
   },
