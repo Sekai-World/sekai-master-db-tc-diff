@@ -20,16 +20,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 421,
-    "seq": 170,
-    "homeBannerType": "event",
-    "assetbundleName": "event_cheerteam_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 58,
-    "startAt": 1683702000000,
-    "endAt": 1684565999000
-  },
-  {
     "homeBannerId": 422,
     "seq": 120,
     "homeBannerType": "general",
@@ -58,6 +48,16 @@
     "transitionDestinationId": 210,
     "startAt": 1684555200000,
     "endAt": 1685505599000
+  },
+  {
+    "homeBannerId": 427,
+    "seq": 170,
+    "homeBannerType": "event",
+    "assetbundleName": "event_unity_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 59,
+    "startAt": 1684566000000,
+    "endAt": 1685516399000
   },
   {
     "homeBannerId": 10005,
