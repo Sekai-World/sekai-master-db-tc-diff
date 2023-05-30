@@ -128,6 +128,12 @@
     "releaseConditionTypeLevel": 15
   },
   {
+    "id": 10020,
+    "sentence": "玩家等級達到20",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 20
+  },
+  {
     "id": 10025,
     "sentence": "玩家等級達到25",
     "releaseConditionType": "user_rank",
@@ -8663,28 +8669,28 @@
   },
   {
     "id": 60380,
-    "sentence": "取得「[給努力的妳] 桐谷遙」",
+    "sentence": "取得「[給努力的你] 桐谷遙」",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 191,
     "releaseConditionTypeLevel": 0
   },
   {
     "id": 60381,
-    "sentence": "將「[給努力的妳] 桐谷遙」的專精等級提升至1後解鎖",
+    "sentence": "將「[給努力的你] 桐谷遙」的專精等級提升至1後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 191,
     "releaseConditionTypeLevel": 1
   },
   {
     "id": 60382,
-    "sentence": "將「[給努力的妳] 桐谷遙」的專精等級提升至3後解鎖",
+    "sentence": "將「[給努力的你] 桐谷遙」的專精等級提升至3後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 191,
     "releaseConditionTypeLevel": 3
   },
   {
     "id": 60383,
-    "sentence": "將「[給努力的妳] 桐谷遙」的專精等級提升至5後解鎖",
+    "sentence": "將「[給努力的你] 桐谷遙」的專精等級提升至5後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 191,
     "releaseConditionTypeLevel": 5
@@ -12331,35 +12337,35 @@
   },
   {
     "id": 61570,
-    "sentence": "取得「[給努力的妳] MEIKO」",
+    "sentence": "取得「[給努力的你] MEIKO」",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 442,
     "releaseConditionTypeLevel": 0
   },
   {
     "id": 61571,
-    "sentence": "「[給努力的妳] MEIKO」專精等級達到1後解鎖",
+    "sentence": "「[給努力的你] MEIKO」專精等級達到1後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 442,
     "releaseConditionTypeLevel": 1
   },
   {
     "id": 61572,
-    "sentence": "「[給努力的妳] MEIKO」專精等級達到2後解鎖",
+    "sentence": "「[給努力的你] MEIKO」專精等級達到2後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 442,
     "releaseConditionTypeLevel": 2
   },
   {
     "id": 61573,
-    "sentence": "「[給努力的妳] MEIKO」專精等級達到3後解鎖",
+    "sentence": "「[給努力的你] MEIKO」專精等級達到3後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 442,
     "releaseConditionTypeLevel": 3
   },
   {
     "id": 61574,
-    "sentence": "「[給努力的妳] MEIKO」專精等級達到5後解鎖",
+    "sentence": "「[給努力的你] MEIKO」專精等級達到5後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 442,
     "releaseConditionTypeLevel": 5
@@ -12982,28 +12988,28 @@
   },
   {
     "id": 61780,
-    "sentence": "取得「[最棒的偶像微笑！] 桃井愛莉」",
+    "sentence": "取得「[最強偶像微笑！] 桃井愛莉」",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 481,
     "releaseConditionTypeLevel": 0
   },
   {
     "id": 61781,
-    "sentence": "「[最棒的偶像微笑！] 桃井愛莉」專精等級達到1後解鎖",
+    "sentence": "「[最強偶像微笑！] 桃井愛莉」專精等級達到1後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 481,
     "releaseConditionTypeLevel": 1
   },
   {
     "id": 61782,
-    "sentence": "「[最棒的偶像微笑！] 桃井愛莉」專精等級達到3後解鎖",
+    "sentence": "「[最強偶像微笑！] 桃井愛莉」專精等級達到3後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 481,
     "releaseConditionTypeLevel": 3
   },
   {
     "id": 61783,
-    "sentence": "「[最棒的偶像微笑！] 桃井愛莉」專精等級達到5後解鎖",
+    "sentence": "「[最強偶像微笑！] 桃井愛莉」專精等級達到5後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 481,
     "releaseConditionTypeLevel": 5
@@ -13339,28 +13345,28 @@
   },
   {
     "id": 61900,
-    "sentence": "取得「[今後也永遠] 青柳冬彌」",
+    "sentence": "取得「[今後也永遠……] 青柳冬彌」",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 504,
     "releaseConditionTypeLevel": 0
   },
   {
     "id": 61901,
-    "sentence": "「[今後也永遠] 青柳冬彌」專精等級達到1後解鎖",
+    "sentence": "「[今後也永遠……] 青柳冬彌」專精等級達到1後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 504,
     "releaseConditionTypeLevel": 1
   },
   {
     "id": 61902,
-    "sentence": "「[今後也永遠] 青柳冬彌」專精等級達到3後解鎖",
+    "sentence": "「[今後也永遠……] 青柳冬彌」專精等級達到3後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 504,
     "releaseConditionTypeLevel": 3
   },
   {
     "id": 61903,
-    "sentence": "「[今後也永遠] 青柳冬彌」專精等級達到5後解鎖",
+    "sentence": "「[今後也永遠……] 青柳冬彌」專精等級達到5後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 504,
     "releaseConditionTypeLevel": 5
@@ -13598,35 +13604,35 @@
   },
   {
     "id": 61980,
-    "sentence": "取得「[想傳達的話語是……] 神代類」",
+    "sentence": "取得「[要傳達的話語是……] 神代類」",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 514,
     "releaseConditionTypeLevel": 0
   },
   {
     "id": 61981,
-    "sentence": "「[想傳達的話語是……] 神代類」專精等級達到1後解鎖",
+    "sentence": "「[要傳達的話語是……] 神代類」專精等級達到1後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 514,
     "releaseConditionTypeLevel": 1
   },
   {
     "id": 61982,
-    "sentence": "「[想傳達的話語是……] 神代類」專精等級達到2後解鎖",
+    "sentence": "「[要傳達的話語是……] 神代類」專精等級達到2後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 514,
     "releaseConditionTypeLevel": 2
   },
   {
     "id": 61983,
-    "sentence": "「[想傳達的話語是……] 神代類」專精等級達到3後解鎖",
+    "sentence": "「[要傳達的話語是……] 神代類」專精等級達到3後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 514,
     "releaseConditionTypeLevel": 3
   },
   {
     "id": 61984,
-    "sentence": "「[想傳達的話語是……] 神代類」專精等級達到5後解鎖",
+    "sentence": "「[要傳達的話語是……] 神代類」專精等級達到5後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 514,
     "releaseConditionTypeLevel": 5
@@ -13689,28 +13695,28 @@
   },
   {
     "id": 62010,
-    "sentence": "取得「[個人表演作戰會議！] 桃井愛莉」",
+    "sentence": "取得「[個人LIVE作戰會議！] 桃井愛莉」",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 519,
     "releaseConditionTypeLevel": 0
   },
   {
     "id": 62011,
-    "sentence": "「[個人表演作戰會議！] 桃井愛莉」專精等級達到1後解鎖",
+    "sentence": "「[個人LIVE作戰會議！] 桃井愛莉」專精等級達到1後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 519,
     "releaseConditionTypeLevel": 1
   },
   {
     "id": 62012,
-    "sentence": "「[個人表演作戰會議！] 桃井愛莉」專精等級達到3後解鎖",
+    "sentence": "「[個人LIVE作戰會議！] 桃井愛莉」專精等級達到3後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 519,
     "releaseConditionTypeLevel": 3
   },
   {
     "id": 62013,
-    "sentence": "「[個人表演作戰會議！] 桃井愛莉」專精等級達到5後解鎖",
+    "sentence": "「[個人LIVE作戰會議！] 桃井愛莉」專精等級達到5後解鎖",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 519,
     "releaseConditionTypeLevel": 5
@@ -15814,7 +15820,7 @@
   },
   {
     "id": 102208,
-    "sentence": "觀賞「給努力的妳Break Time！」第8章",
+    "sentence": "觀賞「給努力的你Break Time！」第8章",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000187
   },

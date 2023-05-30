@@ -930,5 +930,55 @@
         "resourceBoxId": 1064
       }
     ]
+  },
+  {
+    "id": 1025,
+    "startAt": 1685505600000,
+    "endAt": 1686340799000,
+    "assetbundleName": "limit_200w",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1059,
+        "limitedLoginBonusId": 1025,
+        "day": 1,
+        "resourceBoxId": 1065
+      },
+      {
+        "id": 1060,
+        "limitedLoginBonusId": 1025,
+        "day": 2,
+        "resourceBoxId": 1066
+      },
+      {
+        "id": 1061,
+        "limitedLoginBonusId": 1025,
+        "day": 3,
+        "resourceBoxId": 1067
+      },
+      {
+        "id": 1062,
+        "limitedLoginBonusId": 1025,
+        "day": 4,
+        "resourceBoxId": 1068
+      },
+      {
+        "id": 1063,
+        "limitedLoginBonusId": 1025,
+        "day": 5,
+        "resourceBoxId": 1069
+      },
+      {
+        "id": 1064,
+        "limitedLoginBonusId": 1025,
+        "day": 6,
+        "resourceBoxId": 1070
+      },
+      {
+        "id": 1065,
+        "limitedLoginBonusId": 1025,
+        "day": 7,
+        "resourceBoxId": 1071
+      }
+    ]
   }
 ]

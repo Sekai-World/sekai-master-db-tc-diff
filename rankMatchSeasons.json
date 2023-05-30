@@ -1,1 +1,352 @@
-[]
+[
+  {
+    "id": 1001,
+    "name": "段位配對預賽",
+    "startAt": 1685548800000,
+    "aggregatedAt": 1686844799000,
+    "rankingPublishedAt": 1686845399000,
+    "batchExecutionAt": 1686891599000,
+    "distributionStartAt": 1686891599000,
+    "distributionEndAt": 1688140799000,
+    "closedAt": 1687018199000,
+    "assetbundleName": "preseason_001",
+    "isDisplayResult": false,
+    "rankMatchSeasonPlayableTimes": [
+      {
+        "id": 1001,
+        "rankMatchSeasonId": 1001,
+        "startTime": "18:00:00",
+        "endTime": "23:59:59"
+      }
+    ],
+    "rankMatchSeasonTierMusicPlayLevels": [
+      {
+        "id": 10001,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 1,
+        "fromPlayLevel": 18,
+        "toPlayLevel": 25
+      },
+      {
+        "id": 10002,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 2,
+        "fromPlayLevel": 18,
+        "toPlayLevel": 25
+      },
+      {
+        "id": 10003,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 3,
+        "fromPlayLevel": 18,
+        "toPlayLevel": 25
+      },
+      {
+        "id": 10004,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 4,
+        "fromPlayLevel": 18,
+        "toPlayLevel": 25
+      },
+      {
+        "id": 10005,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 5,
+        "fromPlayLevel": 23,
+        "toPlayLevel": 27
+      },
+      {
+        "id": 10006,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 6,
+        "fromPlayLevel": 23,
+        "toPlayLevel": 27
+      },
+      {
+        "id": 10007,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 7,
+        "fromPlayLevel": 23,
+        "toPlayLevel": 27
+      },
+      {
+        "id": 10008,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 8,
+        "fromPlayLevel": 23,
+        "toPlayLevel": 27
+      },
+      {
+        "id": 10009,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 9,
+        "fromPlayLevel": 25,
+        "toPlayLevel": 28
+      },
+      {
+        "id": 10010,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 10,
+        "fromPlayLevel": 25,
+        "toPlayLevel": 28
+      },
+      {
+        "id": 10011,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 11,
+        "fromPlayLevel": 25,
+        "toPlayLevel": 28
+      },
+      {
+        "id": 10012,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 12,
+        "fromPlayLevel": 25,
+        "toPlayLevel": 28
+      },
+      {
+        "id": 10013,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 13,
+        "fromPlayLevel": 26,
+        "toPlayLevel": 30
+      },
+      {
+        "id": 10014,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 14,
+        "fromPlayLevel": 26,
+        "toPlayLevel": 30
+      },
+      {
+        "id": 10015,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 15,
+        "fromPlayLevel": 26,
+        "toPlayLevel": 30
+      },
+      {
+        "id": 10016,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 16,
+        "fromPlayLevel": 26,
+        "toPlayLevel": 30
+      },
+      {
+        "id": 10017,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 17,
+        "fromPlayLevel": 28,
+        "toPlayLevel": 31
+      },
+      {
+        "id": 10018,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 18,
+        "fromPlayLevel": 28,
+        "toPlayLevel": 31
+      },
+      {
+        "id": 10019,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 19,
+        "fromPlayLevel": 28,
+        "toPlayLevel": 31
+      },
+      {
+        "id": 10020,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 20,
+        "fromPlayLevel": 28,
+        "toPlayLevel": 31
+      },
+      {
+        "id": 10021,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 21,
+        "fromPlayLevel": 29,
+        "toPlayLevel": 33
+      },
+      {
+        "id": 10022,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 22,
+        "fromPlayLevel": 29,
+        "toPlayLevel": 33
+      },
+      {
+        "id": 10023,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 23,
+        "fromPlayLevel": 29,
+        "toPlayLevel": 33
+      },
+      {
+        "id": 10024,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 24,
+        "fromPlayLevel": 29,
+        "toPlayLevel": 33
+      },
+      {
+        "id": 10025,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 25,
+        "fromPlayLevel": 30,
+        "toPlayLevel": 36
+      }
+    ],
+    "rankMatchSeasonTierRewards": [
+      {
+        "id": 10001,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 25,
+        "resourceBoxId": 1
+      },
+      {
+        "id": 10002,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 24,
+        "resourceBoxId": 2
+      },
+      {
+        "id": 10003,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 23,
+        "resourceBoxId": 3
+      },
+      {
+        "id": 10004,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 22,
+        "resourceBoxId": 4
+      },
+      {
+        "id": 10005,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 21,
+        "resourceBoxId": 5
+      },
+      {
+        "id": 10006,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 20,
+        "resourceBoxId": 6
+      },
+      {
+        "id": 10007,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 19,
+        "resourceBoxId": 7
+      },
+      {
+        "id": 10008,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 18,
+        "resourceBoxId": 8
+      },
+      {
+        "id": 10009,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 17,
+        "resourceBoxId": 9
+      },
+      {
+        "id": 10010,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 16,
+        "resourceBoxId": 10
+      },
+      {
+        "id": 10011,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 15,
+        "resourceBoxId": 11
+      },
+      {
+        "id": 10012,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 14,
+        "resourceBoxId": 12
+      },
+      {
+        "id": 10013,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 13,
+        "resourceBoxId": 13
+      },
+      {
+        "id": 10014,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 12,
+        "resourceBoxId": 14
+      },
+      {
+        "id": 10015,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 11,
+        "resourceBoxId": 15
+      },
+      {
+        "id": 10016,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 10,
+        "resourceBoxId": 16
+      },
+      {
+        "id": 10017,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 9,
+        "resourceBoxId": 17
+      },
+      {
+        "id": 10018,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 8,
+        "resourceBoxId": 18
+      },
+      {
+        "id": 10019,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 7,
+        "resourceBoxId": 19
+      },
+      {
+        "id": 10020,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 6,
+        "resourceBoxId": 20
+      },
+      {
+        "id": 10021,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 5,
+        "resourceBoxId": 21
+      },
+      {
+        "id": 10022,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 4,
+        "resourceBoxId": 22
+      },
+      {
+        "id": 10023,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 3,
+        "resourceBoxId": 23
+      },
+      {
+        "id": 10024,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 2,
+        "resourceBoxId": 24
+      },
+      {
+        "id": 10025,
+        "rankMatchSeasonId": 1001,
+        "rankMatchTierId": 1,
+        "resourceBoxId": 25
+      }
+    ]
+  }
+]

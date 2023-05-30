@@ -237,19 +237,19 @@
   },
   {
     "wordingKey": "MESSAGE_RANK_MATCH_BANNED_PLAY_PENALTY_DIALOG",
-    "value": "由於重複偵測到您有中斷連線、不適當的行為，將暫時停止您的等級對戰功能。"
+    "value": "由於重複偵測到您有中斷連線、不適當的行為，\n將暫時停止您的段位配對功能。"
   },
   {
     "wordingKey": "MESSAGE_RANK_MATCH_LIMIT_TIME_PENALTY_DIALOG",
-    "value": "由於重複偵測到您有中斷連線、不適當的行為，將暫時停止您的等級對戰功能。"
+    "value": "由於重複偵測到您有中斷連線、不適當的行為，\n將暫時停止您的段位配對功能。"
   },
   {
     "wordingKey": "MESSAGE_RANK_MATCH_SEASON_BAN_PENALTY_DIALOG",
-    "value": "本賽季中不可參加等級對戰"
+    "value": "無法參加本賽季的段位配對"
   },
   {
     "wordingKey": "MESSAGE_RANK_MATCH_WARN_PENALTY_DIALOG",
-    "value": "由於偵測到您在等級對戰中有中斷連線、不適當的行為，這次LIVE的結果為敗北。\n\n若重複偵測到有中斷連線、不適當的行為，您將有可能會無法參加等級對決，或帳號被停權。"
+    "value": "由於您在段位配對時中斷連線，這次LIVE的結果為失敗。\n\n若重複偵測到有中斷連線、不適當的行為，您將有可能會無法參加段位配對，或帳號被停權。"
   },
   {
     "wordingKey": "MHZ",
@@ -1745,7 +1745,7 @@
   },
   {
     "wordingKey": "MSG_NOT_ENTRY_RANK_MATCH",
-    "value": "未參加等級對戰"
+    "value": "未參加段位配對"
   },
   {
     "wordingKey": "MSG_NOT_EVENT_INSESSION",
@@ -1781,15 +1781,15 @@
   },
   {
     "wordingKey": "MSG_NO_CONTEST_RANK_MATCH_CHEAT",
-    "value": "由於偵測到您在等級對戰中有不適當的行為，\n這次LIVE的結果為敗北。\n\n若重複偵測到有中斷連線、不適當的行為，\n您將有可能會無法參加等級對決，或帳號被停權。"
+    "value": "由於您在段位配對時中斷連線，這次LIVE的結果為失敗。\n\n若重複偵測到有中斷連線、不適當的行為，您將有可能會無法參加段位配對，或帳號被停權。"
   },
   {
     "wordingKey": "MSG_NO_CONTEST_RANK_MATCH_HARASSMENT",
-    "value": "由於您在等級對決時中斷連線，\n這次LIVE的結果為敗北。\n\n若重複偵測到有中斷連線、不適當的行為，\n您將有可能會無法參加等級對決，\n或帳號被停權。"
+    "value": "由於您在段位配對時中斷連線，這次LIVE的結果為失敗。\n\n若重複偵測到有中斷連線、不適當的行為，您將有可能會無法參加段位配對，或帳號被停權。"
   },
   {
     "wordingKey": "MSG_NO_CONTEST_RANK_MATCH_TIMEOUT",
-    "value": "由於偵測到您在等級對戰中有中斷連線的行為，\n這次LIVE的結果為敗北。\n\n若重複偵測到有中斷連線、不適當的行為，\n您將有可能會無法參加等級對決，或帳號被停權。"
+    "value": "由於您在段位配對時中斷連線，這次LIVE的結果為失敗。\n\n若重複偵測到有中斷連線、不適當的行為，您將有可能會無法參加段位配對，或帳號被停權。"
   },
   {
     "wordingKey": "MSG_NO_CONTEST_REASON_CHEET",
@@ -1841,7 +1841,7 @@
   },
   {
     "wordingKey": "MSG_OUT_OF_TERM_RANK_MATCH_DIALOG",
-    "value": "由目前為舉辦時間外，將回到等級對戰的首頁。"
+    "value": "由目前為舉辦時間外，將回到段位配對的首頁。"
   },
   {
     "wordingKey": "MSG_OVER_RARITY_3_ONCE",
@@ -1981,7 +1981,7 @@
   },
   {
     "wordingKey": "MSG_RANK_LIVE_NOT_FIXED_BY_ME",
-    "value": "由於沒有在時間內回覆，配對已解除。"
+    "value": " 由於沒有在時間內回覆，已解除配對。"
   },
   {
     "wordingKey": "MSG_RANK_LIVE_NOT_FIXED_BY_OPPONENT",
@@ -1993,7 +1993,7 @@
   },
   {
     "wordingKey": "MSG_RANK_LIVE_PLACEMENT_REQUIRED_MATCH_COUNT_FORMAT",
-    "value": "直到決定起始等級之前，\n還剩<color>{0}<\/color>次配對"
+    "value": "在決定起始等級前，\n還剩<color=#F45BA9><size=56> {0} <\/size><\/color>次配對"
   },
   {
     "wordingKey": "MSG_RANK_MATCH_CLOSE_NEXT_TIME_FORMAT",
@@ -2005,11 +2005,11 @@
   },
   {
     "wordingKey": "MSG_RANK_MATCH_OUT_OF_TIME_FORMAT",
-    "value": "舉辦時間外 舉辦時間 {0:00}:{1:00}～{2:00}:{3:00}"
+    "value": "非舉辦時間 舉辦時間 {0:00}:{1:00}～{2:00}:{3:00}"
   },
   {
     "wordingKey": "MSG_RANK_MATCH_RELEASE_WAIT",
-    "value": "等級對戰功能暫未開放，\n煩請稍等。"
+    "value": "段位配對功能暫未開放，\n煩請稍等。"
   },
   {
     "wordingKey": "MSG_RATING",
@@ -2689,11 +2689,11 @@
   },
   {
     "wordingKey": "RANK_MATCH_TIER_REWARD",
-    "value": "此為等級對戰「%s」%s %s的報酬。"
+    "value": "此為段位配對「%s」%s %s的報酬。"
   },
   {
     "wordingKey": "RANK_MATCH_TOP_TIER_REWARD",
-    "value": "此為等級對戰「%s」%s的報酬。"
+    "value": "此為段位配對「%s」%s的報酬。"
   },
   {
     "wordingKey": "RETURN_MISSION_RECEIVE_INVALID_TERM_REWARD",
@@ -3409,11 +3409,11 @@
   },
   {
     "wordingKey": "WORD_BONUS_POINT_HIGHER_CLASS_WIN_FORMAT",
-    "value": "贏過前幾名{0}"
+    "value": "贏過更高等級{0}"
   },
   {
     "wordingKey": "WORD_BONUS_POINT_LIFE_0_FORMAT",
-    "value": "體力0{0}"
+    "value": "體力歸零{0}"
   },
   {
     "wordingKey": "WORD_BOOST_MAX_1",
@@ -9741,7 +9741,7 @@
   },
   {
     "wordingKey": "WORD_LIVE_CHALLENGE_BR",
-    "value": "挑戰\nLIVE"
+    "value": "段位配對"
   },
   {
     "wordingKey": "WORD_LIVE_CLOSE",
@@ -10092,6 +10092,14 @@
     "value": "活動\n劇情"
   },
   {
+    "wordingKey": "Word_MemorySize_Android",
+    "value": "3"
+  },
+  {
+    "wordingKey": "Word_MemorySize_iOS",
+    "value": "3"
+  },
+  {
     "wordingKey": "WORD_MENU",
     "value": "選單"
   },
@@ -10238,6 +10246,10 @@
   {
     "wordingKey": "WORD_MODE",
     "value": "模式"
+  },
+  {
+    "wordingKey": "WORD_MODEL_TEXTURE_QUALITY_SETTING",
+    "value": "貼圖品質"
   },
   {
     "wordingKey": "WORD_MODE_SETTING",
@@ -11521,11 +11533,11 @@
   },
   {
     "wordingKey": "WORD_RANKMATCH",
-    "value": "等級對戰"
+    "value": "段位配對"
   },
   {
     "wordingKey": "WORD_RANKMATCH_RANKING",
-    "value": "等級對戰排行"
+    "value": "段位配對排行"
   },
   {
     "wordingKey": "WORD_RANKMATCH_RECORD",
@@ -11805,7 +11817,7 @@
   },
   {
     "wordingKey": "WORD_RETURN_RANK_LIVE",
-    "value": "返回等級對戰"
+    "value": "返回段位配對"
   },
   {
     "wordingKey": "WORD_REVERT_BEFORE_EDIT",
