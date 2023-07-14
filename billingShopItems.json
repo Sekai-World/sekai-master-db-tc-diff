@@ -3863,5 +3863,37 @@
     "startAt": 1688097600000,
     "endAt": 1689317999000,
     "purchaseOption": "exchange"
+  },
+  {
+    "id": 30028,
+    "seq": 2020,
+    "billingShopItemType": "costume_3d",
+    "name": "海軍休閒風裙裝(女性)",
+    "description": "海軍休閒風裙裝(女性)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30028",
+    "resourceBoxId": 30028,
+    "label": "期間限定",
+    "startAt": 1690700400000,
+    "endAt": 1691909999000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 30029,
+    "seq": 2021,
+    "billingShopItemType": "costume_3d",
+    "name": "海軍休閒風套裝(男性)",
+    "description": "海軍休閒風套裝(男性)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30029",
+    "resourceBoxId": 30029,
+    "label": "期間限定",
+    "startAt": 1690700400000,
+    "endAt": 1691909999000,
+    "purchaseOption": "exchange"
   }
 ]

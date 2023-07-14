@@ -3101,7 +3101,7 @@
         "resourceBoxId": 110,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 1692601200000,
+        "startAt": 1692514800000,
         "endAt": 1692860399000
       },
       {
@@ -3111,8 +3111,8 @@
         "seq": 99900,
         "resourceBoxId": 179,
         "costPaidJewel": 1000,
-        "startAt": 1688540400000,
-        "endAt": 1688885999000
+        "startAt": 1692514800000,
+        "endAt": 1692860399000
       }
     ],
     "virtualShopType": "special_live"
@@ -3204,18 +3204,7 @@
   {
     "id": 130,
     "name": "一歌 BIRTHDAY",
-    "virtualShopItems": [
-      {
-        "id": 236,
-        "virtualShopId": 130,
-        "virtualShopItemType": "coordinate",
-        "seq": 99897,
-        "resourceBoxId": 117,
-        "costPaidJewel": 1000,
-        "startAt": 1691564400000,
-        "endAt": 1691823599000
-      }
-    ],
+    "virtualShopItems": [],
     "virtualShopType": "birthday"
   },
   {
