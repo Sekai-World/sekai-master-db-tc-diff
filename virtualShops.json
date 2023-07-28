@@ -3024,6 +3024,80 @@
     "virtualShopType": "event"
   },
   {
+    "id": 118,
+    "name": "連線LIVE 正式公演（票券商店）",
+    "virtualLiveId": 154,
+    "virtualShopItems": [
+      {
+        "id": 220,
+        "virtualShopId": 118,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299996,
+        "resourceBoxId": 171,
+        "costPaidJewel": 1980,
+        "startAt": 1685775600000,
+        "endAt": 1686499199000,
+        "limitValue": 3
+      },
+      {
+        "id": 221,
+        "virtualShopId": 118,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299997,
+        "resourceBoxId": 172,
+        "costPaidJewel": 3980,
+        "startAt": 1685775600000,
+        "endAt": 1686499199000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 119,
+    "name": "連線LIVE 正式公演（販售周邊商店）",
+    "virtualLiveId": 154,
+    "virtualShopItems": [
+      {
+        "id": 222,
+        "virtualShopId": 119,
+        "virtualShopItemType": "costume",
+        "seq": 9,
+        "resourceBoxId": 173,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1685775600000,
+        "endAt": 1686553199000,
+        "limitValue": 1
+      },
+      {
+        "id": 223,
+        "virtualShopId": 119,
+        "virtualShopItemType": "costume",
+        "seq": 8,
+        "resourceBoxId": 174,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1685775600000,
+        "endAt": 1686553199000,
+        "limitValue": 1
+      },
+      {
+        "id": 224,
+        "virtualShopId": 119,
+        "virtualShopItemType": "accessory",
+        "seq": 7,
+        "resourceBoxId": 175,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1685775600000,
+        "endAt": 1686553199000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 120,
     "name": "第61回活動販售",
     "virtualShopItems": [
@@ -3059,18 +3133,7 @@
   {
     "id": 122,
     "name": "類 BIRTHDAY",
-    "virtualShopItems": [
-      {
-        "id": 227,
-        "virtualShopId": 122,
-        "virtualShopItemType": "coordinate",
-        "seq": 99901,
-        "resourceBoxId": 107,
-        "costPaidJewel": 1000,
-        "startAt": 1687417200000,
-        "endAt": 1687676399000
-      }
-    ],
+    "virtualShopItems": [],
     "virtualShopType": "birthday"
   },
   {
@@ -3137,18 +3200,7 @@
   {
     "id": 126,
     "name": "寧寧 BIRTHDAY",
-    "virtualShopItems": [
-      {
-        "id": 232,
-        "virtualShopId": 126,
-        "virtualShopItemType": "coordinate",
-        "seq": 99899,
-        "resourceBoxId": 112,
-        "costPaidJewel": 1000,
-        "startAt": 1689663600000,
-        "endAt": 1689922799000
-      }
-    ],
+    "virtualShopItems": [],
     "virtualShopType": "birthday"
   },
   {
@@ -3170,18 +3222,7 @@
   {
     "id": 128,
     "name": "杏 BIRTHDAY",
-    "virtualShopItems": [
-      {
-        "id": 234,
-        "virtualShopId": 128,
-        "virtualShopItemType": "coordinate",
-        "seq": 99898,
-        "resourceBoxId": 114,
-        "costPaidJewel": 1000,
-        "startAt": 1690182000000,
-        "endAt": 1690441199000
-      }
-    ],
+    "virtualShopItems": [],
     "virtualShopType": "birthday"
   },
   {
@@ -3243,35 +3284,13 @@
   {
     "id": 133,
     "name": "瑞希 BIRTHDAY",
-    "virtualShopItems": [
-      {
-        "id": 239,
-        "virtualShopId": 133,
-        "virtualShopItemType": "coordinate",
-        "seq": 99896,
-        "resourceBoxId": 120,
-        "costPaidJewel": 1000,
-        "startAt": 1692946800000,
-        "endAt": 1693205999000
-      }
-    ],
+    "virtualShopItems": [],
     "virtualShopType": "birthday"
   },
   {
     "id": 134,
     "name": "初音未來 ANNIVERSARY",
-    "virtualShopItems": [
-      {
-        "id": 240,
-        "virtualShopId": 134,
-        "virtualShopItemType": "coordinate",
-        "seq": 99895,
-        "resourceBoxId": 121,
-        "costPaidJewel": 1000,
-        "startAt": 1693292400000,
-        "endAt": 1693551599000
-      }
-    ],
+    "virtualShopItems": [],
     "virtualShopType": "birthday"
   },
   {
@@ -3293,18 +3312,7 @@
   {
     "id": 137,
     "name": "笑夢 BIRTHDAY",
-    "virtualShopItems": [
-      {
-        "id": 243,
-        "virtualShopId": 137,
-        "virtualShopItemType": "coordinate",
-        "seq": 99894,
-        "resourceBoxId": 123,
-        "costPaidJewel": 1000,
-        "startAt": 1694070000000,
-        "endAt": 1694329199000
-      }
-    ],
+    "virtualShopItems": [],
     "virtualShopType": "birthday"
   },
   {

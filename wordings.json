@@ -249,7 +249,7 @@
   },
   {
     "wordingKey": "MESSAGE_RANK_MATCH_WARN_PENALTY_DIALOG",
-    "value": "由於您在段位配對時中斷連線，這次LIVE的結果為失敗。\n\n若重複偵測到有中斷連線、不適當的行為，您將有可能會無法參加段位配對，或帳號被停權。"
+    "value": "由於偵測到您在段位配對中有中斷連線、不適當的行為，\n這次LIVE的結果為敗北。\n\n若重複偵測到有中斷連線、不適當的行為，\n您將有可能會無法參加段位配對，\n或帳號被停權。"
   },
   {
     "wordingKey": "MHZ",
@@ -302,10 +302,6 @@
   {
     "wordingKey": "MSG_ALERT_TIME_OVER_EXCHANGE_TICKET",
     "value": "※超過交換期限的票券將無法使用。"
-  },
-  {
-    "wordingKey": "MSG_ALL_MV_DATA_DOWNLOAD_WARNING",
-    "value": "若下載檔案大於50MB，\n建議您在Wi-Fi網路環境下進行下載。\n\n若在資料管理中限制了MV檔案數量，\n設定將更改為「全部儲存」。"
   },
   {
     "wordingKey": "MSG_ALL_UNLOCK_STORY",
@@ -392,26 +388,6 @@
     "value": "因商店已完成退費，將開始進行處理。"
   },
   {
-    "wordingKey": "MSG_BLOCKED_USER_CHAT",
-    "value": "已隱藏封鎖中玩家的發言。"
-  },
-  {
-    "wordingKey": "MSG_BLOCK_LIST_BLOCK_CONFIRM",
-    "value": "即將封鎖此玩家，\n確定嗎？"
-  },
-  {
-    "wordingKey": "MSG_BLOCK_LIST_NOTIFICATION_BLOCK",
-    "value": "已封鎖此玩家。"
-  },
-  {
-    "wordingKey": "MSG_BLOCK_LIST_NOTIFICATION_UNBLOCK",
-    "value": "已解除封鎖此玩家。"
-  },
-  {
-    "wordingKey": "MSG_BLOCK_LIST_UNBLOCK_CONFIRM",
-    "value": "即將解除封鎖此玩家，\n確定嗎？"
-  },
-  {
     "wordingKey": "MSG_BONDS_CHARACTER_SELECT_DESCRIPTION",
     "value": "請選擇要確認情誼等級的角色。"
   },
@@ -433,7 +409,7 @@
   },
   {
     "wordingKey": "MSG_BOOST_RECOVER_METHOD_JEWEL_CONFIRM",
-    "value": "要使用{0}水晶\n恢復{1}LIVE BONUS嗎？"
+    "value": "要使用水晶\n恢復{0}LIVE BONUS嗎？"
   },
   {
     "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
@@ -537,7 +513,7 @@
   },
   {
     "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
-    "value": "將消耗<color=#FF55AA>{1}個<\/color>{0} \n打開「{2}」， \n確定嗎？"
+    "value": "將消耗<color=#FF55AA>{1}個<\/color> <color=#FF55AA>來抽{2}次<\/color>\n「{3}」， 確定嗎？"
   },
   {
     "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
@@ -580,50 +556,6 @@
     "value": "※在進行招募前，可以自由編輯Pick Up清單。"
   },
   {
-    "wordingKey": "MSG_COMMUNITY_REPORT_BUSINESS_CONDUCT",
-    "value": "營利行為或徵求代打"
-  },
-  {
-    "wordingKey": "MSG_COMMUNITY_REPORT_CHEATING",
-    "value": "不當行為"
-  },
-  {
-    "wordingKey": "MSG_COMMUNITY_REPORT_COMPLETE_DIALOG",
-    "value": "已完成檢舉。\n感謝您的協助。"
-  },
-  {
-    "wordingKey": "MSG_COMMUNITY_REPORT_DIALOG_BODY",
-    "value": "請選擇檢舉內容。"
-  },
-  {
-    "wordingKey": "MSG_COMMUNITY_REPORT_DIALOG_CHECKBOX_EXPLANATION",
-    "value": "請盡可能具體說明檢舉原因。"
-  },
-  {
-    "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_CHARACTER",
-    "value": "對角色或團體的言語騷擾或攻擊性言論"
-  },
-  {
-    "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_OTHERS",
-    "value": "對他人的言語騷擾或攻擊性言論"
-  },
-  {
-    "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_SELF",
-    "value": "對自己的言語騷擾或攻擊性言論"
-  },
-  {
-    "wordingKey": "MSG_COMMUNITY_REPORT_OBSCENE_REMARKS",
-    "value": "猥褻或色情言論"
-  },
-  {
-    "wordingKey": "MSG_COMMUNITY_REPORT_OTHER",
-    "value": "其他、違反服務條款"
-  },
-  {
-    "wordingKey": "MSG_COMMUNITY_REPORT_THANKS",
-    "value": "已針對您檢舉的玩家進行懲處。\n感謝您的協助。"
-  },
-  {
     "wordingKey": "MSG_CONDITION_GET_CARD",
     "value": "獲得「[{0}] {1}」"
   },
@@ -634,10 +566,6 @@
   {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
     "value": "將連動下列遊戲資料，\n確認執行？"
-  },
-  {
-    "wordingKey": "MSG_CONFIRM_MYLIST_RESET",
-    "value": "即將重置我的播放清單「{0}」，\n回到未添加任何歌曲的狀態。\n確定要執行嗎？"
   },
   {
     "wordingKey": "MSG_CONFIRM_OVERWRITE_DATA_LINK_ANDROID",
@@ -856,10 +784,6 @@
     "value": "更新"
   },
   {
-    "wordingKey": "MSG_EDITABLE_MYLIST",
-    "value": "添加喜愛的歌曲，\n建立自己專屬的播放清單吧。"
-  },
-  {
     "wordingKey": "MSG_EMPTY_HISTORY",
     "value": "沒有參加過的賽季。"
   },
@@ -1056,20 +980,12 @@
     "value": "已送出好友申請。"
   },
   {
-    "wordingKey": "MSG_FRIEND_REQUEST_BLOCKED_USER",
-    "value": "您已封鎖此玩家，無法進行好友申請。"
-  },
-  {
     "wordingKey": "MSG_FRIEND_REQUEST_COMPLETE",
     "value": "已送出好友申請。"
   },
   {
     "wordingKey": "MSG_FRIEND_REQUEST_MESSAGE",
     "value": "要以此內容送出好友申請嗎？"
-  },
-  {
-    "wordingKey": "MSG_FRIEND_REQUEST_NOT_REQUEST",
-    "value": "您無法對此玩家送出好友申請。"
   },
   {
     "wordingKey": "MSG_FRIEND_REQUEST_REJECT",
@@ -1186,14 +1102,6 @@
   {
     "wordingKey": "MSG_INHERIT_IPASS_OVERWRITE_CONFIRM",
     "value": "要捨棄先前發送的帳號綁定ID與目前設定的密碼，\n再次設定密碼嗎？"
-  },
-  {
-    "wordingKey": "MSG_INHERIT_LIMIT_START",
-    "value": "您的活動排行已達到<color=#ff5588>1000名以內<\/color>。\n\n為維護活動的公平性，\n排名達到<color=#ff5588>1000名以內<\/color>的玩家\n在該活動期間的資料繼承次數將受到限制。\n\n限制期間：到活動結束（{0}）為止\n限制次數：剩下{1}次\n\n感謝您的諒解。"
-  },
-  {
-    "wordingKey": "MSG_INHERIT_LIMT_REST",
-    "value": "※到舉辦中的活動結束（{0}）為止\n還可以使用{1}次。"
   },
   {
     "wordingKey": "MSG_INHERIT_SETTING_ERROR",
@@ -1594,14 +1502,6 @@
   {
     "wordingKey": "MSG_MV_SAVE_SIZE_SETTING_EXPLANATION",
     "value": "您可以透過減少裝置中儲存的MV檔案來降低使用容量。\n超過設定上限的MV檔案將由舊至新依序刪除，並於播放時重新下載。"
-  },
-  {
-    "wordingKey": "MSG_MYLISTNAME_INPUT",
-    "value": "我的播放清單名稱最多僅能輸入7個字。"
-  },
-  {
-    "wordingKey": "MSG_MYLISTNAME_INPUT_TIPS",
-    "value": "※可在之後更改。"
   },
   {
     "wordingKey": "MSG_NAME_INPUT",
@@ -2074,10 +1974,6 @@
   {
     "wordingKey": "MSG_RESULT_ALREADY_DISCONNECT_HOME",
     "value": "因已中斷連線，\n將返回主畫面。"
-  },
-  {
-    "wordingKey": "MSG_RESULT_DAILY_BONUS_COUNT",
-    "value": "（今日還剩{0}次）"
   },
   {
     "wordingKey": "MSG_REWARD_SCALE",
@@ -2836,6 +2732,14 @@
     "value": "此為發送音樂卡平衡性調整的補償。"
   },
   {
+    "wordingKey": "UPGRADE_2_6_ARCHIVE_COMPLETE_READ_REWARD",
+    "value": "不知道写啥"
+  },
+  {
+    "wordingKey": "UPGRADE_2_6_COLORFUL_PASS_REWARD",
+    "value": "不知道写啥"
+  },
+  {
     "wordingKey": "USER_POLICY",
     "value": "https:\/\/sf19-draftcdn-sg.ibytedtos.com\/obj\/ies-hotsoon-draft-sg\/GSDK\/c0858dad-b239-41ab-b97e-82a12f225c3b.html"
   },
@@ -2945,7 +2849,7 @@
   },
   {
     "wordingKey": "WORD_ACHIEVED_MISSION_COUNT",
-    "value": "已完成{0}件"
+    "value": "已達成 {0}件"
   },
   {
     "wordingKey": "WORD_ACHIEVEMENT",
@@ -3256,34 +3160,6 @@
     "value": "生日"
   },
   {
-    "wordingKey": "WORD_BLOCKED_USER",
-    "value": "封鎖玩家"
-  },
-  {
-    "wordingKey": "WORD_BLOCK_LIST",
-    "value": "封鎖清單"
-  },
-  {
-    "wordingKey": "WORD_BLOCK_LIST_BLOCK_DIALOG_TITLE",
-    "value": "封鎖"
-  },
-  {
-    "wordingKey": "WORD_BLOCK_LIST_BLOCK_FINISH",
-    "value": "已封鎖"
-  },
-  {
-    "wordingKey": "WORD_BLOCK_LIST_MANAGEMENT",
-    "value": "管理清單"
-  },
-  {
-    "wordingKey": "WORD_BLOCK_LIST_UNBLOCK_DIALOG_TITLE",
-    "value": "解除封鎖"
-  },
-  {
-    "wordingKey": "WORD_BLOCK_LIST_UNBLOCK_FINISH",
-    "value": "已解除封鎖"
-  },
-  {
     "wordingKey": "WORD_BODY",
     "value": "服裝"
   },
@@ -3382,14 +3258,6 @@
   {
     "wordingKey": "WORD_BONUSEVENT_NAME",
     "value": "活動加成"
-  },
-  {
-    "wordingKey": "WORD_BONUS_MISSION",
-    "value": "獎勵任務"
-  },
-  {
-    "wordingKey": "WORD_BONUS_MISSION_TAB",
-    "value": "獎勵"
   },
   {
     "wordingKey": "WORD_BONUS_POINT_ALL_PERFECT_FORMAT",
@@ -3886,22 +3754,6 @@
   {
     "wordingKey": "WORD_COMBO_ENG",
     "value": "COMBO"
-  },
-  {
-    "wordingKey": "WORD_COMMUNICATION",
-    "value": "交流"
-  },
-  {
-    "wordingKey": "WORD_COMMUNITY_REPORT",
-    "value": "報告"
-  },
-  {
-    "wordingKey": "WORD_COMMUNITY_REPORT_COMPLETE",
-    "value": "已檢舉"
-  },
-  {
-    "wordingKey": "WORD_COMMUNITY_REPORT_DIALOG_TITLE",
-    "value": "檢舉頁面"
   },
   {
     "wordingKey": "WORD_COMPLETE_LEVELUP",
@@ -8324,18 +8176,6 @@
     "value": "編組"
   },
   {
-    "wordingKey": "WORD_DECK_EDIT_RESET_MEMBER",
-    "value": "移除"
-  },
-  {
-    "wordingKey": "WORD_DECK_EDIT_SELECT_MEMBER",
-    "value": "選擇成員"
-  },
-  {
-    "wordingKey": "WORD_DECK_EDIT_SWAP_MEMBER",
-    "value": "排序"
-  },
-  {
     "wordingKey": "WORD_DECK_TOTAL_POWER",
     "value": "綜合力"
   },
@@ -8420,10 +8260,6 @@
     "value": "已下載"
   },
   {
-    "wordingKey": "WORD_DOWNLOAD_ALL_MV_DATA",
-    "value": "3D、2D、原曲MV"
-  },
-  {
     "wordingKey": "WORD_DOWNLOAD_CONFIRM",
     "value": "確認下載"
   },
@@ -8450,10 +8286,6 @@
   {
     "wordingKey": "WORD_EASY_FILTER",
     "value": "簡單篩選"
-  },
-  {
-    "wordingKey": "WORD_EDIT_MYLIST",
-    "value": "編輯我的播放清單"
   },
   {
     "wordingKey": "WORD_EFFECT",
@@ -8485,7 +8317,7 @@
   },
   {
     "wordingKey": "WORD_END_AT_FORMAT",
-    "value": "到2022\/11\/21 14:59為止"
+    "value": "inst. ver."
   },
   {
     "wordingKey": "WORD_ENTER_LIMIT",
@@ -8740,18 +8572,6 @@
     "value": "有3DMV"
   },
   {
-    "wordingKey": "WORD_EXIST_MVFILTER_2D_MV",
-    "value": "有2DMV"
-  },
-  {
-    "wordingKey": "WORD_EXIST_MVFILTER_3D_MV",
-    "value": "有3DMV"
-  },
-  {
-    "wordingKey": "WORD_EXIST_MVFILTER_ORIGINAL_MV",
-    "value": "有原曲MV"
-  },
-  {
     "wordingKey": "WORD_EXPECTED_TIME",
     "value": "預測時間"
   },
@@ -8896,24 +8716,8 @@
     "value": "好友申請"
   },
   {
-    "wordingKey": "WORD_FRIEND_REQUEST_ALL_RECEIVE",
-    "value": "全部接受"
-  },
-  {
-    "wordingKey": "WORD_FRIEND_REQUEST_BLOCK",
-    "value": "不接受"
-  },
-  {
-    "wordingKey": "WORD_FRIEND_REQUEST_CONFIG",
-    "value": "接受好友申請"
-  },
-  {
     "wordingKey": "WORD_FRIEND_REQUEST_DEFAULT_MESSAGE",
     "value": "請多指教！"
-  },
-  {
-    "wordingKey": "WORD_FRIEND_REQUEST_IS_SEARCH",
-    "value": "只接受透過ID搜尋"
   },
   {
     "wordingKey": "WORD_FRIEND_REQUEST_MESSAGE_BODY",
@@ -9328,10 +9132,6 @@
     "value": "・「<color=#3FD5C8>{0}<\/color>」無法和部分飾品同時設定。"
   },
   {
-    "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_4",
-    "value": "・「<color=#3FD5C8>{0}<\/color>」無法和部分飾品同時設定。"
-  },
-  {
     "wordingKey": "WORD_HAIR_TYPE",
     "value": "髮型"
   },
@@ -9516,14 +9316,6 @@
     "value": "重要的\n道具"
   },
   {
-    "wordingKey": "WORD_INDEFINITE_PERIOD",
-    "value": "停止期間 無限期"
-  },
-  {
-    "wordingKey": "WORD_INHERIT_LIMIT_START",
-    "value": "請注意資料繼承限制"
-  },
-  {
     "wordingKey": "WORD_INHERIT_SETTING",
     "value": "帳號綁定設定"
   },
@@ -9702,10 +9494,6 @@
   {
     "wordingKey": "WORD_LIVE_BONUS_PRESENT",
     "value": "贈送LIVE BONUS"
-  },
-  {
-    "wordingKey": "WORD_LIVE_BONUS_RATE",
-    "value": "LIVE報酬{0}倍"
   },
   {
     "wordingKey": "WORD_LIVE_BONUS_SETTING",
@@ -10144,10 +9932,6 @@
     "value": "無好友申請。"
   },
   {
-    "wordingKey": "WORD_MISSING_BLOCK_USER",
-    "value": "您沒有封鎖任何用戶。"
-  },
-  {
     "wordingKey": "WORD_MISSING_FRIEND",
     "value": "無好友。"
   },
@@ -10220,6 +10004,10 @@
     "value": "隊長遊玩"
   },
   {
+    "wordingKey": "WORD_MISSION_TITLE_PLAY_LIVE_EX",
+    "value": "リーダープレイ"
+  },
+  {
     "wordingKey": "WORD_MISSION_TITLE_READ_AREA_TALK",
     "value": "收集區域對話"
   },
@@ -10242,6 +10030,10 @@
   {
     "wordingKey": "WORD_MISSION_TITLE_WAITING_ROOM",
     "value": "迎接到休息室"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_WAITING_ROOM_EX",
+    "value": "控え室お迎え"
   },
   {
     "wordingKey": "WORD_MODE",
@@ -10282,10 +10074,6 @@
   {
     "wordingKey": "WORD_MULTI_LIVE",
     "value": "多人LIVE"
-  },
-  {
-    "wordingKey": "WORD_MUSIC",
-    "value": "歌曲"
   },
   {
     "wordingKey": "Word_MusicName_1",
@@ -10892,18 +10680,6 @@
     "value": "觀看MV"
   },
   {
-    "wordingKey": "WORD_MYLIST_MUSIC_NUM",
-    "value": "歌曲數量"
-  },
-  {
-    "wordingKey": "WORD_MYLIST_RESET",
-    "value": "重置"
-  },
-  {
-    "wordingKey": "WORD_MYLIST_RESET_DIALOG_TITLE",
-    "value": "確認重置我的播放清單"
-  },
-  {
     "wordingKey": "WORD_MY_LIST",
     "value": "我的播放清單"
   },
@@ -11054,10 +10830,6 @@
   {
     "wordingKey": "WORD_NO_CHARGE",
     "value": "免費"
-  },
-  {
-    "wordingKey": "WORD_NO_ENTER",
-    "value": "禁止入場"
   },
   {
     "wordingKey": "WORD_NO_PLACE_CONTENT",
@@ -11692,10 +11464,6 @@
     "value": "重新進入"
   },
   {
-    "wordingKey": "WORD_REGISTER",
-    "value": "加入"
-  },
-  {
     "wordingKey": "WORD_REJECT",
     "value": "拒絕"
   },
@@ -11788,14 +11556,6 @@
     "value": "LIVE BONUS"
   },
   {
-    "wordingKey": "WORD_RESULT_ADD_VALUE",
-    "value": "+{0}"
-  },
-  {
-    "wordingKey": "WORD_RESULT_DAILY_BONUS",
-    "value": "每日獎勵"
-  },
-  {
     "wordingKey": "WORD_RESUME",
     "value": "繼續"
   },
@@ -11866,10 +11626,6 @@
   {
     "wordingKey": "WORD_SAVED",
     "value": "已儲存"
-  },
-  {
-    "wordingKey": "WORD_SAVE_MYLIST",
-    "value": "儲存至我的播放清單"
   },
   {
     "wordingKey": "WORD_SAVE_RETURN",
@@ -12476,10 +12232,6 @@
     "value": "能力值"
   },
   {
-    "wordingKey": "WORD_STOP_PERIOD",
-    "value": "停止期間 {0}到\/{1:00}\/{2:00} {3:00}:{4:00}為止"
-  },
-  {
     "wordingKey": "WORD_STORY",
     "value": "劇情"
   },
@@ -12658,10 +12410,6 @@
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
     "value": "本日的挑戰"
-  },
-  {
-    "wordingKey": "WORD_TODAY_PART_END",
-    "value": "本日額度已用盡"
   },
   {
     "wordingKey": "WORD_TOGGLE_1",

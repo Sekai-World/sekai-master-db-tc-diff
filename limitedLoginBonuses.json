@@ -999,7 +999,7 @@
     "id": 1027,
     "startAt": 1688097600000,
     "endAt": 1689278399000,
-    "assetbundleName": "summer_2023_1",
+    "assetbundleName": "summer_2023",
     "limitedLoginBonusDetails": [
       {
         "id": 1067,
@@ -1053,55 +1053,69 @@
   },
   {
     "id": 1028,
-    "startAt": 1690689600000,
-    "endAt": 1691870399000,
-    "assetbundleName": "summer_2023_2",
+    "startAt": 1692633600000,
+    "endAt": 1692806399000,
+    "assetbundleName": "qixi_2023",
     "limitedLoginBonusDetails": [
       {
         "id": 1075,
         "limitedLoginBonusId": 1028,
         "day": 1,
+        "resourceBoxId": 1078
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "startAt": 1690689600000,
+    "endAt": 1691870399000,
+    "assetbundleName": "summer_2023_2",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1076,
+        "limitedLoginBonusId": 1029,
+        "day": 1,
         "resourceBoxId": 1065
       },
       {
-        "id": 1076,
-        "limitedLoginBonusId": 1028,
+        "id": 1077,
+        "limitedLoginBonusId": 1029,
         "day": 2,
         "resourceBoxId": 1063
       },
       {
-        "id": 1077,
-        "limitedLoginBonusId": 1028,
+        "id": 1078,
+        "limitedLoginBonusId": 1029,
         "day": 3,
         "resourceBoxId": 1063
       },
       {
-        "id": 1078,
-        "limitedLoginBonusId": 1028,
+        "id": 1079,
+        "limitedLoginBonusId": 1029,
         "day": 4,
         "resourceBoxId": 1063
       },
       {
-        "id": 1079,
-        "limitedLoginBonusId": 1028,
+        "id": 1080,
+        "limitedLoginBonusId": 1029,
         "day": 5,
         "resourceBoxId": 1063
       },
       {
-        "id": 1080,
-        "limitedLoginBonusId": 1028,
+        "id": 1081,
+        "limitedLoginBonusId": 1029,
         "day": 6,
         "resourceBoxId": 1063
       },
       {
-        "id": 1081,
-        "limitedLoginBonusId": 1028,
+        "id": 1082,
+        "limitedLoginBonusId": 1029,
         "day": 7,
         "resourceBoxId": 1063
       },
       {
-        "id": 1082,
-        "limitedLoginBonusId": 1028,
+        "id": 1083,
+        "limitedLoginBonusId": 1029,
         "day": 8,
         "resourceBoxId": 1067
       }

@@ -8480,7 +8480,7 @@
         "id": 1000535,
         "eventStoryId": 67,
         "episodeNo": 1,
-        "title": "朝個人表演LIVE前進",
+        "title": "朝專場LIVE前進",
         "assetbundleName": "event_blue_2022_01",
         "scenarioId": "event_67_01",
         "releaseConditionId": 1,
@@ -8585,7 +8585,7 @@
         "id": 1000542,
         "eventStoryId": 67,
         "episodeNo": 8,
-        "title": "個人表演成功",
+        "title": "專場LIVE成功",
         "assetbundleName": "event_blue_2022_08",
         "scenarioId": "event_67_08",
         "releaseConditionId": 106607,
@@ -8847,6 +8847,417 @@
           {
             "storyType": "event_story",
             "resourceBoxId": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "eventId": 70,
+    "assetbundleName": "event_rainbow_2022",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000559,
+        "eventStoryId": 70,
+        "episodeNo": 1,
+        "title": "兩個煩惱",
+        "assetbundleName": "event_rainbow_2022_01",
+        "scenarioId": "event_70_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000560,
+        "eventStoryId": 70,
+        "episodeNo": 2,
+        "title": "請告訴我！",
+        "assetbundleName": "event_rainbow_2022_02",
+        "scenarioId": "event_70_02",
+        "releaseConditionId": 106901,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000561,
+        "eventStoryId": 70,
+        "episodeNo": 3,
+        "title": "練習場所是？",
+        "assetbundleName": "event_rainbow_2022_03",
+        "scenarioId": "event_70_03",
+        "releaseConditionId": 106902,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000562,
+        "eventStoryId": 70,
+        "episodeNo": 4,
+        "title": "繪名老師的繪畫教室！",
+        "assetbundleName": "event_rainbow_2022_04",
+        "scenarioId": "event_70_04",
+        "releaseConditionId": 106903,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000563,
+        "eventStoryId": 70,
+        "episodeNo": 5,
+        "title": "為了能畫好",
+        "assetbundleName": "event_rainbow_2022_05",
+        "scenarioId": "event_70_05",
+        "releaseConditionId": 106904,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000564,
+        "eventStoryId": 70,
+        "episodeNo": 6,
+        "title": "畫出想畫的",
+        "assetbundleName": "event_rainbow_2022_06",
+        "scenarioId": "event_70_06",
+        "releaseConditionId": 106905,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000565,
+        "eventStoryId": 70,
+        "episodeNo": 7,
+        "title": "來吧，前往幼稚園！",
+        "assetbundleName": "event_rainbow_2022_07",
+        "scenarioId": "event_70_07",
+        "releaseConditionId": 106906,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000566,
+        "eventStoryId": 70,
+        "episodeNo": 8,
+        "title": "繪畫串起的笑容",
+        "assetbundleName": "event_rainbow_2022_08",
+        "scenarioId": "event_70_08",
+        "releaseConditionId": 106907,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "eventId": 71,
+    "assetbundleName": "event_walk_2022",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000567,
+        "eventStoryId": 71,
+        "episodeNo": 1,
+        "title": "關於活動",
+        "assetbundleName": "event_walk_2022_01",
+        "scenarioId": "event_71_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000568,
+        "eventStoryId": 71,
+        "episodeNo": 2,
+        "title": "未完成的音檔",
+        "assetbundleName": "event_walk_2022_02",
+        "scenarioId": "event_71_02",
+        "releaseConditionId": 107001,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000569,
+        "eventStoryId": 71,
+        "episodeNo": 3,
+        "title": "樣品講座！",
+        "assetbundleName": "event_walk_2022_03",
+        "scenarioId": "event_71_03",
+        "releaseConditionId": 107002,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000570,
+        "eventStoryId": 71,
+        "episodeNo": 4,
+        "title": "一起來作曲吧！",
+        "assetbundleName": "event_walk_2022_04",
+        "scenarioId": "event_71_04",
+        "releaseConditionId": 107003,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000571,
+        "eventStoryId": 71,
+        "episodeNo": 5,
+        "title": "自己待的地方",
+        "assetbundleName": "event_walk_2022_05",
+        "scenarioId": "event_71_05",
+        "releaseConditionId": 107004,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000572,
+        "eventStoryId": 71,
+        "episodeNo": 6,
+        "title": "希望能傳遞出去",
+        "assetbundleName": "event_walk_2022_06",
+        "scenarioId": "event_71_06",
+        "releaseConditionId": 107005,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000573,
+        "eventStoryId": 71,
+        "episodeNo": 7,
+        "title": "注入的心願",
+        "assetbundleName": "event_walk_2022_07",
+        "scenarioId": "event_71_07",
+        "releaseConditionId": 107006,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000574,
+        "eventStoryId": 71,
+        "episodeNo": 8,
+        "title": "這次輪到我了",
+        "assetbundleName": "event_walk_2022_08",
+        "scenarioId": "event_71_08",
+        "releaseConditionId": 107007,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "eventId": 72,
+    "assetbundleName": "event_festival_2022",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000575,
+        "eventStoryId": 72,
+        "episodeNo": 1,
+        "title": "「澀谷音樂節」",
+        "assetbundleName": "event_festival_2022_01",
+        "scenarioId": "event_72_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000576,
+        "eventStoryId": 72,
+        "episodeNo": 2,
+        "title": "各自的原委",
+        "assetbundleName": "event_festival_2022_02",
+        "scenarioId": "event_72_02",
+        "releaseConditionId": 107101,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000577,
+        "eventStoryId": 72,
+        "episodeNo": 3,
+        "title": "慶典的前一晚",
+        "assetbundleName": "event_festival_2022_03",
+        "scenarioId": "event_72_03",
+        "releaseConditionId": 107102,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000578,
+        "eventStoryId": 72,
+        "episodeNo": 4,
+        "title": "澀谷音樂節開始！",
+        "assetbundleName": "event_festival_2022_04",
+        "scenarioId": "event_72_04",
+        "releaseConditionId": 107103,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000579,
+        "eventStoryId": 72,
+        "episodeNo": 5,
+        "title": "在那一張中注入了心意",
+        "assetbundleName": "event_festival_2022_05",
+        "scenarioId": "event_72_05",
+        "releaseConditionId": 107104,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000580,
+        "eventStoryId": 72,
+        "episodeNo": 6,
+        "title": "舞台上的閃耀",
+        "assetbundleName": "event_festival_2022_06",
+        "scenarioId": "event_72_06",
+        "releaseConditionId": 107105,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000581,
+        "eventStoryId": 72,
+        "episodeNo": 7,
+        "title": "慶典的另一側",
+        "assetbundleName": "event_festival_2022_07",
+        "scenarioId": "event_72_07",
+        "releaseConditionId": 107106,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000582,
+        "eventStoryId": 72,
+        "episodeNo": 8,
+        "title": "我想做的事情",
+        "assetbundleName": "event_festival_2022_08",
+        "scenarioId": "event_72_08",
+        "releaseConditionId": 107107,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000583,
+        "eventStoryId": 72,
+        "episodeNo": 9,
+        "title": "感謝的話語",
+        "assetbundleName": "event_festival_2022_09",
+        "scenarioId": "event_72_09",
+        "releaseConditionId": 107108,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000584,
+        "eventStoryId": 72,
+        "episodeNo": 10,
+        "title": "響徹在黃昏的音色",
+        "assetbundleName": "event_festival_2022_10",
+        "scenarioId": "event_72_10",
+        "releaseConditionId": 107109,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 25
           }
         ]
       }
