@@ -20,6 +20,16 @@
     "endAt": 4102415999000
   },
   {
+    "homeBannerId": 449,
+    "seq": 130,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive159",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 159,
+    "startAt": 1692601200000,
+    "endAt": 1692860399000
+  },
+  {
     "homeBannerId": 470,
     "seq": 120,
     "homeBannerType": "general",
@@ -66,6 +76,15 @@
     "transitionDestinationType": "billing_shop_for_first_recharge",
     "startAt": 1667199600000,
     "endAt": 4097113200000
+  },
+  {
+    "homeBannerId": 10035,
+    "seq": 6,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_qixi_2023",
+    "transitionDestinationType": "billing_shop_for_costume_3d",
+    "startAt": 1692633600000,
+    "endAt": 1693497599000
   },
   {
     "homeBannerId": 10101,
