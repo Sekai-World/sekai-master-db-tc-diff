@@ -185,7 +185,7 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "monthly",
-    "assetbundleName": "shop_62",
+    "assetbundleName": "shop_24",
     "resourceBoxId": 90001,
     "bonusResourceBoxId": 90001,
     "startAt": 1630339200000,
@@ -1964,7 +1964,7 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "monthly",
-    "assetbundleName": "shop_62",
+    "assetbundleName": "shop_24",
     "resourceBoxId": 90002,
     "bonusResourceBoxId": 90002,
     "startAt": 1630339200000,
@@ -1979,7 +1979,7 @@
     "billableLimitType": "live_point",
     "billableLimitValue": 3900,
     "billableLimitResetIntervalType": "monthly",
-    "assetbundleName": "shop_62",
+    "assetbundleName": "shop_24",
     "resourceBoxId": 1101,
     "startAt": 1630339200000,
     "endAt": 4097145599000,
@@ -3637,7 +3637,7 @@
     "resourceBoxId": 119,
     "label": "期間限定",
     "startAt": 1693497600000,
-    "endAt": 1696089599000,
+    "endAt": 1695052799000,
     "purchaseOption": "exchange"
   },
   {
@@ -3653,7 +3653,7 @@
     "resourceBoxId": 120,
     "label": "期間限定",
     "startAt": 1693497600000,
-    "endAt": 1696089599000,
+    "endAt": 1695052799000,
     "purchaseOption": "exchange"
   },
   {
@@ -3669,7 +3669,7 @@
     "resourceBoxId": 121,
     "label": "期間限定",
     "startAt": 1693497600000,
-    "endAt": 1696089599000,
+    "endAt": 1695052799000,
     "purchaseOption": "exchange"
   },
   {
@@ -3685,7 +3685,7 @@
     "resourceBoxId": 122,
     "label": "期間限定",
     "startAt": 1693497600000,
-    "endAt": 1696089599000,
+    "endAt": 1695052799000,
     "purchaseOption": "exchange"
   },
   {
@@ -3701,7 +3701,7 @@
     "resourceBoxId": 123,
     "label": "期間限定",
     "startAt": 1693497600000,
-    "endAt": 1696089599000,
+    "endAt": 1695052799000,
     "purchaseOption": "exchange"
   },
   {
@@ -4203,6 +4203,38 @@
     "label": "期間限定",
     "startAt": 1691899200000,
     "endAt": 1692504000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 30034,
+    "seq": 2023,
+    "billingShopItemType": "costume_3d",
+    "name": "校服風格套裝（女性）",
+    "description": "校服風格套裝（女性）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30034",
+    "resourceBoxId": 30034,
+    "label": "期間限定",
+    "startAt": 1693497600000,
+    "endAt": 1694361599000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 30035,
+    "seq": 2022,
+    "billingShopItemType": "costume_3d",
+    "name": "校服風格套裝（男性）",
+    "description": "校服風格套裝（男性）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30035",
+    "resourceBoxId": 30035,
+    "label": "期間限定",
+    "startAt": 1693497600000,
+    "endAt": 1694361599000,
     "purchaseOption": "exchange"
   }
 ]
