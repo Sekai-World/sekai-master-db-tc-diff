@@ -50,6 +50,26 @@
     "endAt": 1693886399000
   },
   {
+    "homeBannerId": 478,
+    "seq": 160,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive169",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 169,
+    "startAt": 1693411200000,
+    "endAt": 1693497599000
+  },
+  {
+    "homeBannerId": 479,
+    "seq": 130,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha233",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 233,
+    "startAt": 1693411200000,
+    "endAt": 1693497599000
+  },
+  {
     "homeBannerId": 10005,
     "seq": 132,
     "homeBannerType": "general",
@@ -74,6 +94,16 @@
     "assetbundleName": "banner_qixi_2023",
     "transitionDestinationType": "billing_shop_for_costume_3d",
     "startAt": 1692633600000,
+    "endAt": 1693497599000
+  },
+  {
+    "homeBannerId": 10036,
+    "seq": 5,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_miku16th_anniversary",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 10912,
+    "startAt": 1693411200000,
     "endAt": 1693497599000
   }
 ]
