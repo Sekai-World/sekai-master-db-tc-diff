@@ -20,54 +20,24 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 471,
+    "homeBannerId": 486,
     "seq": 180,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha230",
+    "assetbundleName": "banner_gacha236",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 230,
-    "startAt": 1692504000000,
-    "endAt": 1693454399000
+    "transitionDestinationId": 236,
+    "startAt": 1694232000000,
+    "endAt": 1695182399000
   },
   {
-    "homeBannerId": 472,
+    "homeBannerId": 487,
     "seq": 170,
     "homeBannerType": "event",
-    "assetbundleName": "event_ribbon_2022",
+    "assetbundleName": "event_rainbow_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 68,
-    "startAt": 1692514800000,
-    "endAt": 1693465199000
-  },
-  {
-    "homeBannerId": 474,
-    "seq": 90,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha231",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 231,
-    "startAt": 1692936000000,
-    "endAt": 1693886399000
-  },
-  {
-    "homeBannerId": 478,
-    "seq": 160,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_virtuallive169",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 169,
-    "startAt": 1693411200000,
-    "endAt": 1693497599000
-  },
-  {
-    "homeBannerId": 479,
-    "seq": 130,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha233",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 233,
-    "startAt": 1693411200000,
-    "endAt": 1693497599000
+    "transitionDestinationId": 70,
+    "startAt": 1694242800000,
+    "endAt": 1695193199000
   },
   {
     "homeBannerId": 10005,
@@ -88,22 +58,13 @@
     "endAt": 4097113200000
   },
   {
-    "homeBannerId": 10035,
-    "seq": 6,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_qixi_2023",
-    "transitionDestinationType": "billing_shop_for_costume_3d",
-    "startAt": 1692633600000,
-    "endAt": 1693497599000
-  },
-  {
-    "homeBannerId": 10036,
-    "seq": 5,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_miku16th_anniversary",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 10912,
-    "startAt": 1693411200000,
-    "endAt": 1693497599000
+    "homeBannerId": 10101,
+    "seq": 1,
+    "homeBannerType": "return",
+    "assetbundleName": "banner_gacha2001",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1100,
+    "startAt": 1693080000000,
+    "endAt": 1695671999000
   }
 ]
