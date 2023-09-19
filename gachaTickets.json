@@ -2,31 +2,55 @@
   {
     "id": 1,
     "name": "招募票券",
-    "assetbundleName": "gacha_ticket"
+    "assetbundleName": "gacha_ticket",
+    "gachaDisplayType": "always"
   },
   {
     "id": 2,
     "name": "★3以上必中票券",
-    "assetbundleName": "over_the_3_ticket"
+    "assetbundleName": "over_the_3_ticket",
+    "gachaDisplayType": "always"
   },
   {
     "id": 3,
     "name": "1週年紀念10連免費招募票券",
-    "assetbundleName": "anniversary_free_gacha_ticket"
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
   },
   {
     "id": 4,
     "name": "[2023新春]10連免費招募票券",
-    "assetbundleName": "free_gacha_10_ticket"
+    "assetbundleName": "free_gacha_10_ticket",
+    "gachaDisplayType": "always"
   },
   {
     "id": 5,
-    "name": "慶祝初音未來日活動招募票券",
-    "assetbundleName": "gacha_ticket"
+    "name": "初音未來日慶祝活動招募票券",
+    "assetbundleName": "gacha_ticket",
+    "gachaDisplayType": "always"
   },
   {
     "id": 6,
     "name": "[2週年紀念]10連免費招募票券",
-    "assetbundleName": "anniversary_free_gacha_ticket"
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 7,
+    "name": "[2024新春]10連免費招募票券",
+    "assetbundleName": "free_gacha_10_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 8,
+    "name": "[2.5週年紀念]10連免費招募票券",
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 9,
+    "name": "[邀請朋友]必中★4成員招募票券",
+    "assetbundleName": "gacha_ticket_star4",
+    "gachaDisplayType": "having"
   }
 ]

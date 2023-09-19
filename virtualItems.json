@@ -122,6 +122,58 @@
     "gameCharacterUnitId": 17
   },
   {
+    "id": 65,
+    "virtualItemCategory": "normal",
+    "seq": 650,
+    "priority": 650,
+    "name": "HAPPY NEW YEAR",
+    "assetbundleName": "event_new_year_06",
+    "costVirtualCoin": 1000,
+    "costJewel": 1000,
+    "cheerPoint": 1000,
+    "effectAssetbundleName": "event_new_year_06",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 66,
+    "virtualItemCategory": "normal",
+    "seq": 660,
+    "priority": 660,
+    "name": "2020生肖「牛」",
+    "assetbundleName": "event_new_year_07",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_new_year_07",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 114,
+    "virtualItemCategory": "normal",
+    "seq": 1140,
+    "priority": 1140,
+    "name": "HAPPY NEW YEAR 2022",
+    "assetbundleName": "event_new_year_2022_01",
+    "costVirtualCoin": 1000,
+    "costJewel": 1000,
+    "cheerPoint": 1000,
+    "effectAssetbundleName": "event_new_year_2022_01",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 115,
+    "virtualItemCategory": "normal",
+    "seq": 1150,
+    "priority": 1150,
+    "name": "2022生肖「虎」",
+    "assetbundleName": "event_new_year_2022_02",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_new_year_2022_02",
+    "effectExpressionType": "throw_effect"
+  },
+  {
     "id": 1,
     "virtualItemCategory": "normal",
     "seq": 10,
@@ -947,32 +999,6 @@
     "effectExpressionType": "throw_effect"
   },
   {
-    "id": 65,
-    "virtualItemCategory": "normal",
-    "seq": 650,
-    "priority": 650,
-    "name": "HAPPY NEW YEAR",
-    "assetbundleName": "event_new_year_06",
-    "costVirtualCoin": 1000,
-    "costJewel": 1000,
-    "cheerPoint": 1000,
-    "effectAssetbundleName": "event_new_year_06",
-    "effectExpressionType": "throw_effect"
-  },
-  {
-    "id": 66,
-    "virtualItemCategory": "normal",
-    "seq": 660,
-    "priority": 660,
-    "name": "2020生肖「牛」",
-    "assetbundleName": "event_new_year_07",
-    "costVirtualCoin": 1500,
-    "costJewel": 1500,
-    "cheerPoint": 1500,
-    "effectAssetbundleName": "event_new_year_07",
-    "effectExpressionType": "throw_effect"
-  },
-  {
     "id": 67,
     "virtualItemCategory": "normal",
     "seq": 670,
@@ -1625,31 +1651,5 @@
     "effectAssetbundleName": "event_anniversary_07",
     "effectExpressionType": "throw_effect",
     "unit": "school_refusal"
-  },
-  {
-    "id": 114,
-    "virtualItemCategory": "normal",
-    "seq": 1140,
-    "priority": 1140,
-    "name": "HAPPY NEW YEAR 2022",
-    "assetbundleName": "event_new_year_2022_01",
-    "costVirtualCoin": 1000,
-    "costJewel": 1000,
-    "cheerPoint": 1000,
-    "effectAssetbundleName": "event_new_year_2022_01",
-    "effectExpressionType": "throw_effect"
-  },
-  {
-    "id": 115,
-    "virtualItemCategory": "normal",
-    "seq": 1150,
-    "priority": 1150,
-    "name": "2022生肖「虎」",
-    "assetbundleName": "event_new_year_2022_02",
-    "costVirtualCoin": 1500,
-    "costJewel": 1500,
-    "cheerPoint": 1500,
-    "effectAssetbundleName": "event_new_year_2022_02",
-    "effectExpressionType": "throw_effect"
   }
 ]

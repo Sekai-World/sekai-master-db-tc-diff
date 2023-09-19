@@ -1,17 +1,11 @@
 [
   {
     "id": 1,
-    "resourceBoxId": 1,
-    "receivableDays": 30,
     "presentSentence": "此為「七彩通行證」的購買獎勵。",
     "expireDays": 30,
     "dailyPaidGachaSpinLimit": 2,
-    "challengeLivePointMultiple": 2,
     "livePointMultiple": 2,
     "boostRecoveryLimit": 20,
-    "dailyAutoLimit": 20,
-    "tabAssetbundleName": "img_tab01",
-    "assetbundleName": "shop_13",
-    "detail": "通行證詳細\n購買獲得\n\"<color=#FF55AA>300<\/color>個水晶（付費）\n七彩通行證生效期間，每天可從「禮物」領取<color=#FF55AA>50<\/color>個水晶（免費）。\"\n30天效果\n\"<color=#FF55AA>30<\/color>天效果為七彩通行證有效期間內可以獲得的獎勵效果：\n・挑戰P獲得量增加為<color=#FF55AA>2<\/color>倍。\n・LIVE P獲得量增加為<color=#FF55AA>2<\/color>倍。\"\n\"・「1天1次付費招募」的次數增加為<color=#FF55AA>1<\/color>天<color=#FF55AA>2<\/color>次。\n・自動恢復的LIVE BONUS上限值從<color=#FF55AA>10<\/color>變為<color=#FF55AA>20<\/color>。\"\n累計規則\n\"獎勵額度與購買次數的關係如下：\n※可從購買頁面查看下個月獲得的累計購買獎勵額度。\"\n\"第1次：<color=#FF55AA>150<\/color>水晶 （免費）\n第2次：<color=#FF55AA>200<\/color>水晶 （免費）\n第3次：<color=#FF55AA>250<\/color>水晶 （免費）\"\n\"第4次：<color=#FF55AA>350<\/color>水晶 （免費）\n第5次：<color=#FF55AA>450<\/color>水晶 （免費）\n第6次：<color=#FF55AA>600<\/color>水晶 （免費）\"\n※累積購買六個月以上，則獎勵額度以最高者計算。\n購買\/續購規則\n\"累積購買六個月以上，則獎勵額度以最高者計算。\n在七彩通行證過期一週內續購，以上次累積購買次數為基準追加<color=#FF55AA>1<\/color>次購買次數。\n超過一週續購，累積購買次數將會重新計算。\"\n※從第7次起獎勵均與第6次相同\n※{0}日內續購即可保留累計購入次數"
+    "dailyAutoLimit": 20
   }
 ]

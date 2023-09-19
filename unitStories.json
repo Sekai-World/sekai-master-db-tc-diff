@@ -2,7 +2,6 @@
   {
     "unit": "idol",
     "seq": 3,
-    "assetbundleName": "idol-story",
     "chapters": [
       {
         "id": 3,
@@ -12,10 +11,9 @@
         "episodes": [
           {
             "id": 30000,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 1,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "序幕",
             "title": "序幕",
             "assetbundleName": "story_ts_01_00",
@@ -27,10 +25,9 @@
           },
           {
             "id": 30001,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 2,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第1章",
             "title": "憧憬的偶像！",
             "assetbundleName": "story_ts_01_01",
@@ -42,323 +39,266 @@
           },
           {
             "id": 30002,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 3,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第2章",
             "title": "說清楚！",
             "assetbundleName": "story_ts_01_02",
             "scenarioId": "mmj_01_02",
-            "releaseConditionId": 20202,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30003,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 4,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第3章",
             "title": "只要努力一定可以",
             "assetbundleName": "story_ts_01_03",
             "scenarioId": "mmj_01_03",
-            "releaseConditionId": 20203,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30004,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 5,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第4章",
             "title": "正因為身為偶像",
             "assetbundleName": "story_ts_01_04",
             "scenarioId": "mmj_01_04",
-            "releaseConditionId": 20204,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30005,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 6,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第5章",
             "title": "來看LIVE吧！",
             "assetbundleName": "story_ts_01_05",
             "scenarioId": "mmj_01_05",
-            "releaseConditionId": 20205,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30006,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 7,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第6章",
             "title": "舞台的「世界」",
             "assetbundleName": "story_ts_01_06",
             "scenarioId": "mmj_01_06",
-            "releaseConditionId": 20206,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30007,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 8,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第7章",
             "title": "偶像們的內心糾葛",
             "assetbundleName": "story_ts_01_07",
             "scenarioId": "mmj_01_07",
-            "releaseConditionId": 20207,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30008,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 9,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第8章",
             "title": "不想聽到的話",
             "assetbundleName": "story_ts_01_08",
             "scenarioId": "mmj_01_08",
-            "releaseConditionId": 20208,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30009,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 10,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第9章",
             "title": "鈴來加油打氣！",
             "assetbundleName": "story_ts_01_09",
             "scenarioId": "mmj_01_09",
-            "releaseConditionId": 20209,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30010,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 11,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第10章",
             "title": "引退",
             "assetbundleName": "story_ts_01_10",
             "scenarioId": "mmj_01_10",
-            "releaseConditionId": 20210,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30011,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 12,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第11章",
             "title": "一直以來，謝謝妳們",
             "assetbundleName": "story_ts_01_11",
             "scenarioId": "mmj_01_11",
-            "releaseConditionId": 20211,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30012,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 13,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第12章",
             "title": "偶像的資格",
             "assetbundleName": "story_ts_01_12",
             "scenarioId": "mmj_01_12",
-            "releaseConditionId": 20212,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30013,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 14,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第13章",
             "title": "騙子",
             "assetbundleName": "story_ts_01_13",
             "scenarioId": "mmj_01_13",
-            "releaseConditionId": 20213,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30014,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 15,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第14章",
             "title": "能傳達的是",
             "assetbundleName": "story_ts_01_14",
             "scenarioId": "mmj_01_14",
-            "releaseConditionId": 20214,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30015,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 16,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第15章",
             "title": "既近又遠的舞台",
             "assetbundleName": "story_ts_01_15",
             "scenarioId": "mmj_01_15",
-            "releaseConditionId": 20215,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30016,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 17,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第16章",
             "title": "藍色的景色",
             "assetbundleName": "story_ts_01_16",
             "scenarioId": "mmj_01_16",
-            "releaseConditionId": 20216,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30017,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 18,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第17章",
             "title": "再讓她看一次那個景色",
             "assetbundleName": "story_ts_01_17",
             "scenarioId": "mmj_01_17",
-            "releaseConditionId": 20217,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30018,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 19,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第18章",
             "title": "那天看到的希望",
             "assetbundleName": "story_ts_01_18",
             "scenarioId": "mmj_01_18",
-            "releaseConditionId": 20218,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30019,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 20,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第19章",
             "title": "偶像新銳隊",
             "assetbundleName": "story_ts_01_19",
             "scenarioId": "mmj_01_19",
-            "releaseConditionId": 20219,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 30020,
-            "unit": "idol",
+            "unitStoryEpisodeGroupId": 7,
             "chapterNo": 1,
             "episodeNo": 21,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第20章",
             "title": "MORE MORE JUMP！",
             "assetbundleName": "story_ts_01_20",
             "scenarioId": "mmj_01_20",
-            "releaseConditionId": 20220,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
@@ -370,7 +310,6 @@
   {
     "unit": "light_sound",
     "seq": 2,
-    "assetbundleName": "light-sound-story",
     "chapters": [
       {
         "id": 5,
@@ -380,10 +319,9 @@
         "episodes": [
           {
             "id": 50000,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 1,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "序幕",
             "title": "序幕",
             "assetbundleName": "story_ts_02_00",
@@ -395,10 +333,9 @@
           },
           {
             "id": 50001,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 2,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第1章",
             "title": "第四名兒時玩伴",
             "assetbundleName": "story_ts_02_01",
@@ -410,323 +347,266 @@
           },
           {
             "id": 50002,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 3,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第2章",
-            "title": "至少由我",
+            "title": "至少有我",
             "assetbundleName": "story_ts_02_02",
             "scenarioId": "leo_01_02",
-            "releaseConditionId": 20102,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50003,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 4,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第3章",
             "title": "只有兩個人有點寂寞呢",
             "assetbundleName": "story_ts_02_03",
             "scenarioId": "leo_01_03",
-            "releaseConditionId": 20103,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50004,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 5,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第4章",
             "title": "教室的「世界」",
             "assetbundleName": "story_ts_02_04",
             "scenarioId": "leo_01_04",
-            "releaseConditionId": 20104,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50005,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 6,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第5章",
             "title": "要不要組樂團？",
             "assetbundleName": "story_ts_02_05",
             "scenarioId": "leo_01_05",
-            "releaseConditionId": 20105,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50006,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 7,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第6章",
             "title": "第一步",
             "assetbundleName": "story_ts_02_06",
             "scenarioId": "leo_01_06",
-            "releaseConditionId": 20106,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50007,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 8,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第7章",
             "title": "流歌姐請教教我！",
             "assetbundleName": "story_ts_02_07",
             "scenarioId": "leo_01_07",
-            "releaseConditionId": 20107,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50008,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 9,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第8章",
             "title": "看不見的星星",
             "assetbundleName": "story_ts_02_08",
             "scenarioId": "leo_01_08",
-            "releaseConditionId": 20108,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50009,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 10,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第9章",
             "title": "三人合奏！？",
             "assetbundleName": "story_ts_02_09",
             "scenarioId": "leo_01_09",
-            "releaseConditionId": 20109,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50010,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 11,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第10章",
             "title": "鐵格子與流星雨",
             "assetbundleName": "story_ts_02_10",
             "scenarioId": "leo_01_10",
-            "releaseConditionId": 20110,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50011,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 12,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第11章",
             "title": "我警告過了",
             "assetbundleName": "story_ts_02_11",
             "scenarioId": "leo_01_11",
-            "releaseConditionId": 20111,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50012,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 13,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第12章",
             "title": "「妳到底站在誰那邊？」",
             "assetbundleName": "story_ts_02_12",
             "scenarioId": "leo_01_12",
-            "releaseConditionId": 20112,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50013,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 14,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第13章",
             "title": "咲希的決心",
             "assetbundleName": "story_ts_02_13",
             "scenarioId": "leo_01_13",
-            "releaseConditionId": 20113,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50014,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 15,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第14章",
             "title": "因為很重要",
             "assetbundleName": "story_ts_02_14",
             "scenarioId": "leo_01_14",
-            "releaseConditionId": 20114,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50015,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 16,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第15章",
             "title": "別騙人了",
             "assetbundleName": "story_ts_02_15",
             "scenarioId": "leo_01_15",
-            "releaseConditionId": 20115,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50016,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 17,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第16章",
             "title": "「永遠在一起」",
             "assetbundleName": "story_ts_02_16",
             "scenarioId": "leo_01_16",
-            "releaseConditionId": 20116,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50017,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 18,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第17章",
             "title": "穗波的心願",
             "assetbundleName": "story_ts_02_17",
             "scenarioId": "leo_01_17",
-            "releaseConditionId": 20117,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50018,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 19,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第18章",
             "title": "四人的星空",
             "assetbundleName": "story_ts_02_18",
             "scenarioId": "leo_01_18",
-            "releaseConditionId": 20118,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50019,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 20,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第19章",
             "title": "NeedLe",
             "assetbundleName": "story_ts_02_19",
             "scenarioId": "leo_01_19",
-            "releaseConditionId": 20119,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 50020,
-            "unit": "light_sound",
+            "unitStoryEpisodeGroupId": 6,
             "chapterNo": 1,
             "episodeNo": 21,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第20章",
             "title": "Leo\/need",
             "assetbundleName": "story_ts_02_20",
             "scenarioId": "leo_01_20",
-            "releaseConditionId": 20120,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
@@ -738,7 +618,6 @@
   {
     "unit": "piapro",
     "seq": 1,
-    "assetbundleName": "piapro-story",
     "chapters": [
       {
         "id": 1,
@@ -748,320 +627,280 @@
         "episodes": [
           {
             "id": 4,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 1,
             "chapterNo": 1,
             "episodeNo": 4,
-            "unitEpisodeCategory": "light_sound",
             "episodeNoLabel": "第1章",
             "title": "秘密練習",
             "assetbundleName": "story_ts_06_01",
             "scenarioId": "vsleo_01_01",
-            "releaseConditionId": 20601,
-            "andReleaseConditionId": 50002,
+            "releaseConditionId": 50002,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 5,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 1,
             "chapterNo": 1,
             "episodeNo": 5,
-            "unitEpisodeCategory": "light_sound",
             "episodeNoLabel": "第2章",
             "title": "前輩才能做到的事",
             "assetbundleName": "story_ts_06_02",
             "scenarioId": "vsleo_01_02",
-            "releaseConditionId": 20607,
-            "andReleaseConditionId": 50003,
+            "releaseConditionId": 50003,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 6,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 1,
             "chapterNo": 1,
             "episodeNo": 6,
-            "unitEpisodeCategory": "light_sound",
             "episodeNoLabel": "第3章",
             "title": "意外的一面",
             "assetbundleName": "story_ts_06_03",
             "scenarioId": "vsleo_01_03",
-            "releaseConditionId": 20614,
-            "andReleaseConditionId": 50004,
+            "releaseConditionId": 50004,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 7,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 1,
             "chapterNo": 1,
             "episodeNo": 7,
-            "unitEpisodeCategory": "light_sound",
             "episodeNoLabel": "第4章",
             "title": "閃耀的每一天",
             "assetbundleName": "story_ts_06_04",
             "scenarioId": "vsleo_01_04",
-            "releaseConditionId": 20620,
-            "andReleaseConditionId": 50005,
+            "releaseConditionId": 50005,
             "rewardResourceBoxIds": [
               10
             ]
           },
           {
             "id": 8,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 2,
             "chapterNo": 1,
             "episodeNo": 8,
-            "unitEpisodeCategory": "idol",
             "episodeNoLabel": "第1章",
             "title": "盡全力LIVE！",
             "assetbundleName": "story_ts_06_05",
             "scenarioId": "vsmmj_01_01",
-            "releaseConditionId": 20601,
-            "andReleaseConditionId": 50006,
+            "releaseConditionId": 50006,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 9,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 2,
             "chapterNo": 1,
             "episodeNo": 9,
-            "unitEpisodeCategory": "idol",
             "episodeNoLabel": "第2章",
             "title": "打起精神",
             "assetbundleName": "story_ts_06_06",
             "scenarioId": "vsmmj_01_02",
-            "releaseConditionId": 20607,
-            "andReleaseConditionId": 50007,
+            "releaseConditionId": 50007,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 10,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 2,
             "chapterNo": 1,
             "episodeNo": 10,
-            "unitEpisodeCategory": "idol",
             "episodeNoLabel": "第3章",
             "title": "藍色舞台",
             "assetbundleName": "story_ts_06_07",
             "scenarioId": "vsmmj_01_03",
-            "releaseConditionId": 20614,
-            "andReleaseConditionId": 50008,
+            "releaseConditionId": 50008,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 11,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 2,
             "chapterNo": 1,
             "episodeNo": 11,
-            "unitEpisodeCategory": "idol",
             "episodeNoLabel": "第4章",
             "title": "大家多人LIVE！",
             "assetbundleName": "story_ts_06_08",
             "scenarioId": "vsmmj_01_04",
-            "releaseConditionId": 20620,
-            "andReleaseConditionId": 50009,
+            "releaseConditionId": 50009,
             "rewardResourceBoxIds": [
               11
             ]
           },
           {
             "id": 12,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 3,
             "chapterNo": 1,
             "episodeNo": 12,
-            "unitEpisodeCategory": "street",
             "episodeNoLabel": "第1章",
             "title": "MEIKO的新菜單",
             "assetbundleName": "story_ts_06_09",
             "scenarioId": "vsstreet_01_01",
-            "releaseConditionId": 20601,
-            "andReleaseConditionId": 50010,
+            "releaseConditionId": 50010,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 13,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 3,
             "chapterNo": 1,
             "episodeNo": 13,
-            "unitEpisodeCategory": "street",
             "episodeNoLabel": "第2章",
             "title": "大人的味道",
             "assetbundleName": "story_ts_06_10",
             "scenarioId": "vsstreet_01_02",
-            "releaseConditionId": 20607,
-            "andReleaseConditionId": 50011,
+            "releaseConditionId": 50011,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 14,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 3,
             "chapterNo": 1,
             "episodeNo": 14,
-            "unitEpisodeCategory": "street",
             "episodeNoLabel": "第3章",
             "title": "和好的一步",
             "assetbundleName": "story_ts_06_11",
             "scenarioId": "vsstreet_01_03",
-            "releaseConditionId": 20614,
-            "andReleaseConditionId": 50012,
+            "releaseConditionId": 50012,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 15,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 3,
             "chapterNo": 1,
             "episodeNo": 15,
-            "unitEpisodeCategory": "street",
             "episodeNoLabel": "第4章",
             "title": "大家一起唱吧！",
             "assetbundleName": "story_ts_06_12",
             "scenarioId": "vsstreet_01_04",
-            "releaseConditionId": 20620,
-            "andReleaseConditionId": 50013,
+            "releaseConditionId": 50013,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 16,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 4,
             "chapterNo": 1,
             "episodeNo": 16,
-            "unitEpisodeCategory": "theme_park",
             "episodeNoLabel": "第1章",
             "title": "玩偶奇幻樂園",
             "assetbundleName": "story_ts_06_13",
             "scenarioId": "vswonder_01_01",
-            "releaseConditionId": 20601,
-            "andReleaseConditionId": 50014,
+            "releaseConditionId": 50014,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 17,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 4,
             "chapterNo": 1,
             "episodeNo": 17,
-            "unitEpisodeCategory": "theme_park",
             "episodeNoLabel": "第2章",
             "title": "有結束才有開始",
             "assetbundleName": "story_ts_06_14",
             "scenarioId": "vswonder_01_02",
-            "releaseConditionId": 20607,
-            "andReleaseConditionId": 50015,
+            "releaseConditionId": 50015,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 18,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 4,
             "chapterNo": 1,
             "episodeNo": 18,
-            "unitEpisodeCategory": "theme_park",
             "episodeNoLabel": "第3章",
             "title": "帶給你笑容的表演",
             "assetbundleName": "story_ts_06_15",
             "scenarioId": "vswonder_01_03",
-            "releaseConditionId": 20614,
-            "andReleaseConditionId": 50016,
+            "releaseConditionId": 50016,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 19,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 4,
             "chapterNo": 1,
             "episodeNo": 19,
-            "unitEpisodeCategory": "theme_park",
             "episodeNoLabel": "第4章",
             "title": "在天上飛的舞台！？",
             "assetbundleName": "story_ts_06_16",
             "scenarioId": "vswonder_01_04",
-            "releaseConditionId": 20620,
-            "andReleaseConditionId": 50017,
+            "releaseConditionId": 50017,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 5,
             "chapterNo": 1,
             "episodeNo": 20,
-            "unitEpisodeCategory": "school_refusal",
             "episodeNoLabel": "第1章",
             "title": "一開始就存在的歌曲",
             "assetbundleName": "story_ts_06_17",
             "scenarioId": "vsnightcode_01_01",
-            "releaseConditionId": 20601,
-            "andReleaseConditionId": 50018,
+            "releaseConditionId": 50018,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 21,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 5,
             "chapterNo": 1,
             "episodeNo": 21,
-            "unitEpisodeCategory": "school_refusal",
             "episodeNoLabel": "第2章",
             "title": "看起來很痛的音符",
             "assetbundleName": "story_ts_06_18",
             "scenarioId": "vsnightcode_01_02",
-            "releaseConditionId": 20607,
-            "andReleaseConditionId": 50019,
+            "releaseConditionId": 50019,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 22,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 5,
             "chapterNo": 1,
             "episodeNo": 22,
-            "unitEpisodeCategory": "school_refusal",
             "episodeNoLabel": "第3章",
             "title": "我就在妳身旁",
             "assetbundleName": "story_ts_06_19",
             "scenarioId": "vsnightcode_01_03",
-            "releaseConditionId": 20614,
-            "andReleaseConditionId": 50020,
+            "releaseConditionId": 50020,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 23,
-            "unit": "piapro",
+            "unitStoryEpisodeGroupId": 5,
             "chapterNo": 1,
             "episodeNo": 23,
-            "unitEpisodeCategory": "school_refusal",
             "episodeNoLabel": "第4章",
             "title": "妳的音樂",
             "assetbundleName": "story_ts_06_20",
             "scenarioId": "vsnightcode_01_04",
-            "releaseConditionId": 20620,
-            "andReleaseConditionId": 50021,
+            "releaseConditionId": 50021,
             "rewardResourceBoxIds": [
               2
             ]
@@ -1073,7 +912,6 @@
   {
     "unit": "school_refusal",
     "seq": 6,
-    "assetbundleName": "school-refusal-story",
     "chapters": [
       {
         "id": 6,
@@ -1083,10 +921,9 @@
         "episodes": [
           {
             "id": 60000,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 1,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "序幕",
             "title": "序幕",
             "assetbundleName": "story_ts_05_00",
@@ -1098,10 +935,9 @@
           },
           {
             "id": 60001,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 2,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第1章",
             "title": "深夜的社團",
             "assetbundleName": "story_ts_05_01",
@@ -1113,323 +949,266 @@
           },
           {
             "id": 60002,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 3,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第2章",
             "title": "白色的初音未來",
             "assetbundleName": "story_ts_05_02",
             "scenarioId": "nightcode_01_02",
-            "releaseConditionId": 20502,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60003,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 4,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第3章",
             "title": "OWN",
             "assetbundleName": "story_ts_05_03",
             "scenarioId": "nightcode_01_03",
-            "releaseConditionId": 20503,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60004,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 5,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第4章",
             "title": "我是乖孩子",
             "assetbundleName": "story_ts_05_04",
             "scenarioId": "nightcode_01_04",
-            "releaseConditionId": 20504,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60005,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 6,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第5章",
             "title": "消失的雪",
             "assetbundleName": "story_ts_05_05",
             "scenarioId": "nightcode_01_05",
-            "releaseConditionId": 20505,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60006,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 7,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第6章",
             "title": "空無一人的「世界」",
             "assetbundleName": "story_ts_05_06",
             "scenarioId": "nightcode_01_06",
-            "releaseConditionId": 20506,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60007,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 8,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第7章",
             "title": "明明想消失",
             "assetbundleName": "story_ts_05_07",
             "scenarioId": "nightcode_01_07",
-            "releaseConditionId": 20507,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60008,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 9,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第8章",
             "title": "凡人的畫作",
             "assetbundleName": "story_ts_05_08",
             "scenarioId": "nightcode_01_08",
-            "releaseConditionId": 20508,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60009,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 10,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第9章",
             "title": "我只是想做我自己而已",
             "assetbundleName": "story_ts_05_09",
             "scenarioId": "nightcode_01_09",
-            "releaseConditionId": 20509,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60010,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 11,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第10章",
             "title": "不足的聲音",
             "assetbundleName": "story_ts_05_10",
             "scenarioId": "nightcode_01_10",
-            "releaseConditionId": 20510,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60011,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 12,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第11章",
             "title": "做出能讓人幸福的音樂",
             "assetbundleName": "story_ts_05_11",
             "scenarioId": "nightcode_01_11",
-            "releaseConditionId": 20511,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60012,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 13,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第12章",
             "title": "唯一的一首歌",
             "assetbundleName": "story_ts_05_12",
             "scenarioId": "nightcode_01_12",
-            "releaseConditionId": 20512,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60013,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 14,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第13章",
             "title": "不存在任何地方的「我」",
             "assetbundleName": "story_ts_05_13",
             "scenarioId": "nightcode_01_13",
-            "releaseConditionId": 20513,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60014,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 15,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第14章",
             "title": "會寂寞吧",
             "assetbundleName": "story_ts_05_14",
             "scenarioId": "nightcode_01_14",
-            "releaseConditionId": 20514,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60015,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 16,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第15章",
             "title": "在消失之前",
             "assetbundleName": "story_ts_05_15",
             "scenarioId": "nightcode_01_15",
-            "releaseConditionId": 20515,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60016,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 17,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第16章",
             "title": "崩壞",
             "assetbundleName": "story_ts_05_16",
             "scenarioId": "nightcode_01_16",
-            "releaseConditionId": 20516,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60017,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 18,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第17章",
             "title": "兩個人的詛咒",
             "assetbundleName": "story_ts_05_17",
             "scenarioId": "nightcode_01_17",
-            "releaseConditionId": 20517,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60018,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 19,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第18章",
             "title": "即使如此也想拯救",
             "assetbundleName": "story_ts_05_18",
             "scenarioId": "nightcode_01_18",
-            "releaseConditionId": 20518,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60019,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 20,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第19章",
             "title": "寫作後悔，讀作未來",
             "assetbundleName": "story_ts_05_19",
             "scenarioId": "nightcode_01_19",
-            "releaseConditionId": 20519,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 60020,
-            "unit": "school_refusal",
+            "unitStoryEpisodeGroupId": 10,
             "chapterNo": 1,
             "episodeNo": 21,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第20章",
             "title": "25點，Nightcord見。",
             "assetbundleName": "story_ts_05_20",
             "scenarioId": "nightcode_01_20",
-            "releaseConditionId": 20520,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
@@ -1441,7 +1220,6 @@
   {
     "unit": "street",
     "seq": 4,
-    "assetbundleName": "street-story",
     "chapters": [
       {
         "id": 4,
@@ -1451,10 +1229,9 @@
         "episodes": [
           {
             "id": 40000,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 1,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "序幕",
             "title": "序幕",
             "assetbundleName": "story_ts_03_00",
@@ -1466,10 +1243,9 @@
           },
           {
             "id": 40001,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 2,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第1章",
             "title": "充滿塗鴉的街道",
             "assetbundleName": "story_ts_03_01",
@@ -1481,323 +1257,266 @@
           },
           {
             "id": 40002,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 3,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第2章",
             "title": "最讓人興奮的歌",
             "assetbundleName": "story_ts_03_02",
             "scenarioId": "street_01_02",
-            "releaseConditionId": 20302,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40003,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 4,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第3章",
             "title": "WEEKEND GARAGE",
             "assetbundleName": "story_ts_03_03",
             "scenarioId": "street_01_03",
-            "releaseConditionId": 20303,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40004,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 5,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第4章",
             "title": "BAD DOGS",
             "assetbundleName": "story_ts_03_04",
             "scenarioId": "street_01_04",
-            "releaseConditionId": 20304,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40005,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 6,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第5章",
             "title": "街頭的「世界」",
             "assetbundleName": "story_ts_03_05",
             "scenarioId": "street_01_05",
-            "releaseConditionId": 20305,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40006,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 7,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第6章",
             "title": "不可思議的咖啡店",
             "assetbundleName": "story_ts_03_06",
             "scenarioId": "street_01_06",
-            "releaseConditionId": 20306,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40007,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 8,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第7章",
             "title": "絕佳的練習場所",
             "assetbundleName": "story_ts_03_07",
             "scenarioId": "street_01_07",
-            "releaseConditionId": 20307,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40008,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 9,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第8章",
             "title": "我希望我是這麼想的",
             "assetbundleName": "story_ts_03_08",
             "scenarioId": "street_01_08",
-            "releaseConditionId": 20308,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40009,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 10,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第9章",
             "title": "第一次參加活動",
             "assetbundleName": "story_ts_03_09",
             "scenarioId": "street_01_09",
-            "releaseConditionId": 20309,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40010,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 11,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第10章",
             "title": "被質疑的決心",
             "assetbundleName": "story_ts_03_10",
             "scenarioId": "street_01_10",
-            "releaseConditionId": 20310,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40011,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 12,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第11章",
             "title": "打開門的勇氣",
             "assetbundleName": "story_ts_03_11",
             "scenarioId": "street_01_11",
-            "releaseConditionId": 20311,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40012,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 13,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第12章",
             "title": "絕對，不會逃避！",
             "assetbundleName": "story_ts_03_12",
             "scenarioId": "street_01_12",
-            "releaseConditionId": 20312,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40013,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 14,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第13章",
             "title": "Vivids！",
             "assetbundleName": "story_ts_03_13",
             "scenarioId": "street_01_13",
-            "releaseConditionId": 20313,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40014,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 15,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第14章",
             "title": "你認真的？",
             "assetbundleName": "story_ts_03_14",
             "scenarioId": "street_01_14",
-            "releaseConditionId": 20314,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40015,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 16,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第15章",
             "title": "獲得認同了",
             "assetbundleName": "story_ts_03_15",
             "scenarioId": "street_01_15",
-            "releaseConditionId": 20315,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40016,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 17,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第16章",
             "title": "第三人",
             "assetbundleName": "story_ts_03_16",
             "scenarioId": "street_01_16",
-            "releaseConditionId": 20316,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40017,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 18,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第17章",
             "title": "連與MEIKO與特調",
             "assetbundleName": "story_ts_03_17",
             "scenarioId": "street_01_17",
-            "releaseConditionId": 20317,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40018,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 19,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第18章",
             "title": "了斷",
             "assetbundleName": "story_ts_03_18",
             "scenarioId": "street_01_18",
-            "releaseConditionId": 20318,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40019,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 20,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第19章",
             "title": "Ready Steady",
             "assetbundleName": "story_ts_03_19",
             "scenarioId": "street_01_19",
-            "releaseConditionId": 20319,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 40020,
-            "unit": "street",
+            "unitStoryEpisodeGroupId": 8,
             "chapterNo": 1,
             "episodeNo": 21,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第20章",
             "title": "Vivid BAD SQUAD",
             "assetbundleName": "story_ts_03_20",
             "scenarioId": "street_01_20",
-            "releaseConditionId": 20320,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
@@ -1809,7 +1528,6 @@
   {
     "unit": "theme_park",
     "seq": 5,
-    "assetbundleName": "theme-park-story",
     "chapters": [
       {
         "id": 2,
@@ -1819,10 +1537,9 @@
         "episodes": [
           {
             "id": 20000,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 1,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "序幕",
             "title": "序幕",
             "assetbundleName": "story_ts_04_00",
@@ -1834,10 +1551,9 @@
           },
           {
             "id": 20001,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 2,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第1章",
             "title": "歡迎來到奇幻舞台！",
             "assetbundleName": "story_ts_04_01",
@@ -1849,323 +1565,266 @@
           },
           {
             "id": 20002,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 3,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第2章",
             "title": "明日之星與Wonderhoi",
             "assetbundleName": "story_ts_04_02",
             "scenarioId": "wonder_01_02",
-            "releaseConditionId": 20402,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20003,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 4,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第3章",
             "title": "奇幻樂園的「世界」",
             "assetbundleName": "story_ts_04_03",
             "scenarioId": "wonder_01_03",
-            "releaseConditionId": 20403,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20004,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 5,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第4章",
             "title": "尋找成員吧！",
             "assetbundleName": "story_ts_04_04",
             "scenarioId": "wonder_01_04",
-            "releaseConditionId": 20404,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20005,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 6,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第5章",
             "title": "奇異的劇場導演",
             "assetbundleName": "story_ts_04_05",
             "scenarioId": "wonder_01_05",
-            "releaseConditionId": 20405,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20006,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 7,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第6章",
             "title": "第四位成員？",
             "assetbundleName": "story_ts_04_06",
             "scenarioId": "wonder_01_06",
-            "releaseConditionId": 20406,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20007,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 8,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第7章",
             "title": "寧寧機器人，踏上舞台！？",
             "assetbundleName": "story_ts_04_07",
             "scenarioId": "wonder_01_07",
-            "releaseConditionId": 20407,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20008,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 9,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第8章",
             "title": "組成！表演團體！",
             "assetbundleName": "story_ts_04_08",
             "scenarioId": "wonder_01_08",
-            "releaseConditionId": 20408,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20009,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 10,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第9章",
             "title": "怪人，發揮本領",
             "assetbundleName": "story_ts_04_09",
             "scenarioId": "wonder_01_09",
-            "releaseConditionId": 20409,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20010,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 11,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第10章",
             "title": "KAITO的提示",
             "assetbundleName": "story_ts_04_10",
             "scenarioId": "wonder_01_10",
-            "releaseConditionId": 20410,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20011,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 12,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第11章",
             "title": "笑夢的夢想",
             "assetbundleName": "story_ts_04_11",
             "scenarioId": "wonder_01_11",
-            "releaseConditionId": 20411,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20012,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 13,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第12章",
             "title": "公演開場！",
             "assetbundleName": "story_ts_04_12",
             "scenarioId": "wonder_01_12",
-            "releaseConditionId": 20412,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20013,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 14,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第13章",
             "title": "消失的笑容",
             "assetbundleName": "story_ts_04_13",
             "scenarioId": "wonder_01_13",
-            "releaseConditionId": 20413,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20014,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 15,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第14章",
             "title": "那天的心願",
             "assetbundleName": "story_ts_04_14",
             "scenarioId": "wonder_01_14",
-            "releaseConditionId": 20414,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20015,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 16,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第15章",
             "title": "爺爺的舞台",
             "assetbundleName": "story_ts_04_15",
             "scenarioId": "wonder_01_15",
-            "releaseConditionId": 20415,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20016,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 17,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第16章",
             "title": "絕對不會失敗的方法",
             "assetbundleName": "story_ts_04_16",
             "scenarioId": "wonder_01_16",
-            "releaseConditionId": 20416,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20017,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 18,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第17章",
             "title": "孤伶伶的煉金術師",
             "assetbundleName": "story_ts_04_17",
             "scenarioId": "wonder_01_17",
-            "releaseConditionId": 20417,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20018,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 19,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第18章",
             "title": "「最棒的表演」的答案",
             "assetbundleName": "story_ts_04_18",
             "scenarioId": "wonder_01_18",
-            "releaseConditionId": 20418,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20019,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 20,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第19章",
             "title": "「世界」現在才正要開始",
             "assetbundleName": "story_ts_04_19",
             "scenarioId": "wonder_01_19",
-            "releaseConditionId": 20419,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]
           },
           {
             "id": 20020,
-            "unit": "theme_park",
+            "unitStoryEpisodeGroupId": 9,
             "chapterNo": 1,
             "episodeNo": 21,
-            "unitEpisodeCategory": "none",
             "episodeNoLabel": "第20章",
             "title": "Wonderlands×Showtime",
             "assetbundleName": "story_ts_04_20",
             "scenarioId": "wonder_01_20",
-            "releaseConditionId": 20420,
-            "limitedReleaseStartAt": 1680159600000,
-            "limitedReleaseEndAt": 1681196399000,
+            "releaseConditionId": 1,
             "rewardResourceBoxIds": [
               2
             ]

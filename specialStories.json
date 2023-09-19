@@ -380,5 +380,111 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 21,
+    "assetbundleName": "connect-live-01-mmj",
+    "startAt": 1710658800000,
+    "endAt": 1710853199000,
+    "episodes": [
+      {
+        "id": 26,
+        "specialStoryId": 21,
+        "episodeNo": 1,
+        "title": "MORE MORE JUMP！連線LIVE前一天的劇情",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_01_mmj",
+        "scenarioId": "connect_live_01_mmj_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "assetbundleName": "aprilfool-story-2024",
+    "startAt": 1711900800000,
+    "endAt": 1711987199000,
+    "episodes": [
+      {
+        "id": 27,
+        "specialStoryId": 22,
+        "episodeNo": 1,
+        "title": "2023愚人節導入影片",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2023",
+        "scenarioId": "aprilfool_2023_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "assetbundleName": "aprilfool-story-2024",
+    "startAt": 1711987200000,
+    "endAt": 1712073599000,
+    "episodes": [
+      {
+        "id": 28,
+        "specialStoryId": 23,
+        "episodeNo": 1,
+        "title": "2023愚人節劇情補充影片",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2023",
+        "scenarioId": "aprilfool_2023_02",
+        "releaseConditionId": 1000131,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "assetbundleName": "collaboration-akuno-story",
+    "startAt": 1714708800000,
+    "endAt": 1715918399000,
+    "episodes": [
+      {
+        "id": 29,
+        "specialStoryId": 24,
+        "episodeNo": 1,
+        "title": "[復刻]惡之大罪系列導入影片",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 14,
+        "assetbundleName": "story_collaboration_akuno",
+        "scenarioId": "collaboration_akuno_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "assetbundleName": "connect-live-01-lon",
+    "startAt": 1716102000000,
+    "endAt": 1716296399000,
+    "episodes": [
+      {
+        "id": 30,
+        "specialStoryId": 25,
+        "episodeNo": 1,
+        "title": "連線LIVE前一天的劇情",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_connect_live_01_lon",
+        "scenarioId": "connect_live_01_lon_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]

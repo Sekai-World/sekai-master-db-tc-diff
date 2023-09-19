@@ -1481,14 +1481,14 @@
   },
   {
     "id": 13,
-    "description": "{{40;d}}秒內 分數提升{{41;v}}％，\n若判定保持PERFECT則提升{{40;v}}％",
+    "description": "{{40;d}}秒內 分數提升{{41;v}}％，\n若判定保持GOOD以上則提升{{40;v}}％",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 40,
         "skillEffectType": "score_up_keep",
-        "activateNotesJudgmentType": "perfect",
+        "activateNotesJudgmentType": "great",
         "skillEffectDetails": [
           {
             "id": 157,

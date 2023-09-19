@@ -76,6 +76,48 @@
     "virtualShopType": "other"
   },
   {
+    "id": 122,
+    "name": "類 BIRTHDAY",
+    "virtualShopItems": [],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 126,
+    "name": "寧寧 BIRTHDAY",
+    "virtualShopItems": [],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 128,
+    "name": "杏 BIRTHDAY",
+    "virtualShopItems": [],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 130,
+    "name": "一歌 BIRTHDAY",
+    "virtualShopItems": [],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 133,
+    "name": "瑞希 BIRTHDAY",
+    "virtualShopItems": [],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 134,
+    "name": "初音未來 ANNIVERSARY",
+    "virtualShopItems": [],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 137,
+    "name": "笑夢 BIRTHDAY",
+    "virtualShopItems": [],
+    "virtualShopType": "birthday"
+  },
+  {
     "id": 1,
     "name": "初始販售",
     "virtualShopItems": [
@@ -3026,28 +3068,17 @@
   {
     "id": 118,
     "name": "連線LIVE 正式公演（票券商店）",
-    "virtualLiveId": 154,
+    "virtualLiveId": 175,
     "virtualShopItems": [
-      {
-        "id": 220,
-        "virtualShopId": 118,
-        "virtualShopItemType": "premium_virtual_live_ticket",
-        "seq": 299996,
-        "resourceBoxId": 171,
-        "costPaidJewel": 1980,
-        "startAt": 1685775600000,
-        "endAt": 1686499199000,
-        "limitValue": 3
-      },
       {
         "id": 221,
         "virtualShopId": 118,
         "virtualShopItemType": "premium_virtual_live_ticket",
         "seq": 299997,
         "resourceBoxId": 172,
-        "costPaidJewel": 3980,
-        "startAt": 1685775600000,
-        "endAt": 1686499199000,
+        "costPaidJewel": 2000,
+        "startAt": 1696057200000,
+        "endAt": 1697093999000,
         "limitValue": 1
       }
     ],
@@ -3056,7 +3087,7 @@
   {
     "id": 119,
     "name": "連線LIVE 正式公演（販售周邊商店）",
-    "virtualLiveId": 154,
+    "virtualLiveId": 175,
     "virtualShopItems": [
       {
         "id": 222,
@@ -3066,8 +3097,8 @@
         "resourceBoxId": 173,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 1685775600000,
-        "endAt": 1686553199000,
+        "startAt": 1696057200000,
+        "endAt": 1697093999000,
         "limitValue": 1
       },
       {
@@ -3078,8 +3109,8 @@
         "resourceBoxId": 174,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 1685775600000,
-        "endAt": 1686553199000,
+        "startAt": 1696057200000,
+        "endAt": 1697093999000,
         "limitValue": 1
       },
       {
@@ -3090,8 +3121,8 @@
         "resourceBoxId": 175,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 1685775600000,
-        "endAt": 1686553199000,
+        "startAt": 1696057200000,
+        "endAt": 1697093999000,
         "limitValue": 1
       }
     ],
@@ -3129,12 +3160,6 @@
       }
     ],
     "virtualShopType": "event"
-  },
-  {
-    "id": 122,
-    "name": "類 BIRTHDAY",
-    "virtualShopItems": [],
-    "virtualShopType": "birthday"
   },
   {
     "id": 123,
@@ -3198,12 +3223,6 @@
     "virtualShopType": "event"
   },
   {
-    "id": 126,
-    "name": "寧寧 BIRTHDAY",
-    "virtualShopItems": [],
-    "virtualShopType": "birthday"
-  },
-  {
     "id": 127,
     "name": "第65回活動販售",
     "virtualShopItems": [
@@ -3218,12 +3237,6 @@
       }
     ],
     "virtualShopType": "event"
-  },
-  {
-    "id": 128,
-    "name": "杏 BIRTHDAY",
-    "virtualShopItems": [],
-    "virtualShopType": "birthday"
   },
   {
     "id": 129,
@@ -3241,12 +3254,6 @@
       }
     ],
     "virtualShopType": "event"
-  },
-  {
-    "id": 130,
-    "name": "一歌 BIRTHDAY",
-    "virtualShopItems": [],
-    "virtualShopType": "birthday"
   },
   {
     "id": 131,
@@ -3282,18 +3289,6 @@
     "virtualShopType": "event"
   },
   {
-    "id": 133,
-    "name": "瑞希 BIRTHDAY",
-    "virtualShopItems": [],
-    "virtualShopType": "birthday"
-  },
-  {
-    "id": 134,
-    "name": "初音未來 ANNIVERSARY",
-    "virtualShopItems": [],
-    "virtualShopType": "birthday"
-  },
-  {
     "id": 136,
     "name": "第69回活動販售",
     "virtualShopItems": [
@@ -3308,12 +3303,6 @@
       }
     ],
     "virtualShopType": "event"
-  },
-  {
-    "id": 137,
-    "name": "笑夢 BIRTHDAY",
-    "virtualShopItems": [],
-    "virtualShopType": "birthday"
   },
   {
     "id": 138,
@@ -3771,5 +3760,306 @@
       }
     ],
     "virtualShopType": "special_live"
+  },
+  {
+    "id": 149,
+    "name": "第75回活動販售",
+    "virtualShopItems": [
+      {
+        "id": 295,
+        "virtualShopId": 149,
+        "virtualShopItemType": "coordinate",
+        "seq": 99859,
+        "resourceBoxId": 202,
+        "costPaidJewel": 1000,
+        "startAt": 1698735600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 150,
+    "name": "MEIKO ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 296,
+        "virtualShopId": 150,
+        "virtualShopItemType": "penlight",
+        "seq": 199908,
+        "resourceBoxId": 203,
+        "costPaidJewel": 1000,
+        "startAt": 1698994800000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 151,
+    "name": "彰人 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 297,
+        "virtualShopId": 151,
+        "virtualShopItemType": "penlight",
+        "seq": 199907,
+        "resourceBoxId": 204,
+        "costPaidJewel": 1000,
+        "startAt": 1699599600000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 152,
+    "name": "第76回活動販售",
+    "virtualShopItems": [
+      {
+        "id": 298,
+        "virtualShopId": 152,
+        "virtualShopItemType": "penlight",
+        "seq": 199906,
+        "resourceBoxId": 205,
+        "costPaidJewel": 1000,
+        "startAt": 1699686000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 153,
+    "name": "第77回活動販售",
+    "virtualShopItems": [
+      {
+        "id": 299,
+        "virtualShopId": 153,
+        "virtualShopItemType": "accessory",
+        "seq": 199911,
+        "resourceBoxId": 206,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1700463600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 154,
+    "name": "第78回活動販售",
+    "virtualShopItems": [
+      {
+        "id": 300,
+        "virtualShopId": 154,
+        "virtualShopItemType": "penlight",
+        "seq": 199905,
+        "resourceBoxId": 207,
+        "costPaidJewel": 1000,
+        "startAt": 1701327600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 155,
+    "name": "雫 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 301,
+        "virtualShopId": 155,
+        "virtualShopItemType": "penlight",
+        "seq": 199904,
+        "resourceBoxId": 208,
+        "costPaidJewel": 1000,
+        "startAt": 1701673200000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 156,
+    "name": "第79回活動販售",
+    "virtualShopItems": [
+      {
+        "id": 302,
+        "virtualShopId": 156,
+        "virtualShopItemType": "penlight",
+        "seq": 199903,
+        "resourceBoxId": 209,
+        "costPaidJewel": 1000,
+        "startAt": 1702278000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 157,
+    "name": "第80次活動販售",
+    "virtualShopItems": [
+      {
+        "id": 303,
+        "virtualShopId": 157,
+        "virtualShopItemType": "accessory",
+        "seq": 199910,
+        "resourceBoxId": 210,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1703142000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 158,
+    "name": "聖誕節2022LIVE",
+    "virtualShopItems": [
+      {
+        "id": 304,
+        "virtualShopId": 158,
+        "virtualShopItemType": "coordinate",
+        "seq": 99858,
+        "resourceBoxId": 66,
+        "costPaidJewel": 1000,
+        "startAt": 1703228400000
+      },
+      {
+        "id": 305,
+        "virtualShopId": 158,
+        "virtualShopItemType": "accessory",
+        "seq": 199909,
+        "resourceBoxId": 67,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1703228400000
+      },
+      {
+        "id": 306,
+        "virtualShopId": 158,
+        "virtualShopItemType": "penlight",
+        "seq": 199902,
+        "resourceBoxId": 144,
+        "costPaidJewel": 1000,
+        "startAt": 1703228400000
+      },
+      {
+        "id": 307,
+        "virtualShopId": 158,
+        "virtualShopItemType": "accessory",
+        "seq": 199908,
+        "resourceBoxId": 211,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1703228400000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 159,
+    "name": "鏡音鈴 ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 308,
+        "virtualShopId": 159,
+        "virtualShopItemType": "penlight",
+        "seq": 199900,
+        "resourceBoxId": 212,
+        "costPaidJewel": 1000,
+        "startAt": 1703487600000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 160,
+    "name": "鏡音連 ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 309,
+        "virtualShopId": 160,
+        "virtualShopItemType": "penlight",
+        "seq": 199901,
+        "resourceBoxId": 213,
+        "costPaidJewel": 1000,
+        "startAt": 1703487600000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 161,
+    "name": "跨年倒數LIVE\/HAPPY NEW YEAR LIVE",
+    "virtualShopItems": [
+      {
+        "id": 310,
+        "virtualShopId": 161,
+        "virtualShopItemType": "accessory",
+        "seq": 199906,
+        "resourceBoxId": 214,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1704006000000
+      },
+      {
+        "id": 311,
+        "virtualShopId": 161,
+        "virtualShopItemType": "penlight",
+        "seq": 199899,
+        "resourceBoxId": 215,
+        "costPaidJewel": 1000,
+        "startAt": 1704006000000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 162,
+    "name": "2023甘酒商店",
+    "virtualShopItems": [
+      {
+        "id": 313,
+        "virtualShopId": 162,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1704006000000,
+        "endAt": 1704869999000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
+    "id": 163,
+    "name": "第81次活動販售",
+    "virtualShopItems": [
+      {
+        "id": 314,
+        "virtualShopId": 163,
+        "virtualShopItemType": "accessory",
+        "seq": 199907,
+        "resourceBoxId": 217,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1704006000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 164,
+    "name": "志步BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 315,
+        "virtualShopId": 164,
+        "virtualShopItemType": "penlight",
+        "seq": 199898,
+        "resourceBoxId": 218,
+        "costPaidJewel": 1000,
+        "startAt": 1704524400000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
