@@ -1997,7 +1997,7 @@
   },
   {
     "id": 1061,
-    "seq": 2020,
+    "seq": 2018,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1061,
     "saleType": "single",
@@ -2006,16 +2006,16 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_40003",
+    "assetbundleName": "shop_1061",
     "resourceBoxId": 1061,
     "bonusResourceBoxId": 1061,
     "label": "期間限定",
-    "startAt": 1696089600000,
+    "startAt": 1696132800000,
     "endAt": 1697039999000
   },
   {
     "id": 1062,
-    "seq": 2019,
+    "seq": 2017,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 1062,
     "saleType": "single",
@@ -2024,11 +2024,11 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_40004",
+    "assetbundleName": "shop_1062",
     "resourceBoxId": 1062,
     "bonusResourceBoxId": 1062,
     "label": "期間限定",
-    "startAt": 1696089600000,
+    "startAt": 1696132800000,
     "endAt": 1697039999000
   },
   {
@@ -3218,7 +3218,7 @@
   },
   {
     "id": 1174,
-    "seq": 22,
+    "seq": 25,
     "billingShopItemType": "jewel",
     "billingProductGroupId": 1174,
     "name": "[2週年紀念] 水晶 A",
@@ -3235,7 +3235,7 @@
   },
   {
     "id": 1175,
-    "seq": 21,
+    "seq": 24,
     "billingShopItemType": "jewel",
     "billingProductGroupId": 1175,
     "name": "[2週年紀念] 水晶 B",
@@ -3252,7 +3252,7 @@
   },
   {
     "id": 1176,
-    "seq": 20,
+    "seq": 23,
     "billingShopItemType": "jewel",
     "billingProductGroupId": 1176,
     "name": "[2週年紀念] 水晶 C",
@@ -3269,7 +3269,7 @@
   },
   {
     "id": 1177,
-    "seq": 19,
+    "seq": 22,
     "billingShopItemType": "jewel",
     "billingProductGroupId": 1177,
     "name": "[2週年紀念] 水晶 D",
@@ -3286,7 +3286,7 @@
   },
   {
     "id": 1178,
-    "seq": 18,
+    "seq": 21,
     "billingShopItemType": "jewel",
     "billingProductGroupId": 1178,
     "name": "[2週年紀念] 水晶 E",
@@ -3303,7 +3303,7 @@
   },
   {
     "id": 1179,
-    "seq": 17,
+    "seq": 20,
     "billingShopItemType": "jewel",
     "billingProductGroupId": 1179,
     "name": "[2週年紀念] 水晶 F",
@@ -3320,7 +3320,7 @@
   },
   {
     "id": 1180,
-    "seq": 16,
+    "seq": 19,
     "billingShopItemType": "jewel",
     "billingProductGroupId": 1180,
     "name": "[2週年紀念] 水晶 G",
@@ -4633,6 +4633,22 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 30050,
+    "seq": 2023,
+    "billingShopItemType": "value_set",
+    "name": "多種類「世界」組合包",
+    "description": "招募票券x 5\n★3成員选择券x 1\n音樂卡x 50\n奇蹟寶石x 100\n各色寶石×100（共500）\n練習譜（中級）x50\n魔法布 x300\n魔術線 x 30\n主唱卡兌換券 x 1\n貼圖兌換券 x 3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10097",
+    "resourceBoxId": 129,
+    "bonusResourceBoxId": 40,
+    "label": "僅限1次",
+    "startAt": 1697083200000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 300000,
     "seq": 300000,
     "billingShopItemType": "costume_3d",
@@ -5504,6 +5520,71 @@
     "assetbundleName": "shop_300210",
     "resourceBoxId": 138,
     "startAt": 1695088800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300220,
+    "seq": 300150,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "「幽靈」服裝 所有顏色",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 124,
+    "startAt": 1696089600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300221,
+    "seq": 300151,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「幽靈」服裝 原版顏色",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 125,
+    "startAt": 1696089600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300222,
+    "seq": 300152,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「幽靈」服裝 其他顏色1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 126,
+    "startAt": 1696089600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300223,
+    "seq": 300153,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「幽靈」服裝 其他顏色2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 127,
+    "startAt": 1696089600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300224,
+    "seq": 300154,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "「幽靈」服裝 其他顏色3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 128,
+    "startAt": 1696089600000,
     "purchaseOption": "exchange"
   }
 ]
