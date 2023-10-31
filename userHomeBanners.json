@@ -20,24 +20,62 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 489,
-    "seq": 180,
+    "homeBannerId": 519,
+    "seq": 90,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha238",
+    "assetbundleName": "banner_gacha255",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 238,
-    "startAt": 1695182400000,
-    "endAt": 1696046399000
+    "transitionDestinationId": 255,
+    "startAt": 1698292800000,
+    "endAt": 1699070399000
   },
   {
-    "homeBannerId": 490,
+    "homeBannerId": 522,
+    "seq": 140,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive182",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 182,
+    "startAt": 1698562800000,
+    "endAt": 1698908399000
+  },
+  {
+    "homeBannerId": 523,
+    "seq": 190,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_shop_halloween_costume_2022",
+    "transitionDestinationType": "billing_shop_for_costume_3d",
+    "startAt": 1698595200000,
+    "endAt": 1699599599000
+  },
+  {
+    "homeBannerId": 525,
+    "seq": 180,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha258",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 258,
+    "startAt": 1698724800000,
+    "endAt": 1699675199000
+  },
+  {
+    "homeBannerId": 526,
     "seq": 170,
     "homeBannerType": "event",
-    "assetbundleName": "event_walk_2022",
+    "assetbundleName": "event_scream_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 71,
-    "startAt": 1695193200000,
-    "endAt": 1696057199000
+    "transitionDestinationId": 75,
+    "startAt": 1698735600000,
+    "endAt": 1699685999000
+  },
+  {
+    "homeBannerId": 638,
+    "seq": 9999,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_cp_invite_friends",
+    "transitionDestinationType": "friend_invitation_campaign",
+    "startAt": 1696003200000,
+    "endAt": 1699631999000
   },
   {
     "homeBannerId": 10037,

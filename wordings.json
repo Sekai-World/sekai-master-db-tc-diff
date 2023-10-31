@@ -2129,7 +2129,7 @@
   },
   {
     "wordingKey": "MSG_PAID_LIVE_SHOP_ITEM_SELECT_DIALOG_TITLE",
-    "value": "{0} 選擇要購買的光碟"
+    "value": "{0} 選擇要購買的影片"
   },
   {
     "wordingKey": "MSG_PAID_STREAMING_LIVE_DISC",
@@ -2705,7 +2705,7 @@
   },
   {
     "wordingKey": "MSG_TOURNAMENT_LIVE_NOTICE",
-    "value": "由於大會模式是採公平的分數紀錄方式，因此編成團體的綜合力、技能均為無效。\n此外，無法獲得LIVE報酬。"
+    "value": "由於大賽模式是採用公平的分數紀錄方式，因此編成團體的綜合力、技能均為無效。\n此外，無法獲得LIVE報酬。"
   },
   {
     "wordingKey": "MSG_TOURNAMENT_MODE_MASTER_NOT_RELEASED",
@@ -12672,6 +12672,30 @@
     "value": "房間類型"
   },
   {
+    "wordingKey": "WORD_RUFUND_DESCRIPTION",
+    "value": "已扣除了您近期申請的退款商品，若有疑問請聯繫客服。"
+  },
+  {
+    "wordingKey": "WORD_RUFUND_RESTRICTION_DESCRIPTION",
+    "value": "由於您多次違規退款，已限制您的儲值功能15天。若再次違規退款，將會被永久停用，若有任何疑問，請聯繫遊戲內客服。"
+  },
+  {
+    "wordingKey": "WORD_RUFUND_RESTRICTION_TITLE",
+    "value": "違規退款提示"
+  },
+  {
+    "wordingKey": "WORD_RUFUND_TITLE",
+    "value": "退款提示"
+  },
+  {
+    "wordingKey": "WORD_RUFUND_WARNING_DESCRIPTION",
+    "value": "經查證，您近期申請的退款屬於違規退款，若再次違規，將根據用戶營運協議暫停儲值功能甚至永久停用。若有任何疑問，請聯繫遊戲內客服。"
+  },
+  {
+    "wordingKey": "WORD_RUFUND_WARNING_TITLE",
+    "value": "違規退款提示"
+  },
+  {
     "wordingKey": "WORD_SANDWITCH",
     "value": "插入"
   },
@@ -12997,7 +13021,7 @@
   },
   {
     "wordingKey": "WORD_SHOP_PURCHASE_ALL_DISC",
-    "value": "一次購買全公演光碟"
+    "value": "一次購買全公演影片"
   },
   {
     "wordingKey": "WORD_SHOP_PURCHASE_CANCEL_TITLE",
@@ -13617,11 +13641,11 @@
   },
   {
     "wordingKey": "WORD_TOURNAMENT_HIGH_SCORE",
-    "value": "大會最高分"
+    "value": "大賽最高分"
   },
   {
     "wordingKey": "WORD_TOURNAMENT_MUSIC",
-    "value": "大會指定歌曲"
+    "value": "大賽指定歌曲"
   },
   {
     "wordingKey": "WORD_TOURNAMENT_SCORE_DETAIL",
