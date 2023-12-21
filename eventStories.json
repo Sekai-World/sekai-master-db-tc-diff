@@ -10594,7 +10594,7 @@
         "id": 1000658,
         "eventStoryId": 82,
         "episodeNo": 2,
-        "title": "研習的成果",
+        "title": "工作坊的成果",
         "assetbundleName": "event_shining_2023_02",
         "scenarioId": "event_82_02",
         "releaseConditionId": 108101,
@@ -10639,7 +10639,7 @@
         "id": 1000661,
         "eventStoryId": 82,
         "episodeNo": 5,
-        "title": "為了讓他展露笑容",
+        "title": "為了讓她展露笑容",
         "assetbundleName": "event_shining_2023_05",
         "scenarioId": "event_82_05",
         "releaseConditionId": 108104,
@@ -11724,6 +11724,393 @@
           {
             "storyType": "event_story",
             "resourceBoxId": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "eventId": 91,
+    "outline": "在首次的專場LIVE上，Leo\/need向anemone的朔，還有STANDOUT的伊織這兩位前輩，問起了身為職業人士的自覺。然而，兩人的答案卻讓咲希開始感到一絲不安……",
+    "bannerGameCharacterUnitId": 2,
+    "assetbundleName": "event_getover_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000729,
+        "eventStoryId": 91,
+        "episodeNo": 1,
+        "title": "能夠打動某人的音樂",
+        "assetbundleName": "event_getover_2023_01",
+        "scenarioId": "event_91_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000730,
+        "eventStoryId": 91,
+        "episodeNo": 2,
+        "title": "出盡全力",
+        "assetbundleName": "event_getover_2023_02",
+        "scenarioId": "event_91_02",
+        "releaseConditionId": 109001,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000731,
+        "eventStoryId": 91,
+        "episodeNo": 3,
+        "title": "未來的結果",
+        "assetbundleName": "event_getover_2023_03",
+        "scenarioId": "event_91_03",
+        "releaseConditionId": 109002,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000732,
+        "eventStoryId": 91,
+        "episodeNo": 4,
+        "title": "敬業的心",
+        "assetbundleName": "event_getover_2023_04",
+        "scenarioId": "event_91_04",
+        "releaseConditionId": 109003,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000733,
+        "eventStoryId": 91,
+        "episodeNo": 5,
+        "title": "應該抱持的「最優先」想法",
+        "assetbundleName": "event_getover_2023_05",
+        "scenarioId": "event_91_05",
+        "releaseConditionId": 109004,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000734,
+        "eventStoryId": 91,
+        "episodeNo": 6,
+        "title": "當出現在眼前時",
+        "assetbundleName": "event_getover_2023_06",
+        "scenarioId": "event_91_06",
+        "releaseConditionId": 109005,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000735,
+        "eventStoryId": 91,
+        "episodeNo": 7,
+        "title": "「以前的故事」",
+        "assetbundleName": "event_getover_2023_07",
+        "scenarioId": "event_91_07",
+        "releaseConditionId": 109006,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000736,
+        "eventStoryId": 91,
+        "episodeNo": 8,
+        "title": "像我們的音樂",
+        "assetbundleName": "event_getover_2023_08",
+        "scenarioId": "event_91_08",
+        "releaseConditionId": 109007,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "eventId": 92,
+    "outline": "自從出演過「偶像大戰爭」，工作就紛紛找上門來，讓MORE MORE JUMP！每天都很忙碌。為了能夠接下更多工作，愛莉等人重新調整了行程，開始思考如何活用學分制的特性來安排工作……",
+    "bannerGameCharacterUnitId": 7,
+    "assetbundleName": "event_retie_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000737,
+        "eventStoryId": 92,
+        "episodeNo": 1,
+        "title": "忙碌的每一天",
+        "assetbundleName": "event_retie_2023_01",
+        "scenarioId": "event_92_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000738,
+        "eventStoryId": 92,
+        "episodeNo": 2,
+        "title": "新的做法",
+        "assetbundleName": "event_retie_2023_02",
+        "scenarioId": "event_92_02",
+        "releaseConditionId": 109101,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000739,
+        "eventStoryId": 92,
+        "episodeNo": 3,
+        "title": "兩人的選擇",
+        "assetbundleName": "event_retie_2023_03",
+        "scenarioId": "event_92_03",
+        "releaseConditionId": 109102,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000740,
+        "eventStoryId": 92,
+        "episodeNo": 4,
+        "title": "要好好思考才行",
+        "assetbundleName": "event_retie_2023_04",
+        "scenarioId": "event_92_04",
+        "releaseConditionId": 109103,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000741,
+        "eventStoryId": 92,
+        "episodeNo": 5,
+        "title": "無法忘卻的記憶",
+        "assetbundleName": "event_retie_2023_05",
+        "scenarioId": "event_92_05",
+        "releaseConditionId": 109104,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000742,
+        "eventStoryId": 92,
+        "episodeNo": 6,
+        "title": "距離",
+        "assetbundleName": "event_retie_2023_06",
+        "scenarioId": "event_92_06",
+        "releaseConditionId": 109105,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000743,
+        "eventStoryId": 92,
+        "episodeNo": 7,
+        "title": "無法消失的連繫",
+        "assetbundleName": "event_retie_2023_07",
+        "scenarioId": "event_92_07",
+        "releaseConditionId": 109106,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000744,
+        "eventStoryId": 92,
+        "episodeNo": 8,
+        "title": "邁出新的一步",
+        "assetbundleName": "event_retie_2023_08",
+        "scenarioId": "event_92_08",
+        "releaseConditionId": 109107,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "eventId": 93,
+    "outline": "奏等人一直在找尋「能為無法參與25活動的真冬做些什麼」的答案。在尋找的過程中，瑞希為了讓真冬能夠安心創作，打算安排一個可以共同創作的時間，但是──",
+    "bannerGameCharacterUnitId": 20,
+    "assetbundleName": "event_runaway_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000745,
+        "eventStoryId": 93,
+        "episodeNo": 1,
+        "title": "在下意識中",
+        "assetbundleName": "event_runaway_2023_01",
+        "scenarioId": "event_93_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000746,
+        "eventStoryId": 93,
+        "episodeNo": 2,
+        "title": "為了能做自己",
+        "assetbundleName": "event_runaway_2023_02",
+        "scenarioId": "event_93_02",
+        "releaseConditionId": 109201,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000747,
+        "eventStoryId": 93,
+        "episodeNo": 3,
+        "title": "能夠感到安心的時間",
+        "assetbundleName": "event_runaway_2023_03",
+        "scenarioId": "event_93_03",
+        "releaseConditionId": 109202,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000748,
+        "eventStoryId": 93,
+        "episodeNo": 4,
+        "title": "逼近的腳步聲",
+        "assetbundleName": "event_runaway_2023_04",
+        "scenarioId": "event_93_04",
+        "releaseConditionId": 109203,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000749,
+        "eventStoryId": 93,
+        "episodeNo": 5,
+        "title": "一直無法面對",
+        "assetbundleName": "event_runaway_2023_05",
+        "scenarioId": "event_93_05",
+        "releaseConditionId": 109204,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000750,
+        "eventStoryId": 93,
+        "episodeNo": 6,
+        "title": "我的方法",
+        "assetbundleName": "event_runaway_2023_06",
+        "scenarioId": "event_93_06",
+        "releaseConditionId": 109205,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000751,
+        "eventStoryId": 93,
+        "episodeNo": 7,
+        "title": "為了生存",
+        "assetbundleName": "event_runaway_2023_07",
+        "scenarioId": "event_93_07",
+        "releaseConditionId": 109206,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000752,
+        "eventStoryId": 93,
+        "episodeNo": 8,
+        "title": "雖然很可怕，但還是",
+        "assetbundleName": "event_runaway_2023_08",
+        "scenarioId": "event_93_08",
+        "releaseConditionId": 109207,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 46
           }
         ]
       }

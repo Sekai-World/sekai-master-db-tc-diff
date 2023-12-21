@@ -3904,7 +3904,7 @@
   },
   {
     "id": 162,
-    "name": "2024甘酒商店",
+    "name": "2023甘酒商店",
     "virtualShopItems": [
       {
         "id": 313,
@@ -4131,6 +4131,22 @@
         "costVirtualCoin": 3000,
         "costJewel": 1000,
         "startAt": 1708326000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 176,
+    "name": "第87次活動販售",
+    "virtualShopItems": [
+      {
+        "id": 329,
+        "virtualShopId": 176,
+        "virtualShopItemType": "penlight",
+        "seq": 199891,
+        "resourceBoxId": 230,
+        "costPaidJewel": 1000,
+        "startAt": 1709103600000
       }
     ],
     "virtualShopType": "event"

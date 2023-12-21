@@ -32,6 +32,10 @@
     "value": "此為封測儲值返還活動第%d天的報酬。"
   },
   {
+    "wordingKey": "CG_URL",
+    "value": "https:\/\/lf9-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/GSDK\/f06d6a9d-5296-4d00-8a86-cc6af94f22d8.html"
+  },
+  {
     "wordingKey": "CHEERFUL_CARNIVAL_1ST_RESULT_REWARD",
     "value": "此為「%s」第1次中間結果發表的報酬。"
   },
@@ -297,7 +301,7 @@
   },
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT",
-    "value": "每通過1次LIVE，即可累積LIVE P。\n\n■單人LIVE\/多人LIVE\/\nCheerful LIVE\/段位配對■\n每通過1次LIVE，即可獲得<color=#ff55AA>1<\/color>LIVE P。\n若消耗LIVE BONUS即可增加獲得量。\n \n■挑戰LIVE■\n每通過1次LIVE，即可獲得<color=#ff55AA>30<\/color>LIVE P。\n\n■每日獎勵■\n1天最多3次，每通過「多人LIVE、Cheerful LIVE」1次，即可獲得<color=#ff55AA>10<\/color>LIVE P。\n\n■獎勵任務■\n活動期間舉辦的獎勵任務，每通過1個，即可獲得<color=#ff55AA>50<\/color>LIVE P。\n此外，通過所有任務，即可獲得<color=#ff55AA>150<\/color>LIVE P。"
+    "value": "每通過1次LIVE，即可累積LIVE P。\n\n■單人LIVE\/多人LIVE\/\nCheerful LIVE\/段位配對■\n每通過1次LIVE，即可獲得<color=#FF5599>1<\/color>LIVE P。\n若消耗LIVE BONUS即可增加獲得量。\n \n■挑戰LIVE■\n每通過1次LIVE，即可獲得<color=#FF5599>30<\/color>LIVE P。\n\n■每日獎勵■\n1天最多3次，每通過「多人LIVE、Cheerful LIVE」1次，即可獲得<color=#FF5599>10<\/color>LIVE P。\n\n■獎勵任務■\n活動期間舉辦的獎勵任務，每通過1個，即可獲得<color=#FF5599>50<\/color>LIVE P。\n此外，通過所有任務，即可獲得<color=#FF5599>150<\/color>LIVE P。"
   },
   {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
@@ -441,7 +445,7 @@
   },
   {
     "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_2",
-    "value": "已回收以退費額購買的付費水晶。\n\n{0}個 -> {1}個\n<color=#FF55AA>※少於購買時單價的部分，已從較早購買的部分回收同數量的付費水晶。<\/color>"
+    "value": "已回收以退費額購買的付費水晶。\n\n{0}個 -> {1}個\n<color=#FF5599>※少於購買時單價的部分，已從較早購買的部分回收同數量的付費水晶。<\/color>"
   },
   {
     "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_3",
@@ -513,7 +517,7 @@
   },
   {
     "wordingKey": "MSG_BOOST_RECOVER_METHOD_JEWEL_CONFIRM",
-    "value": "要使用{0}水晶\n恢復{1}LIVE BONUS嗎？"
+    "value": "要使用<color=#ff5599>{0}<\/color>水晶\n恢復<color=#ff5599>{1}<\/color>LIVE BONUS嗎？"
   },
   {
     "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
@@ -621,7 +625,7 @@
   },
   {
     "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
-    "value": "將消耗<color=#FF55AA>{1}個<\/color> <color=#FF55AA>來抽{2}次<\/color>\n「{3}」， 確定嗎？"
+    "value": "將消耗<color=#FF5599>{1}個<\/color> <color=#FF5599>來抽{2}次<\/color>\n「{3}」， 確定嗎？"
   },
   {
     "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
@@ -773,7 +777,7 @@
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_COLORFULPASS_EXPIRED",
-    "value": "由於七彩通行證～PRECIOUS～的有效期限已經結束，\n因此LIVE中斷了。\n\n<color=#FF55AA>※將會顯示到中斷前的LIVE結果。<\/color>"
+    "value": "由於七彩通行證～PRECIOUS～的有效期限已經結束，\n因此LIVE中斷了。\n\n<color=#FF5599>※將會顯示到中斷前的LIVE結果。<\/color>"
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
@@ -781,7 +785,7 @@
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_NOT_ENOUGH",
-    "value": "由於LIVE BONUS不足，AUTO LIVE已中斷。\n\n<color=#FF55AA>※將顯示中斷前的LIVE結果。<\/color>"
+    "value": "由於LIVE BONUS不足，AUTO LIVE已中斷。\n\n<color=#FF5599>※將顯示中斷前的LIVE結果。<\/color>"
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_PAUSE_AND_RESTART",
@@ -1065,7 +1069,7 @@
   },
   {
     "wordingKey": "MSG_EVENT_LIVE_BOOST_EXCEPTION",
-    "value": "活動期間的消耗數量最多可設定為<color=#ff55AA>{0}<\/color>。"
+    "value": "活動期間的消耗數量最多可設定為<color=#FF5599>{0}<\/color>。"
   },
   {
     "wordingKey": "MSG_EXCHANGED_LIVE_TICKET",
@@ -1265,7 +1269,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_CEIL_TICKET_EXCHANGE_CONFIRM",
-    "value": "要消耗<color=#FF55AA>{1}張<\/color>{0}\n來交換道具嗎？"
+    "value": "要消耗<color=#FF5599>{1}張<\/color>{0}\n來交換道具嗎？"
   },
   {
     "wordingKey": "MSG_GACHA_EXCHANGE_NUMBER_OF_PURCHASE",
@@ -1297,7 +1301,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_SPIN",
-    "value": "將消耗<color=#FF55AA>{1}個<\/color>{0}<color=#FF55AA>\n來抽{2}次<\/color>\n「{3}」， \n確定嗎？"
+    "value": "將消耗<color=#FF5599>{1}個<\/color>{0}<color=#FF5599>\n來抽{2}次<\/color>\n「{3}」， \n確定嗎？"
   },
   {
     "wordingKey": "MSG_GACHA_SPIN_COUNT",
@@ -1317,7 +1321,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_TICKET_SPIN",
-    "value": "將消耗<color=#FF55AA>{1}個<\/color>{0}<color=#FF55AA>\n來抽{2}次<\/color>\n「{3}」， \n確定嗎？"
+    "value": "將消耗<color=#FF5599>{1}個<\/color>{0}<color=#FF5599>\n來抽{2}次<\/color>\n「{3}」， \n確定嗎？"
   },
   {
     "wordingKey": "MSG_GACHA_TIME_OVER",
@@ -1353,11 +1357,11 @@
   },
   {
     "wordingKey": "MSG_HIGH_SCORE_COMPLETE_REWARD",
-    "value": "達到最高分<color=#FF55AA>{0}<\/color>的報酬"
+    "value": "達到最高分<color=#FF5599>{0}<\/color>的報酬"
   },
   {
     "wordingKey": "MSG_HIGH_SCORE_UPDATE_REWARD",
-    "value": "每次刷新最高分<color=#FF55AA>{0}<\/color>的報酬"
+    "value": "每次刷新最高分<color=#FF5599>{0}<\/color>的報酬"
   },
   {
     "wordingKey": "MSG_ID_NOT_FOUND",
@@ -1505,11 +1509,11 @@
   },
   {
     "wordingKey": "MSG_LIVE_CONTINUE",
-    "value": "要消耗<color=#FF55AA>{0}<\/color>個水晶恢復全部體力，\n並繼續進行LIVE嗎？"
+    "value": "要消耗<color=#FF5599>{0}<\/color>個水晶恢復全部體力，\n並繼續進行LIVE嗎？"
   },
   {
     "wordingKey": "MSG_LIVE_FAILED",
-    "value": "體力已耗盡。\n可以消耗<color=#FF55AA>{0}<\/color>個水晶恢復全部體力，\n並繼續進行LIVE。"
+    "value": "體力已耗盡。\n可以消耗<color=#FF5599>{0}<\/color>個水晶恢復全部體力，\n並繼續進行LIVE。"
   },
   {
     "wordingKey": "MSG_LIVE_IS_FULL",
@@ -1525,7 +1529,7 @@
   },
   {
     "wordingKey": "MSG_LOGINBONUS_RECEIVE",
-    "value": "獲得了<color=#ff55AA>{0}<\/color> ！"
+    "value": "獲得了<color=#FF5599>{0}<\/color> ！"
   },
   {
     "wordingKey": "MSG_LV_TEXT",
@@ -1545,7 +1549,7 @@
   },
   {
     "wordingKey": "MSG_MASTER_LESSON_MATERIAL_EXCHANGE_CONFIRM",
-    "value": "要使用<color=#FF55AA>{0}<\/color>個心願碎片\n交換道具嗎？"
+    "value": "要使用<color=#FF5599>{0}<\/color>個心願碎片\n交換道具嗎？"
   },
   {
     "wordingKey": "MSG_MASTER_LESSON_NOTHING",
@@ -1553,15 +1557,15 @@
   },
   {
     "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_1",
-    "value": "<color=#00CCBB>等級1<\/color>解鎖"
+    "value": "<color=#FF77AAFF>等級1<\/color>解鎖"
   },
   {
     "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_3",
-    "value": "<color=#00CCBB>等級3<\/color>解鎖"
+    "value": "<color=#FF77AAFF>等級3<\/color>解鎖"
   },
   {
     "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_5",
-    "value": "<color=#00CCBB>等級5<\/color>解鎖"
+    "value": "<color=#FF77AAFF>等級5<\/color>解鎖"
   },
   {
     "wordingKey": "MSG_MATCHING_CONNECTING",
@@ -1593,7 +1597,7 @@
   },
   {
     "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM",
-    "value": "要消耗<color=#FF55AA>{1}<\/color>個{0}\n交換道具嗎？"
+    "value": "要消耗<color=#FF5599>{1}<\/color>個{0}\n交換道具嗎？"
   },
   {
     "wordingKey": "MSG_MAX_ANOUNCE",
@@ -2049,19 +2053,19 @@
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_CELL_BEFORE_ENTRY",
-    "value": "<color=#ff55AA>{0}～報名開始！<\/color>"
+    "value": "<color=#FF5599>{0}～報名開始！<\/color>"
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_CELL_CAN_ENTRY_CONTINUOUS_BUY",
-    "value": "<color=#ff55AA>持續購買七彩通行證後可以報名。\n※計算方式為在超過有效期限的隔天購買。<\/color>"
+    "value": "<color=#FF5599>持續購買七彩通行證後可以報名。\n※計算方式為在超過有效期限的隔天購買。<\/color>"
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_CELL_ENTRY",
-    "value": "<color=#ff55AA>報名期間 {0}～{1}為止<\/color>"
+    "value": "<color=#FF5599>報名期間 {0}～{1}為止<\/color>"
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_CELL_NOT_APPLICABLE",
-    "value": "<color=#ff55AA>沒有達成需要持續期間{0}個月，\n因此無法報名這裡的活動。<\/color>"
+    "value": "<color=#FF5599>沒有達成需要持續期間{0}個月，\n因此無法報名這裡的活動。<\/color>"
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION1",
@@ -2201,7 +2205,7 @@
   },
   {
     "wordingKey": "MSG_PREMIUM_MISSION_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_CONFIRM",
-    "value": "  "
+    "value": " "
   },
   {
     "wordingKey": "MSG_PRESENT_COUNT",
@@ -2889,11 +2893,11 @@
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
-    "value": "・獲得「<color=#00CCBB>[{0}] {1}<\/color>」後，\n可讓<color=#00CCBB>{1}<\/color>穿著「<color=#00CCBB>{2}<\/color>」。\n\n・已新增其他角色也可製作的演出服裝到「服飾店」。\n若在「服飾店」指定可穿著服裝的角色，並製作服裝，即可使其換上服裝。"
+    "value": "・獲得「<color=#FF77AAFF>[{0}] {1}<\/color>」後，\n可讓<color=#FF77AAFF>{1}<\/color>穿著「<color=#FF77AAFF>{2}<\/color>」。\n\n・已新增其他角色也可製作的演出服裝到「服飾店」。\n若在「服飾店」指定可穿著服裝的角色，並製作服裝，即可使其換上服裝。"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
-    "value": "・獲得「<color=#00CCBB>[{0}] {1}<\/color>」後，\n服飾店將會新增「<color=#00CCBB>{2}<\/color>」。\n\n若在服飾店裡指定可穿著「<color=#00CCBB>{2}<\/color>」的角色並製作服裝，"
+    "value": "・獲得「<color=#FF77AAFF>[{0}] {1}<\/color>」後，\n服飾店將會新增「<color=#FF77AAFF>{2}<\/color>」。\n\n若在服飾店裡指定可穿著「<color=#FF77AAFF>{2}<\/color>」的角色並製作服裝，"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
@@ -3065,7 +3069,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_LIVE_RANK",
-    "value": "{0}<color='#00ccbb'>倍<\/color>"
+    "value": "{0}<color='#FF77AAFF'>倍<\/color>"
   },
   {
     "wordingKey": "SUPPORT_EVENT_LIVE_RESULT",
@@ -3561,7 +3565,7 @@
   },
   {
     "wordingKey": "WORD_BETTLEPASS_AWARD_CONTENT",
-    "value": "購買「<color=#FF55AA>高階任務通行證<\/color>」與「<color=#FF55AA>高階任務通行證（進階版）<\/color>」後將立即獲得： \n<color=#FF55AA>高階任務通行證<\/color>：付費水晶×1800、心願碎片 ×300\n<color=#FF55AA>高階任務通行證（進階版）<\/color>：付費水晶×10500、心願碎片 ×300、LIVE P×6000"
+    "value": "購買「<color=#FF5599>高階任務通行證<\/color>」與「<color=#FF5599>高階任務通行證（進階版）<\/color>」後將立即獲得： \n<color=#FF5599>高階任務通行證<\/color>：付費水晶×1800、心願碎片 ×300\n<color=#FF5599>高階任務通行證（進階版）<\/color>：付費水晶×10500、心願碎片 ×300、LIVE P×6000"
   },
   {
     "wordingKey": "WORD_BETTLEPASS_AWARD_REWARD",
@@ -3573,27 +3577,27 @@
   },
   {
     "wordingKey": "WORD_BETTLEPASS_BUY_RULE_CONTENT",
-    "value": "高階任務通行證將於每月1日的00:00重置。每月僅可購買一次高階任務通行證。 \n如欲購買<color=#FF55AA>高階任務通行證（特殊版）<\/color>，當月的LIVE P至少需達到4900點。"
+    "value": "高階任務通行證將於每月1日的00:00重置。每月僅可購買一次高階任務通行證。 \n如欲購買<color=#FF5599>高階任務通行證（特殊版）<\/color>，當月的LIVE P至少需達到4900點。"
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_1",
-    "value": "購買<color=#FF55AA>高階任務通行證<\/color>後，即可解鎖當月LIVE任務的高階任務。根據購買的<color=#FF55AA>高階任務通行證<\/color>種類，可直接獲得水晶、心願碎片等道具獎勵。完成高階任務最多可獲得免費水晶×5000、心願碎片×700、當月限定服裝（原版顏色+其他顏色）。"
+    "value": "購買<color=#FF5599>高階任務通行證<\/color>後，即可解鎖當月LIVE任務的高階任務。根據購買的<color=#FF5599>高階任務通行證<\/color>種類，可直接獲得水晶、心願碎片等道具獎勵。完成高階任務最多可獲得免費水晶×5000、心願碎片×700、當月限定服裝（原版顏色+其他顏色）。"
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_2",
-    "value": "<color=#FF55AA>高階任務通行證<\/color>共有三種，讓有不同需求的世界居民選購：\n購買<color=#FF55AA>高階任務通行證<\/color>能立即解鎖當月LIVE高階任務，且能獲得付費水晶和心願碎片獎勵；"
+    "value": "<color=#FF5599>高階任務通行證<\/color>共有三種，讓有不同需求的世界居民選購：\n購買<color=#FF5599>高階任務通行證<\/color>能立即解鎖當月LIVE高階任務，且能獲得付費水晶和心願碎片獎勵；"
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_3",
-    "value": "購買<color=#FF55AA>高階任務通行證（進階版）<\/color>能立即獲得大量LIVE P，並領取限定服裝；\n<color=#FF55AA>高階任務通行證（特殊版）<\/color>在LIVE P達到4900點後即可用免費水晶購買。\n購買後也能立即解鎖當月LIVE高階任務。"
+    "value": "購買<color=#FF5599>高階任務通行證（進階版）<\/color>能立即獲得大量LIVE P，並領取限定服裝；\n<color=#FF5599>高階任務通行證（特殊版）<\/color>在LIVE P達到4900點後即可用免費水晶購買。\n購買後也能立即解鎖當月LIVE高階任務。"
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_4",
-    "value": "三種<color=#FF55AA>高階任務通行證<\/color>的價格如下："
+    "value": "三種<color=#FF5599>高階任務通行證<\/color>的價格如下："
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_5",
-    "value": "<color=#FF55AA>高階任務通行證<\/color>：{0}\n<color=#FF55AA>高階任務通行證（進階版）<\/color>：{1}\n<color=#FF55AA>高階任務通行證（特殊版）<\/color>：免費水晶×3900"
+    "value": "<color=#FF5599>高階任務通行證<\/color>：{0}\n<color=#FF5599>高階任務通行證（進階版）<\/color>：{1}\n<color=#FF5599>高階任務通行證（特殊版）<\/color>：免費水晶×3900"
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_REWARD",
@@ -3936,6 +3940,10 @@
     "value": "滿場"
   },
   {
+    "wordingKey": "WORD_CG",
+    "value": "社群規範"
+  },
+  {
     "wordingKey": "WORD_CHALLENGE",
     "value": "挑戰"
   },
@@ -4249,11 +4257,11 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT_1",
-    "value": "第1次：<color=#FF55AA>150<\/color>水晶 （免費）\n第2次：<color=#FF55AA>200<\/color>水晶 （免費）\n第3次：<color=#FF55AA>250<\/color>水晶 （免費）"
+    "value": "第1次：<color=#FF5599>150<\/color>水晶 （免費）\n第2次：<color=#FF5599>200<\/color>水晶 （免費）\n第3次：<color=#FF5599>250<\/color>水晶 （免費）"
   },
   {
     "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT_2",
-    "value": "第4次：<color=#FF55AA>350<\/color>水晶 （免費）\n第5次：<color=#FF55AA>450<\/color>水晶 （免費）\n第6次：<color=#FF55AA>600<\/color>水晶 （免費）"
+    "value": "第4次：<color=#FF5599>350<\/color>水晶 （免費）\n第5次：<color=#FF5599>450<\/color>水晶 （免費）\n第6次：<color=#FF5599>600<\/color>水晶 （免費）"
   },
   {
     "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE_CONTENT_3",
@@ -4265,11 +4273,11 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_EFFECT_CONTENT",
-    "value": "<color=#FF55AA>30<\/color>天效果為七彩通行證有效期間內可以獲得的獎勵效果：\n<color=#FF55AA>※提升「七彩通行證」 權益！<\/color> \n・每日AUTO LIVE次數上限增加為<color=#FF55AA>20<\/color>次。 \n・挑戰P獲得量增加為<color=#FF55AA>2<\/color>倍。 \n・LIVE P獲得量增加為<color=#FF55AA>2<\/color>倍。"
+    "value": "<color=#FF5599>30<\/color>天效果為七彩通行證有效期間內可以獲得的獎勵效果：\n<color=#FF5599>※提升「七彩通行證」 權益！<\/color> \n・每日AUTO LIVE次數上限增加為<color=#FF5599>20<\/color>次。 \n・挑戰P獲得量增加為<color=#FF5599>2<\/color>倍。 \n・LIVE P獲得量增加為<color=#FF5599>2<\/color>倍。"
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_EFFECT_CONTENT_1",
-    "value": "・「1天1次付費招募」的次數增加為<color=#FF55AA>1<\/color>天<color=#FF55AA>2<\/color>次。\n・自動恢復的LIVE BONUS上限值從<color=#FF55AA>10<\/color>變為<color=#FF55AA>20<\/color>。"
+    "value": "・「1天1次付費招募」的次數增加為<color=#FF5599>1<\/color>天<color=#FF5599>2<\/color>次。\n・自動恢復的LIVE BONUS上限值從<color=#FF5599>10<\/color>變為<color=#FF5599>20<\/color>。"
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_REWARD",
@@ -4277,7 +4285,7 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_REWARD_CONTENT",
-    "value": "<color=#FF55AA>300<\/color>個水晶（付費）\n七彩通行證生效期間，每天可從「禮物」領取<color=#FF55AA>50<\/color>個水晶（免費）。"
+    "value": "<color=#FF5599>300<\/color>個水晶（付費）\n七彩通行證生效期間，每天可從「禮物」領取<color=#FF5599>50<\/color>個水晶（免費）。"
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_RULE",
@@ -4285,7 +4293,7 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_BUY_RULE_CONTENT",
-    "value": "累積購買六個月以上，則獎勵額度以最高者計算。\n在七彩通行證過期一週內續購，以上次累積購買次數為基準追加<color=#FF55AA>1<\/color>次購買次數。\n超過一週續購，累積購買次數將會重新計算。"
+    "value": "累積購買六個月以上，則獎勵額度以最高者計算。\n在七彩通行證過期一週內續購，以上次累積購買次數為基準追加<color=#FF5599>1<\/color>次購買次數。\n超過一週續購，累積購買次數將會重新計算。"
   },
   {
     "wordingKey": "WORD_COLORFUL_DETAIL_TITLE",
@@ -4341,7 +4349,7 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_PATH_SUBSCRIBE_DESCRIBE",
-    "value": "<color=#FF55AA>※到期後會自動續購，且有效期限將自動延長30天，\n可隨時取消。<\/color>"
+    "value": "<color=#FF5599>※到期後會自動續購，且有效期限將自動延長30天，\n可隨時取消。<\/color>"
   },
   {
     "wordingKey": "WORD_COLORFUL_SELECT_LIST",
@@ -5665,7 +5673,7 @@
   },
   {
     "wordingKey": "Word_Custom_1370",
-    "value": "將消耗水晶<color=#FF55AA>1500個來抽\\n「BOX名稱」\\n。確定嗎？"
+    "value": "將消耗水晶<color=#FF5599>1500個來抽\\n「BOX名稱」\\n。確定嗎？"
   },
   {
     "wordingKey": "Word_Custom_1371",
@@ -6165,7 +6173,7 @@
   },
   {
     "wordingKey": "Word_Custom_1483",
-    "value": "將消耗水晶<color=#FF55AA>1500個來抽\\n「BOX名稱」\\n。確定嗎？"
+    "value": "將消耗水晶<color=#FF5599>1500個來抽\\n「BOX名稱」\\n。確定嗎？"
   },
   {
     "wordingKey": "Word_Custom_1484",
@@ -6861,7 +6869,7 @@
   },
   {
     "wordingKey": "Word_Custom_1840",
-    "value": "將消耗水晶<color=#FF55AA>1500個來抽\\n「BOX名稱」\\n。確定嗎？"
+    "value": "將消耗水晶<color=#FF5599>1500個來抽\\n「BOX名稱」\\n。確定嗎？"
   },
   {
     "wordingKey": "Word_Custom_185",
@@ -7209,7 +7217,7 @@
   },
   {
     "wordingKey": "Word_Custom_2232",
-    "value": "將消耗水晶<color=#FF55AA>1500個來抽\\n「BOX名稱」\\n。確定嗎？"
+    "value": "將消耗水晶<color=#FF5599>1500個來抽\\n「BOX名稱」\\n。確定嗎？"
   },
   {
     "wordingKey": "Word_Custom_2233",
@@ -7348,8 +7356,36 @@
     "value": "搜尋"
   },
   {
+    "wordingKey": "Word_Custom_2402",
+    "value": "{招待されたユーザー名}さんが\n\\n{ユニット名①}、{ユニット名➁}、\n\\n{ユニット名③}のメインストーリーを読破し、\n\\n招待ミッションを達成した報酬です。"
+  },
+  {
+    "wordingKey": "Word_Custom_2404",
+    "value": "99ヶ月"
+  },
+  {
+    "wordingKey": "Word_Custom_2406",
+    "value": "EXミッション 999回目"
+  },
+  {
+    "wordingKey": "Word_Custom_2408",
+    "value": "全カラーをまとめて購入"
+  },
+  {
     "wordingKey": "Word_Custom_241",
     "value": "樂團名稱"
+  },
+  {
+    "wordingKey": "Word_Custom_2410",
+    "value": "文字サイズ 3 6 P t\\n十四文字×二行入りますよ。"
+  },
+  {
+    "wordingKey": "Word_Custom_2412",
+    "value": "イベント申込み"
+  },
+  {
+    "wordingKey": "Word_Custom_2414",
+    "value": "※「クリアボーナス1人目」報酬について、本キャンペーンで初回限定報酬を受け取った場合、次回以降のキャンペーンで獲得できる報酬は異なります。"
   },
   {
     "wordingKey": "Word_Custom_242",
@@ -7521,7 +7557,7 @@
   },
   {
     "wordingKey": "Word_Custom_280",
-    "value": "<color=#AAAAAAFF>0<\/color><color=#FF55AAFF>00000000000000<\/color>"
+    "value": "<color=#AAAAAAFF>0<\/color><color=#FF5599FF>00000000000000<\/color>"
   },
   {
     "wordingKey": "Word_Custom_281",
@@ -7529,7 +7565,7 @@
   },
   {
     "wordingKey": "Word_Custom_282",
-    "value": "<color=#AAAAAAFF>0<\/color><color=#FF55AAFF>00000000000000<\/color>"
+    "value": "<color=#AAAAAAFF>0<\/color><color=#FF5599FF>00000000000000<\/color>"
   },
   {
     "wordingKey": "Word_Custom_283",
@@ -8325,7 +8361,7 @@
   },
   {
     "wordingKey": "Word_Custom_461",
-    "value": "<color=#AAAAAAFF>0<\/color><color=#FF55AAFF>00000000000000<\/color>"
+    "value": "<color=#AAAAAAFF>0<\/color><color=#FF5599FF>00000000000000<\/color>"
   },
   {
     "wordingKey": "Word_Custom_462",
@@ -8333,7 +8369,7 @@
   },
   {
     "wordingKey": "Word_Custom_463",
-    "value": "<color=#AAAAAAFF>0<\/color><color=#FF55AAFF>00000000000000<\/color>"
+    "value": "<color=#AAAAAAFF>0<\/color><color=#FF5599FF>00000000000000<\/color>"
   },
   {
     "wordingKey": "Word_Custom_464",
@@ -12429,7 +12465,7 @@
   },
   {
     "wordingKey": "Word_RecommendSettingContent",
-    "value": "根據此設備性能，推薦的畫質設定為：\n模式：<color=#FF55AA>{0}<\/color>\n3DMV品質設定：<color=#FF55AA>{1}<\/color>\n虛擬LIVE圖像畫質：<color=#FF55AA>{2}<\/color>\n是否使用推薦的設定？\n\n※進入遊戲後可在選項中修改畫質設定"
+    "value": "根據此設備性能，推薦的畫質設定為：\n模式：<color=#FF5599>{0}<\/color>\n3DMV品質設定：<color=#FF5599>{1}<\/color>\n虛擬LIVE圖像畫質：<color=#FF5599>{2}<\/color>\n是否使用推薦的設定？\n\n※進入遊戲後可在選項中修改畫質設定"
   },
   {
     "wordingKey": "Word_RecommendSettingDialog_content",

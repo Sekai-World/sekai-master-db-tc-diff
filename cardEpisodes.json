@@ -26168,5 +26168,803 @@
       }
     ],
     "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1245,
+    "cardId": 624,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "002024_saki01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1246,
+    "cardId": 624,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "002024_saki02",
+    "releaseConditionId": 30624,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1247,
+    "cardId": 625,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "003027_honami01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1248,
+    "cardId": 625,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "003027_honami02",
+    "releaseConditionId": 30625,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1249,
+    "cardId": 626,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "025025_meiko01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1250,
+    "cardId": 626,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "025025_meiko02",
+    "releaseConditionId": 30626,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1251,
+    "cardId": 627,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "001023_ichika01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1252,
+    "cardId": 627,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "001023_ichika02",
+    "releaseConditionId": 30627,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1253,
+    "cardId": 628,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "004026_shiho01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1254,
+    "cardId": 628,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "004026_shiho02",
+    "releaseConditionId": 30628,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1255,
+    "cardId": 629,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "005022_minori01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 240,
+    "power2BonusFixed": 240,
+    "power3BonusFixed": 240,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1256,
+    "cardId": 629,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "005022_minori02",
+    "releaseConditionId": 30629,
+    "power1BonusFixed": 550,
+    "power2BonusFixed": 550,
+    "power3BonusFixed": 550,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1257,
+    "cardId": 630,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "007024_airi01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1258,
+    "cardId": 630,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "007024_airi02",
+    "releaseConditionId": 30630,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1259,
+    "cardId": 631,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "006024_haruka01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1260,
+    "cardId": 631,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "006024_haruka02",
+    "releaseConditionId": 30631,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1261,
+    "cardId": 632,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "008025_shizuku01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1262,
+    "cardId": 632,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "008025_shizuku02",
+    "releaseConditionId": 30632,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1263,
+    "cardId": 633,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "026026_kaito01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1264,
+    "cardId": 633,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "026026_kaito02",
+    "releaseConditionId": 30633,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1265,
+    "cardId": 634,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "005023_minori01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1266,
+    "cardId": 634,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "005023_minori02",
+    "releaseConditionId": 30634,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1267,
+    "cardId": 635,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "019027_ena01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 240,
+    "power2BonusFixed": 240,
+    "power3BonusFixed": 240,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1268,
+    "cardId": 635,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "019027_ena02",
+    "releaseConditionId": 30635,
+    "power1BonusFixed": 550,
+    "power2BonusFixed": 550,
+    "power3BonusFixed": 550,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1269,
+    "cardId": 636,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "020024_mizuki01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1270,
+    "cardId": 636,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "020024_mizuki02",
+    "releaseConditionId": 30636,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1271,
+    "cardId": 637,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "018025_mafuyu01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1272,
+    "cardId": 637,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "018025_mafuyu02",
+    "releaseConditionId": 30637,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1273,
+    "cardId": 638,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "024026_luka01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1274,
+    "cardId": 638,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "024026_luka02",
+    "releaseConditionId": 30638,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1275,
+    "cardId": 639,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "023026_len01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1276,
+    "cardId": 639,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "023026_len02",
+    "releaseConditionId": 30639,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1277,
+    "cardId": 640,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "019026_ena01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1278,
+    "cardId": 640,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "019026_ena02",
+    "releaseConditionId": 30640,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1279,
+    "cardId": 641,
+    "title": "支線劇情（前篇）",
+    "scenarioId": "002025_saki01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 240,
+    "power2BonusFixed": 240,
+    "power3BonusFixed": 240,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1280,
+    "cardId": 641,
+    "title": "支線劇情（後篇）",
+    "scenarioId": "002025_saki02",
+    "releaseConditionId": 30641,
+    "power1BonusFixed": 550,
+    "power2BonusFixed": 550,
+    "power3BonusFixed": 550,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
   }
 ]
