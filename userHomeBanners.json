@@ -20,24 +20,44 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 535,
+    "homeBannerId": 583,
     "seq": 180,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha265",
+    "assetbundleName": "banner_gacha285",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 265,
-    "startAt": 1700452800000,
-    "endAt": 1701316799000
+    "transitionDestinationId": 285,
+    "startAt": 1705809600000,
+    "endAt": 1706673599000
   },
   {
-    "homeBannerId": 536,
+    "homeBannerId": 584,
     "seq": 170,
     "homeBannerType": "event",
-    "assetbundleName": "event_wish_2022",
+    "assetbundleName": "event_bravers_2023",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 77,
-    "startAt": 1700463600000,
-    "endAt": 1701327599000
+    "transitionDestinationId": 83,
+    "startAt": 1705820400000,
+    "endAt": 1706684399000
+  },
+  {
+    "homeBannerId": 587,
+    "seq": 90,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha286",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 286,
+    "startAt": 1706155200000,
+    "endAt": 1707019199000
+  },
+  {
+    "homeBannerId": 590,
+    "seq": 130,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive206",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 206,
+    "startAt": 1706425200000,
+    "endAt": 1706543999000
   },
   {
     "homeBannerId": 10037,
@@ -56,5 +76,15 @@
     "transitionDestinationType": "billing_shop_for_first_recharge",
     "startAt": 1695092400000,
     "endAt": 4093473599000
+  },
+  {
+    "homeBannerId": 10043,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_tournament_2024",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 11092,
+    "startAt": 1704427200000,
+    "endAt": 1713067199000
   }
 ]
