@@ -20,26 +20,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 583,
-    "seq": 180,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha285",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 285,
-    "startAt": 1705809600000,
-    "endAt": 1706673599000
-  },
-  {
-    "homeBannerId": 584,
-    "seq": 170,
-    "homeBannerType": "event",
-    "assetbundleName": "event_bravers_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 83,
-    "startAt": 1705820400000,
-    "endAt": 1706684399000
-  },
-  {
     "homeBannerId": 587,
     "seq": 90,
     "homeBannerType": "general",
@@ -48,6 +28,26 @@
     "transitionDestinationId": 286,
     "startAt": 1706155200000,
     "endAt": 1707019199000
+  },
+  {
+    "homeBannerId": 592,
+    "seq": 180,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha291",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 291,
+    "startAt": 1706673600000,
+    "endAt": 1707537599000
+  },
+  {
+    "homeBannerId": 593,
+    "seq": 170,
+    "homeBannerType": "event",
+    "assetbundleName": "event_candle_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 84,
+    "startAt": 1706684400000,
+    "endAt": 1707548399000
   },
   {
     "homeBannerId": 10037,
