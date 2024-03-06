@@ -2000,6 +2000,10 @@
     "value": "無舉辦中的活動。"
   },
   {
+    "wordingKey": "MSG_NOT_SUPPORT_EVENT_INSESSION",
+    "value": "活動已結束"
+  },
+  {
     "wordingKey": "MSG_NOT_TARGET_MUSIC",
     "value": "無符合條件的歌曲。"
   },
@@ -3085,7 +3089,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_PERSONAL_REWARD",
-    "value": "此為中秋應援活動的個人獎勵"
+    "value": "此為應援！新春的世界2024活動的個人獎勵"
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LEGEND",
@@ -3101,7 +3105,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_TOTAL_REWARD",
-    "value": "此為中秋應援活動的世界獎勵"
+    "value": "此為應援！新春的世界2024的世界獎勵"
   },
   {
     "wordingKey": "TB",
@@ -7357,19 +7361,19 @@
   },
   {
     "wordingKey": "Word_Custom_2402",
-    "value": "{招待されたユーザー名}さんが\n\\n{ユニット名①}、{ユニット名➁}、\n\\n{ユニット名③}のメインストーリーを読破し、\n\\n招待ミッションを達成した報酬です。"
+    "value": "此為{受邀的用戶名}讀完 \\n{團體名①}、{團體名➁}、 \\n{團體名③}的主線劇情， \\n並達成邀請任務的報酬。"
   },
   {
     "wordingKey": "Word_Custom_2404",
-    "value": "99ヶ月"
+    "value": "99個月"
   },
   {
     "wordingKey": "Word_Custom_2406",
-    "value": "EXミッション 999回目"
+    "value": "EX任務 第999次"
   },
   {
     "wordingKey": "Word_Custom_2408",
-    "value": "全カラーをまとめて購入"
+    "value": "一次購買所有顏色"
   },
   {
     "wordingKey": "Word_Custom_241",
@@ -7377,15 +7381,15 @@
   },
   {
     "wordingKey": "Word_Custom_2410",
-    "value": "文字サイズ 3 6 P t\\n十四文字×二行入りますよ。"
+    "value": "字體大小 3 6 P t\\n可填寫十四個字×兩行喔。"
   },
   {
     "wordingKey": "Word_Custom_2412",
-    "value": "イベント申込み"
+    "value": "報名活動"
   },
   {
     "wordingKey": "Word_Custom_2414",
-    "value": "※「クリアボーナス1人目」報酬について、本キャンペーンで初回限定報酬を受け取った場合、次回以降のキャンペーンで獲得できる報酬は異なります。"
+    "value": "※關於「完成獎勵第1位」報酬，若已於本活動領取首次限定的報酬，在往後的活動中能獲得的報酬將會有所不同。"
   },
   {
     "wordingKey": "Word_Custom_242",
@@ -13473,7 +13477,7 @@
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_REWARD_DESCRIBE_X",
-    "value": "此為中秋應援活動的「世界」粉絲數獎勵"
+    "value": "此為應援！新春的世界的「世界」粉絲數獎勵"
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_UNIT_SCORE_REWARD",

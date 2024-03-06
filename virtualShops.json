@@ -3903,25 +3903,6 @@
     "virtualShopType": "special_live"
   },
   {
-    "id": 162,
-    "name": "2023甘酒商店",
-    "virtualShopItems": [
-      {
-        "id": 313,
-        "virtualShopId": 162,
-        "virtualShopItemType": "boost_item",
-        "seq": 299999,
-        "resourceBoxId": 147,
-        "costVirtualCoin": 0,
-        "costJewel": 0,
-        "startAt": 1704006000000,
-        "endAt": 1704869999000,
-        "limitValue": 1
-      }
-    ],
-    "virtualShopType": "other"
-  },
-  {
     "id": 163,
     "name": "第81次活動販售",
     "virtualShopItems": [
@@ -4293,5 +4274,86 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 1004,
+    "name": "春节2024",
+    "virtualShopItems": [
+      {
+        "id": 10009,
+        "virtualShopId": 1004,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000009,
+        "resourceBoxId": 10005,
+        "costPaidJewel": 1000,
+        "startAt": 1707462000000
+      },
+      {
+        "id": 10010,
+        "virtualShopId": 1004,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000010,
+        "resourceBoxId": 10003,
+        "costPaidJewel": 1000,
+        "startAt": 1707462000000
+      },
+      {
+        "id": 10011,
+        "virtualShopId": 1004,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000011,
+        "resourceBoxId": 10006,
+        "costPaidJewel": 1000,
+        "startAt": 1707462000000
+      },
+      {
+        "id": 10012,
+        "virtualShopId": 1004,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000012,
+        "resourceBoxId": 10009,
+        "costPaidJewel": 1000,
+        "startAt": 1707462000000
+      },
+      {
+        "id": 10013,
+        "virtualShopId": 1004,
+        "virtualShopItemType": "penlight",
+        "seq": 1000013,
+        "resourceBoxId": 10007,
+        "costPaidJewel": 1000,
+        "startAt": 1707462000000
+      },
+      {
+        "id": 10014,
+        "virtualShopId": 1004,
+        "virtualShopItemType": "accessory",
+        "seq": 1000014,
+        "resourceBoxId": 10008,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1707462000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 1005,
+    "name": "甘酒商店",
+    "virtualShopItems": [
+      {
+        "id": 10015,
+        "virtualShopId": 1005,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1707462000000,
+        "endAt": 1708325999000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
   }
 ]

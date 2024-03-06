@@ -12115,5 +12115,134 @@
         ]
       }
     ]
+  },
+  {
+    "id": 94,
+    "eventId": 94,
+    "outline": "宮女的一年級生馬上就要去橫濱遠足了！眼看之後就要回到學分班，遙心想這將會是在普通班的最後回憶，這時咲希突然主動跑來找遙，想和她同組……？",
+    "bannerGameCharacterUnitId": 6,
+    "assetbundleName": "event_trip_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000753,
+        "eventStoryId": 94,
+        "episodeNo": 1,
+        "title": "前往可能是最後一次的遠足",
+        "assetbundleName": "event_trip_2023_01",
+        "scenarioId": "event_94_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000754,
+        "eventStoryId": 94,
+        "episodeNo": 2,
+        "title": "開心的遠足會議",
+        "assetbundleName": "event_trip_2023_02",
+        "scenarioId": "event_94_02",
+        "releaseConditionId": 109301,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000755,
+        "eventStoryId": 94,
+        "episodeNo": 3,
+        "title": "出發！介紹好吃的咖哩",
+        "assetbundleName": "event_trip_2023_03",
+        "scenarioId": "event_94_03",
+        "releaseConditionId": 109302,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000756,
+        "eventStoryId": 94,
+        "episodeNo": 4,
+        "title": "為了能推一把",
+        "assetbundleName": "event_trip_2023_04",
+        "scenarioId": "event_94_04",
+        "releaseConditionId": 109303,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000757,
+        "eventStoryId": 94,
+        "episodeNo": 5,
+        "title": "今天以高中生的身分",
+        "assetbundleName": "event_trip_2023_05",
+        "scenarioId": "event_94_05",
+        "releaseConditionId": 109304,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000758,
+        "eventStoryId": 94,
+        "episodeNo": 6,
+        "title": "牽我的手，到水之上",
+        "assetbundleName": "event_trip_2023_06",
+        "scenarioId": "event_94_06",
+        "releaseConditionId": 109305,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000759,
+        "eventStoryId": 94,
+        "episodeNo": 7,
+        "title": "不管發生什麼，我們都",
+        "assetbundleName": "event_trip_2023_07",
+        "scenarioId": "event_94_07",
+        "releaseConditionId": 109306,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000760,
+        "eventStoryId": 94,
+        "episodeNo": 8,
+        "title": "總有一天要再大家一起",
+        "assetbundleName": "event_trip_2023_08",
+        "scenarioId": "event_94_08",
+        "releaseConditionId": 109307,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 47
+          }
+        ]
+      }
+    ]
   }
 ]
