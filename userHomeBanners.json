@@ -20,34 +20,24 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 605,
+    "homeBannerId": 613,
     "seq": 180,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha298",
+    "assetbundleName": "banner_gacha301",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 298,
-    "startAt": 1708315200000,
-    "endAt": 1709092799000
+    "transitionDestinationId": 301,
+    "startAt": 1709092800000,
+    "endAt": 1710129599000
   },
   {
-    "homeBannerId": 606,
+    "homeBannerId": 614,
     "seq": 170,
     "homeBannerType": "event",
-    "assetbundleName": "event_kick_2023",
+    "assetbundleName": "event_cooking_2023",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 86,
-    "startAt": 1708326000000,
-    "endAt": 1709103599000
-  },
-  {
-    "homeBannerId": 608,
-    "seq": 90,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha299",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 299,
-    "startAt": 1708660800000,
-    "endAt": 1709524799000
+    "transitionDestinationId": 87,
+    "startAt": 1709103600000,
+    "endAt": 1710140399000
   },
   {
     "homeBannerId": 10037,
@@ -69,22 +59,12 @@
   },
   {
     "homeBannerId": 10043,
-    "seq": 1,
+    "seq": 10,
     "homeBannerType": "general",
     "assetbundleName": "banner_tournament_2024",
     "transitionDestinationType": "information",
     "transitionDestinationId": 11092,
     "startAt": 1704427200000,
     "endAt": 1713067199000
-  },
-  {
-    "homeBannerId": 10051,
-    "seq": 160,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_questionnaire_5",
-    "transitionDestinationType": "questionnaire",
-    "transitionDestinationId": 20316842,
-    "startAt": 1708704000000,
-    "endAt": 1709654340000
   }
 ]
