@@ -185,16 +185,6 @@
     "honorType": "achievement"
   },
   {
-    "id": 38,
-    "name": "皆傳",
-    "honorType": "achievement"
-  },
-  {
-    "id": 39,
-    "name": "真・皆傳",
-    "honorType": "achievement"
-  },
-  {
     "id": 40,
     "name": "安全第一",
     "honorType": "achievement"
@@ -1154,6 +1144,11 @@
     "backgroundAssetbundleName": "season_2022_autumn"
   },
   {
+    "id": 229,
+    "name": "HAPPY BIRTHDAY 一歌 2024.8.11",
+    "honorType": "event"
+  },
+  {
     "id": 230,
     "name": "HAPPY BIRTHDAY 咲希 2024.5.9",
     "honorType": "event"
@@ -1194,13 +1189,38 @@
     "honorType": "event"
   },
   {
+    "id": 238,
+    "name": "HAPPY BIRTHDAY 杏 2024.7.26",
+    "honorType": "event"
+  },
+  {
     "id": 239,
     "name": "HAPPY BIRTHDAY 彰人 2023.11.12",
     "honorType": "event"
   },
   {
+    "id": 240,
+    "name": "HAPPY BIRTHDAY 冬彌 2024.5.25",
+    "honorType": "event"
+  },
+  {
     "id": 241,
     "name": "HAPPY BIRTHDAY 司 2024.5.17",
+    "honorType": "event"
+  },
+  {
+    "id": 242,
+    "name": "HAPPY BIRTHDAY 笑夢 2024.9.9",
+    "honorType": "event"
+  },
+  {
+    "id": 243,
+    "name": "HAPPY BIRTHDAY 寧寧 2024.7.20",
+    "honorType": "event"
+  },
+  {
+    "id": 244,
+    "name": "HAPPY BIRTHDAY 類2024.6.24",
     "honorType": "event"
   },
   {
@@ -1216,6 +1236,16 @@
   {
     "id": 247,
     "name": "HAPPY BIRTHDAY 繪名 2024.4.30",
+    "honorType": "event"
+  },
+  {
+    "id": 248,
+    "name": "HAPPY BIRTHDAY 瑞希 2024.8.27",
+    "honorType": "event"
+  },
+  {
+    "id": 249,
+    "name": "HAPPY ANNIVERSARY 初音未來 2024.8.31",
     "honorType": "event"
   },
   {
@@ -1436,6 +1466,133 @@
     "id": 288,
     "name": "世界計畫 Championship 2023 Spring",
     "honorType": "event"
+  },
+  {
+    "id": 289,
+    "name": "金絲雀在困境中歌唱",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_quagmire"
+  },
+  {
+    "id": 290,
+    "name": "給在我身旁溫柔的你",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_neighbor"
+  },
+  {
+    "id": 291,
+    "name": "Light Up the Fire",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_fire"
+  },
+  {
+    "id": 292,
+    "name": "STEP by STEP！",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_step"
+  },
+  {
+    "id": 293,
+    "name": "一生一次的百鬼夜行！？",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_pandemonium"
+  },
+  {
+    "id": 294,
+    "name": "連線LIVE 25點，Nightcord見。 1st moment",
+    "honorType": "event"
+  },
+  {
+    "id": 295,
+    "name": "等級配對2023 SUMMER",
+    "honorType": "rank_match",
+    "backgroundAssetbundleName": "season_2023_summer"
+  },
+  {
+    "id": 296,
+    "name": "七夕2024",
+    "honorType": "event"
+  },
+  {
+    "id": 297,
+    "name": "向偽裝的我道別",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_persona"
+  },
+  {
+    "id": 298,
+    "name": "相繫的，星之歌",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_connect"
+  },
+  {
+    "id": 299,
+    "name": "連線LIVE Wonderlands×Showtime 1st STORIES",
+    "honorType": "event"
+  },
+  {
+    "id": 300,
+    "name": "LIVE Master 初級",
+    "honorType": "achievement"
+  },
+  {
+    "id": 301,
+    "name": "LIVE Master 中級",
+    "honorType": "achievement"
+  },
+  {
+    "id": 302,
+    "name": "LIVE Master 高級",
+    "honorType": "achievement"
+  },
+  {
+    "id": 303,
+    "name": "LIVE Master 達人",
+    "honorType": "achievement"
+  },
+  {
+    "id": 304,
+    "name": "LIVE Master 皆傳",
+    "honorType": "achievement"
+  },
+  {
+    "id": 305,
+    "name": "LIVE Master 真・皆傳",
+    "honorType": "achievement"
+  },
+  {
+    "id": 306,
+    "name": "從最一開始就在",
+    "honorType": "achievement"
+  },
+  {
+    "id": 307,
+    "name": "從很久以前就在",
+    "honorType": "achievement"
+  },
+  {
+    "id": 310,
+    "name": "手忙腳亂 cafe ●REC!!",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_recording"
+  },
+  {
+    "id": 311,
+    "name": "On Your Feet",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_onyourfeet"
+  },
+  {
+    "id": 312,
+    "name": "我們的圓滿結局",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_ourhappy"
+  },
+  {
+    "id": 313,
+    "name": "響徹「世界」！Your Song",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_resound"
   },
   {
     "id": 10001,

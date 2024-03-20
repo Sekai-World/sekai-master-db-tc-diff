@@ -760,6 +760,10 @@
     "value": "\"GameCenter中有綁定的玩家資料。\n要解除原本的綁定，並綁定現在的玩家資料嗎？\""
   },
   {
+    "wordingKey": "MSG_CONFIRM_PLAY_LOGIN_STORY_DIALOG",
+    "value": "即將播放登入劇情，\n確定嗎？"
+  },
+  {
     "wordingKey": "MSG_CONFIRM_REMOVE_BOOK_MARK",
     "value": "要移除這個書籤嗎？"
   },
@@ -1126,6 +1130,10 @@
   {
     "wordingKey": "MSG_EX_GAGE_MAX",
     "value": "EXTRA條集滿了。"
+  },
+  {
+    "wordingKey": "MSG_EX_MISSION_LOOPS_INFORMATION",
+    "value": "EX任務 第{0}次"
   },
   {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
@@ -2081,7 +2089,7 @@
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_EVALUATION_PERIOD",
-    "value": "{0}～{1}\n<color=#ff5588>※必須在這個期間<\/color>\n<color=#ff5588>滿足需要持續期間。<\/color>"
+    "value": "{0} ～ \n{1}\n<color=#ff5588>※必須在此期間<\/color>\n<color=#ff5588>達成所需持續時間。<\/color>"
   },
   {
     "wordingKey": "MSG_OLD_COLOFRUL_PASS_USER_DIALOG_BODY",
@@ -2106,6 +2114,10 @@
   {
     "wordingKey": "MSG_OTHER_UNIT",
     "value": "其他團體"
+  },
+  {
+    "wordingKey": "MSG_OUT_OF_PERIOD_PLAY_LOGIN_STORY_DIALOG",
+    "value": "目前並非登入劇情的公開期間，\n因此無法播放。"
   },
   {
     "wordingKey": "MSG_OUT_OF_TERM_RANK_MATCH_DIALOG",
@@ -2700,6 +2712,10 @@
     "value": "交換所期限已過。"
   },
   {
+    "wordingKey": "MSG_TITLE_PLAY_LOGIN_STORY_DIALOG",
+    "value": "通知"
+  },
+  {
     "wordingKey": "MSG_TOP_RANKING",
     "value": "TOP100"
   },
@@ -2897,7 +2913,7 @@
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
-    "value": "・獲得「<color=#FF77AAFF>[{0}] {1}<\/color>」後，\n可讓<color=#FF77AAFF>{1}<\/color>穿著「<color=#FF77AAFF>{2}<\/color>」。\n\n・已新增其他角色也可製作的演出服裝到「服飾店」。\n若在「服飾店」指定可穿著服裝的角色，並製作服裝，即可使其換上服裝。"
+    "value": "・獲得「<color=#FF77AAFF>[{0}] {1}<\/color>」後，\n可讓<color=#FF77AAFF>{1}<\/color>穿著「<color=#FF77AAFF>{2}<\/color>」。"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
@@ -2914,6 +2930,10 @@
   {
     "wordingKey": "MSG_WEAR_COSTUME_RESULT",
     "value": "已更換演出服裝。"
+  },
+  {
+    "wordingKey": "MSG_WEB_LINK_BANNER_CONFIRM_DIALOG_BODY",
+    "value": "即將前往外部網站，確定嗎？"
   },
   {
     "wordingKey": "MSG_WISH_LIST_BACK_GACHA_TOP_CONFIRM",
@@ -3562,6 +3582,10 @@
   {
     "wordingKey": "WORD_BACK",
     "value": "上一頁"
+  },
+  {
+    "wordingKey": "WORD_BANNER_URL_DIALOG_TITLE",
+    "value": "確定"
   },
   {
     "wordingKey": "WORD_BATTERY_ALERT",
@@ -9340,6 +9364,10 @@
     "value": "EXP"
   },
   {
+    "wordingKey": "WORD_EX_CHARACTER_MISSION_INFORMATION_DIALOG_TITLE",
+    "value": "關於EX任務"
+  },
+  {
     "wordingKey": "WORD_FARMAT_MACHING",
     "value": "{0}配對"
   },
@@ -9402,6 +9430,10 @@
   {
     "wordingKey": "WORD_FIRST_REWARD",
     "value": "初次參加報酬"
+  },
+  {
+    "wordingKey": "WORD_FIXED_BONUS_PROVISION_RATIO",
+    "value": "★4確定提供機率"
   },
   {
     "wordingKey": "WORD_FIXED_PROVISION_RATIO",
@@ -9476,6 +9508,10 @@
     "value": "確認邀請碼"
   },
   {
+    "wordingKey": "WORD_FRIEND_INVITE_FIRST_ANNOTATION",
+    "value": "※關於「完成獎勵第1位」報酬，若已於本活動領取首次限定的報酬，在往後的活動中能獲得的報酬將會與首次有所不同。"
+  },
+  {
     "wordingKey": "WORD_FRIEND_INVITE_INFORMATION_TITLE",
     "value": "歡迎來到「世界」大作戰！！"
   },
@@ -9494,6 +9530,10 @@
   {
     "wordingKey": "WORD_FRIEND_INVITE_REGISTER_FAILURE",
     "value": "輸入失敗"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_SECOND_ANNOTATION",
+    "value": "※關於「完成獎勵第1位」報酬，由於已在本活動領取過首次限定的報酬，因此本活動中能獲得的報酬將會與首次有所不同。"
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_SEND",
@@ -10954,6 +10994,10 @@
   {
     "wordingKey": "WORD_MODULE_MAINTENANCE",
     "value": "功能維護"
+  },
+  {
+    "wordingKey": "WORD_MOVE",
+    "value": "前往"
   },
   {
     "wordingKey": "WORD_MOVIE_SKIP_TITLE",
