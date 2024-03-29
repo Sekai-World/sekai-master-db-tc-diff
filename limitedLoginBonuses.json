@@ -1626,5 +1626,69 @@
         "resourceBoxId": 1082
       }
     ]
+  },
+  {
+    "id": 1039,
+    "startAt": 1711771200000,
+    "endAt": 1712865599000,
+    "assetbundleName": "world_3900_anniversary",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1114,
+        "limitedLoginBonusId": 1039,
+        "day": 1,
+        "resourceBoxId": 1087
+      },
+      {
+        "id": 1115,
+        "limitedLoginBonusId": 1039,
+        "day": 2,
+        "resourceBoxId": 1088
+      },
+      {
+        "id": 1116,
+        "limitedLoginBonusId": 1039,
+        "day": 3,
+        "resourceBoxId": 1088
+      },
+      {
+        "id": 1117,
+        "limitedLoginBonusId": 1039,
+        "day": 4,
+        "resourceBoxId": 1088
+      },
+      {
+        "id": 1118,
+        "limitedLoginBonusId": 1039,
+        "day": 5,
+        "resourceBoxId": 1088
+      },
+      {
+        "id": 1119,
+        "limitedLoginBonusId": 1039,
+        "day": 6,
+        "resourceBoxId": 1088
+      },
+      {
+        "id": 1120,
+        "limitedLoginBonusId": 1039,
+        "day": 7,
+        "resourceBoxId": 1089
+      }
+    ]
+  },
+  {
+    "id": 1040,
+    "startAt": 1712160000000,
+    "endAt": 1712332799000,
+    "assetbundleName": "child_2024",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1121,
+        "limitedLoginBonusId": 1040,
+        "day": 1,
+        "resourceBoxId": 1090
+      }
+    ]
   }
 ]
