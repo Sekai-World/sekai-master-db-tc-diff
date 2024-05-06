@@ -20,34 +20,24 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 631,
-    "seq": 170,
-    "homeBannerType": "event",
-    "assetbundleName": "event_citycorner_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 90,
-    "startAt": 1711782000000,
-    "endAt": 1712818799000
-  },
-  {
-    "homeBannerId": 632,
+    "homeBannerId": 650,
     "seq": 180,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha316",
+    "assetbundleName": "banner_gacha325",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 316,
-    "startAt": 1712203200000,
-    "endAt": 1712807999000
+    "transitionDestinationId": 325,
+    "startAt": 1714449600000,
+    "endAt": 1715399999000
   },
   {
-    "homeBannerId": 633,
-    "seq": 80,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha311",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 311,
-    "startAt": 1711771200000,
-    "endAt": 1712807999000
+    "homeBannerId": 651,
+    "seq": 170,
+    "homeBannerType": "event",
+    "assetbundleName": "event_runaway_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 93,
+    "startAt": 1714460400000,
+    "endAt": 1715410799000
   },
   {
     "homeBannerId": 10037,
@@ -68,61 +58,13 @@
     "endAt": 4093473599000
   },
   {
-    "homeBannerId": 10043,
-    "seq": 10,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_tournament_2024",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 11092,
-    "startAt": 1704427200000,
-    "endAt": 1713067199000
-  },
-  {
-    "homeBannerId": 10053,
-    "seq": 100,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_2.5anniversary_shop",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1711771200000,
-    "endAt": 1714492799000
-  },
-  {
-    "homeBannerId": 10054,
-    "seq": 110,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha312",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 312,
-    "startAt": 1711771200000,
-    "endAt": 1714449599000
-  },
-  {
-    "homeBannerId": 10055,
-    "seq": 120,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha314",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 314,
-    "startAt": 1711771200000,
-    "endAt": 1712807999000
-  },
-  {
-    "homeBannerId": 10056,
-    "seq": 9999,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_cp_invite_friends",
-    "transitionDestinationType": "friend_invitation_campaign",
-    "startAt": 1711728000000,
-    "endAt": 1714492799000
-  },
-  {
     "homeBannerId": 10101,
     "seq": 1,
     "homeBannerType": "return",
     "assetbundleName": "banner_gacha2001",
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 1100,
-    "startAt": 1709928000000,
-    "endAt": 1712519999000
+    "startAt": 1713816000000,
+    "endAt": 1716407999000
   }
 ]
