@@ -12889,5 +12889,779 @@
         ]
       }
     ]
+  },
+  {
+    "id": 100,
+    "eventId": 100,
+    "outline": "因為電腦被收走，且母親的干涉也越來越強勢，真冬的精神日漸疲憊不堪。在這個時候，期末考的結果也快出來了……",
+    "bannerGameCharacterUnitId": 18,
+    "assetbundleName": "event_persona_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000801,
+        "eventStoryId": 100,
+        "episodeNo": 1,
+        "title": "磨損的心",
+        "assetbundleName": "event_persona_2023_01",
+        "scenarioId": "event_100_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000802,
+        "eventStoryId": 100,
+        "episodeNo": 2,
+        "title": "預兆",
+        "assetbundleName": "event_persona_2023_02",
+        "scenarioId": "event_100_02",
+        "releaseConditionId": 109901,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000803,
+        "eventStoryId": 100,
+        "episodeNo": 3,
+        "title": "逐漸瓦解的面具",
+        "assetbundleName": "event_persona_2023_03",
+        "scenarioId": "event_100_03",
+        "releaseConditionId": 109902,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000804,
+        "eventStoryId": 100,
+        "episodeNo": 4,
+        "title": "破堤",
+        "assetbundleName": "event_persona_2023_04",
+        "scenarioId": "event_100_04",
+        "releaseConditionId": 109903,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000805,
+        "eventStoryId": 100,
+        "episodeNo": 5,
+        "title": "看不見的心、確實的想法",
+        "assetbundleName": "event_persona_2023_05",
+        "scenarioId": "event_100_05",
+        "releaseConditionId": 109904,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000806,
+        "eventStoryId": 100,
+        "episodeNo": 6,
+        "title": "為了保護心",
+        "assetbundleName": "event_persona_2023_06",
+        "scenarioId": "event_100_06",
+        "releaseConditionId": 109905,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000807,
+        "eventStoryId": 100,
+        "episodeNo": 7,
+        "title": "丟棄面具",
+        "assetbundleName": "event_persona_2023_07",
+        "scenarioId": "event_100_07",
+        "releaseConditionId": 109906,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000808,
+        "eventStoryId": 100,
+        "episodeNo": 8,
+        "title": "伸出手後，在那前方",
+        "assetbundleName": "event_persona_2023_08",
+        "scenarioId": "event_100_08",
+        "releaseConditionId": 109907,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "eventId": 101,
+    "outline": "終於加入經紀公司的Leo\/need。一歌覺得能夠走到這一步，都是多虧了有許多支持她們的人，因此她想向大家表達感謝的心意──",
+    "bannerGameCharacterUnitId": 1,
+    "assetbundleName": "event_connect_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000809,
+        "eventStoryId": 101,
+        "episodeNo": 1,
+        "title": "持續延伸的路",
+        "assetbundleName": "event_connect_2023_01",
+        "scenarioId": "event_101_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000810,
+        "eventStoryId": 101,
+        "episodeNo": 2,
+        "title": "傳達心願的方法",
+        "assetbundleName": "event_connect_2023_02",
+        "scenarioId": "event_101_02",
+        "releaseConditionId": 110001,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000811,
+        "eventStoryId": 101,
+        "episodeNo": 3,
+        "title": "再次在那個地方……！",
+        "assetbundleName": "event_connect_2023_03",
+        "scenarioId": "event_101_03",
+        "releaseConditionId": 110002,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000812,
+        "eventStoryId": 101,
+        "episodeNo": 4,
+        "title": "重要的相遇",
+        "assetbundleName": "event_connect_2023_04",
+        "scenarioId": "event_101_04",
+        "releaseConditionId": 110003,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000813,
+        "eventStoryId": 101,
+        "episodeNo": 5,
+        "title": "不只是崇拜",
+        "assetbundleName": "event_connect_2023_05",
+        "scenarioId": "event_101_05",
+        "releaseConditionId": 110004,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000814,
+        "eventStoryId": 101,
+        "episodeNo": 6,
+        "title": "傾注了感謝之意",
+        "assetbundleName": "event_connect_2023_06",
+        "scenarioId": "event_101_06",
+        "releaseConditionId": 110005,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000815,
+        "eventStoryId": 101,
+        "episodeNo": 7,
+        "title": "星星之歌",
+        "assetbundleName": "event_connect_2023_07",
+        "scenarioId": "event_101_07",
+        "releaseConditionId": 110006,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000816,
+        "eventStoryId": 101,
+        "episodeNo": 8,
+        "title": "流星",
+        "assetbundleName": "event_connect_2023_08",
+        "scenarioId": "event_101_08",
+        "releaseConditionId": 110007,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "eventId": 102,
+    "outline": "突然找上MORE MORE JUMP！的新工作是電視節目的一個單元，要前往受到矚目的店家出外景做介紹！但是，拍攝地點竟然是實乃理打工的咖啡廳……！？",
+    "bannerGameCharacterUnitId": 7,
+    "assetbundleName": "event_recording_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000817,
+        "eventStoryId": 102,
+        "episodeNo": 1,
+        "title": "新的委託是……",
+        "assetbundleName": "event_recording_2023_01",
+        "scenarioId": "event_102_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000818,
+        "eventStoryId": 102,
+        "episodeNo": 2,
+        "title": "救援的臨時打工！",
+        "assetbundleName": "event_recording_2023_02",
+        "scenarioId": "event_102_02",
+        "releaseConditionId": 110101,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000819,
+        "eventStoryId": 102,
+        "episodeNo": 3,
+        "title": "在流行潮上衝浪",
+        "assetbundleName": "event_recording_2023_03",
+        "scenarioId": "event_102_03",
+        "releaseConditionId": 110102,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000820,
+        "eventStoryId": 102,
+        "episodeNo": 4,
+        "title": "意料之外的客人",
+        "assetbundleName": "event_recording_2023_04",
+        "scenarioId": "event_102_04",
+        "releaseConditionId": 110103,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000821,
+        "eventStoryId": 102,
+        "episodeNo": 5,
+        "title": "廚房快爆炸！",
+        "assetbundleName": "event_recording_2023_05",
+        "scenarioId": "event_102_05",
+        "releaseConditionId": 110104,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000822,
+        "eventStoryId": 102,
+        "episodeNo": 6,
+        "title": "緊急企劃 MORE MORE JUMP！咖啡廳！",
+        "assetbundleName": "event_recording_2023_06",
+        "scenarioId": "event_102_06",
+        "releaseConditionId": 110105,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000823,
+        "eventStoryId": 102,
+        "episodeNo": 7,
+        "title": "謝謝招待",
+        "assetbundleName": "event_recording_2023_07",
+        "scenarioId": "event_102_07",
+        "releaseConditionId": 110106,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000824,
+        "eventStoryId": 102,
+        "episodeNo": 8,
+        "title": "On air的去向……",
+        "assetbundleName": "event_recording_2023_08",
+        "scenarioId": "event_102_08",
+        "releaseConditionId": 110107,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "eventId": 103,
+    "outline": "知道了傳說之夜的真相，Vivid BAD SQUAD想超越RAD WEEKEND的想法又更強烈了。雖然討論後決定「現在就做力所能及的事情」，但大河的歌一直縈繞在小羽的腦海中……",
+    "bannerGameCharacterUnitId": 9,
+    "assetbundleName": "event_onyourfeet_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000825,
+        "eventStoryId": 103,
+        "episodeNo": 1,
+        "title": "從現在能做得到的事開始",
+        "assetbundleName": "event_onyourfeet_2023_01",
+        "scenarioId": "event_103_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000826,
+        "eventStoryId": 103,
+        "episodeNo": 2,
+        "title": "今天也要練習！",
+        "assetbundleName": "event_onyourfeet_2023_02",
+        "scenarioId": "event_103_02",
+        "releaseConditionId": 110201,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000827,
+        "eventStoryId": 103,
+        "episodeNo": 3,
+        "title": "意料之外的重逢",
+        "assetbundleName": "event_onyourfeet_2023_03",
+        "scenarioId": "event_103_03",
+        "releaseConditionId": 110202,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000828,
+        "eventStoryId": 103,
+        "episodeNo": 4,
+        "title": "拉開的距離",
+        "assetbundleName": "event_onyourfeet_2023_04",
+        "scenarioId": "event_103_04",
+        "releaseConditionId": 110203,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000829,
+        "eventStoryId": 103,
+        "episodeNo": 5,
+        "title": "這麼下去可以嗎",
+        "assetbundleName": "event_onyourfeet_2023_05",
+        "scenarioId": "event_103_05",
+        "releaseConditionId": 110204,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000830,
+        "eventStoryId": 103,
+        "episodeNo": 6,
+        "title": "掌握到的東西",
+        "assetbundleName": "event_onyourfeet_2023_06",
+        "scenarioId": "event_103_06",
+        "releaseConditionId": 110205,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000831,
+        "eventStoryId": 103,
+        "episodeNo": 7,
+        "title": "緊握這個心情",
+        "assetbundleName": "event_onyourfeet_2023_07",
+        "scenarioId": "event_103_07",
+        "releaseConditionId": 110206,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000832,
+        "eventStoryId": 103,
+        "episodeNo": 8,
+        "title": "從這個地方再一次",
+        "assetbundleName": "event_onyourfeet_2023_08",
+        "scenarioId": "event_103_08",
+        "releaseConditionId": 110207,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "eventId": 104,
+    "outline": "聯合公演結束了，Wonderland×Showtime各自都對自己的夢想又有了新的想法。預感到要道別的笑夢，為了能「笑著說再見」，打算好好整理心情，這個時候類向笑夢的哥哥們提出了某個提案──？",
+    "bannerGameCharacterUnitId": 14,
+    "assetbundleName": "event_ourhappy_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000833,
+        "eventStoryId": 104,
+        "episodeNo": 1,
+        "title": "笑著說再見",
+        "assetbundleName": "event_ourhappy_2023_01",
+        "scenarioId": "event_104_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000834,
+        "eventStoryId": 104,
+        "episodeNo": 2,
+        "title": "因為哪一個都無法放棄",
+        "assetbundleName": "event_ourhappy_2023_02",
+        "scenarioId": "event_104_02",
+        "releaseConditionId": 110301,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000835,
+        "eventStoryId": 104,
+        "episodeNo": 3,
+        "title": "不相容的夢想",
+        "assetbundleName": "event_ourhappy_2023_03",
+        "scenarioId": "event_104_03",
+        "releaseConditionId": 110302,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000836,
+        "eventStoryId": 104,
+        "episodeNo": 4,
+        "title": "最後的公演",
+        "assetbundleName": "event_ourhappy_2023_04",
+        "scenarioId": "event_104_04",
+        "releaseConditionId": 110303,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000837,
+        "eventStoryId": 104,
+        "episodeNo": 5,
+        "title": "逝去日子的回憶",
+        "assetbundleName": "event_ourhappy_2023_05",
+        "scenarioId": "event_104_05",
+        "releaseConditionId": 110304,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000838,
+        "eventStoryId": 104,
+        "episodeNo": 6,
+        "title": "為了你們的表演",
+        "assetbundleName": "event_ourhappy_2023_06",
+        "scenarioId": "event_104_06",
+        "releaseConditionId": 110305,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000839,
+        "eventStoryId": 104,
+        "episodeNo": 7,
+        "title": "大家一起達成夢想",
+        "assetbundleName": "event_ourhappy_2023_07",
+        "scenarioId": "event_104_07",
+        "releaseConditionId": 110306,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000840,
+        "eventStoryId": 104,
+        "episodeNo": 8,
+        "title": "最後的問候",
+        "assetbundleName": "event_ourhappy_2023_08",
+        "scenarioId": "event_104_08",
+        "releaseConditionId": 110307,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "eventId": 105,
+    "outline": "看著大家朝著目標一步步前進的身影，各個「世界」的虛擬歌手們也開始思考「想做些什麼來幫大家的心願加油」──",
+    "bannerGameCharacterUnitId": 30,
+    "assetbundleName": "event_resound_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000841,
+        "eventStoryId": 105,
+        "episodeNo": 1,
+        "title": "想要支持！",
+        "assetbundleName": "event_resound_2023_01",
+        "scenarioId": "event_105_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000842,
+        "eventStoryId": 105,
+        "episodeNo": 2,
+        "title": "為了大家",
+        "assetbundleName": "event_resound_2023_02",
+        "scenarioId": "event_105_02",
+        "releaseConditionId": 110401,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000843,
+        "eventStoryId": 105,
+        "episodeNo": 3,
+        "title": "傳到出的聲音",
+        "assetbundleName": "event_resound_2023_03",
+        "scenarioId": "event_105_03",
+        "releaseConditionId": 110402,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000844,
+        "eventStoryId": 105,
+        "episodeNo": 4,
+        "title": "靠近你",
+        "assetbundleName": "event_resound_2023_04",
+        "scenarioId": "event_105_04",
+        "releaseConditionId": 110403,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000845,
+        "eventStoryId": 105,
+        "episodeNo": 5,
+        "title": "不可思議的「世界」！？",
+        "assetbundleName": "event_resound_2023_05",
+        "scenarioId": "event_105_05",
+        "releaseConditionId": 110404,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000846,
+        "eventStoryId": 105,
+        "episodeNo": 6,
+        "title": "心意相連的邂逅",
+        "assetbundleName": "event_resound_2023_06",
+        "scenarioId": "event_105_06",
+        "releaseConditionId": 110405,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000847,
+        "eventStoryId": 105,
+        "episodeNo": 7,
+        "title": "就連另外一個自己",
+        "assetbundleName": "event_resound_2023_07",
+        "scenarioId": "event_105_07",
+        "releaseConditionId": 110406,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000848,
+        "eventStoryId": 105,
+        "episodeNo": 8,
+        "title": "和大家一起！",
+        "assetbundleName": "event_resound_2023_08",
+        "scenarioId": "event_105_08",
+        "releaseConditionId": 110407,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 58
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -5234,6 +5234,38 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 30065,
+    "seq": 300565,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1071,
+    "name": "星星主題服裝組合包（女性）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30065",
+    "resourceBoxId": 30065,
+    "bonusResourceBoxId": 30065,
+    "label": "期間限定",
+    "startAt": 1714536000000,
+    "endAt": 1715875199000
+  },
+  {
+    "id": 30066,
+    "seq": 300564,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1072,
+    "name": "星星主題服裝組合包（男性）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30066",
+    "resourceBoxId": 30066,
+    "bonusResourceBoxId": 30066,
+    "label": "期間限定",
+    "startAt": 1714536000000,
+    "endAt": 1715875199000
+  },
+  {
     "id": 300000,
     "seq": 300000,
     "billingShopItemType": "costume_3d",
