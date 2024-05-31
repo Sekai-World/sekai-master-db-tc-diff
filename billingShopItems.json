@@ -5266,6 +5266,38 @@
     "endAt": 1715875199000
   },
   {
+    "id": 30067,
+    "seq": 2018,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1073,
+    "name": "童話故事主題服裝組合包（女性）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30067",
+    "resourceBoxId": 30067,
+    "bonusResourceBoxId": 30067,
+    "label": "期間限定",
+    "startAt": 1718424000000,
+    "endAt": 1719331199000
+  },
+  {
+    "id": 30068,
+    "seq": 2017,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1074,
+    "name": "童話故事主題服裝組合包（男性）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30068",
+    "resourceBoxId": 30068,
+    "bonusResourceBoxId": 30068,
+    "label": "期間限定",
+    "startAt": 1718424000000,
+    "endAt": 1719331199000
+  },
+  {
     "id": 300000,
     "seq": 300000,
     "billingShopItemType": "costume_3d",
