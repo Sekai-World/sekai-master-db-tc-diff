@@ -20,34 +20,34 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 667,
+    "homeBannerId": 676,
     "seq": 180,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha334",
+    "assetbundleName": "banner_gacha340",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 334,
-    "startAt": 1716177600000,
-    "endAt": 1717127999000
+    "transitionDestinationId": 340,
+    "startAt": 1717992000000,
+    "endAt": 1718855999000
   },
   {
-    "homeBannerId": 668,
+    "homeBannerId": 677,
     "seq": 170,
     "homeBannerType": "event",
-    "assetbundleName": "event_quagmire_2023",
+    "assetbundleName": "event_fire_2023",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 95,
-    "startAt": 1716188400000,
-    "endAt": 1717138799000
+    "transitionDestinationId": 97,
+    "startAt": 1718002800000,
+    "endAt": 1718866799000
   },
   {
-    "homeBannerId": 673,
-    "seq": 90,
+    "homeBannerId": 679,
+    "seq": 120,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha337",
+    "assetbundleName": "banner_gacha341",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 337,
-    "startAt": 1716696000000,
-    "endAt": 1717387199000
+    "transitionDestinationId": 341,
+    "startAt": 1718337600000,
+    "endAt": 1719201599000
   },
   {
     "homeBannerId": 10037,
@@ -66,5 +66,15 @@
     "transitionDestinationType": "billing_shop_for_first_recharge",
     "startAt": 1695092400000,
     "endAt": 4093473599000
+  },
+  {
+    "homeBannerId": 10101,
+    "seq": 1,
+    "homeBannerType": "return",
+    "assetbundleName": "banner_gacha2001",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1100,
+    "startAt": 1717704000000,
+    "endAt": 1720295999000
   }
 ]
