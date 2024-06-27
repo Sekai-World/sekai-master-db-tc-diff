@@ -3093,7 +3093,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_LIVE_RANK",
-    "value": "{0}<color='#FF77AAFF'>倍<\/color>"
+    "value": "{0}<color=#FF77AAFF>倍<\/color>"
   },
   {
     "wordingKey": "SUPPORT_EVENT_LIVE_RESULT",
@@ -3178,6 +3178,14 @@
   {
     "wordingKey": "UPGRADE_2_6_COLORFUL_PASS_REWARD",
     "value": "此為七彩通行證的獎勵"
+  },
+  {
+    "wordingKey": "UPGRADE_3_4_COMPENSATE_CLEAR_LIVE_CONTINUED_HONOR_MISSION",
+    "value": "称号「ネバーギブアップ」の獲得条件変更に伴う補填です。"
+  },
+  {
+    "wordingKey": "UPGRADE_3_4_COMPENSATE_TUTORIAL_END_REWARD",
+    "value": "v3.0.0で追加されたチュートリアル突破報酬の補てんです。"
   },
   {
     "wordingKey": "USER_POLICY",
@@ -14306,5 +14314,13 @@
   {
     "wordingKey": "WORD_YES",
     "value": "是"
+  },
+  {
+    "wordingKey": "WORLD_BLOOM_CHAPTER_RANKING_REWARD",
+    "value": "「%s」チャプター%d ランキング%d位の報酬です。"
+  },
+  {
+    "wordingKey": "WORLD_BLOOM_OVERALL_RANKING_REWARD",
+    "value": "「%s」総合 ランキング%d位の報酬です。"
   }
 ]
