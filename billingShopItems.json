@@ -5414,6 +5414,38 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 30073,
+    "seq": 300593,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1075,
+    "name": "天文主題服裝組合包（女性）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30074",
+    "resourceBoxId": 30073,
+    "bonusResourceBoxId": 30073,
+    "label": "期間限定",
+    "startAt": 1720843200000,
+    "endAt": 1721750399000
+  },
+  {
+    "id": 30074,
+    "seq": 300592,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1076,
+    "name": "天文主題服裝組合包（男性）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30073",
+    "resourceBoxId": 30074,
+    "bonusResourceBoxId": 30074,
+    "label": "期間限定",
+    "startAt": 1720843200000,
+    "endAt": 1721750399000
+  },
+  {
     "id": 300000,
     "seq": 300000,
     "billingShopItemType": "costume_3d",
