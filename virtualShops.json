@@ -3545,6 +3545,80 @@
     "virtualShopType": "event"
   },
   {
+    "id": 141,
+    "name": "2週年連線LIVE 正式公演（票券商店）",
+    "virtualLiveId": 176,
+    "virtualShopItems": [
+      {
+        "id": 247,
+        "virtualShopId": 141,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299994,
+        "resourceBoxId": 191,
+        "costPaidJewel": 2980,
+        "startAt": 1728111600000,
+        "endAt": 1728489599000,
+        "limitValue": 2
+      },
+      {
+        "id": 248,
+        "virtualShopId": 141,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299995,
+        "resourceBoxId": 192,
+        "costPaidJewel": 5980,
+        "startAt": 1728111600000,
+        "endAt": 1728489599000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 142,
+    "name": "2週年連線LIVE 正式公演（販售周邊商店）",
+    "virtualLiveId": 176,
+    "virtualShopItems": [
+      {
+        "id": 249,
+        "virtualShopId": 142,
+        "virtualShopItemType": "costume",
+        "seq": 6,
+        "resourceBoxId": 193,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1696057200000,
+        "endAt": 1697093999000,
+        "limitValue": 1
+      },
+      {
+        "id": 250,
+        "virtualShopId": 142,
+        "virtualShopItemType": "costume",
+        "seq": 5,
+        "resourceBoxId": 194,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1696057200000,
+        "endAt": 1697093999000,
+        "limitValue": 1
+      },
+      {
+        "id": 251,
+        "virtualShopId": 142,
+        "virtualShopItemType": "accessory",
+        "seq": 4,
+        "resourceBoxId": 195,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1696057200000,
+        "endAt": 1697093999000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 144,
     "name": "遙 BIRTHDAY",
     "virtualShopItems": [
@@ -4720,6 +4794,87 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 219,
+    "name": "第106回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 388,
+        "virtualShopId": 219,
+        "virtualShopItemType": "accessory",
+        "seq": 99896,
+        "resourceBoxId": 285,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1726038000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 220,
+    "name": "第107回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 389,
+        "virtualShopId": 220,
+        "virtualShopItemType": "accessory",
+        "seq": 99895,
+        "resourceBoxId": 286,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1726815600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 224,
+    "name": "アバターデザインコンテスト作品",
+    "virtualShopItems": [
+      {
+        "id": 396,
+        "virtualShopId": 224,
+        "virtualShopItemType": "costume",
+        "seq": 199998,
+        "resourceBoxId": 293,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725087600000
+      },
+      {
+        "id": 397,
+        "virtualShopId": 224,
+        "virtualShopItemType": "costume",
+        "seq": 199999,
+        "resourceBoxId": 294,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725087600000
+      },
+      {
+        "id": 398,
+        "virtualShopId": 224,
+        "virtualShopItemType": "accessory",
+        "seq": 99897,
+        "resourceBoxId": 295,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725087600000
+      },
+      {
+        "id": 399,
+        "virtualShopId": 224,
+        "virtualShopItemType": "accessory",
+        "seq": 99898,
+        "resourceBoxId": 296,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725087600000
+      }
+    ],
+    "virtualShopType": "other"
   },
   {
     "id": 1003,

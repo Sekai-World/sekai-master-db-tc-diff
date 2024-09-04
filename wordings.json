@@ -1301,7 +1301,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_RESOURCE_NONE",
-    "value": "將免費招募\n「{0}」1次。\n確定嗎？"
+    "value": "將免費抽1次「{0}」，\n確定嗎？"
   },
   {
     "wordingKey": "MSG_GACHA_SHORT_RESOURCE",
@@ -3352,6 +3352,22 @@
     "value": "＋{0}"
   },
   {
+    "wordingKey": "WORD_AD_REWARD_BILLINGSHOP_FOR_JEWEL_JSON",
+    "value": "広告クリスタル"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_EVENTEXCHANGE_JSON",
+    "value": "広告イベントバッジ"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIVEMISSION_JSON",
+    "value": "広告ライブP&想いのカケラ"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_PRESENTBOX_JSON",
+    "value": "広告スペシャルギフト"
+  },
+  {
     "wordingKey": "WORD_AFTER_LIVE",
     "value": "AFTER LIVE"
   },
@@ -4156,6 +4172,10 @@
     "value": "★3成員"
   },
   {
+    "wordingKey": "WORD_CHECKREALNAMEFAILNOTICE",
+    "value": "实名认证失败"
+  },
+  {
     "wordingKey": "WORD_CHECK_CARD_IMAGE_TYPE",
     "value": "確認卡片顯示"
   },
@@ -4280,8 +4300,16 @@
     "value": "報名活動"
   },
   {
+    "wordingKey": "WORD_COLORFULPASS_BASIC_DETAIL_JSON",
+    "value": "{\n    \"title\": \"七彩通行证—标准\",\n    \"list\" : [ \n        {\n            \"head\" :  \"商品描述\",\n            \"desc\" :  \"有440个水晶\\n有1瓶饮料\"\n        },\n        {\n             \"head\" :  \"初回特典\",\n            \"desc\" :  \"有880个水晶\\n有2瓶饮料\"\n       }\n    ] \n}"
+  },
+  {
     "wordingKey": "WORD_COLORFULPASS_INFORMATION_BUTTON",
     "value": "詳情、獎勵"
+  },
+  {
+    "wordingKey": "WORD_COLORFULPASS_PRECIOUS_DETAIL_JSON",
+    "value": "{\n    \"title\": \"七彩通行证—标准\",\n    \"list\" : [ \n        {\n            \"head\" :  \"商品描述\",\n            \"desc\" :  \"有440个水晶\\n有1瓶饮料\"\n        },\n        {\n             \"head\" :  \"初回特典\",\n            \"desc\" :  \"有880个水晶\\n有2瓶饮料\"\n       }\n    ] \n}"
   },
   {
     "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE",
@@ -7348,24 +7376,240 @@
     "value": "星乃一歌"
   },
   {
+    "wordingKey": "Word_Custom_2301",
+    "value": "又購買[30天內有效]七彩通行證～PRECIOUS～嗎？"
+  },
+  {
+    "wordingKey": "Word_Custom_2302",
+    "value": "確認組合內容，同意後購買。"
+  },
+  {
+    "wordingKey": "Word_Custom_2303",
+    "value": "名字能輸入１０個字"
+  },
+  {
+    "wordingKey": "Word_Custom_2304",
+    "value": "訊息最多８個字"
+  },
+  {
+    "wordingKey": "Word_Custom_2305",
+    "value": "訊息．最多３２個字１２３４５６７８９０１２３４２５６７１２３"
+  },
+  {
+    "wordingKey": "Word_Custom_2306",
+    "value": "選擇所有成員"
+  },
+  {
+    "wordingKey": "Word_Custom_2307",
+    "value": "剩餘999次"
+  },
+  {
+    "wordingKey": "Word_Custom_2308",
+    "value": "世界甚至還沒有開始"
+  },
+  {
+    "wordingKey": "Word_Custom_2309",
+    "value": "PinocchioP"
+  },
+  {
     "wordingKey": "Word_Custom_231",
     "value": "標準顏色"
+  },
+  {
+    "wordingKey": "Word_Custom_2310",
+    "value": "觀看第8章"
+  },
+  {
+    "wordingKey": "Word_Custom_2311",
+    "value": "篩選歌曲"
+  },
+  {
+    "wordingKey": "Word_Custom_2312",
+    "value": "篩選表演"
+  },
+  {
+    "wordingKey": "Word_Custom_2313",
+    "value": "等級"
+  },
+  {
+    "wordingKey": "Word_Custom_2314",
+    "value": "到12\/31 23:59為止"
+  },
+  {
+    "wordingKey": "Word_Custom_2315",
+    "value": "到--\/-- --:--為止"
+  },
+  {
+    "wordingKey": "Word_Custom_2316",
+    "value": "訊息．最多２４個字１２３４６７８９０１２"
+  },
+  {
+    "wordingKey": "Word_Custom_2317",
+    "value": "AFTER LIVE"
+  },
+  {
+    "wordingKey": "Word_Custom_2318",
+    "value": "生日\\n紀念日"
+  },
+  {
+    "wordingKey": "Word_Custom_2319",
+    "value": "密碼"
   },
   {
     "wordingKey": "Word_Custom_232",
     "value": " "
   },
   {
+    "wordingKey": "Word_Custom_2320",
+    "value": "請輸入8〜16個英數字"
+  },
+  {
+    "wordingKey": "Word_Custom_2321",
+    "value": "ＡＡＡＡＡＡＡＡＡＡＢＢＢＢＢＢＢＢＢＢＣＣＣＣＣＣＣＣＣＣＤＤＤＤＤＤＤＤＤＤＥＥＥＥＥＥＥＥＥＥ\\nＦＧＨＩＪＫＦＧＨＩＪＫＦＧＨＩＪＫＦＧＨＩＪＫＦＧＨＩＪＫＦＧＨＩＪＫＦＧＨＩＪＫ"
+  },
+  {
+    "wordingKey": "Word_Custom_2322",
+    "value": "私人房間ID"
+  },
+  {
+    "wordingKey": "Word_Custom_2323",
+    "value": "即將下載新增檔案{0}。\\n確定嗎？"
+  },
+  {
+    "wordingKey": "Word_Custom_2324",
+    "value": "名字最多10個字"
+  },
+  {
+    "wordingKey": "Word_Custom_2325",
+    "value": "用戶名稱10個字"
+  },
+  {
+    "wordingKey": "Word_Custom_2326",
+    "value": "領取次數上限"
+  },
+  {
+    "wordingKey": "Word_Custom_2327",
+    "value": "禮物"
+  },
+  {
+    "wordingKey": "Word_Custom_2328",
+    "value": "樂團名稱"
+  },
+  {
+    "wordingKey": "Word_Custom_2329",
+    "value": "巡音流歌紀念日LIVE2022影片巡"
+  },
+  {
     "wordingKey": "Word_Custom_233",
     "value": "2020\/10\/01〜"
+  },
+  {
+    "wordingKey": "Word_Custom_2330",
+    "value": "其他"
+  },
+  {
+    "wordingKey": "Word_Custom_2331",
+    "value": "到5\/6 23:59為止"
+  },
+  {
+    "wordingKey": "Word_Custom_2332",
+    "value": "個人資料"
+  },
+  {
+    "wordingKey": "Word_Custom_2333",
+    "value": "玩家名稱"
+  },
+  {
+    "wordingKey": "Word_Custom_2334",
+    "value": "YYYY\/MM\/DD hh:mm為止"
+  },
+  {
+    "wordingKey": "Word_Custom_2335",
+    "value": "購買高階任務通行證後解鎖"
+  },
+  {
+    "wordingKey": "Word_Custom_2336",
+    "value": "---ＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ"
+  },
+  {
+    "wordingKey": "Word_Custom_2337",
+    "value": "澀谷"
+  },
+  {
+    "wordingKey": "Word_Custom_2338",
+    "value": "玩家名稱36px#446"
+  },
+  {
+    "wordingKey": "Word_Custom_2339",
+    "value": "今年是接近夢想實現的一年\\n好好珍惜過去結下的緣分吧\\n"
   },
   {
     "wordingKey": "Word_Custom_234",
     "value": " "
   },
   {
+    "wordingKey": "Word_Custom_2340",
+    "value": "文字大小 3 6 P t\\n可以填入十四個字×二行喔。"
+  },
+  {
+    "wordingKey": "Word_Custom_2341",
+    "value": "初音未來"
+  },
+  {
+    "wordingKey": "Word_Custom_2342",
+    "value": "1st LIVE"
+  },
+  {
+    "wordingKey": "Word_Custom_2343",
+    "value": "生日・紀念日"
+  },
+  {
+    "wordingKey": "Word_Custom_2344",
+    "value": "Ａ"
+  },
+  {
+    "wordingKey": "Word_Custom_2345",
+    "value": "剩餘00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_2346",
+    "value": "任務內容"
+  },
+  {
+    "wordingKey": "Word_Custom_2347",
+    "value": "設定AUTO LIVE"
+  },
+  {
+    "wordingKey": "Word_Custom_2348",
+    "value": "直到LIVE BONUS用完為止"
+  },
+  {
+    "wordingKey": "Word_Custom_2349",
+    "value": "指定次數"
+  },
+  {
     "wordingKey": "Word_Custom_235",
     "value": "<size=38>15<\/size>\/20"
+  },
+  {
+    "wordingKey": "Word_Custom_2350",
+    "value": "AUTO LIVE次數"
+  },
+  {
+    "wordingKey": "Word_Custom_2351",
+    "value": "消耗道具"
+  },
+  {
+    "wordingKey": "Word_Custom_2352",
+    "value": "主線\\n劇情"
+  },
+  {
+    "wordingKey": "Word_Custom_2353",
+    "value": "活動\\n劇情"
+  },
+  {
+    "wordingKey": "Word_Custom_2354",
+    "value": "繼續觀看Word_Custom_2401"
   },
   {
     "wordingKey": "Word_Custom_236",
@@ -7464,40 +7708,440 @@
     "value": "活動期間的消耗數量最多可設定為10。"
   },
   {
+    "wordingKey": "Word_Custom_2500",
+    "value": "還有4次aaaaaaaa"
+  },
+  {
+    "wordingKey": "Word_Custom_2501",
+    "value": "活動徽章禮物"
+  },
+  {
+    "wordingKey": "Word_Custom_2502",
+    "value": "10w以上會縮小"
+  },
+  {
+    "wordingKey": "Word_Custom_2503",
+    "value": "用水晶恢復"
+  },
+  {
+    "wordingKey": "Word_Custom_2504",
+    "value": "卡片"
+  },
+  {
+    "wordingKey": "Word_Custom_2505",
+    "value": "技能\\n------"
+  },
+  {
+    "wordingKey": "Word_Custom_2506",
+    "value": "技能"
+  },
+  {
+    "wordingKey": "Word_Custom_2507",
+    "value": "本週的挑戰印章"
+  },
+  {
+    "wordingKey": "Word_Custom_2508",
+    "value": "ＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ４０"
+  },
+  {
+    "wordingKey": "Word_Custom_2509",
+    "value": "隊長遊玩"
+  },
+  {
     "wordingKey": "Word_Custom_251",
     "value": "10"
+  },
+  {
+    "wordingKey": "Word_Custom_2510",
+    "value": "增加1500次吧。"
+  },
+  {
+    "wordingKey": "Word_Custom_2511",
+    "value": "達成EX任務550次"
+  },
+  {
+    "wordingKey": "Word_Custom_2512",
+    "value": "原版"
+  },
+  {
+    "wordingKey": "Word_Custom_2513",
+    "value": "ＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_2514",
+    "value": "尚未具有\\n情誼等級\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_2515",
+    "value": "組合包"
+  },
+  {
+    "wordingKey": "Word_Custom_2516",
+    "value": "99個月"
+  },
+  {
+    "wordingKey": "Word_Custom_2517",
+    "value": "一次購買所有顏色"
+  },
+  {
+    "wordingKey": "Word_Custom_2518",
+    "value": "ＡＡＡＡＡＡＡＡＡＡＡＡＡ"
+  },
+  {
+    "wordingKey": "Word_Custom_2519",
+    "value": "ＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ"
   },
   {
     "wordingKey": "Word_Custom_252",
     "value": " "
   },
   {
+    "wordingKey": "Word_Custom_2520",
+    "value": "熱騰騰的鬆餅"
+  },
+  {
+    "wordingKey": "Word_Custom_2521",
+    "value": "ＡＡＡＡＡＡＡ"
+  },
+  {
+    "wordingKey": "Word_Custom_2522",
+    "value": "主線"
+  },
+  {
+    "wordingKey": "Word_Custom_2523",
+    "value": "排序"
+  },
+  {
+    "wordingKey": "Word_Custom_2524",
+    "value": "即將下載新增檔案<color=#FF5599>200MB<\/color>。\\n確定嗎？"
+  },
+  {
+    "wordingKey": "Word_Custom_2525",
+    "value": "要開始觀看廣告嗎？"
+  },
+  {
+    "wordingKey": "Word_Custom_2526",
+    "value": "即將下載新增檔案298.8MB。\\n確定嗎？"
+  },
+  {
+    "wordingKey": "Word_Custom_2527",
+    "value": "小星界和小可不的採購合奏曲"
+  },
+  {
+    "wordingKey": "Word_Custom_2528",
+    "value": "Another Vocal"
+  },
+  {
+    "wordingKey": "Word_Custom_2529",
+    "value": "名為\\n司的\\n sent\\nＡＡＡ"
+  },
+  {
     "wordingKey": "Word_Custom_253",
     "value": " "
+  },
+  {
+    "wordingKey": "Word_Custom_2530",
+    "value": "獲得了。\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_2531",
+    "value": "EX任務第3次"
+  },
+  {
+    "wordingKey": "Word_Custom_2532",
+    "value": "文字文字ＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ\\nＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ\\n招募的說明ＡＡＡＡＡＡ\\nＡＡＡＡＡＡ\\nＡＡＡＡＡＡＡＡＡ\\n\\nＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ\\n注意事項ＡＡＡＡＡＡＡＡ\\n\\nＡＡＡＡＡ\\nＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ\\nＢＢＢ\nＢＢＢＢＢＢＢＢＢＢＢＢＢＢＢ"
+  },
+  {
+    "wordingKey": "Word_Custom_2533",
+    "value": "「新年收藏BOX」登場！\\n文字文字ＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ\\n收藏說明ＡＡＡＡＡＡ\\nＡＡＡＡＡＡ\\nＡＡＡＡＡＡＡＡＡ\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_2534",
+    "value": "水晶不足。"
+  },
+  {
+    "wordingKey": "Word_Custom_2535",
+    "value": "要消耗<color=#FF55AA>100個<\/color>水晶來抽\\n「運籤名稱hogehoge」。\\n確定嗎？"
+  },
+  {
+    "wordingKey": "Word_Custom_2536",
+    "value": "活動P"
+  },
+  {
+    "wordingKey": "Word_Custom_2537",
+    "value": "總計獎勵"
+  },
+  {
+    "wordingKey": "Word_Custom_2538",
+    "value": "章節徽章"
+  },
+  {
+    "wordingKey": "Word_Custom_2539",
+    "value": "團體獎勵"
   },
   {
     "wordingKey": "Word_Custom_254",
     "value": "伺服器選擇"
   },
   {
+    "wordingKey": "Word_Custom_2540",
+    "value": "輔助獎勵"
+  },
+  {
+    "wordingKey": "Word_Custom_2541",
+    "value": "{被邀請的用戶名}已讀完\\r\\n{團體名稱①}、{團體名稱➁}、\\r\\n{團體名稱③}的主線劇情，\\r\\n這是達成邀請任務的報酬。"
+  },
+  {
+    "wordingKey": "Word_Custom_2542",
+    "value": "文字\\n-----\\n-----"
+  },
+  {
+    "wordingKey": "Word_Custom_2543",
+    "value": "・「[卡牌\\n服飾店\\n\\n・服飾店"
+  },
+  {
+    "wordingKey": "Word_Custom_2544",
+    "value": "在Wonderlands\\xD7Showtime成員演出的虛擬LIVE中累積達20000應援點數吧。"
+  },
+  {
+    "wordingKey": "Word_Custom_2545",
+    "value": "稱號名稱\\n靠左 32px #557 靠中"
+  },
+  {
+    "wordingKey": "Word_Custom_2546",
+    "value": "「RAD WEEKEND」的傳單"
+  },
+  {
+    "wordingKey": "Word_Custom_2547",
+    "value": "團體的綜合力"
+  },
+  {
+    "wordingKey": "Word_Custom_2548",
+    "value": "搜尋房間中"
+  },
+  {
+    "wordingKey": "Word_Custom_2549",
+    "value": "Wonderlands"
+  },
+  {
     "wordingKey": "Word_Custom_255",
     "value": "※印章將於每週一早上4點被重置。"
+  },
+  {
+    "wordingKey": "Word_Custom_2550",
+    "value": "心願碎片\\n道具"
+  },
+  {
+    "wordingKey": "Word_Custom_2551",
+    "value": "「世界」 \\n已解鎖難易度<color=#CC33FF>MASTER<\/color>。"
+  },
+  {
+    "wordingKey": "Word_Custom_2552",
+    "value": "Tatsuya Kitani"
+  },
+  {
+    "wordingKey": "Word_Custom_2553",
+    "value": "水晶"
+  },
+  {
+    "wordingKey": "Word_Custom_2554",
+    "value": "虛擬歌手ver."
+  },
+  {
+    "wordingKey": "Word_Custom_2555",
+    "value": "「世界」ver."
+  },
+  {
+    "wordingKey": "Word_Custom_2556",
+    "value": "Vocal"
+  },
+  {
+    "wordingKey": "Word_Custom_2557",
+    "value": "鑽石"
+  },
+  {
+    "wordingKey": "Word_Custom_2558",
+    "value": "專精"
+  },
+  {
+    "wordingKey": "Word_Custom_2559",
+    "value": "等級4"
   },
   {
     "wordingKey": "Word_Custom_256",
     "value": "玩家ID"
   },
   {
+    "wordingKey": "Word_Custom_2560",
+    "value": "道具名稱 靠左 32px #557 靠中"
+  },
+  {
+    "wordingKey": "Word_Custom_2561",
+    "value": "任務內容靠中 32p"
+  },
+  {
+    "wordingKey": "Word_Custom_2562",
+    "value": "「幻想」服裝"
+  },
+  {
+    "wordingKey": "Word_Custom_2563",
+    "value": "冠名 角色名稱\\n冠名"
+  },
+  {
+    "wordingKey": "Word_Custom_2564",
+    "value": "請選擇要顯示的收藏詳情。"
+  },
+  {
+    "wordingKey": "Word_Custom_2565",
+    "value": "[卡牌名稱]"
+  },
+  {
+    "wordingKey": "Word_Custom_2566",
+    "value": "登場角色"
+  },
+  {
+    "wordingKey": "Word_Custom_2567",
+    "value": "技能說明\\n是FOT\\n557"
+  },
+  {
+    "wordingKey": "Word_Custom_2568",
+    "value": "中途退出的虛擬LIVE「活動名稱活動"
+  },
+  {
+    "wordingKey": "Word_Custom_2569",
+    "value": "心願的"
+  },
+  {
     "wordingKey": "Word_Custom_257",
     "value": "通過時間"
+  },
+  {
+    "wordingKey": "Word_Custom_2570",
+    "value": "七彩通行證獎勵"
+  },
+  {
+    "wordingKey": "Word_Custom_2571",
+    "value": "挑戰P 2倍"
+  },
+  {
+    "wordingKey": "Word_Custom_2572",
+    "value": "確定成員！"
+  },
+  {
+    "wordingKey": "Word_Custom_2573",
+    "value": "「醬」夥伴小隊"
+  },
+  {
+    "wordingKey": "Word_Custom_2574",
+    "value": "待與其他小隊配對！"
+  },
+  {
+    "wordingKey": "Word_Custom_2575",
+    "value": "還以為我們是「醬」夥伴呢小隊"
+  },
+  {
+    "wordingKey": "Word_Custom_2576",
+    "value": "熱騰騰的鬆餅"
+  },
+  {
+    "wordingKey": "Word_Custom_2577",
+    "value": "團體P"
+  },
+  {
+    "wordingKey": "Word_Custom_2578",
+    "value": "決定小隊！"
+  },
+  {
+    "wordingKey": "Word_Custom_2579",
+    "value": "用戶名稱是１０個字"
   },
   {
     "wordingKey": "Word_Custom_258",
     "value": "2020\/99\/00 23:59:59"
   },
   {
+    "wordingKey": "Word_Custom_2580",
+    "value": "你好。我太喜歡這個劇情了，每天睡前……"
+  },
+  {
+    "wordingKey": "Word_Custom_2581",
+    "value": "毛茸茸"
+  },
+  {
+    "wordingKey": "Word_Custom_2582",
+    "value": "CHAPTER 2 白石杏的 的排行報酬"
+  },
+  {
+    "wordingKey": "Word_Custom_2583",
+    "value": "用戶名稱"
+  },
+  {
+    "wordingKey": "Word_Custom_2584",
+    "value": "在1\/1 00:00重置"
+  },
+  {
+    "wordingKey": "Word_Custom_2585",
+    "value": "真冬的主唱卡"
+  },
+  {
+    "wordingKey": "Word_Custom_2586",
+    "value": "設定為副團體1中"
+  },
+  {
+    "wordingKey": "Word_Custom_2587",
+    "value": "邀請「虛擬LIVE」"
+  },
+  {
+    "wordingKey": "Word_Custom_2588",
+    "value": "收到了<color=#ff5599>熱騰騰的鬆餅<\/color>\\n的好友申請。\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_2589",
+    "value": "這個月的任務已全部達成。"
+  },
+  {
     "wordingKey": "Word_Custom_259",
     "value": " "
+  },
+  {
+    "wordingKey": "Word_Custom_2590",
+    "value": "全體分數"
+  },
+  {
+    "wordingKey": "Word_Custom_2591",
+    "value": "歌曲標題32px(EB)#446靠左"
+  },
+  {
+    "wordingKey": "Word_Custom_2592",
+    "value": "再123"
+  },
+  {
+    "wordingKey": "Word_Custom_2593",
+    "value": "在決定起始等級前，\\r\\n還剩<size=80"
+  },
+  {
+    "wordingKey": "Word_Custom_2594",
+    "value": "等級2 32px EB #A7A7BC"
+  },
+  {
+    "wordingKey": "Word_Custom_2595",
+    "value": "熱騰騰的鬆餅"
+  },
+  {
+    "wordingKey": "Word_Custom_2596",
+    "value": "文字靠中32px#557這邊是服裝名稱"
+  },
+  {
+    "wordingKey": "Word_Custom_2597",
+    "value": "ＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ"
+  },
+  {
+    "wordingKey": "Word_Custom_2598",
+    "value": "任務ＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ"
+  },
+  {
+    "wordingKey": "Word_Custom_2599",
+    "value": "自由房間"
   },
   {
     "wordingKey": "Word_Custom_26",
@@ -7508,40 +8152,408 @@
     "value": "NORMAL"
   },
   {
+    "wordingKey": "Word_Custom_2600",
+    "value": "將創建「進階房間」\\n的私人房間。"
+  },
+  {
+    "wordingKey": "Word_Custom_2601",
+    "value": "進入房間"
+  },
+  {
+    "wordingKey": "Word_Custom_2602",
+    "value": "取名40px#557(DB)ＡＡＡＡＡ"
+  },
+  {
+    "wordingKey": "Word_Custom_2603",
+    "value": "Chululila"
+  },
+  {
+    "wordingKey": "Word_Custom_2604",
+    "value": "封面"
+  },
+  {
+    "wordingKey": "Word_Custom_2605",
+    "value": "清單"
+  },
+  {
+    "wordingKey": "Word_Custom_2606",
+    "value": "Vo.初音未來"
+  },
+  {
+    "wordingKey": "Word_Custom_2607",
+    "value": "創作者"
+  },
+  {
+    "wordingKey": "Word_Custom_2608",
+    "value": "20w為止會正常顯示"
+  },
+  {
+    "wordingKey": "Word_Custom_2609",
+    "value": "我的清單ＡＡＡＡＡ"
+  },
+  {
     "wordingKey": "Word_Custom_261",
     "value": "付費0000"
+  },
+  {
+    "wordingKey": "Word_Custom_2610",
+    "value": "虛擬"
+  },
+  {
+    "wordingKey": "Word_Custom_2611",
+    "value": "說明文字"
+  },
+  {
+    "wordingKey": "Word_Custom_2612",
+    "value": "再{0}次"
+  },
+  {
+    "wordingKey": "Word_Custom_2613",
+    "value": "在決定起始等級前，\\r\\n還剩<color=#FF5599>3<\/color>次配對"
+  },
+  {
+    "wordingKey": "Word_Custom_2614",
+    "value": "ＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ"
+  },
+  {
+    "wordingKey": "Word_Custom_2615",
+    "value": "留言可輸入60個字。26pxＡＡＡＡＡＡＡＡＡＡＡＡＡ■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□"
+  },
+  {
+    "wordingKey": "Word_Custom_2616",
+    "value": "用戶名稱 10w 36px #557 靠上"
+  },
+  {
+    "wordingKey": "Word_Custom_2617",
+    "value": "1ーC"
+  },
+  {
+    "wordingKey": "Word_Custom_2618",
+    "value": "表面上酷酷的，但其實是一位很為朋友著想的溫柔少女。與咲希、穗波及志步是兒時玩伴，但因為某件事，現在與穗波及志步的關係有些尷尬。\\n喜歡聽初音未來演唱的歌曲。在Leo\/need中擔任吉他手與主唱。"
+  },
+  {
+    "wordingKey": "Word_Custom_2619",
+    "value": "蘋果"
   },
   {
     "wordingKey": "Word_Custom_262",
     "value": "您可以在這個道具上添加應援留言哦"
   },
   {
+    "wordingKey": "Word_Custom_2620",
+    "value": "未來\\n養成"
+  },
+  {
+    "wordingKey": "Word_Custom_2621",
+    "value": "Wonderlands\\xD7Showtime"
+  },
+  {
+    "wordingKey": "Word_Custom_2622",
+    "value": "鳳笑夢"
+  },
+  {
+    "wordingKey": "Word_Custom_2623",
+    "value": "小隊名稱"
+  },
+  {
+    "wordingKey": "Word_Custom_2624",
+    "value": "羊駝小隊"
+  },
+  {
+    "wordingKey": "Word_Custom_2625",
+    "value": "書籤"
+  },
+  {
+    "wordingKey": "Word_Custom_2626",
+    "value": "技能說明\\nNNTLG"
+  },
+  {
+    "wordingKey": "Word_Custom_2627",
+    "value": "繼續觀看"
+  },
+  {
+    "wordingKey": "Word_Custom_2628",
+    "value": "連線LIVE"
+  },
+  {
+    "wordingKey": "Word_Custom_2629",
+    "value": "房間ID"
+  },
+  {
     "wordingKey": "Word_Custom_263",
     "value": "１２３４５６７８９０１２３４５６１２３４５６７８９０１２３４５６"
+  },
+  {
+    "wordingKey": "Word_Custom_2630",
+    "value": "膚色"
+  },
+  {
+    "wordingKey": "Word_Custom_2631",
+    "value": "請從下方選擇10名喜歡的成員"
+  },
+  {
+    "wordingKey": "Word_Custom_2632",
+    "value": "主要劇情"
+  },
+  {
+    "wordingKey": "Word_Custom_2633",
+    "value": "ＡＡＡＡＡ"
+  },
+  {
+    "wordingKey": "Word_Custom_2634",
+    "value": "小星界"
+  },
+  {
+    "wordingKey": "Word_Custom_2635",
+    "value": "創作者名稱（暫定）"
+  },
+  {
+    "wordingKey": "Word_Custom_2636",
+    "value": "從歌曲名・創作者名搜尋"
+  },
+  {
+    "wordingKey": "Word_Custom_2637",
+    "value": "看完第N章即可解鎖"
+  },
+  {
+    "wordingKey": "Word_Custom_2638",
+    "value": "的"
+  },
+  {
+    "wordingKey": "Word_Custom_2639",
+    "value": "按鈕"
   },
   {
     "wordingKey": "Word_Custom_264",
     "value": "32\/32"
   },
   {
+    "wordingKey": "Word_Custom_2640",
+    "value": "OFFLINE"
+  },
+  {
+    "wordingKey": "Word_Custom_2641",
+    "value": "ONLINE"
+  },
+  {
+    "wordingKey": "Word_Custom_2642",
+    "value": "道具\\n文字\\n已存在"
+  },
+  {
+    "wordingKey": "Word_Custom_2643",
+    "value": "不同的類型"
+  },
+  {
+    "wordingKey": "Word_Custom_2644",
+    "value": "GEKICHUMAI！連動"
+  },
+  {
+    "wordingKey": "Word_Custom_2645",
+    "value": "持續購買期間沒有滿6個月，\\n因此無法報名這個活動。"
+  },
+  {
+    "wordingKey": "Word_Custom_2646",
+    "value": "2023\/1\/31 ～ 2023\/3\/31\\n※必須在此期間\\n達成所需持續時間。"
+  },
+  {
+    "wordingKey": "Word_Custom_2647",
+    "value": "Wonderlands"
+  },
+  {
+    "wordingKey": "Word_Custom_2648",
+    "value": "招募票券\\n招募票券"
+  },
+  {
+    "wordingKey": "Word_Custom_2649",
+    "value": "使用道具解鎖"
+  },
+  {
     "wordingKey": "Word_Custom_265",
     "value": "------------------"
+  },
+  {
+    "wordingKey": "Word_Custom_2650",
+    "value": "道具名稱\\n2行的話"
+  },
+  {
+    "wordingKey": "Word_Custom_2651",
+    "value": "12\/30 xx:xx ～ 12\/31 xx:xx為止"
+  },
+  {
+    "wordingKey": "Word_Custom_2652",
+    "value": "輔助團體"
+  },
+  {
+    "wordingKey": "Word_Custom_2653",
+    "value": "綜合排行"
+  },
+  {
+    "wordingKey": "Word_Custom_2654",
+    "value": "道具名稱1行 \\xD71"
+  },
+  {
+    "wordingKey": "Word_Custom_2655",
+    "value": "「2024新春」 虛擬歌手的繪馬"
+  },
+  {
+    "wordingKey": "Word_Custom_2656",
+    "value": "到2023\/1\/10 14:59為止"
+  },
+  {
+    "wordingKey": "Word_Custom_2657",
+    "value": "到1\/31 23:59 為止"
+  },
+  {
+    "wordingKey": "Word_Custom_2658",
+    "value": "甘酒組合"
+  },
+  {
+    "wordingKey": "Word_Custom_2659",
+    "value": "距離公演還剩3天"
   },
   {
     "wordingKey": "Word_Custom_266",
     "value": "EXPERT"
   },
   {
+    "wordingKey": "Word_Custom_2660",
+    "value": "Ａ\\n相撲火鍋翅膀"
+  },
+  {
+    "wordingKey": "Word_Custom_2661",
+    "value": "柴男"
+  },
+  {
+    "wordingKey": "Word_Custom_2662",
+    "value": "一直很期待今天。太棒了！"
+  },
+  {
+    "wordingKey": "Word_Custom_2663",
+    "value": "「世界」的居民"
+  },
+  {
+    "wordingKey": "Word_Custom_2664",
+    "value": "至1\/1 00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_2665",
+    "value": "至0000\/00\/00 00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_2666",
+    "value": "分頁"
+  },
+  {
+    "wordingKey": "Word_Custom_2667",
+    "value": "再2次"
+  },
+  {
+    "wordingKey": "Word_Custom_2668",
+    "value": "移除"
+  },
+  {
+    "wordingKey": "Word_Custom_2669",
+    "value": "前往憑證發行頁面"
+  },
+  {
     "wordingKey": "Word_Custom_267",
     "value": "\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_2670",
+    "value": "登場角色"
+  },
+  {
+    "wordingKey": "Word_Custom_2671",
+    "value": "未設定\\n最愛貼圖。"
+  },
+  {
+    "wordingKey": "Word_Custom_2672",
+    "value": "販售時間至 2022\/12\/21 11:59"
+  },
+  {
+    "wordingKey": "Word_Custom_2673",
+    "value": "---的支線劇情"
+  },
+  {
+    "wordingKey": "Word_Custom_2674",
+    "value": "無該支線劇情。"
+  },
+  {
+    "wordingKey": "Word_Custom_2675",
+    "value": "虛擬歌手"
+  },
+  {
+    "wordingKey": "Word_Custom_2676",
+    "value": "<size=24>招募<\/size>{0}次"
+  },
+  {
+    "wordingKey": "Word_Custom_2677",
+    "value": "已達成所有任務。\n請等待下次舉辦。"
+  },
+  {
+    "wordingKey": "Word_Custom_2678",
+    "value": "這個月的LIVE任務"
+  },
+  {
+    "wordingKey": "Word_Custom_2679",
+    "value": "距離下次的報酬"
   },
   {
     "wordingKey": "Word_Custom_268",
     "value": "MV"
   },
   {
+    "wordingKey": "Word_Custom_2680",
+    "value": "我的清單ＡＡＡＡＡ"
+  },
+  {
+    "wordingKey": "Word_Custom_2681",
+    "value": "卡牌冠名卡牌最多１５字"
+  },
+  {
+    "wordingKey": "Word_Custom_2682",
+    "value": "有APPEND"
+  },
+  {
+    "wordingKey": "Word_Custom_2683",
+    "value": "Another Vocal1"
+  },
+  {
+    "wordingKey": "Word_Custom_2684",
+    "value": "「次文化男孩風格」所有服裝顏色"
+  },
+  {
+    "wordingKey": "Word_Custom_2685",
+    "value": "前往「世界」區域頁面"
+  },
+  {
+    "wordingKey": "Word_Custom_2686",
+    "value": "書籤"
+  },
+  {
+    "wordingKey": "Word_Custom_2687",
+    "value": "無心願碎片。"
+  },
+  {
+    "wordingKey": "Word_Custom_2688",
+    "value": "這裡是服裝名稱"
+  },
+  {
+    "wordingKey": "Word_Custom_2689",
+    "value": "還有999P"
+  },
+  {
     "wordingKey": "Word_Custom_269",
     "value": "是否確定消耗10個音色水晶購買歌曲？"
+  },
+  {
+    "wordingKey": "Word_Custom_2690",
+    "value": "魔法布"
+  },
+  {
+    "wordingKey": "Word_Custom_2691",
+    "value": "由於已達人數上限、\\n現在無法參加。"
   },
   {
     "wordingKey": "Word_Custom_27",
@@ -7552,40 +8564,428 @@
     "value": "0"
   },
   {
+    "wordingKey": "Word_Custom_2700",
+    "value": "先輩からのフォロー"
+  },
+  {
+    "wordingKey": "Word_Custom_2701",
+    "value": "あと００００００"
+  },
+  {
+    "wordingKey": "Word_Custom_2702",
+    "value": "イベント期間中は消費数を<color=#ff5599>最大{0}<\/color>まで設定できます。"
+  },
+  {
+    "wordingKey": "Word_Custom_2703",
+    "value": "クリスタルを990消費して\\nライブボーナスを99回復しますか？"
+  },
+  {
+    "wordingKey": "Word_Custom_2704",
+    "value": "小豆沢こはねでチャレンジライブに\\n挑戦できるようになりました。"
+  },
+  {
+    "wordingKey": "Word_Custom_2705",
+    "value": "Vo. 初音ミク、鏡音リン、鏡音レン、巡音ルカ、\\n MEIKO、KAITO"
+  },
+  {
+    "wordingKey": "Word_Custom_2706",
+    "value": "ああああああああああいいいいいいいいいいううううううううううええええええええええおおおおおおおおおおかかかかかかかかかか​"
+  },
+  {
+    "wordingKey": "Word_Custom_2707",
+    "value": "「星乃 一歌」のライブ衣装を999着集めよう。"
+  },
+  {
+    "wordingKey": "Word_Custom_2708",
+    "value": "アクセサリを外してヘアスタイルを変更しますか？"
+  },
+  {
+    "wordingKey": "Word_Custom_2709",
+    "value": "選択したヘアスタイルは設定中のアクセサリと\\r\\n同時に設定することができません。"
+  },
+  {
     "wordingKey": "Word_Custom_271",
     "value": "還剩3次"
+  },
+  {
+    "wordingKey": "Word_Custom_2710",
+    "value": "文字カラー選択"
+  },
+  {
+    "wordingKey": "Word_Custom_2711",
+    "value": "メンバー選択"
+  },
+  {
+    "wordingKey": "Word_Custom_2712",
+    "value": "カード冠名"
+  },
+  {
+    "wordingKey": "Word_Custom_2713",
+    "value": "150回プラスしよう。"
+  },
+  {
+    "wordingKey": "Word_Custom_2714",
+    "value": "難易度MASTERで30曲ALL PERFECTでクリアしよう。\\nだだだだだだだだだだ"
+  },
+  {
+    "wordingKey": "Word_Custom_2715",
+    "value": "なし"
+  },
+  {
+    "wordingKey": "Word_Custom_2716",
+    "value": "真・皆伝 ランク1"
+  },
+  {
+    "wordingKey": "Word_Custom_2717",
+    "value": "※パスワード設定後、引き継ぎIDが発行されます。"
+  },
+  {
+    "wordingKey": "Word_Custom_2718",
+    "value": "「コネクトライブ MORE MORE JUMP"
+  },
+  {
+    "wordingKey": "Word_Custom_2719",
+    "value": "音楽ショップで楽曲と交換することができる。ミッションやストーリーなどで手に入る。"
   },
   {
     "wordingKey": "Word_Custom_272",
     "value": " "
   },
   {
+    "wordingKey": "Word_Custom_2720",
+    "value": "衣装製作に必要なアイテム。ライブなどで手に入る。"
+  },
+  {
+    "wordingKey": "Word_Custom_2721",
+    "value": "カラフルパスの購入が完了しました。"
+  },
+  {
+    "wordingKey": "Word_Custom_2722",
+    "value": "DISCを購入しました"
+  },
+  {
+    "wordingKey": "Word_Custom_2723",
+    "value": "ライブボーナスを5回復します。よろしいですか？"
+  },
+  {
+    "wordingKey": "Word_Custom_2724",
+    "value": "機能制限解除まで"
+  },
+  {
+    "wordingKey": "Word_Custom_2725",
+    "value": "「コネクトライブ 2nd ANNIVERSARY SPECIALSTAG"
+  },
+  {
+    "wordingKey": "Word_Custom_2726",
+    "value": "※セット内容と「特定商取引法第12条の6に基づく表示」は\\r\\n以下のボタンよりご確認ください。"
+  },
+  {
+    "wordingKey": "Word_Custom_2727",
+    "value": "制限なし"
+  },
+  {
+    "wordingKey": "Word_Custom_2728",
+    "value": "こんにちは。私はこのストーリーがすきで、毎日寝る前に必ず５回は読むようにしています。読むと新陳代謝がよくなり疲れがとれ、肩こりに効果があります。翌日スッキリ目が覚めるので、１"
+  },
+  {
+    "wordingKey": "Word_Custom_2729",
+    "value": "兄達に誘われ、ランドの企画会議に参加したえむ。だが、えむの出すアイディアはどれも現実的な問題に阻まれてしまい、えむはもっと勉強しなければと奮起する。そこにライリー氏のパークを見学する話が舞い込み……？"
+  },
+  {
     "wordingKey": "Word_Custom_273",
     "value": "已特訓"
+  },
+  {
+    "wordingKey": "Word_Custom_2730",
+    "value": "ストーリーが解放されました"
+  },
+  {
+    "wordingKey": "Word_Custom_2731",
+    "value": "ユニット"
+  },
+  {
+    "wordingKey": "Word_Custom_2732",
+    "value": "クリスタル3000個を消費して10回\\n「[]復刻ああああああああああガチャ」を引きます。\\nよろしいですか？"
+  },
+  {
+    "wordingKey": "Word_Custom_2733",
+    "value": "コメント３０文字まで入ります。\\n26ptああああああああああああ。"
+  },
+  {
+    "wordingKey": "Word_Custom_2734",
+    "value": "ユーザー名 10w 36px #557"
+  },
+  {
+    "wordingKey": "Word_Custom_2735",
+    "value": "テスト"
+  },
+  {
+    "wordingKey": "Word_Custom_2736",
+    "value": "カード冠"
+  },
+  {
+    "wordingKey": "Word_Custom_2737",
+    "value": "星乃 一歌をメンバーデッキに編成しよう"
+  },
+  {
+    "wordingKey": "Word_Custom_2738",
+    "value": "あつあつほっとけーきから\\nライブ招待が届きました。"
+  },
+  {
+    "wordingKey": "Word_Custom_2739",
+    "value": "右揃え 文字間隔広い名前"
   },
   {
     "wordingKey": "Word_Custom_274",
     "value": "等級 11"
   },
   {
+    "wordingKey": "Word_Custom_2740",
+    "value": "左揃え 40px EB！"
+  },
+  {
+    "wordingKey": "Word_Custom_2741",
+    "value": "スコア"
+  },
+  {
+    "wordingKey": "Word_Custom_2742",
+    "value": "対戦相手が見つかりました！"
+  },
+  {
+    "wordingKey": "Word_Custom_2743",
+    "value": "2023\/12\/31 14:59まで"
+  },
+  {
+    "wordingKey": "Word_Custom_2744",
+    "value": "ライブボーナス"
+  },
+  {
+    "wordingKey": "Word_Custom_2745",
+    "value": "スキル文言\\nライフ"
+  },
+  {
+    "wordingKey": "Word_Custom_2746",
+    "value": "キャラクターランク22で解放"
+  },
+  {
+    "wordingKey": "Word_Custom_2747",
+    "value": "ロバチーム"
+  },
+  {
+    "wordingKey": "Word_Custom_2748",
+    "value": "<size=80>「マグロとサーモン」<\/size>\\n<color=white><size=52>焼き鳥といえば？<\/size><\/color>"
+  },
+  {
+    "wordingKey": "Word_Custom_2749",
+    "value": "2023\/09\/30 20:59まで"
+  },
+  {
     "wordingKey": "Word_Custom_275",
     "value": "１２３４５６７８"
+  },
+  {
+    "wordingKey": "Word_Custom_2750",
+    "value": "第2話 解放までsssssssssssss\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_2751",
+    "value": "第2話 解放まで"
+  },
+  {
+    "wordingKey": "Word_Custom_2752",
+    "value": "[ガチャ名]ガチャシールつき"
+  },
+  {
+    "wordingKey": "Word_Custom_2753",
+    "value": "バースデー・アニバーサリーライブ"
+  },
+  {
+    "wordingKey": "Word_Custom_2754",
+    "value": "ランクマッチ"
+  },
+  {
+    "wordingKey": "Word_Custom_2755",
+    "value": "あああタイトル"
+  },
+  {
+    "wordingKey": "Word_Custom_2756",
+    "value": "ログインボーナス"
+  },
+  {
+    "wordingKey": "Word_Custom_2757",
+    "value": "9999\/99\/99 99:99まで"
+  },
+  {
+    "wordingKey": "Word_Custom_2758",
+    "value": "おなまえは28px"
+  },
+  {
+    "wordingKey": "Word_Custom_2759",
+    "value": "エリア[ショッピングモール]の衣装"
   },
   {
     "wordingKey": "Word_Custom_276",
     "value": "還剩4次"
   },
   {
+    "wordingKey": "Word_Custom_2760",
+    "value": "ガチャシール"
+  },
+  {
+    "wordingKey": "Word_Custom_2761",
+    "value": "※セット内容と「特定商取引法第12条の6に基づく表示」は\\n以下のボタンよりご確認ください。"
+  },
+  {
+    "wordingKey": "Word_Custom_2762",
+    "value": "KAITOの"
+  },
+  {
+    "wordingKey": "Word_Custom_2763",
+    "value": "ミッション内容中央揃え 32px #557 上寄せ"
+  },
+  {
+    "wordingKey": "Word_Custom_2764",
+    "value": "○○へ"
+  },
+  {
+    "wordingKey": "Word_Custom_2765",
+    "value": "かんむり名 キャラ名\\nかんむり名 キャラ名"
+  },
+  {
+    "wordingKey": "Word_Custom_2766",
+    "value": "マイセカイへ"
+  },
+  {
+    "wordingKey": "Word_Custom_2767",
+    "value": "アイテム名1行 ×1"
+  },
+  {
+    "wordingKey": "Word_Custom_2768",
+    "value": "衣装ショップへ"
+  },
+  {
+    "wordingKey": "Word_Custom_2769",
+    "value": "こんにちは。私はこのストーリーがすきで、毎日寝る前に必ず５回は読むようにしています。読むと新陳代謝がよくなり疲れがとれ、肩こりに効果があります。翌日スッキリ目が覚めるので、１日 健やかに過ごすことができます。"
+  },
+  {
     "wordingKey": "Word_Custom_277",
     "value": "任務內容"
+  },
+  {
+    "wordingKey": "Word_Custom_2770",
+    "value": "途中まで参加していた「イベント名イベント名 アフターライブ」の報酬を獲得しました。"
+  },
+  {
+    "wordingKey": "Word_Custom_2771",
+    "value": "ゲキチュウマイコラボ"
+  },
+  {
+    "wordingKey": "Word_Custom_2772",
+    "value": "ワンダーランズ×ショウタイムメンバーが出演するバーチャルライブで応援ポイントを累計20000を達成しよう"
+  },
+  {
+    "wordingKey": "Word_Custom_2773",
+    "value": "全てのミッションを達成しました。\\n次回開催までしばらくお待ちください。"
+  },
+  {
+    "wordingKey": "Word_Custom_2774",
+    "value": "プレイヤーランク30到達\\n予選対象楽曲のMASTERを解放"
+  },
+  {
+    "wordingKey": "Word_Custom_2775",
+    "value": "一括受け取り"
+  },
+  {
+    "wordingKey": "Word_Custom_2776",
+    "value": "ガチャ"
+  },
+  {
+    "wordingKey": "Word_Custom_2777",
+    "value": "セカイ？"
+  },
+  {
+    "wordingKey": "Word_Custom_2778",
+    "value": "想い？"
+  },
+  {
+    "wordingKey": "Word_Custom_2779",
+    "value": "選択したヘアスタイルは設定中のアクセサリと\\n同時に設定することができません。"
   },
   {
     "wordingKey": "Word_Custom_278",
     "value": "10\/10"
   },
   {
+    "wordingKey": "Word_Custom_2780",
+    "value": "「コネクトライブ 2nd ANNIVERSARY SPECIALSTAGE 第1公演ディスク」を購入しますか？"
+  },
+  {
+    "wordingKey": "Word_Custom_2781",
+    "value": "{招待されたユーザー名}さんが\\n{ユニット名①}、{ユニット名➁}、\\n{ユニット名③}のメインストーリーを読破し、\\n招待ミッションを達成した報酬です。"
+  },
+  {
+    "wordingKey": "Word_Custom_2782",
+    "value": "ワンダーランズ×ショウタイム"
+  },
+  {
+    "wordingKey": "Word_Custom_2783",
+    "value": "カードを追加"
+  },
+  {
+    "wordingKey": "Word_Custom_2784",
+    "value": "イベントTOPへ"
+  },
+  {
+    "wordingKey": "Word_Custom_2785",
+    "value": "次へ"
+  },
+  {
+    "wordingKey": "Word_Custom_2786",
+    "value": "あつあつホ"
+  },
+  {
+    "wordingKey": "Word_Custom_2787",
+    "value": "「［冠名最大15文字あああああああ］小豆沢こはね」のマスターランク1で解放"
+  },
+  {
+    "wordingKey": "Word_Custom_2788",
+    "value": "チアフルライブ"
+  },
+  {
+    "wordingKey": "Word_Custom_2789",
+    "value": "「コネクトライブ MORE MORE JUMP！ 1st JUMPIN！」\\n公演チケット"
+  },
+  {
     "wordingKey": "Word_Custom_279",
     "value": "小狗小狗小狗"
+  },
+  {
+    "wordingKey": "Word_Custom_2790",
+    "value": "ネタバレを含む"
+  },
+  {
+    "wordingKey": "Word_Custom_2791",
+    "value": "ネタバレを含まない"
+  },
+  {
+    "wordingKey": "Word_Custom_2792",
+    "value": "キズナランク"
+  },
+  {
+    "wordingKey": "Word_Custom_2793",
+    "value": "スタートランクの決定まで\\n残り<size=80> {0} <\/size>マッチ"
+  },
+  {
+    "wordingKey": "Word_Custom_2794",
+    "value": "サイドストーリー\\nチケットで解放"
+  },
+  {
+    "wordingKey": "Word_Custom_2795",
+    "value": "ストーリーが解放されました。 \\nボイスデータをダウンロードして、ストーリーを読みますか？"
+  },
+  {
+    "wordingKey": "Word_Custom_2796",
+    "value": "マッチング開始！"
   },
   {
     "wordingKey": "Word_Custom_28",
@@ -9504,6 +10904,10 @@
     "value": "從<color=#ff5599>{0}<\/color>收到了LIVE的邀請。"
   },
   {
+    "wordingKey": "WORD_FRIEND_INVITE_CAMPAIGN_DETAIL_JSON",
+    "value": "\/组队好友邀请"
+  },
+  {
     "wordingKey": "WORD_FRIEND_INVITE_CODE",
     "value": "邀請碼"
   },
@@ -9517,7 +10921,7 @@
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_FIRST_ANNOTATION",
-    "value": "※關於「完成獎勵第1位」報酬，若已於本活動領取首次限定的報酬，在往後的活動中能獲得的報酬將會與首次有所不同。"
+    "value": "※若已於本活動領取首次限定的報酬，在往後的活動中能獲得的「完成獎勵第1位」報酬將會與首次有所不同。"
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_INFORMATION_TITLE",
@@ -9541,7 +10945,7 @@
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_SECOND_ANNOTATION",
-    "value": "※關於「完成獎勵第1位」報酬，由於已在本活動領取過首次限定的報酬，因此本活動中能獲得的報酬將會與首次有所不同。"
+    "value": "※由於已在過去活動領取過首次限定的報酬，因此本活動中能獲得的「完成獎勵第1位」報酬將會與首次有所不同。"
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_SEND",
@@ -10414,6 +11818,18 @@
   {
     "wordingKey": "WORD_LIVE",
     "value": "LIVE"
+  },
+  {
+    "wordingKey": "WORD_LIVEMISSIONPATH_BASIC_DETAIL_JSON",
+    "value": "高阶任务通行证文本"
+  },
+  {
+    "wordingKey": "WORD_LIVEMISSIONPATH_PRECIOUS_DETAIL_JSON",
+    "value": "高阶任务通行证文本"
+  },
+  {
+    "wordingKey": "WORD_LIVEMISSIONPATH_PRO_DETAIL_JSON",
+    "value": "高阶任务通行证文本"
   },
   {
     "wordingKey": "WORD_LIVE_ADJUSTMENT",
@@ -13222,10 +14638,6 @@
   {
     "wordingKey": "WORD_SL_SETTINGS_CAMERA_SHAKE",
     "value": "移動時相機的晃動"
-  },
-  {
-    "wordingKey": "WORD_SL_SETTINGS_ENABLE_SE",
-    "value": "會場的歡呼聲"
   },
   {
     "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN",

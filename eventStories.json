@@ -12415,7 +12415,7 @@
         "id": 1000771,
         "eventStoryId": 96,
         "episodeNo": 3,
-        "title": "歡迎光臨婚禮慶典！",
+        "title": "歡迎光臨婚禮博覽會！",
         "assetbundleName": "event_neighbor_2023_03",
         "scenarioId": "event_96_03",
         "releaseConditionId": 109502,
@@ -12643,7 +12643,7 @@
         "id": 1000785,
         "eventStoryId": 98,
         "episodeNo": 1,
-        "title": "為了去學分制",
+        "title": "為了去學分班",
         "assetbundleName": "event_step_2023_01",
         "scenarioId": "event_98_01",
         "releaseConditionId": 1,
@@ -13234,7 +13234,7 @@
         "id": 1000822,
         "eventStoryId": 102,
         "episodeNo": 6,
-        "title": "緊急企劃 MORE MORE JUMP！咖啡廳！",
+        "title": "緊急企劃MORE MORE JUMP！咖啡廳！",
         "assetbundleName": "event_recording_2023_06",
         "scenarioId": "event_102_06",
         "releaseConditionId": 110105,
@@ -13264,7 +13264,7 @@
         "id": 1000824,
         "eventStoryId": 102,
         "episodeNo": 8,
-        "title": "On air的去向……",
+        "title": "播出的結果……",
         "assetbundleName": "event_recording_2023_08",
         "scenarioId": "event_102_08",
         "releaseConditionId": 110107,
@@ -13576,7 +13576,7 @@
         "id": 1000843,
         "eventStoryId": 105,
         "episodeNo": 3,
-        "title": "傳到出的聲音",
+        "title": "傳遞出的聲音",
         "assetbundleName": "event_resound_2023_03",
         "scenarioId": "event_105_03",
         "releaseConditionId": 110402,
@@ -13659,6 +13659,264 @@
           {
             "storyType": "event_story",
             "resourceBoxId": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "eventId": 106,
+    "outline": "宮益坂女子學園的學生們，在年底迎來了一個里程碑。重新回顧了「想做的100件事的筆記」的咲希，決定要從筆記中的第95條「創造很多快樂的回憶，然後做成相冊！」開始，全部實現──",
+    "bannerGameCharacterUnitId": 2,
+    "assetbundleName": "event_preciousmemories_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000849,
+        "eventStoryId": 106,
+        "episodeNo": 1,
+        "title": "將重要的回憶",
+        "assetbundleName": "event_preciousmemories_2023_01",
+        "scenarioId": "event_106_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000850,
+        "eventStoryId": 106,
+        "episodeNo": 2,
+        "title": "一起實現吧",
+        "assetbundleName": "event_preciousmemories_2023_02",
+        "scenarioId": "event_106_02",
+        "releaseConditionId": 110501,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000851,
+        "eventStoryId": 106,
+        "episodeNo": 3,
+        "title": "最棒的驚喜",
+        "assetbundleName": "event_preciousmemories_2023_03",
+        "scenarioId": "event_106_03",
+        "releaseConditionId": 110502,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000852,
+        "eventStoryId": 106,
+        "episodeNo": 4,
+        "title": "祕密作戰",
+        "assetbundleName": "event_preciousmemories_2023_04",
+        "scenarioId": "event_106_04",
+        "releaseConditionId": 110503,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000853,
+        "eventStoryId": 106,
+        "episodeNo": 5,
+        "title": "白熱化！躲避球",
+        "assetbundleName": "event_preciousmemories_2023_05",
+        "scenarioId": "event_106_05",
+        "releaseConditionId": 110504,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000854,
+        "eventStoryId": 106,
+        "episodeNo": 6,
+        "title": "熱鬧的夜晚",
+        "assetbundleName": "event_preciousmemories_2023_06",
+        "scenarioId": "event_106_06",
+        "releaseConditionId": 110505,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000855,
+        "eventStoryId": 106,
+        "episodeNo": 7,
+        "title": "青春的日子",
+        "assetbundleName": "event_preciousmemories_2023_07",
+        "scenarioId": "event_106_07",
+        "releaseConditionId": 110506,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000856,
+        "eventStoryId": 106,
+        "episodeNo": 8,
+        "title": "今後也要和大家一起",
+        "assetbundleName": "event_preciousmemories_2023_08",
+        "scenarioId": "event_106_08",
+        "releaseConditionId": 110507,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "eventId": 107,
+    "outline": "學期末即將到來的神山高中。放學後杏如同往常要去練習唱歌，但和瑞希一起被老師叫住。那時，兩人聽到了關於年級提升的可怕事實……",
+    "bannerGameCharacterUnitId": 10,
+    "assetbundleName": "event_study_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000857,
+        "eventStoryId": 107,
+        "episodeNo": 1,
+        "title": "可怕的消息",
+        "assetbundleName": "event_study_2023_01",
+        "scenarioId": "event_107_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000858,
+        "eventStoryId": 107,
+        "episodeNo": 2,
+        "title": "補習的好日子",
+        "assetbundleName": "event_study_2023_02",
+        "scenarioId": "event_107_02",
+        "releaseConditionId": 110601,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000859,
+        "eventStoryId": 107,
+        "episodeNo": 3,
+        "title": "來辦讀書會！",
+        "assetbundleName": "event_study_2023_03",
+        "scenarioId": "event_107_03",
+        "releaseConditionId": 110602,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000860,
+        "eventStoryId": 107,
+        "episodeNo": 4,
+        "title": "那天的相遇",
+        "assetbundleName": "event_study_2023_04",
+        "scenarioId": "event_107_04",
+        "releaseConditionId": 110603,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000861,
+        "eventStoryId": 107,
+        "episodeNo": 5,
+        "title": "走廊上的談天",
+        "assetbundleName": "event_study_2023_05",
+        "scenarioId": "event_107_05",
+        "releaseConditionId": 110604,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000862,
+        "eventStoryId": 107,
+        "episodeNo": 6,
+        "title": "等待著的考試",
+        "assetbundleName": "event_study_2023_06",
+        "scenarioId": "event_107_06",
+        "releaseConditionId": 110605,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000863,
+        "eventStoryId": 107,
+        "episodeNo": 7,
+        "title": "考試的結果是……",
+        "assetbundleName": "event_study_2023_07",
+        "scenarioId": "event_107_07",
+        "releaseConditionId": 110606,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000864,
+        "eventStoryId": 107,
+        "episodeNo": 8,
+        "title": "和相同的夥伴一起",
+        "assetbundleName": "event_study_2023_08",
+        "scenarioId": "event_107_08",
+        "releaseConditionId": 110607,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 60
           }
         ]
       }

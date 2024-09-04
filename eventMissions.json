@@ -2803,7 +2803,7 @@
     "eventMissionType": "join_virtual_live",
     "eventMissionCategory": "normal",
     "requirement1": 1,
-    "sentence": "參加「我們的圓滿結局 After LIVE」吧。",
+    "sentence": "參加「響徹『世界』！Your Song  After LIVE」吧。",
     "rewards": [
       {
         "resourceBoxId": 8000
@@ -2813,6 +2813,232 @@
   {
     "id": 200,
     "eventId": 105,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "通過所有7個任務吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "eventId": 106,
+    "seq": 2,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "連續8日每天通過1次LIVE吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "eventId": 106,
+    "seq": 3,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "通過50次LIVE吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "eventId": 106,
+    "seq": 4,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "在LIVE中達成10次FULL COMBO吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "eventId": 106,
+    "seq": 5,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "在LIVE中通過10首歌曲吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "eventId": 106,
+    "seq": 6,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "觀賞活動「與妳編織的Precious memories」最後一章的活動劇情吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "eventId": 106,
+    "seq": 7,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "在活動「與妳編織的Precious memories」的交換所消耗20000個徽章吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "eventId": 106,
+    "seq": 8,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "參加「與妳編織的Precious memories After LIVE」吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "eventId": 106,
+    "seq": 9,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "通過所有7個任務吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "eventId": 107,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "連續9日每天通過1次LIVE吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "eventId": 107,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "通過50次LIVE吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "eventId": 107,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "在LIVE中達成10次FULL COMBO吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "eventId": 107,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "在LIVE中通過10首歌曲吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "eventId": 107,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "觀賞活動「Let's study hard！」最後一章的活動劇情吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "eventId": 107,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "在活動「Let's study hard！」的交換所消耗20000個徽章吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "eventId": 107,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "參加「Let's study hard！ After LIVE」吧。",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "eventId": 107,
     "seq": 8,
     "eventMissionType": "achieve_event_mission",
     "eventMissionCategory": "complete",
