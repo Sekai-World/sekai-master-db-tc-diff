@@ -3547,7 +3547,7 @@
   {
     "id": 141,
     "name": "2週年連線LIVE 正式公演（票券商店）",
-    "virtualLiveId": 176,
+    "virtualLiveId": 255,
     "virtualShopItems": [
       {
         "id": 247,
@@ -3556,7 +3556,7 @@
         "seq": 299994,
         "resourceBoxId": 191,
         "costPaidJewel": 2980,
-        "startAt": 1728111600000,
+        "startAt": 1727679600000,
         "endAt": 1728489599000,
         "limitValue": 2
       },
@@ -3567,7 +3567,7 @@
         "seq": 299995,
         "resourceBoxId": 192,
         "costPaidJewel": 5980,
-        "startAt": 1728111600000,
+        "startAt": 1727679600000,
         "endAt": 1728489599000,
         "limitValue": 1
       }
@@ -3577,7 +3577,7 @@
   {
     "id": 142,
     "name": "2週年連線LIVE 正式公演（販售周邊商店）",
-    "virtualLiveId": 176,
+    "virtualLiveId": 255,
     "virtualShopItems": [
       {
         "id": 249,
@@ -3587,8 +3587,8 @@
         "resourceBoxId": 193,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 1696057200000,
-        "endAt": 1697093999000,
+        "startAt": 1727679600000,
+        "endAt": 1728489599000,
         "limitValue": 1
       },
       {
@@ -3599,8 +3599,8 @@
         "resourceBoxId": 194,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 1696057200000,
-        "endAt": 1697093999000,
+        "startAt": 1727679600000,
+        "endAt": 1728489599000,
         "limitValue": 1
       },
       {
@@ -3611,8 +3611,8 @@
         "resourceBoxId": 195,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 1696057200000,
-        "endAt": 1697093999000,
+        "startAt": 1727679600000,
+        "endAt": 1728489599000,
         "limitValue": 1
       }
     ],
@@ -4983,5 +4983,21 @@
       }
     ],
     "virtualShopType": "other"
+  },
+  {
+    "id": 1006,
+    "name": "中秋2024",
+    "virtualShopItems": [
+      {
+        "id": 10016,
+        "virtualShopId": 1006,
+        "virtualShopItemType": "penlight",
+        "seq": 1000015,
+        "resourceBoxId": 10010,
+        "costPaidJewel": 1000,
+        "startAt": 1726459200000
+      }
+    ],
+    "virtualShopType": "event"
   }
 ]
