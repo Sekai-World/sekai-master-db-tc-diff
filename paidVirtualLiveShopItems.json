@@ -70,6 +70,60 @@
     "assetbundleName": "vl_archive_thumbnail_10004"
   },
   {
+    "id": 10011,
+    "seq": 10012,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "第1公演",
+    "description": "※這場公演有部分聲音會出現斷斷續續的情況。",
+    "resourceBoxId": 10011,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100111,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 3000,
+        "startAt": 1727625600000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10011"
+  },
+  {
+    "id": 10012,
+    "seq": 10011,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "第2公演",
+    "description": "※這場公演有部分聲音會出現斷斷續續的情況。",
+    "resourceBoxId": 10012,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100121,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 3000,
+        "startAt": 1727625600000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10012"
+  },
+  {
+    "id": 10013,
+    "seq": 10013,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "一次購買所有公演",
+    "description": "※第1公演和第2公演有注意事項，敬請確認。",
+    "resourceBoxId": 10013,
+    "paidVirtualLiveShopItemPurchaseType": "bundle",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100131,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 5000,
+        "startAt": 1727625600000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10013"
+  },
+  {
     "id": 20001,
     "seq": 20001,
     "name": "遙 2021",
@@ -1654,6 +1708,182 @@
     "assetbundleName": "vl_archive_thumbnail_20072"
   },
   {
+    "id": 20073,
+    "seq": 20073,
+    "name": "寧寧 2024",
+    "resourceBoxId": 20073,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200731,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1759248000000
+      },
+      {
+        "id": 200732,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1759248000000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20073"
+  },
+  {
+    "id": 20074,
+    "seq": 20074,
+    "name": "杏 2024",
+    "resourceBoxId": 20074,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200741,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1759248000000
+      },
+      {
+        "id": 200742,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1759248000000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20074"
+  },
+  {
+    "id": 20075,
+    "seq": 20075,
+    "name": "一歌 2024",
+    "resourceBoxId": 20075,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200751,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1761926400000
+      },
+      {
+        "id": 200752,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1761926400000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20075"
+  },
+  {
+    "id": 20076,
+    "seq": 20076,
+    "name": "瑞希 2024",
+    "resourceBoxId": 20076,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200761,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1761926400000
+      },
+      {
+        "id": 200762,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1761926400000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20076"
+  },
+  {
+    "id": 20077,
+    "seq": 20077,
+    "name": "未來 2024",
+    "resourceBoxId": 20077,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200771,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1761926400000
+      },
+      {
+        "id": 200772,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1761926400000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20077"
+  },
+  {
+    "id": 20078,
+    "seq": 20078,
+    "name": "笑夢 2024",
+    "resourceBoxId": 20078,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200781,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1764518400000
+      },
+      {
+        "id": 200782,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1764518400000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20078"
+  },
+  {
+    "id": 20079,
+    "seq": 20079,
+    "name": "遙 2024",
+    "resourceBoxId": 20079,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200791,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1767196800000
+      },
+      {
+        "id": 200792,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1767196800000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20079"
+  },
+  {
+    "id": 20080,
+    "seq": 20080,
+    "name": "穗波 2024",
+    "resourceBoxId": 20080,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200801,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1767196800000
+      },
+      {
+        "id": 200802,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1767196800000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20080"
+  },
+  {
     "id": 30008,
     "seq": 30008,
     "name": "萬聖節 2021",
@@ -1722,7 +1952,7 @@
   {
     "id": 30011,
     "seq": 30011,
-    "name": "新年 2022 Leo\/need",
+    "name": "新年2022\nLeo\/need",
     "resourceBoxId": 30011,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -1744,7 +1974,7 @@
   {
     "id": 30012,
     "seq": 30012,
-    "name": "新年 2022 MORE MORE JUMP！",
+    "name": "新年2022\nMORE MORE JUMP！",
     "resourceBoxId": 30012,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -1766,7 +1996,7 @@
   {
     "id": 30013,
     "seq": 30013,
-    "name": "新年 2022 Vivid BAD SQUAD",
+    "name": "新年2022\nVivid BAD SQUAD",
     "resourceBoxId": 30013,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -1788,7 +2018,7 @@
   {
     "id": 30014,
     "seq": 30014,
-    "name": "新年 2022 Wonderlands×Showtime",
+    "name": "新年2022\nWonderlands×Showtime",
     "resourceBoxId": 30014,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -1810,7 +2040,7 @@
   {
     "id": 30015,
     "seq": 30015,
-    "name": "新年 2022 25點，Nightcord見。",
+    "name": "新年2022\n25點，Nightcord見。",
     "resourceBoxId": 30015,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -1986,7 +2216,7 @@
   {
     "id": 30023,
     "seq": 30023,
-    "name": "新年 2023 Leo\/need",
+    "name": "新年2023\nLeo\/need",
     "resourceBoxId": 30023,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -2008,7 +2238,7 @@
   {
     "id": 30024,
     "seq": 30024,
-    "name": "新年 2023 MORE MORE JUMP！",
+    "name": "新年2023\nMORE MORE JUMP！",
     "resourceBoxId": 30024,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -2030,7 +2260,7 @@
   {
     "id": 30025,
     "seq": 30025,
-    "name": "新年 2023 Vivid BAD SQUAD",
+    "name": "新年2023\nVivid BAD SQUAD",
     "resourceBoxId": 30025,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -2052,7 +2282,7 @@
   {
     "id": 30026,
     "seq": 30026,
-    "name": "新年 2023 Wonderlands×Showtime",
+    "name": "新年2023\nWonderlands×Showtime",
     "resourceBoxId": 30026,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -2074,7 +2304,7 @@
   {
     "id": 30027,
     "seq": 30027,
-    "name": "新年 2023 25點，Nightcord見。",
+    "name": "新年2023\n25點，Nightcord見。",
     "resourceBoxId": 30027,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -2228,7 +2458,7 @@
   {
     "id": 30034,
     "seq": 30034,
-    "name": "新年 2024 Leo\/need",
+    "name": "新年2024 Leo\/need",
     "resourceBoxId": 30034,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -2250,7 +2480,7 @@
   {
     "id": 30035,
     "seq": 30035,
-    "name": "新年 2024 MORE MORE JUMP！",
+    "name": "新年2024 MORE MORE JUMP！",
     "resourceBoxId": 30035,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -2272,7 +2502,7 @@
   {
     "id": 30036,
     "seq": 30036,
-    "name": "新年 2024 Vivid BAD SQUAD",
+    "name": "新年2024 Vivid BAD SQUAD",
     "resourceBoxId": 30036,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -2294,7 +2524,7 @@
   {
     "id": 30037,
     "seq": 30037,
-    "name": "新年 2024 Wonderlands×Showtime",
+    "name": "新年2024 Wonderlands×Showtime",
     "resourceBoxId": 30037,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -2316,7 +2546,7 @@
   {
     "id": 30038,
     "seq": 30038,
-    "name": "新年 2024 25點，Nightcord見。",
+    "name": "新年2024 25點，Nightcord見。",
     "resourceBoxId": 30038,
     "paidVirtualLiveShopItemPurchaseType": "single",
     "paidVirtualLiveShopCosts": [
@@ -2378,6 +2608,50 @@
       }
     ],
     "assetbundleName": "vl_archive_thumbnail_30040"
+  },
+  {
+    "id": 30041,
+    "seq": 30041,
+    "name": "七夕 2024",
+    "resourceBoxId": 30041,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 300411,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1759248000000
+      },
+      {
+        "id": 300412,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1759248000000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_30041"
+  },
+  {
+    "id": 30042,
+    "seq": 30042,
+    "name": "萬聖節 2024",
+    "resourceBoxId": 30042,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 300421,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1767196800000
+      },
+      {
+        "id": 300422,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1767196800000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_30042"
   },
   {
     "id": 40001,

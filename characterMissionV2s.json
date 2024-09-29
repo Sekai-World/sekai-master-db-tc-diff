@@ -5,7 +5,7 @@
     "characterId": 1,
     "parameterGroupId": 1,
     "sentence": "將｢星乃一歌｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -144,12 +144,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 1019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 1,
+    "parameterGroupId": 19,
+    "sentence": "收集｢星乃一歌」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 1,
+    "parameterGroupId": 101,
+    "sentence": "將｢星乃一歌｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 1,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢星乃一歌｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 2001,
     "characterMissionType": "play_live",
     "characterId": 2,
     "parameterGroupId": 1,
     "sentence": "將｢天馬咲希｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -288,12 +315,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 2019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 2,
+    "parameterGroupId": 19,
+    "sentence": "收集｢天馬咲希」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 2,
+    "parameterGroupId": 101,
+    "sentence": "將｢天馬咲希｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 2,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢天馬咲希｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 3001,
     "characterMissionType": "play_live",
     "characterId": 3,
     "parameterGroupId": 1,
-    "sentence": "將｢望月穗波｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢望月穗波｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -432,12 +486,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 3019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 3,
+    "parameterGroupId": 19,
+    "sentence": "收集｢望月穗波」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 3,
+    "parameterGroupId": 101,
+    "sentence": "將｢望月穗波｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 3,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢望月穗波｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 4001,
     "characterMissionType": "play_live",
     "characterId": 4,
     "parameterGroupId": 1,
-    "sentence": "將｢日野森志步｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢日野森志步｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -576,12 +657,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 4019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 4,
+    "parameterGroupId": 19,
+    "sentence": "收集｢日野森志步」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 4,
+    "parameterGroupId": 101,
+    "sentence": "將｢日野森志步｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 4,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢日野森志步｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 5001,
     "characterMissionType": "play_live",
     "characterId": 5,
     "parameterGroupId": 1,
-    "sentence": "將｢花里實乃理｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢花里實乃理｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -720,12 +828,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 5019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 5,
+    "parameterGroupId": 19,
+    "sentence": "收集｢花里實乃理」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 5,
+    "parameterGroupId": 101,
+    "sentence": "將｢花里實乃理｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 5,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢花里實乃理｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 6001,
     "characterMissionType": "play_live",
     "characterId": 6,
     "parameterGroupId": 1,
-    "sentence": "將｢桐谷遙｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢桐谷遙｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -864,12 +999,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 6019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 6,
+    "parameterGroupId": 19,
+    "sentence": "收集｢桐谷遙」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 6,
+    "parameterGroupId": 101,
+    "sentence": "將｢桐谷遙｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 6,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢桐谷遙｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 7001,
     "characterMissionType": "play_live",
     "characterId": 7,
     "parameterGroupId": 1,
-    "sentence": "將｢桃井愛莉｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢桃井愛莉｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -1008,12 +1170,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 7019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 7,
+    "parameterGroupId": 19,
+    "sentence": "收集｢桃井愛莉」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 7,
+    "parameterGroupId": 101,
+    "sentence": "將｢桃井愛莉｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 7,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢桃井愛莉｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 8001,
     "characterMissionType": "play_live",
     "characterId": 8,
     "parameterGroupId": 1,
-    "sentence": "將｢日野森雫｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢日野森雫｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -1152,12 +1341,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 8019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 8,
+    "parameterGroupId": 19,
+    "sentence": "收集｢日野森雫」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 8,
+    "parameterGroupId": 101,
+    "sentence": "將｢日野森雫｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 8,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢日野森雫｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 9001,
     "characterMissionType": "play_live",
     "characterId": 9,
     "parameterGroupId": 1,
-    "sentence": "將｢小豆澤心羽｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢小豆澤心羽｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -1296,12 +1512,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 9019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 9,
+    "parameterGroupId": 19,
+    "sentence": "收集｢小豆澤心羽」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 9,
+    "parameterGroupId": 101,
+    "sentence": "將｢小豆澤心羽｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 9,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢小豆澤心羽｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 10001,
     "characterMissionType": "play_live",
     "characterId": 10,
     "parameterGroupId": 1,
-    "sentence": "將｢白石杏｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢白石杏｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -1440,12 +1683,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 10019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 10,
+    "parameterGroupId": 19,
+    "sentence": "收集｢白石杏」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 10,
+    "parameterGroupId": 101,
+    "sentence": "將｢白石杏｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 10,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢白石杏｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 11001,
     "characterMissionType": "play_live",
     "characterId": 11,
     "parameterGroupId": 1,
-    "sentence": "將｢東雲彰人｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢東雲彰人｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -1584,12 +1854,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 11019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 11,
+    "parameterGroupId": 19,
+    "sentence": "收集｢東雲彰人」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 11,
+    "parameterGroupId": 101,
+    "sentence": "將｢東雲彰人｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 11,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢東雲彰人｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 12001,
     "characterMissionType": "play_live",
     "characterId": 12,
     "parameterGroupId": 1,
-    "sentence": "將｢青柳冬彌｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢青柳冬彌｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -1728,12 +2025,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 12019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 12,
+    "parameterGroupId": 19,
+    "sentence": "收集｢青柳冬彌」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 12,
+    "parameterGroupId": 101,
+    "sentence": "將｢青柳冬彌｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 12,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢青柳冬彌｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 13001,
     "characterMissionType": "play_live",
     "characterId": 13,
     "parameterGroupId": 1,
-    "sentence": "將｢天馬司｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢天馬司｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -1872,12 +2196,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 13019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 13,
+    "parameterGroupId": 19,
+    "sentence": "收集｢天馬司」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 13,
+    "parameterGroupId": 101,
+    "sentence": "將｢天馬司｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 13,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢天馬司｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 14001,
     "characterMissionType": "play_live",
     "characterId": 14,
     "parameterGroupId": 1,
-    "sentence": "將｢鳳笑夢｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢鳳笑夢｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -2016,12 +2367,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 14019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 14,
+    "parameterGroupId": 19,
+    "sentence": "收集｢鳳笑夢」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 14,
+    "parameterGroupId": 101,
+    "sentence": "將｢鳳笑夢｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 14,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢鳳笑夢｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 15001,
     "characterMissionType": "play_live",
     "characterId": 15,
     "parameterGroupId": 1,
-    "sentence": "將｢草薙寧寧｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢草薙寧寧｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -2160,12 +2538,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 15019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 15,
+    "parameterGroupId": 19,
+    "sentence": "收集｢草薙寧寧」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 15,
+    "parameterGroupId": 101,
+    "sentence": "將｢草薙寧寧｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 15,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢草薙寧寧｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 16001,
     "characterMissionType": "play_live",
     "characterId": 16,
     "parameterGroupId": 1,
-    "sentence": "將｢神代類｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢神代類｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -2304,12 +2709,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 16019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 16,
+    "parameterGroupId": 19,
+    "sentence": "收集｢神代類」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 16,
+    "parameterGroupId": 101,
+    "sentence": "將｢神代類｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 16,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢神代類｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 17001,
     "characterMissionType": "play_live",
     "characterId": 17,
     "parameterGroupId": 1,
-    "sentence": "將｢宵崎奏｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢宵崎奏｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -2448,12 +2880,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 17019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 17,
+    "parameterGroupId": 19,
+    "sentence": "收集｢宵崎奏」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 17,
+    "parameterGroupId": 101,
+    "sentence": "將｢宵崎奏｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 17,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢宵崎奏｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 18001,
     "characterMissionType": "play_live",
     "characterId": 18,
     "parameterGroupId": 1,
-    "sentence": "將｢朝比奈真冬｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢朝比奈真冬｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -2592,12 +3051,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 18019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 18,
+    "parameterGroupId": 19,
+    "sentence": "收集｢朝比奈真冬」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 18,
+    "parameterGroupId": 101,
+    "sentence": "將｢朝比奈真冬｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 18,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢朝比奈真冬｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 19001,
     "characterMissionType": "play_live",
     "characterId": 19,
     "parameterGroupId": 1,
-    "sentence": "將｢東雲繪名｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢東雲繪名｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -2736,12 +3222,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 19019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 19,
+    "parameterGroupId": 19,
+    "sentence": "收集｢東雲繪名」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 19,
+    "parameterGroupId": 101,
+    "sentence": "將｢東雲繪名｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 19,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢東雲繪名｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 20001,
     "characterMissionType": "play_live",
     "characterId": 20,
     "parameterGroupId": 1,
-    "sentence": "將｢曉山瑞希｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢曉山瑞希｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -2880,12 +3393,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 20019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 20,
+    "parameterGroupId": 19,
+    "sentence": "收集｢曉山瑞希」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 20,
+    "parameterGroupId": 101,
+    "sentence": "將｢曉山瑞希｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 20,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢曉山瑞希｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 21001,
     "characterMissionType": "play_live",
     "characterId": 21,
     "parameterGroupId": 1,
-    "sentence": "將｢初音未來｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢初音未來｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -3024,12 +3564,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 21019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 21,
+    "parameterGroupId": 19,
+    "sentence": "收集｢初音未來」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 21,
+    "parameterGroupId": 101,
+    "sentence": "將｢初音未來｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 21,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢初音未來｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 22001,
     "characterMissionType": "play_live",
     "characterId": 22,
     "parameterGroupId": 1,
-    "sentence": "將｢鏡音鈴｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢鏡音鈴｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -3168,12 +3735,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 22019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 22,
+    "parameterGroupId": 19,
+    "sentence": "收集｢鏡音鈴」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 22,
+    "parameterGroupId": 101,
+    "sentence": "將｢鏡音鈴｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 22,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢鏡音鈴｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 23001,
     "characterMissionType": "play_live",
     "characterId": 23,
     "parameterGroupId": 1,
-    "sentence": "將｢鏡音連｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢鏡音連｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -3312,12 +3906,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 23019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 23,
+    "parameterGroupId": 19,
+    "sentence": "收集｢鏡音連」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 23,
+    "parameterGroupId": 101,
+    "sentence": "將｢鏡音連｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 23,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢鏡音連｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 24001,
     "characterMissionType": "play_live",
     "characterId": 24,
     "parameterGroupId": 1,
-    "sentence": "將｢巡音流歌｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢巡音流歌｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -3456,12 +4077,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 24019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 24,
+    "parameterGroupId": 19,
+    "sentence": "收集｢巡音流歌」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 24,
+    "parameterGroupId": 101,
+    "sentence": "將｢巡音流歌｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 24,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢巡音流歌｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 25001,
     "characterMissionType": "play_live",
     "characterId": 25,
     "parameterGroupId": 1,
-    "sentence": "將｢MEIKO｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢MEIKO｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -3600,12 +4248,39 @@
     "isAchievementMission": true
   },
   {
+    "id": 25019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 25,
+    "parameterGroupId": 19,
+    "sentence": "收集｢MEIKO」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 25,
+    "parameterGroupId": 101,
+    "sentence": "將｢MEIKO｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 25,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢MEIKO｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
     "id": 26001,
     "characterMissionType": "play_live",
     "characterId": 26,
     "parameterGroupId": 1,
-    "sentence": "將｢KAITO｣設定為隊長並遊玩LIVE{requirement}次。",
-    "progressSentence": "{progress}次",
+    "sentence": "將｢KAITO｣設為隊長並通過{requirement}次LIVE吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   },
   {
@@ -3741,6 +4416,33 @@
     "parameterGroupId": 18,
     "sentence": "累計提升｢KAITO｣的★1\/★2\/★3稀有度卡片的專精等級{requirement}次。",
     "progressSentence": "{progress}次",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26019,
+    "characterMissionType": "collect_character_archive_voice",
+    "characterId": 26,
+    "parameterGroupId": 19,
+    "sentence": "收集｢KAITO」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26101,
+    "characterMissionType": "play_live_ex",
+    "characterId": 26,
+    "parameterGroupId": 101,
+    "sentence": "將｢KAITO｣設為隊長，進行{requirement}次LIVE吧。\"",
+    "progressSentence": "{progress}回",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26102,
+    "characterMissionType": "waiting_room_ex",
+    "characterId": 26,
+    "parameterGroupId": 102,
+    "sentence": "迎接｢KAITO｣到休息室{requirement}次吧。",
+    "progressSentence": "{progress}回",
     "isAchievementMission": true
   }
 ]

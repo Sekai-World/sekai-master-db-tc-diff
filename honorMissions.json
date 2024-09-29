@@ -6,9 +6,9 @@
     "requirement": 39,
     "sentence": "通過39次LIVE吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1015
-      }
+      [
+        1015
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -19,9 +19,9 @@
     "requirement": 3939,
     "sentence": "通過3939次LIVE吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1016
-      }
+      [
+        1016
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -32,9 +32,9 @@
     "requirement": 50,
     "sentence": "將玩家等級提升至50吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1017
-      }
+      [
+        1017
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -45,9 +45,9 @@
     "requirement": 100,
     "sentence": "將玩家等級提升至100吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1018
-      }
+      [
+        1018
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -58,9 +58,9 @@
     "requirement": 200,
     "sentence": "將玩家等級提升至200吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1131
-      }
+      [
+        1131
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -71,9 +71,9 @@
     "requirement": 300,
     "sentence": "將玩家等級提升至300吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1154
-      }
+      [
+        1154
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -84,9 +84,9 @@
     "requirement": 400,
     "sentence": "將玩家等級提升至400吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1185
-      }
+      [
+        1185
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -97,9 +97,22 @@
     "requirement": 500,
     "sentence": "將玩家等級提升至500吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1363
-      }
+      [
+        1363
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 207,
+    "seq": 7,
+    "honorMissionType": "player_rank",
+    "requirement": 600,
+    "sentence": "將玩家等級提升至600吧。",
+    "rewards": [
+      [
+        1465
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -110,9 +123,9 @@
     "requirement": 30,
     "sentence": "連續登入30天吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1019
-      }
+      [
+        1019
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -123,9 +136,9 @@
     "requirement": 365,
     "sentence": "累積登入365天吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1020
-      }
+      [
+        1020
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -136,9 +149,9 @@
     "requirement": 730,
     "sentence": "累積登入730天吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1396
-      }
+      [
+        1396
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -149,9 +162,22 @@
     "requirement": 1095,
     "sentence": "累積登入1095天吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1397
-      }
+      [
+        1397
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 404,
+    "seq": 4,
+    "honorMissionType": "login_total",
+    "requirement": 1460,
+    "sentence": "累積登入1460天吧。",
+    "rewards": [
+      [
+        1398
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -162,9 +188,9 @@
     "requirement": 10,
     "sentence": "解鎖10首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1021
-      }
+      [
+        1021
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -175,9 +201,9 @@
     "requirement": 20,
     "sentence": "解鎖20首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1284
-      }
+      [
+        1284
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -188,9 +214,9 @@
     "requirement": 40,
     "sentence": "解鎖40首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1285
-      }
+      [
+        1285
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -201,9 +227,9 @@
     "requirement": 60,
     "sentence": "解鎖60首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1286
-      }
+      [
+        1286
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -214,9 +240,9 @@
     "requirement": 80,
     "sentence": "解鎖80首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1287
-      }
+      [
+        1287
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -227,9 +253,9 @@
     "requirement": 100,
     "sentence": "解鎖100首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1288
-      }
+      [
+        1288
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -240,9 +266,9 @@
     "requirement": 120,
     "sentence": "解鎖120首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1289
-      }
+      [
+        1289
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -253,9 +279,9 @@
     "requirement": 140,
     "sentence": "解鎖140首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1290
-      }
+      [
+        1290
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -266,9 +292,9 @@
     "requirement": 160,
     "sentence": "解鎖160首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1291
-      }
+      [
+        1291
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -279,9 +305,9 @@
     "requirement": 180,
     "sentence": "解鎖180首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1292
-      }
+      [
+        1292
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -292,9 +318,9 @@
     "requirement": 200,
     "sentence": "解鎖200首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1400
-      }
+      [
+        1400
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -305,9 +331,9 @@
     "requirement": 220,
     "sentence": "解鎖220首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1401
-      }
+      [
+        1401
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -318,9 +344,9 @@
     "requirement": 240,
     "sentence": "解鎖240首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1402
-      }
+      [
+        1402
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -331,9 +357,9 @@
     "requirement": 260,
     "sentence": "解鎖260首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1403
-      }
+      [
+        1403
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -344,9 +370,9 @@
     "requirement": 280,
     "sentence": "解鎖280首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1404
-      }
+      [
+        1404
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -357,9 +383,9 @@
     "requirement": 300,
     "sentence": "解鎖300首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1405
-      }
+      [
+        1405
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -370,9 +396,9 @@
     "requirement": 320,
     "sentence": "解鎖320首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1406
-      }
+      [
+        1406
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -383,9 +409,9 @@
     "requirement": 340,
     "sentence": "解鎖340首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1407
-      }
+      [
+        1407
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -396,9 +422,9 @@
     "requirement": 360,
     "sentence": "解鎖360首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1408
-      }
+      [
+        1408
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -409,22 +435,22 @@
     "requirement": 380,
     "sentence": "解鎖380首歌曲的Another Vocal吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1409
-      }
+      [
+        1409
+      ]
     ],
     "startAt": 1640880000000
   },
   {
-    "id": 601,
+    "id": 602,
     "seq": 1,
-    "honorMissionType": "unit_rank_all",
-    "requirement": 20,
-    "sentence": "將所有團體的團體等級提升至20吧。",
+    "honorMissionType": "read_unit_story_no_skip",
+    "requirement": 125,
+    "sentence": "不跳過或快轉，完整觀看所有團體的主線劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1022
-      }
+      [
+        1022
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -435,9 +461,9 @@
     "requirement": 10,
     "sentence": "將5種區域道具的等級提升至10吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1023
-      }
+      [
+        1023
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -448,9 +474,9 @@
     "requirement": 5,
     "sentence": "將所有角色的角色等級提升至5吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1024
-      }
+      [
+        1024
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -461,9 +487,9 @@
     "requirement": 10,
     "sentence": "將所有角色的角色等級提升至10吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1025
-      }
+      [
+        1025
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -474,9 +500,9 @@
     "requirement": 15,
     "sentence": "將所有角色的角色等級提升至15吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1410
-      }
+      [
+        1410
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -487,9 +513,9 @@
     "requirement": 20,
     "sentence": "將所有角色的角色等級提升至20吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1411
-      }
+      [
+        1411
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -500,9 +526,9 @@
     "requirement": 30,
     "sentence": "將所有角色的角色等級提升至30吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1412
-      }
+      [
+        1412
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -513,9 +539,9 @@
     "requirement": 40,
     "sentence": "將所有角色的角色等級提升至40吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1413
-      }
+      [
+        1413
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -526,9 +552,9 @@
     "requirement": 50,
     "sentence": "將所有角色的角色等級提升至50吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1414
-      }
+      [
+        1414
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -539,9 +565,9 @@
     "requirement": 60,
     "sentence": "將所有角色的角色等級提升至60吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1415
-      }
+      [
+        1415
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -552,9 +578,9 @@
     "requirement": 70,
     "sentence": "將所有角色的角色等級提升至70吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1416
-      }
+      [
+        1416
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -565,9 +591,9 @@
     "requirement": 80,
     "sentence": "將所有角色的角色等級提升至80吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1417
-      }
+      [
+        1417
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -578,9 +604,9 @@
     "requirement": 90,
     "sentence": "將所有角色的角色等級提升至90吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1418
-      }
+      [
+        1418
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -591,9 +617,9 @@
     "requirement": 100,
     "sentence": "將所有角色的角色等級提升至100吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1419
-      }
+      [
+        1419
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -602,11 +628,11 @@
     "seq": 1,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 5,
-    "sentence": "在所有難易度下通過5首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過5首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1026
-      }
+      [
+        1026
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -615,11 +641,11 @@
     "seq": 2,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 10,
-    "sentence": "在所有難易度下通過10首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過10首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1027
-      }
+      [
+        1027
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -628,11 +654,11 @@
     "seq": 3,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 20,
-    "sentence": "在所有難易度下通過20首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過20首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1028
-      }
+      [
+        1028
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -641,11 +667,11 @@
     "seq": 4,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 30,
-    "sentence": "在所有難易度下通過30首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過30首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1147
-      }
+      [
+        1147
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -654,11 +680,11 @@
     "seq": 5,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 40,
-    "sentence": "在所有難易度下通過40首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過40首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1148
-      }
+      [
+        1148
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -667,11 +693,11 @@
     "seq": 6,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 50,
-    "sentence": "在所有難易度下通過50首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過50首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1149
-      }
+      [
+        1149
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -680,11 +706,11 @@
     "seq": 7,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 60,
-    "sentence": "在所有難易度下通過60首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過60首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1159
-      }
+      [
+        1159
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -693,11 +719,11 @@
     "seq": 8,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 70,
-    "sentence": "在所有難易度下通過70首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過70首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1160
-      }
+      [
+        1160
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -706,11 +732,11 @@
     "seq": 9,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 80,
-    "sentence": "在所有難易度下通過80首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過80首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1198
-      }
+      [
+        1198
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -719,11 +745,11 @@
     "seq": 10,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 90,
-    "sentence": "在所有難易度下通過90首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過90首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1199
-      }
+      [
+        1199
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -732,11 +758,11 @@
     "seq": 11,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 100,
-    "sentence": "在所有難易度下通過100首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過100首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1200
-      }
+      [
+        1200
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -745,11 +771,11 @@
     "seq": 12,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 110,
-    "sentence": "在所有難易度下通過110首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過110首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1201
-      }
+      [
+        1201
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -758,11 +784,11 @@
     "seq": 13,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 120,
-    "sentence": "在所有難易度下通過120首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過120首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1202
-      }
+      [
+        1202
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -771,11 +797,11 @@
     "seq": 14,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 150,
-    "sentence": "在所有難易度下通過150首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過150首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1420
-      }
+      [
+        1420
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -784,11 +810,11 @@
     "seq": 15,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 180,
-    "sentence": "在所有難易度下通過180首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過180首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1421
-      }
+      [
+        1421
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -797,11 +823,11 @@
     "seq": 16,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 210,
-    "sentence": "在所有難易度下通過210首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過210首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1422
-      }
+      [
+        1422
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -810,11 +836,11 @@
     "seq": 17,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 240,
-    "sentence": "在所有難易度下通過240首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過240首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1423
-      }
+      [
+        1423
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -823,11 +849,11 @@
     "seq": 18,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 270,
-    "sentence": "在所有難易度下通過270首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過270首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1424
-      }
+      [
+        1424
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -836,11 +862,11 @@
     "seq": 19,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 300,
-    "sentence": "在所有難易度下通過300首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過300首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1425
-      }
+      [
+        1425
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -849,11 +875,11 @@
     "seq": 20,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 330,
-    "sentence": "在所有難易度下通過330首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過330首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1426
-      }
+      [
+        1426
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -862,11 +888,11 @@
     "seq": 21,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 360,
-    "sentence": "在所有難易度下通過360首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過360首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1427
-      }
+      [
+        1427
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -875,11 +901,11 @@
     "seq": 22,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 390,
-    "sentence": "在所有難易度下通過390首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過390首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1428
-      }
+      [
+        1428
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -888,11 +914,11 @@
     "seq": 23,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 420,
-    "sentence": "在所有難易度下通過420首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過420首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1429
-      }
+      [
+        1429
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -901,11 +927,11 @@
     "seq": 24,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 450,
-    "sentence": "在所有難易度下通過450首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過450首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1430
-      }
+      [
+        1430
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -914,11 +940,11 @@
     "seq": 25,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 480,
-    "sentence": "在所有難易度下通過480首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過480首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1431
-      }
+      [
+        1431
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -927,11 +953,11 @@
     "seq": 26,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 510,
-    "sentence": "在所有難易度下通過510首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過510首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1432
-      }
+      [
+        1432
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -940,11 +966,11 @@
     "seq": 27,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 540,
-    "sentence": "在所有難易度下通過540首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過540首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1433
-      }
+      [
+        1433
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -953,11 +979,11 @@
     "seq": 28,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 570,
-    "sentence": "在所有難易度下通過570首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過570首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1434
-      }
+      [
+        1434
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -966,11 +992,11 @@
     "seq": 29,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 600,
-    "sentence": "在所有難易度下通過600首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過600首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1435
-      }
+      [
+        1435
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -979,11 +1005,11 @@
     "seq": 30,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 630,
-    "sentence": "在所有難易度下通過630首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過630首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1436
-      }
+      [
+        1436
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -992,11 +1018,11 @@
     "seq": 31,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 660,
-    "sentence": "在所有難易度下通過660首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過660首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1437
-      }
+      [
+        1437
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1005,11 +1031,11 @@
     "seq": 32,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 690,
-    "sentence": "在所有難易度下通過690首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過690首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1438
-      }
+      [
+        1438
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1018,11 +1044,11 @@
     "seq": 33,
     "honorMissionType": "clear_live_difficulty_all",
     "requirement": 720,
-    "sentence": "在所有難易度下通過720首歌曲吧。",
+    "sentence": "在APPEND以外的所有難易度下通過720首歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1439
-      }
+      [
+        1439
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1033,24 +1059,23 @@
     "requirement": 2000,
     "sentence": "在體力為2000的狀態下通過LIVE吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1035
-      }
+      [
+        1035
+      ]
     ],
     "startAt": 1640880000000
   },
   {
-    "id": 1301,
+    "id": 1302,
     "seq": 1,
-    "honorMissionType": "clear_live_continued",
+    "honorMissionType": "finish_live_with_empty_life",
     "requirement": 5,
-    "sentence": "在單次LIVE中繼續次數達5次以上的狀態下通過LIVE吧。",
+    "sentence": "以體力0的狀態遊玩了5次單人LIVE或挑戰LIVE到最後",
     "rewards": [
-      {
-        "resourceBoxId": 1036
-      }
-    ],
-    "startAt": 1640880000000
+      [
+        1036
+      ]
+    ]
   },
   {
     "id": 1401,
@@ -1059,9 +1084,9 @@
     "requirement": 1000,
     "sentence": "在打出1000以上COMBO的狀態下通過LIVE吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1037
-      }
+      [
+        1037
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1072,9 +1097,9 @@
     "requirement": 1000000,
     "sentence": "累計獲得100萬枚硬幣吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1038
-      }
+      [
+        1038
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1085,9 +1110,9 @@
     "requirement": 1,
     "sentence": "在5個人都打出FULL COMBO的狀態下通過「多人LIVE」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1039
-      }
+      [
+        1039
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1098,9 +1123,9 @@
     "requirement": 1,
     "sentence": "在「多人LIVE」中，5個人一起選擇相同的歌曲吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1040
-      }
+      [
+        1040
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1111,9 +1136,9 @@
     "requirement": 1,
     "sentence": "在「多人LIVE」中，5個人至少一起設定1個相同的稱號吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1041
-      }
+      [
+        1041
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1124,9 +1149,9 @@
     "requirement": 1000,
     "sentence": "在「多人LIVE、Cheerful LIVE」中使用1000次貼圖吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1042
-      }
+      [
+        1042
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1137,9 +1162,9 @@
     "requirement": 100,
     "sentence": "累計迎接100位成員進入休息室吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1043
-      }
+      [
+        1043
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1150,9 +1175,9 @@
     "requirement": 30,
     "sentence": "收集30種貼圖吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1044
-      }
+      [
+        1044
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1163,9 +1188,9 @@
     "requirement": 500,
     "sentence": "觀看500種區域對話吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1045
-      }
+      [
+        1045
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1176,9 +1201,9 @@
     "requirement": 100,
     "sentence": "不跳過、不快轉並觀看100章「主線劇情」或「支線劇情」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1046
-      }
+      [
+        1046
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1189,9 +1214,9 @@
     "requirement": 200,
     "sentence": "不跳過、不快轉並觀看200章「主線劇情」或「支線劇情」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1440
-      }
+      [
+        1440
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1202,9 +1227,9 @@
     "requirement": 300,
     "sentence": "不跳過、不快轉並觀看300章「主線劇情」或「支線劇情」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1441
-      }
+      [
+        1441
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1215,9 +1240,9 @@
     "requirement": 400,
     "sentence": "不跳過、不快轉並觀看400章「主線劇情」或「支線劇情」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1442
-      }
+      [
+        1442
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1228,9 +1253,9 @@
     "requirement": 500,
     "sentence": "不跳過、不快轉並觀看500章「主線劇情」或「支線劇情」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1443
-      }
+      [
+        1443
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1241,9 +1266,9 @@
     "requirement": 600,
     "sentence": "不跳過、不快轉並觀看600章「主線劇情」或「支線劇情」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1444
-      }
+      [
+        1444
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1254,9 +1279,9 @@
     "requirement": 700,
     "sentence": "不跳過、不快轉並觀看700章「主線劇情」或「支線劇情」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1445
-      }
+      [
+        1445
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1267,9 +1292,9 @@
     "requirement": 800,
     "sentence": "不跳過、不快轉並觀看800章「主線劇情」或「支線劇情」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1446
-      }
+      [
+        1446
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1280,9 +1305,9 @@
     "requirement": 900,
     "sentence": "不跳過、不快轉並觀看900章「主線劇情」或「支線劇情」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1447
-      }
+      [
+        1447
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1293,9 +1318,9 @@
     "requirement": 1000,
     "sentence": "不跳過、不快轉並觀看1000章「主線劇情」或「支線劇情」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1448
-      }
+      [
+        1448
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1306,9 +1331,9 @@
     "requirement": 1100,
     "sentence": "不跳過、不快轉並觀看1100章「主線劇情」或「支線劇情」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1449
-      }
+      [
+        1449
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1317,26 +1342,48 @@
     "seq": 1,
     "honorMissionType": "clear_live_school_year_1",
     "requirement": 100,
-    "sentence": "將任意5位1年級角色編組並進行100次LIVE吧。",
+    "sentence": "將任意5位前1年級角色編組並進行100次LIVE吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1047
-      }
-    ],
-    "startAt": 1640880000000
+      [
+        1047
+      ]
+    ]
+  },
+  {
+    "id": 2402,
+    "seq": 1,
+    "honorMissionType": "clear_live_next_grade_school_year_2",
+    "requirement": 100,
+    "sentence": "將任意5位2年級角色編組並進行100次LIVE吧。",
+    "rewards": [
+      [
+        1462
+      ]
+    ]
   },
   {
     "id": 2501,
     "seq": 1,
     "honorMissionType": "clear_live_school_year_2",
     "requirement": 100,
-    "sentence": "將任意5位2年級角色編組並進行100次LIVE吧。",
+    "sentence": "將任意5位前2年級角色編組並進行100次LIVE吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1048
-      }
-    ],
-    "startAt": 1640880003000
+      [
+        1048
+      ]
+    ]
+  },
+  {
+    "id": 2502,
+    "seq": 1,
+    "honorMissionType": "clear_live_next_grade_school_year_3",
+    "requirement": 100,
+    "sentence": "將任意5位3年級角色編組並進行100次LIVE吧。",
+    "rewards": [
+      [
+        1463
+      ]
+    ]
   },
   {
     "id": 2601,
@@ -1345,11 +1392,10 @@
     "requirement": 100,
     "sentence": "將任意5位宮益坂女中角色編組並進行100次LIVE吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1049
-      }
-    ],
-    "startAt": 1640880000000
+      [
+        1049
+      ]
+    ]
   },
   {
     "id": 2701,
@@ -1358,24 +1404,22 @@
     "requirement": 100,
     "sentence": "將任意5位都立神山高中角色編組並進行100次LIVE吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1050
-      }
-    ],
-    "startAt": 1640880000000
+      [
+        1050
+      ]
+    ]
   },
   {
     "id": 2801,
     "seq": 1,
     "honorMissionType": "clear_live_male",
     "requirement": 100,
-    "sentence": "只編入司、彰人、冬彌、類、連、KAITO並進行100次LIVE吧。",
+    "sentence": "只將司、彰人、冬彌、類、連、KAITO編組並進行100次LIVE吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1051
-      }
-    ],
-    "startAt": 1640880000000
+      [
+        1051
+      ]
+    ]
   },
   {
     "id": 2901,
@@ -1384,9 +1428,9 @@
     "requirement": 100,
     "sentence": "在「多人LIVE」中成為「MVP」100次吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1052
-      }
+      [
+        1052
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1397,9 +1441,9 @@
     "requirement": 100,
     "sentence": "在「多人LIVE」中成為「SUPER STAR」100次吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1053
-      }
+      [
+        1053
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1410,9 +1454,9 @@
     "requirement": 50,
     "sentence": "獲得50種服裝吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1054
-      }
+      [
+        1054
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1423,9 +1467,9 @@
     "requirement": 5000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達5000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1067
-      }
+      [
+        1067
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1436,9 +1480,9 @@
     "requirement": 10000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達10000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1068
-      }
+      [
+        1068
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1449,9 +1493,9 @@
     "requirement": 15000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達15000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1069
-      }
+      [
+        1069
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1462,9 +1506,9 @@
     "requirement": 20000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達20000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1070
-      }
+      [
+        1070
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1475,9 +1519,9 @@
     "requirement": 25000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達25000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1071
-      }
+      [
+        1071
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1488,9 +1532,9 @@
     "requirement": 30000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達30000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1072
-      }
+      [
+        1072
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1501,9 +1545,9 @@
     "requirement": 40000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達40000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1073
-      }
+      [
+        1073
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1514,9 +1558,9 @@
     "requirement": 50000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達50000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1074
-      }
+      [
+        1074
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1527,9 +1571,9 @@
     "requirement": 60000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達60000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1075
-      }
+      [
+        1075
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1540,9 +1584,9 @@
     "requirement": 70000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達70000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1076
-      }
+      [
+        1076
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1553,9 +1597,9 @@
     "requirement": 120000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達120000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1213
-      }
+      [
+        1213
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1566,9 +1610,9 @@
     "requirement": 170000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達170000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1214
-      }
+      [
+        1214
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1579,9 +1623,9 @@
     "requirement": 220000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達220000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1215
-      }
+      [
+        1215
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1592,9 +1636,9 @@
     "requirement": 270000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達270000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1216
-      }
+      [
+        1216
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1605,9 +1649,9 @@
     "requirement": 320000,
     "sentence": "在Leo\/need成員演出的虛擬LIVE中\n累積達320000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1217
-      }
+      [
+        1217
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1618,9 +1662,9 @@
     "requirement": 5000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達5000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1077
-      }
+      [
+        1077
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1631,9 +1675,9 @@
     "requirement": 10000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達10000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1078
-      }
+      [
+        1078
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1644,9 +1688,9 @@
     "requirement": 15000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達15000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1079
-      }
+      [
+        1079
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1657,9 +1701,9 @@
     "requirement": 20000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達20000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1080
-      }
+      [
+        1080
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1670,9 +1714,9 @@
     "requirement": 25000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達25000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1081
-      }
+      [
+        1081
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1683,9 +1727,9 @@
     "requirement": 30000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達30000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1082
-      }
+      [
+        1082
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1696,9 +1740,9 @@
     "requirement": 40000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達40000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1083
-      }
+      [
+        1083
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1709,9 +1753,9 @@
     "requirement": 50000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達50000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1084
-      }
+      [
+        1084
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1722,9 +1766,9 @@
     "requirement": 60000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達60000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1085
-      }
+      [
+        1085
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1735,9 +1779,9 @@
     "requirement": 70000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達70000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1086
-      }
+      [
+        1086
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1748,9 +1792,9 @@
     "requirement": 120000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達120000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1218
-      }
+      [
+        1218
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1761,9 +1805,9 @@
     "requirement": 170000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達170000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1219
-      }
+      [
+        1219
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1774,9 +1818,9 @@
     "requirement": 220000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達220000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1220
-      }
+      [
+        1220
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1787,9 +1831,9 @@
     "requirement": 270000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達270000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1221
-      }
+      [
+        1221
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1800,9 +1844,9 @@
     "requirement": 320000,
     "sentence": "在MORE MORE JUMP！成員演出的虛擬LIVE中\n累積達320000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1222
-      }
+      [
+        1222
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1813,9 +1857,9 @@
     "requirement": 5000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達5000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1087
-      }
+      [
+        1087
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1826,9 +1870,9 @@
     "requirement": 10000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達10000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1088
-      }
+      [
+        1088
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1839,9 +1883,9 @@
     "requirement": 15000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達15000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1089
-      }
+      [
+        1089
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1852,9 +1896,9 @@
     "requirement": 20000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達20000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1090
-      }
+      [
+        1090
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1865,9 +1909,9 @@
     "requirement": 25000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達25000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1091
-      }
+      [
+        1091
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1878,9 +1922,9 @@
     "requirement": 30000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達30000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1092
-      }
+      [
+        1092
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1891,9 +1935,9 @@
     "requirement": 40000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達40000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1093
-      }
+      [
+        1093
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1904,9 +1948,9 @@
     "requirement": 50000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達50000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1094
-      }
+      [
+        1094
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1917,9 +1961,9 @@
     "requirement": 60000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達60000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1095
-      }
+      [
+        1095
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1930,9 +1974,9 @@
     "requirement": 70000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達70000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1096
-      }
+      [
+        1096
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1943,9 +1987,9 @@
     "requirement": 120000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達120000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1223
-      }
+      [
+        1223
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1956,9 +2000,9 @@
     "requirement": 170000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達170000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1224
-      }
+      [
+        1224
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1969,9 +2013,9 @@
     "requirement": 220000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達220000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1225
-      }
+      [
+        1225
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1982,9 +2026,9 @@
     "requirement": 270000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達270000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1226
-      }
+      [
+        1226
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -1995,9 +2039,9 @@
     "requirement": 320000,
     "sentence": "在Vivid BAD SQUAD成員演出的虛擬LIVE中\n累積達320000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1227
-      }
+      [
+        1227
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2008,9 +2052,9 @@
     "requirement": 5000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達5000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1097
-      }
+      [
+        1097
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2021,9 +2065,9 @@
     "requirement": 10000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達10000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1098
-      }
+      [
+        1098
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2034,9 +2078,9 @@
     "requirement": 15000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達15000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1099
-      }
+      [
+        1099
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2047,9 +2091,9 @@
     "requirement": 20000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達20000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1100
-      }
+      [
+        1100
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2060,9 +2104,9 @@
     "requirement": 25000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達25000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1101
-      }
+      [
+        1101
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2073,9 +2117,9 @@
     "requirement": 30000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達30000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1102
-      }
+      [
+        1102
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2086,9 +2130,9 @@
     "requirement": 40000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達40000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1103
-      }
+      [
+        1103
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2099,9 +2143,9 @@
     "requirement": 50000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達50000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1104
-      }
+      [
+        1104
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2112,9 +2156,9 @@
     "requirement": 60000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達60000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1105
-      }
+      [
+        1105
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2125,9 +2169,9 @@
     "requirement": 70000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達70000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1106
-      }
+      [
+        1106
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2138,9 +2182,9 @@
     "requirement": 120000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達120000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1228
-      }
+      [
+        1228
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2151,9 +2195,9 @@
     "requirement": 170000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達170000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1229
-      }
+      [
+        1229
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2164,9 +2208,9 @@
     "requirement": 220000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達220000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1230
-      }
+      [
+        1230
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2177,9 +2221,9 @@
     "requirement": 270000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達270000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1231
-      }
+      [
+        1231
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2190,9 +2234,9 @@
     "requirement": 320000,
     "sentence": "在Wonderlands×Showtime成員演出的虛擬LIVE中\n累積達320000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1232
-      }
+      [
+        1232
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2203,9 +2247,9 @@
     "requirement": 5000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達5000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1107
-      }
+      [
+        1107
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2216,9 +2260,9 @@
     "requirement": 10000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達10000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1108
-      }
+      [
+        1108
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2229,9 +2273,9 @@
     "requirement": 15000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達15000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1109
-      }
+      [
+        1109
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2242,9 +2286,9 @@
     "requirement": 20000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達20000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1110
-      }
+      [
+        1110
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2255,9 +2299,9 @@
     "requirement": 25000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達25000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1111
-      }
+      [
+        1111
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2268,9 +2312,9 @@
     "requirement": 30000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達30000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1112
-      }
+      [
+        1112
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2281,9 +2325,9 @@
     "requirement": 40000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達40000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1113
-      }
+      [
+        1113
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2294,9 +2338,9 @@
     "requirement": 50000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達50000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1114
-      }
+      [
+        1114
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2307,9 +2351,9 @@
     "requirement": 60000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達60000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1115
-      }
+      [
+        1115
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2320,9 +2364,9 @@
     "requirement": 70000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達70000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1116
-      }
+      [
+        1116
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2333,9 +2377,9 @@
     "requirement": 120000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達120000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1233
-      }
+      [
+        1233
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2346,9 +2390,9 @@
     "requirement": 170000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達170000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1234
-      }
+      [
+        1234
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2359,9 +2403,9 @@
     "requirement": 220000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達220000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1235
-      }
+      [
+        1235
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2372,9 +2416,9 @@
     "requirement": 270000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達270000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1236
-      }
+      [
+        1236
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2385,9 +2429,9 @@
     "requirement": 320000,
     "sentence": "在25點，Nightcord見。成員演出的虛擬LIVE中\n累積達320000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1237
-      }
+      [
+        1237
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2398,9 +2442,9 @@
     "requirement": 120000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達120000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1238
-      }
+      [
+        1238
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2411,9 +2455,9 @@
     "requirement": 170000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達170000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1239
-      }
+      [
+        1239
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2424,9 +2468,9 @@
     "requirement": 220000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達220000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1240
-      }
+      [
+        1240
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2437,9 +2481,9 @@
     "requirement": 270000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達270000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1241
-      }
+      [
+        1241
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2450,9 +2494,9 @@
     "requirement": 320000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達320000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1242
-      }
+      [
+        1242
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2463,9 +2507,9 @@
     "requirement": 5000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達5000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1117
-      }
+      [
+        1117
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2476,9 +2520,9 @@
     "requirement": 10000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達10000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1118
-      }
+      [
+        1118
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2489,9 +2533,9 @@
     "requirement": 15000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達15000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1119
-      }
+      [
+        1119
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2502,9 +2546,9 @@
     "requirement": 20000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達20000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1120
-      }
+      [
+        1120
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2515,9 +2559,9 @@
     "requirement": 25000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達25000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1121
-      }
+      [
+        1121
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2528,9 +2572,9 @@
     "requirement": 30000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達30000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1122
-      }
+      [
+        1122
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2541,9 +2585,9 @@
     "requirement": 40000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達40000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1123
-      }
+      [
+        1123
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2554,9 +2598,9 @@
     "requirement": 50000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達50000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1124
-      }
+      [
+        1124
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2567,9 +2611,9 @@
     "requirement": 60000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達60000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1125
-      }
+      [
+        1125
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2580,9 +2624,9 @@
     "requirement": 70000,
     "sentence": "在虛擬歌手成員演出的虛擬LIVE中\n累積達70000應援點數吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1126
-      }
+      [
+        1126
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2593,9 +2637,9 @@
     "requirement": 1,
     "sentence": "送出1次好友申請吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1140
-      }
+      [
+        1140
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2606,9 +2650,9 @@
     "requirement": 100,
     "sentence": "結交100位好友吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1141
-      }
+      [
+        1141
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2619,9 +2663,9 @@
     "requirement": 1,
     "sentence": "與4位好友一起遊玩1次「多人LIVE」吧。",
     "rewards": [
-      {
-        "resourceBoxId": 1142
-      }
+      [
+        1142
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2632,9 +2676,9 @@
     "requirement": 5,
     "sentence": "在難易度EASY，達成5首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10001
-      }
+      [
+        10001
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2645,9 +2689,9 @@
     "requirement": 10,
     "sentence": "在難易度EASY，達成10首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10002
-      }
+      [
+        10002
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2658,9 +2702,9 @@
     "requirement": 20,
     "sentence": "在難易度EASY，達成20首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10003
-      }
+      [
+        10003
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2671,9 +2715,9 @@
     "requirement": 30,
     "sentence": "在難易度EASY，達成30首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10004
-      }
+      [
+        10004
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2684,9 +2728,9 @@
     "requirement": 40,
     "sentence": "在難易度EASY，達成40首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10005
-      }
+      [
+        10005
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2697,9 +2741,9 @@
     "requirement": 50,
     "sentence": "在難易度EASY，達成50首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10006
-      }
+      [
+        10006
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2710,9 +2754,9 @@
     "requirement": 60,
     "sentence": "在難易度EASY，達成60首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10007
-      }
+      [
+        10007
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2723,9 +2767,9 @@
     "requirement": 70,
     "sentence": "在難易度EASY，達成70首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10008
-      }
+      [
+        10008
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2736,9 +2780,9 @@
     "requirement": 80,
     "sentence": "在難易度EASY，達成80首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10009
-      }
+      [
+        10009
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2749,9 +2793,9 @@
     "requirement": 90,
     "sentence": "在難易度EASY，達成90首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10010
-      }
+      [
+        10010
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2762,9 +2806,9 @@
     "requirement": 100,
     "sentence": "在難易度EASY，達成100首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10011
-      }
+      [
+        10011
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2775,9 +2819,9 @@
     "requirement": 110,
     "sentence": "在難易度EASY，達成110首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10012
-      }
+      [
+        10012
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2788,9 +2832,9 @@
     "requirement": 120,
     "sentence": "在難易度EASY，達成120首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10013
-      }
+      [
+        10013
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2801,9 +2845,9 @@
     "requirement": 130,
     "sentence": "在難易度EASY，達成130首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10014
-      }
+      [
+        10014
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2814,9 +2858,9 @@
     "requirement": 140,
     "sentence": "在難易度EASY，達成140首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10015
-      }
+      [
+        10015
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2827,9 +2871,9 @@
     "requirement": 150,
     "sentence": "在難易度EASY，達成150首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10016
-      }
+      [
+        10016
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2840,9 +2884,9 @@
     "requirement": 160,
     "sentence": "在難易度EASY，達成160首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10017
-      }
+      [
+        10017
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2853,9 +2897,9 @@
     "requirement": 170,
     "sentence": "在難易度EASY，達成170首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10018
-      }
+      [
+        10018
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2866,9 +2910,9 @@
     "requirement": 180,
     "sentence": "在難易度EASY，達成180首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10019
-      }
+      [
+        10019
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2879,9 +2923,9 @@
     "requirement": 190,
     "sentence": "在難易度EASY，達成190首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10020
-      }
+      [
+        10020
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2892,9 +2936,9 @@
     "requirement": 200,
     "sentence": "在難易度EASY，達成200首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10021
-      }
+      [
+        10021
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2905,9 +2949,9 @@
     "requirement": 210,
     "sentence": "在難易度EASY，達成210首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10022
-      }
+      [
+        10022
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2918,9 +2962,9 @@
     "requirement": 220,
     "sentence": "在難易度EASY，達成220首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10023
-      }
+      [
+        10023
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2931,9 +2975,9 @@
     "requirement": 230,
     "sentence": "在難易度EASY，達成230首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10024
-      }
+      [
+        10024
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2944,9 +2988,9 @@
     "requirement": 240,
     "sentence": "在難易度EASY，達成240首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10025
-      }
+      [
+        10025
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2957,9 +3001,9 @@
     "requirement": 250,
     "sentence": "在難易度EASY，達成250首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10026
-      }
+      [
+        10026
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2970,9 +3014,9 @@
     "requirement": 260,
     "sentence": "在難易度EASY，達成260首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10027
-      }
+      [
+        10027
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2983,9 +3027,9 @@
     "requirement": 270,
     "sentence": "在難易度EASY，達成270首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10028
-      }
+      [
+        10028
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -2996,9 +3040,9 @@
     "requirement": 280,
     "sentence": "在難易度EASY，達成280首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10029
-      }
+      [
+        10029
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3009,9 +3053,9 @@
     "requirement": 290,
     "sentence": "在難易度EASY，達成290首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10030
-      }
+      [
+        10030
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3022,9 +3066,9 @@
     "requirement": 300,
     "sentence": "在難易度EASY，達成300首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10031
-      }
+      [
+        10031
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3035,9 +3079,9 @@
     "requirement": 310,
     "sentence": "在難易度EASY，達成310首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10032
-      }
+      [
+        10032
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3048,9 +3092,9 @@
     "requirement": 320,
     "sentence": "在難易度EASY，達成320首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10033
-      }
+      [
+        10033
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3061,9 +3105,9 @@
     "requirement": 330,
     "sentence": "在難易度EASY，達成330首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10034
-      }
+      [
+        10034
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3074,9 +3118,9 @@
     "requirement": 340,
     "sentence": "在難易度EASY，達成340首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10035
-      }
+      [
+        10035
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3087,9 +3131,9 @@
     "requirement": 350,
     "sentence": "在難易度EASY，達成350首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10036
-      }
+      [
+        10036
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3100,9 +3144,9 @@
     "requirement": 360,
     "sentence": "在難易度EASY，達成360首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10037
-      }
+      [
+        10037
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3113,9 +3157,9 @@
     "requirement": 370,
     "sentence": "在難易度EASY，達成370首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10038
-      }
+      [
+        10038
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3126,9 +3170,9 @@
     "requirement": 380,
     "sentence": "在難易度EASY，達成380首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10039
-      }
+      [
+        10039
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3139,9 +3183,9 @@
     "requirement": 390,
     "sentence": "在難易度EASY，達成390首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10040
-      }
+      [
+        10040
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3152,9 +3196,9 @@
     "requirement": 400,
     "sentence": "在難易度EASY，達成400首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10041
-      }
+      [
+        10041
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3165,9 +3209,9 @@
     "requirement": 410,
     "sentence": "在難易度EASY，達成410首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10042
-      }
+      [
+        10042
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3178,9 +3222,9 @@
     "requirement": 420,
     "sentence": "在難易度EASY，達成420首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10043
-      }
+      [
+        10043
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3191,9 +3235,9 @@
     "requirement": 430,
     "sentence": "在難易度EASY，達成430首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10044
-      }
+      [
+        10044
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3204,9 +3248,9 @@
     "requirement": 440,
     "sentence": "在難易度EASY，達成440首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10045
-      }
+      [
+        10045
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3217,9 +3261,9 @@
     "requirement": 450,
     "sentence": "在難易度EASY，達成450首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10046
-      }
+      [
+        10046
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3230,9 +3274,9 @@
     "requirement": 460,
     "sentence": "在難易度EASY，達成460首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10047
-      }
+      [
+        10047
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3243,9 +3287,9 @@
     "requirement": 470,
     "sentence": "在難易度EASY，達成470首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10048
-      }
+      [
+        10048
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3256,9 +3300,9 @@
     "requirement": 480,
     "sentence": "在難易度EASY，達成480首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10049
-      }
+      [
+        10049
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3269,9 +3313,9 @@
     "requirement": 490,
     "sentence": "在難易度EASY，達成490首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10050
-      }
+      [
+        10050
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3282,9 +3326,9 @@
     "requirement": 500,
     "sentence": "在難易度EASY，達成500首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10051
-      }
+      [
+        10051
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3295,9 +3339,9 @@
     "requirement": 510,
     "sentence": "在難易度EASY，達成510首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10052
-      }
+      [
+        10052
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3308,9 +3352,9 @@
     "requirement": 520,
     "sentence": "在難易度EASY，達成520首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10053
-      }
+      [
+        10053
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3321,9 +3365,9 @@
     "requirement": 530,
     "sentence": "在難易度EASY，達成530首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10054
-      }
+      [
+        10054
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3334,9 +3378,9 @@
     "requirement": 540,
     "sentence": "在難易度EASY，達成540首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10055
-      }
+      [
+        10055
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3347,9 +3391,9 @@
     "requirement": 550,
     "sentence": "在難易度EASY，達成550首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10056
-      }
+      [
+        10056
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3360,9 +3404,9 @@
     "requirement": 560,
     "sentence": "在難易度EASY，達成560首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10057
-      }
+      [
+        10057
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3373,9 +3417,9 @@
     "requirement": 570,
     "sentence": "在難易度EASY，達成570首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10058
-      }
+      [
+        10058
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3386,9 +3430,9 @@
     "requirement": 580,
     "sentence": "在難易度EASY，達成580首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10059
-      }
+      [
+        10059
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3399,9 +3443,9 @@
     "requirement": 590,
     "sentence": "在難易度EASY，達成590首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 10060
-      }
+      [
+        10060
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3412,9 +3456,9 @@
     "requirement": 5,
     "sentence": "在難易度NORMAL，達成5首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11001
-      }
+      [
+        11001
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3425,9 +3469,9 @@
     "requirement": 10,
     "sentence": "在難易度NORMAL，達成10首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11002
-      }
+      [
+        11002
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3438,9 +3482,9 @@
     "requirement": 20,
     "sentence": "在難易度NORMAL，達成20首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11003
-      }
+      [
+        11003
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3451,9 +3495,9 @@
     "requirement": 30,
     "sentence": "在難易度NORMAL，達成30首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11004
-      }
+      [
+        11004
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3464,9 +3508,9 @@
     "requirement": 40,
     "sentence": "在難易度NORMAL，達成40首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11005
-      }
+      [
+        11005
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3477,9 +3521,9 @@
     "requirement": 50,
     "sentence": "在難易度NORMAL，達成50首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11006
-      }
+      [
+        11006
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3490,9 +3534,9 @@
     "requirement": 60,
     "sentence": "在難易度NORMAL，達成60首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11007
-      }
+      [
+        11007
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3503,9 +3547,9 @@
     "requirement": 70,
     "sentence": "在難易度NORMAL，達成70首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11008
-      }
+      [
+        11008
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3516,9 +3560,9 @@
     "requirement": 80,
     "sentence": "在難易度NORMAL，達成80首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11009
-      }
+      [
+        11009
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3529,9 +3573,9 @@
     "requirement": 90,
     "sentence": "在難易度NORMAL，達成90首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11010
-      }
+      [
+        11010
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3542,9 +3586,9 @@
     "requirement": 100,
     "sentence": "在難易度NORMAL，達成100首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11011
-      }
+      [
+        11011
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3555,9 +3599,9 @@
     "requirement": 110,
     "sentence": "在難易度NORMAL，達成110首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11012
-      }
+      [
+        11012
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3568,9 +3612,9 @@
     "requirement": 120,
     "sentence": "在難易度NORMAL，達成120首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11013
-      }
+      [
+        11013
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3581,9 +3625,9 @@
     "requirement": 130,
     "sentence": "在難易度NORMAL，達成130首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11014
-      }
+      [
+        11014
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3594,9 +3638,9 @@
     "requirement": 140,
     "sentence": "在難易度NORMAL，達成140首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11015
-      }
+      [
+        11015
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3607,9 +3651,9 @@
     "requirement": 150,
     "sentence": "在難易度NORMAL，達成150首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11016
-      }
+      [
+        11016
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3620,9 +3664,9 @@
     "requirement": 160,
     "sentence": "在難易度NORMAL，達成160首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11017
-      }
+      [
+        11017
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3633,9 +3677,9 @@
     "requirement": 170,
     "sentence": "在難易度NORMAL，達成170首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11018
-      }
+      [
+        11018
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3646,9 +3690,9 @@
     "requirement": 180,
     "sentence": "在難易度NORMAL，達成180首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11019
-      }
+      [
+        11019
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3659,9 +3703,9 @@
     "requirement": 190,
     "sentence": "在難易度NORMAL，達成190首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11020
-      }
+      [
+        11020
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3672,9 +3716,9 @@
     "requirement": 200,
     "sentence": "在難易度NORMAL，達成200首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11021
-      }
+      [
+        11021
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3685,9 +3729,9 @@
     "requirement": 210,
     "sentence": "在難易度NORMAL，達成210首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11022
-      }
+      [
+        11022
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3698,9 +3742,9 @@
     "requirement": 220,
     "sentence": "在難易度NORMAL，達成220首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11023
-      }
+      [
+        11023
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3711,9 +3755,9 @@
     "requirement": 230,
     "sentence": "在難易度NORMAL，達成230首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11024
-      }
+      [
+        11024
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3724,9 +3768,9 @@
     "requirement": 240,
     "sentence": "在難易度NORMAL，達成240首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11025
-      }
+      [
+        11025
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3737,9 +3781,9 @@
     "requirement": 250,
     "sentence": "在難易度NORMAL，達成250首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11026
-      }
+      [
+        11026
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3750,9 +3794,9 @@
     "requirement": 260,
     "sentence": "在難易度NORMAL，達成260首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11027
-      }
+      [
+        11027
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3763,9 +3807,9 @@
     "requirement": 270,
     "sentence": "在難易度NORMAL，達成270首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11028
-      }
+      [
+        11028
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3776,9 +3820,9 @@
     "requirement": 280,
     "sentence": "在難易度NORMAL，達成280首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11029
-      }
+      [
+        11029
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3789,9 +3833,9 @@
     "requirement": 290,
     "sentence": "在難易度NORMAL，達成290首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11030
-      }
+      [
+        11030
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3802,9 +3846,9 @@
     "requirement": 300,
     "sentence": "在難易度NORMAL，達成300首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11031
-      }
+      [
+        11031
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3815,9 +3859,9 @@
     "requirement": 310,
     "sentence": "在難易度NORMAL，達成310首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11032
-      }
+      [
+        11032
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3828,9 +3872,9 @@
     "requirement": 320,
     "sentence": "在難易度NORMAL，達成320首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11033
-      }
+      [
+        11033
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3841,9 +3885,9 @@
     "requirement": 330,
     "sentence": "在難易度NORMAL，達成330首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11034
-      }
+      [
+        11034
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3854,9 +3898,9 @@
     "requirement": 340,
     "sentence": "在難易度NORMAL，達成340首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11035
-      }
+      [
+        11035
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3867,9 +3911,9 @@
     "requirement": 350,
     "sentence": "在難易度NORMAL，達成350首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11036
-      }
+      [
+        11036
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3880,9 +3924,9 @@
     "requirement": 360,
     "sentence": "在難易度NORMAL，達成360首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11037
-      }
+      [
+        11037
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3893,9 +3937,9 @@
     "requirement": 370,
     "sentence": "在難易度NORMAL，達成370首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11038
-      }
+      [
+        11038
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3906,9 +3950,9 @@
     "requirement": 380,
     "sentence": "在難易度NORMAL，達成380首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11039
-      }
+      [
+        11039
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3919,9 +3963,9 @@
     "requirement": 390,
     "sentence": "在難易度NORMAL，達成390首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11040
-      }
+      [
+        11040
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3932,9 +3976,9 @@
     "requirement": 400,
     "sentence": "在難易度NORMAL，達成400首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11041
-      }
+      [
+        11041
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3945,9 +3989,9 @@
     "requirement": 410,
     "sentence": "在難易度NORMAL，達成410首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11042
-      }
+      [
+        11042
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3958,9 +4002,9 @@
     "requirement": 420,
     "sentence": "在難易度NORMAL，達成420首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11043
-      }
+      [
+        11043
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3971,9 +4015,9 @@
     "requirement": 430,
     "sentence": "在難易度NORMAL，達成430首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11044
-      }
+      [
+        11044
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3984,9 +4028,9 @@
     "requirement": 440,
     "sentence": "在難易度NORMAL，達成440首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11045
-      }
+      [
+        11045
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -3997,9 +4041,9 @@
     "requirement": 450,
     "sentence": "在難易度NORMAL，達成450首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11046
-      }
+      [
+        11046
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4010,9 +4054,9 @@
     "requirement": 460,
     "sentence": "在難易度NORMAL，達成460首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11047
-      }
+      [
+        11047
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4023,9 +4067,9 @@
     "requirement": 470,
     "sentence": "在難易度NORMAL，達成470首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11048
-      }
+      [
+        11048
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4036,9 +4080,9 @@
     "requirement": 480,
     "sentence": "在難易度NORMAL，達成480首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11049
-      }
+      [
+        11049
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4049,9 +4093,9 @@
     "requirement": 490,
     "sentence": "在難易度NORMAL，達成490首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11050
-      }
+      [
+        11050
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4062,9 +4106,9 @@
     "requirement": 500,
     "sentence": "在難易度NORMAL，達成500首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11051
-      }
+      [
+        11051
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4075,9 +4119,9 @@
     "requirement": 510,
     "sentence": "在難易度NORMAL，達成510首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11052
-      }
+      [
+        11052
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4088,9 +4132,9 @@
     "requirement": 520,
     "sentence": "在難易度NORMAL，達成520首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11053
-      }
+      [
+        11053
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4101,9 +4145,9 @@
     "requirement": 530,
     "sentence": "在難易度NORMAL，達成530首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11054
-      }
+      [
+        11054
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4114,9 +4158,9 @@
     "requirement": 540,
     "sentence": "在難易度NORMAL，達成540首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11055
-      }
+      [
+        11055
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4127,9 +4171,9 @@
     "requirement": 550,
     "sentence": "在難易度NORMAL，達成550首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11056
-      }
+      [
+        11056
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4140,9 +4184,9 @@
     "requirement": 560,
     "sentence": "在難易度NORMAL，達成560首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11057
-      }
+      [
+        11057
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4153,9 +4197,9 @@
     "requirement": 570,
     "sentence": "在難易度NORMAL，達成570首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11058
-      }
+      [
+        11058
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4166,9 +4210,9 @@
     "requirement": 580,
     "sentence": "在難易度NORMAL，達成580首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11059
-      }
+      [
+        11059
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4179,9 +4223,9 @@
     "requirement": 590,
     "sentence": "在難易度NORMAL，達成590首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 11060
-      }
+      [
+        11060
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4192,9 +4236,9 @@
     "requirement": 5,
     "sentence": "在難易度HARD，達成5首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12001
-      }
+      [
+        12001
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4205,9 +4249,9 @@
     "requirement": 10,
     "sentence": "在難易度HARD，達成10首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12002
-      }
+      [
+        12002
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4218,9 +4262,9 @@
     "requirement": 20,
     "sentence": "在難易度HARD，達成20首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12003
-      }
+      [
+        12003
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4231,9 +4275,9 @@
     "requirement": 30,
     "sentence": "在難易度HARD，達成30首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12004
-      }
+      [
+        12004
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4244,9 +4288,9 @@
     "requirement": 40,
     "sentence": "在難易度HARD，達成40首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12005
-      }
+      [
+        12005
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4257,9 +4301,9 @@
     "requirement": 50,
     "sentence": "在難易度HARD，達成50首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12006
-      }
+      [
+        12006
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4270,9 +4314,9 @@
     "requirement": 60,
     "sentence": "在難易度HARD，達成60首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12007
-      }
+      [
+        12007
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4283,9 +4327,9 @@
     "requirement": 70,
     "sentence": "在難易度HARD，達成70首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12008
-      }
+      [
+        12008
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4296,9 +4340,9 @@
     "requirement": 80,
     "sentence": "在難易度HARD，達成80首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12009
-      }
+      [
+        12009
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4309,9 +4353,9 @@
     "requirement": 90,
     "sentence": "在難易度HARD，達成90首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12010
-      }
+      [
+        12010
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4322,9 +4366,9 @@
     "requirement": 100,
     "sentence": "在難易度HARD，達成100首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12011
-      }
+      [
+        12011
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4335,9 +4379,9 @@
     "requirement": 110,
     "sentence": "在難易度HARD，達成110首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12012
-      }
+      [
+        12012
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4348,9 +4392,9 @@
     "requirement": 120,
     "sentence": "在難易度HARD，達成120首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12013
-      }
+      [
+        12013
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4361,9 +4405,9 @@
     "requirement": 130,
     "sentence": "在難易度HARD，達成130首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12014
-      }
+      [
+        12014
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4374,9 +4418,9 @@
     "requirement": 140,
     "sentence": "在難易度HARD，達成140首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12015
-      }
+      [
+        12015
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4387,9 +4431,9 @@
     "requirement": 150,
     "sentence": "在難易度HARD，達成150首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12016
-      }
+      [
+        12016
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4400,9 +4444,9 @@
     "requirement": 160,
     "sentence": "在難易度HARD，達成160首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12017
-      }
+      [
+        12017
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4413,9 +4457,9 @@
     "requirement": 170,
     "sentence": "在難易度HARD，達成170首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12018
-      }
+      [
+        12018
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4426,9 +4470,9 @@
     "requirement": 180,
     "sentence": "在難易度HARD，達成180首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12019
-      }
+      [
+        12019
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4439,9 +4483,9 @@
     "requirement": 190,
     "sentence": "在難易度HARD，達成190首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12020
-      }
+      [
+        12020
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4452,9 +4496,9 @@
     "requirement": 200,
     "sentence": "在難易度HARD，達成200首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12021
-      }
+      [
+        12021
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4465,9 +4509,9 @@
     "requirement": 210,
     "sentence": "在難易度HARD，達成210首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12022
-      }
+      [
+        12022
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4478,9 +4522,9 @@
     "requirement": 220,
     "sentence": "在難易度HARD，達成220首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12023
-      }
+      [
+        12023
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4491,9 +4535,9 @@
     "requirement": 230,
     "sentence": "在難易度HARD，達成230首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12024
-      }
+      [
+        12024
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4504,9 +4548,9 @@
     "requirement": 240,
     "sentence": "在難易度HARD，達成240首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12025
-      }
+      [
+        12025
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4517,9 +4561,9 @@
     "requirement": 250,
     "sentence": "在難易度HARD，達成250首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12026
-      }
+      [
+        12026
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4530,9 +4574,9 @@
     "requirement": 260,
     "sentence": "在難易度HARD，達成260首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12027
-      }
+      [
+        12027
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4543,9 +4587,9 @@
     "requirement": 270,
     "sentence": "在難易度HARD，達成270首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12028
-      }
+      [
+        12028
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4556,9 +4600,9 @@
     "requirement": 280,
     "sentence": "在難易度HARD，達成280首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12029
-      }
+      [
+        12029
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4569,9 +4613,9 @@
     "requirement": 290,
     "sentence": "在難易度HARD，達成290首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12030
-      }
+      [
+        12030
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4582,9 +4626,9 @@
     "requirement": 300,
     "sentence": "在難易度HARD，達成300首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12031
-      }
+      [
+        12031
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4595,9 +4639,9 @@
     "requirement": 310,
     "sentence": "在難易度HARD，達成310首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12032
-      }
+      [
+        12032
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4608,9 +4652,9 @@
     "requirement": 320,
     "sentence": "在難易度HARD，達成320首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12033
-      }
+      [
+        12033
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4621,9 +4665,9 @@
     "requirement": 330,
     "sentence": "在難易度HARD，達成330首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12034
-      }
+      [
+        12034
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4634,9 +4678,9 @@
     "requirement": 340,
     "sentence": "在難易度HARD，達成340首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12035
-      }
+      [
+        12035
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4647,9 +4691,9 @@
     "requirement": 350,
     "sentence": "在難易度HARD，達成350首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12036
-      }
+      [
+        12036
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4660,9 +4704,9 @@
     "requirement": 360,
     "sentence": "在難易度HARD，達成360首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12037
-      }
+      [
+        12037
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4673,9 +4717,9 @@
     "requirement": 370,
     "sentence": "在難易度HARD，達成370首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12038
-      }
+      [
+        12038
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4686,9 +4730,9 @@
     "requirement": 380,
     "sentence": "在難易度HARD，達成380首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12039
-      }
+      [
+        12039
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4699,9 +4743,9 @@
     "requirement": 390,
     "sentence": "在難易度HARD，達成390首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12040
-      }
+      [
+        12040
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4712,9 +4756,9 @@
     "requirement": 400,
     "sentence": "在難易度HARD，達成400首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12041
-      }
+      [
+        12041
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4725,9 +4769,9 @@
     "requirement": 410,
     "sentence": "在難易度HARD，達成410首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12042
-      }
+      [
+        12042
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4738,9 +4782,9 @@
     "requirement": 420,
     "sentence": "在難易度HARD，達成420首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12043
-      }
+      [
+        12043
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4751,9 +4795,9 @@
     "requirement": 430,
     "sentence": "在難易度HARD，達成430首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12044
-      }
+      [
+        12044
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4764,9 +4808,9 @@
     "requirement": 440,
     "sentence": "在難易度HARD，達成440首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12045
-      }
+      [
+        12045
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4777,9 +4821,9 @@
     "requirement": 450,
     "sentence": "在難易度HARD，達成450首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12046
-      }
+      [
+        12046
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4790,9 +4834,9 @@
     "requirement": 460,
     "sentence": "在難易度HARD，達成460首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12047
-      }
+      [
+        12047
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4803,9 +4847,9 @@
     "requirement": 470,
     "sentence": "在難易度HARD，達成470首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12048
-      }
+      [
+        12048
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4816,9 +4860,9 @@
     "requirement": 480,
     "sentence": "在難易度HARD，達成480首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12049
-      }
+      [
+        12049
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4829,9 +4873,9 @@
     "requirement": 490,
     "sentence": "在難易度HARD，達成490首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12050
-      }
+      [
+        12050
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4842,9 +4886,9 @@
     "requirement": 500,
     "sentence": "在難易度HARD，達成500首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12051
-      }
+      [
+        12051
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4855,9 +4899,9 @@
     "requirement": 510,
     "sentence": "在難易度HARD，達成510首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12052
-      }
+      [
+        12052
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4868,9 +4912,9 @@
     "requirement": 520,
     "sentence": "在難易度HARD，達成520首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12053
-      }
+      [
+        12053
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4881,9 +4925,9 @@
     "requirement": 530,
     "sentence": "在難易度HARD，達成530首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12054
-      }
+      [
+        12054
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4894,9 +4938,9 @@
     "requirement": 540,
     "sentence": "在難易度HARD，達成540首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12055
-      }
+      [
+        12055
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4907,9 +4951,9 @@
     "requirement": 550,
     "sentence": "在難易度HARD，達成550首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12056
-      }
+      [
+        12056
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4920,9 +4964,9 @@
     "requirement": 560,
     "sentence": "在難易度HARD，達成560首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12057
-      }
+      [
+        12057
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4933,9 +4977,9 @@
     "requirement": 570,
     "sentence": "在難易度HARD，達成570首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12058
-      }
+      [
+        12058
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4946,9 +4990,9 @@
     "requirement": 580,
     "sentence": "在難易度HARD，達成580首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12059
-      }
+      [
+        12059
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4959,9 +5003,9 @@
     "requirement": 590,
     "sentence": "在難易度HARD，達成590首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 12060
-      }
+      [
+        12060
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4972,9 +5016,9 @@
     "requirement": 5,
     "sentence": "在難易度EXPERT，達成5首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13001
-      }
+      [
+        13001
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4985,9 +5029,9 @@
     "requirement": 10,
     "sentence": "在難易度EXPERT，達成10首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13002
-      }
+      [
+        13002
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -4998,9 +5042,9 @@
     "requirement": 20,
     "sentence": "在難易度EXPERT，達成20首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13003
-      }
+      [
+        13003
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5011,9 +5055,9 @@
     "requirement": 30,
     "sentence": "在難易度EXPERT，達成30首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13004
-      }
+      [
+        13004
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5024,9 +5068,9 @@
     "requirement": 40,
     "sentence": "在難易度EXPERT，達成40首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13005
-      }
+      [
+        13005
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5037,9 +5081,9 @@
     "requirement": 50,
     "sentence": "在難易度EXPERT，達成50首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13006
-      }
+      [
+        13006
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5050,9 +5094,9 @@
     "requirement": 60,
     "sentence": "在難易度EXPERT，達成60首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13007
-      }
+      [
+        13007
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5063,9 +5107,9 @@
     "requirement": 70,
     "sentence": "在難易度EXPERT，達成70首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13008
-      }
+      [
+        13008
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5076,9 +5120,9 @@
     "requirement": 80,
     "sentence": "在難易度EXPERT，達成80首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13009
-      }
+      [
+        13009
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5089,9 +5133,9 @@
     "requirement": 90,
     "sentence": "在難易度EXPERT，達成90首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13010
-      }
+      [
+        13010
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5102,9 +5146,9 @@
     "requirement": 100,
     "sentence": "在難易度EXPERT，達成100首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13011
-      }
+      [
+        13011
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5115,9 +5159,9 @@
     "requirement": 110,
     "sentence": "在難易度EXPERT，達成110首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13012
-      }
+      [
+        13012
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5128,9 +5172,9 @@
     "requirement": 120,
     "sentence": "在難易度EXPERT，達成120首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13013
-      }
+      [
+        13013
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5141,9 +5185,9 @@
     "requirement": 130,
     "sentence": "在難易度EXPERT，達成130首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13014
-      }
+      [
+        13014
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5154,9 +5198,9 @@
     "requirement": 140,
     "sentence": "在難易度EXPERT，達成140首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13015
-      }
+      [
+        13015
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5167,9 +5211,9 @@
     "requirement": 150,
     "sentence": "在難易度EXPERT，達成150首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13016
-      }
+      [
+        13016
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5180,9 +5224,9 @@
     "requirement": 160,
     "sentence": "在難易度EXPERT，達成160首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13017
-      }
+      [
+        13017
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5193,9 +5237,9 @@
     "requirement": 170,
     "sentence": "在難易度EXPERT，達成170首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13018
-      }
+      [
+        13018
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5206,9 +5250,9 @@
     "requirement": 180,
     "sentence": "在難易度EXPERT，達成180首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13019
-      }
+      [
+        13019
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5219,9 +5263,9 @@
     "requirement": 190,
     "sentence": "在難易度EXPERT，達成190首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13020
-      }
+      [
+        13020
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5232,9 +5276,9 @@
     "requirement": 200,
     "sentence": "在難易度EXPERT，達成200首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13021
-      }
+      [
+        13021
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5245,9 +5289,9 @@
     "requirement": 210,
     "sentence": "在難易度EXPERT，達成210首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13022
-      }
+      [
+        13022
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5258,9 +5302,9 @@
     "requirement": 220,
     "sentence": "在難易度EXPERT，達成220首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13023
-      }
+      [
+        13023
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5271,9 +5315,9 @@
     "requirement": 230,
     "sentence": "在難易度EXPERT，達成230首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13024
-      }
+      [
+        13024
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5284,9 +5328,9 @@
     "requirement": 240,
     "sentence": "在難易度EXPERT，達成240首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13025
-      }
+      [
+        13025
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5297,9 +5341,9 @@
     "requirement": 250,
     "sentence": "在難易度EXPERT，達成250首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13026
-      }
+      [
+        13026
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5310,9 +5354,9 @@
     "requirement": 260,
     "sentence": "在難易度EXPERT，達成260首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13027
-      }
+      [
+        13027
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5323,9 +5367,9 @@
     "requirement": 270,
     "sentence": "在難易度EXPERT，達成270首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13028
-      }
+      [
+        13028
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5336,9 +5380,9 @@
     "requirement": 280,
     "sentence": "在難易度EXPERT，達成280首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13029
-      }
+      [
+        13029
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5349,9 +5393,9 @@
     "requirement": 290,
     "sentence": "在難易度EXPERT，達成290首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13030
-      }
+      [
+        13030
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5362,9 +5406,9 @@
     "requirement": 300,
     "sentence": "在難易度EXPERT，達成300首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13031
-      }
+      [
+        13031
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5375,9 +5419,9 @@
     "requirement": 310,
     "sentence": "在難易度EXPERT，達成310首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13032
-      }
+      [
+        13032
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5388,9 +5432,9 @@
     "requirement": 320,
     "sentence": "在難易度EXPERT，達成320首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13033
-      }
+      [
+        13033
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5401,9 +5445,9 @@
     "requirement": 330,
     "sentence": "在難易度EXPERT，達成330首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13034
-      }
+      [
+        13034
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5414,9 +5458,9 @@
     "requirement": 340,
     "sentence": "在難易度EXPERT，達成340首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13035
-      }
+      [
+        13035
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5427,9 +5471,9 @@
     "requirement": 350,
     "sentence": "在難易度EXPERT，達成350首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13036
-      }
+      [
+        13036
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5440,9 +5484,9 @@
     "requirement": 360,
     "sentence": "在難易度EXPERT，達成360首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13037
-      }
+      [
+        13037
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5453,9 +5497,9 @@
     "requirement": 370,
     "sentence": "在難易度EXPERT，達成370首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13038
-      }
+      [
+        13038
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5466,9 +5510,9 @@
     "requirement": 380,
     "sentence": "在難易度EXPERT，達成380首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13039
-      }
+      [
+        13039
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5479,9 +5523,9 @@
     "requirement": 390,
     "sentence": "在難易度EXPERT，達成390首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13040
-      }
+      [
+        13040
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5492,9 +5536,9 @@
     "requirement": 400,
     "sentence": "在難易度EXPERT，達成400首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13041
-      }
+      [
+        13041
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5505,9 +5549,9 @@
     "requirement": 410,
     "sentence": "在難易度EXPERT，達成410首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13042
-      }
+      [
+        13042
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5518,9 +5562,9 @@
     "requirement": 420,
     "sentence": "在難易度EXPERT，達成420首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13043
-      }
+      [
+        13043
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5531,9 +5575,9 @@
     "requirement": 430,
     "sentence": "在難易度EXPERT，達成430首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13044
-      }
+      [
+        13044
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5544,9 +5588,9 @@
     "requirement": 440,
     "sentence": "在難易度EXPERT，達成440首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13045
-      }
+      [
+        13045
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5557,9 +5601,9 @@
     "requirement": 450,
     "sentence": "在難易度EXPERT，達成450首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13046
-      }
+      [
+        13046
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5570,9 +5614,9 @@
     "requirement": 460,
     "sentence": "在難易度EXPERT，達成460首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13047
-      }
+      [
+        13047
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5583,9 +5627,9 @@
     "requirement": 470,
     "sentence": "在難易度EXPERT，達成470首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13048
-      }
+      [
+        13048
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5596,9 +5640,9 @@
     "requirement": 480,
     "sentence": "在難易度EXPERT，達成480首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13049
-      }
+      [
+        13049
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5609,9 +5653,9 @@
     "requirement": 490,
     "sentence": "在難易度EXPERT，達成490首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13050
-      }
+      [
+        13050
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5622,9 +5666,9 @@
     "requirement": 500,
     "sentence": "在難易度EXPERT，達成500首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13051
-      }
+      [
+        13051
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5635,9 +5679,9 @@
     "requirement": 510,
     "sentence": "在難易度EXPERT，達成510首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13052
-      }
+      [
+        13052
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5648,9 +5692,9 @@
     "requirement": 520,
     "sentence": "在難易度EXPERT，達成520首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13053
-      }
+      [
+        13053
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5661,9 +5705,9 @@
     "requirement": 530,
     "sentence": "在難易度EXPERT，達成530首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13054
-      }
+      [
+        13054
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5674,9 +5718,9 @@
     "requirement": 540,
     "sentence": "在難易度EXPERT，達成540首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13055
-      }
+      [
+        13055
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5687,9 +5731,9 @@
     "requirement": 550,
     "sentence": "在難易度EXPERT，達成550首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13056
-      }
+      [
+        13056
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5700,9 +5744,9 @@
     "requirement": 560,
     "sentence": "在難易度EXPERT，達成560首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13057
-      }
+      [
+        13057
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5713,9 +5757,9 @@
     "requirement": 570,
     "sentence": "在難易度EXPERT，達成570首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13058
-      }
+      [
+        13058
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5726,9 +5770,9 @@
     "requirement": 580,
     "sentence": "在難易度EXPERT，達成580首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13059
-      }
+      [
+        13059
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5739,9 +5783,9 @@
     "requirement": 590,
     "sentence": "在難易度EXPERT，達成590首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 13060
-      }
+      [
+        13060
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5752,9 +5796,9 @@
     "requirement": 5,
     "sentence": "在難易度MASTER，達成5首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14001
-      }
+      [
+        14001
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5765,9 +5809,9 @@
     "requirement": 10,
     "sentence": "在難易度MASTER，達成10首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14002
-      }
+      [
+        14002
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5778,9 +5822,9 @@
     "requirement": 20,
     "sentence": "在難易度MASTER，達成20首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14003
-      }
+      [
+        14003
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5791,9 +5835,9 @@
     "requirement": 30,
     "sentence": "在難易度MASTER，達成30首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14004
-      }
+      [
+        14004
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5804,9 +5848,9 @@
     "requirement": 40,
     "sentence": "在難易度MASTER，達成40首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14005
-      }
+      [
+        14005
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5817,9 +5861,9 @@
     "requirement": 50,
     "sentence": "在難易度MASTER，達成50首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14006
-      }
+      [
+        14006
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5830,9 +5874,9 @@
     "requirement": 60,
     "sentence": "在難易度MASTER，達成60首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14007
-      }
+      [
+        14007
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5843,9 +5887,9 @@
     "requirement": 70,
     "sentence": "在難易度MASTER，達成70首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14008
-      }
+      [
+        14008
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5856,9 +5900,9 @@
     "requirement": 80,
     "sentence": "在難易度MASTER，達成80首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14009
-      }
+      [
+        14009
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5869,9 +5913,9 @@
     "requirement": 90,
     "sentence": "在難易度MASTER，達成90首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14010
-      }
+      [
+        14010
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5882,9 +5926,9 @@
     "requirement": 100,
     "sentence": "在難易度MASTER，達成100首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14011
-      }
+      [
+        14011
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5895,9 +5939,9 @@
     "requirement": 110,
     "sentence": "在難易度MASTER，達成110首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14012
-      }
+      [
+        14012
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5908,9 +5952,9 @@
     "requirement": 120,
     "sentence": "在難易度MASTER，達成120首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14013
-      }
+      [
+        14013
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5921,9 +5965,9 @@
     "requirement": 130,
     "sentence": "在難易度MASTER，達成130首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14014
-      }
+      [
+        14014
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5934,9 +5978,9 @@
     "requirement": 140,
     "sentence": "在難易度MASTER，達成140首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14015
-      }
+      [
+        14015
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5947,9 +5991,9 @@
     "requirement": 150,
     "sentence": "在難易度MASTER，達成150首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14016
-      }
+      [
+        14016
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5960,9 +6004,9 @@
     "requirement": 160,
     "sentence": "在難易度MASTER，達成160首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14017
-      }
+      [
+        14017
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5973,9 +6017,9 @@
     "requirement": 170,
     "sentence": "在難易度MASTER，達成170首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14018
-      }
+      [
+        14018
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5986,9 +6030,9 @@
     "requirement": 180,
     "sentence": "在難易度MASTER，達成180首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14019
-      }
+      [
+        14019
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -5999,9 +6043,9 @@
     "requirement": 190,
     "sentence": "在難易度MASTER，達成190首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14020
-      }
+      [
+        14020
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6012,9 +6056,9 @@
     "requirement": 200,
     "sentence": "在難易度MASTER，達成200首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14021
-      }
+      [
+        14021
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6025,9 +6069,9 @@
     "requirement": 210,
     "sentence": "在難易度MASTER，達成210首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14022
-      }
+      [
+        14022
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6038,9 +6082,9 @@
     "requirement": 220,
     "sentence": "在難易度MASTER，達成220首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14023
-      }
+      [
+        14023
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6051,9 +6095,9 @@
     "requirement": 230,
     "sentence": "在難易度MASTER，達成230首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14024
-      }
+      [
+        14024
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6064,9 +6108,9 @@
     "requirement": 240,
     "sentence": "在難易度MASTER，達成240首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14025
-      }
+      [
+        14025
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6077,9 +6121,9 @@
     "requirement": 250,
     "sentence": "在難易度MASTER，達成250首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14026
-      }
+      [
+        14026
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6090,9 +6134,9 @@
     "requirement": 260,
     "sentence": "在難易度MASTER，達成260首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14027
-      }
+      [
+        14027
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6103,9 +6147,9 @@
     "requirement": 270,
     "sentence": "在難易度MASTER，達成270首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14028
-      }
+      [
+        14028
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6116,9 +6160,9 @@
     "requirement": 280,
     "sentence": "在難易度MASTER，達成280首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14029
-      }
+      [
+        14029
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6129,9 +6173,9 @@
     "requirement": 290,
     "sentence": "在難易度MASTER，達成290首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14030
-      }
+      [
+        14030
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6142,9 +6186,9 @@
     "requirement": 300,
     "sentence": "在難易度MASTER，達成300首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14031
-      }
+      [
+        14031
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6155,9 +6199,9 @@
     "requirement": 310,
     "sentence": "在難易度MASTER，達成310首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14032
-      }
+      [
+        14032
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6168,9 +6212,9 @@
     "requirement": 320,
     "sentence": "在難易度MASTER，達成320首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14033
-      }
+      [
+        14033
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6181,9 +6225,9 @@
     "requirement": 330,
     "sentence": "在難易度MASTER，達成330首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14034
-      }
+      [
+        14034
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6194,9 +6238,9 @@
     "requirement": 340,
     "sentence": "在難易度MASTER，達成340首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14035
-      }
+      [
+        14035
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6207,9 +6251,9 @@
     "requirement": 350,
     "sentence": "在難易度MASTER，達成350首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14036
-      }
+      [
+        14036
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6220,9 +6264,9 @@
     "requirement": 360,
     "sentence": "在難易度MASTER，達成360首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14037
-      }
+      [
+        14037
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6233,9 +6277,9 @@
     "requirement": 370,
     "sentence": "在難易度MASTER，達成370首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14038
-      }
+      [
+        14038
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6246,9 +6290,9 @@
     "requirement": 380,
     "sentence": "在難易度MASTER，達成380首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14039
-      }
+      [
+        14039
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6259,9 +6303,9 @@
     "requirement": 390,
     "sentence": "在難易度MASTER，達成390首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14040
-      }
+      [
+        14040
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6272,9 +6316,9 @@
     "requirement": 400,
     "sentence": "在難易度MASTER，達成400首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14041
-      }
+      [
+        14041
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6285,9 +6329,9 @@
     "requirement": 410,
     "sentence": "在難易度MASTER，達成410首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14042
-      }
+      [
+        14042
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6298,9 +6342,9 @@
     "requirement": 420,
     "sentence": "在難易度MASTER，達成420首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14043
-      }
+      [
+        14043
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6311,9 +6355,9 @@
     "requirement": 430,
     "sentence": "在難易度MASTER，達成430首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14044
-      }
+      [
+        14044
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6324,9 +6368,9 @@
     "requirement": 440,
     "sentence": "在難易度MASTER，達成440首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14045
-      }
+      [
+        14045
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6337,9 +6381,9 @@
     "requirement": 450,
     "sentence": "在難易度MASTER，達成450首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14046
-      }
+      [
+        14046
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6350,9 +6394,9 @@
     "requirement": 460,
     "sentence": "在難易度MASTER，達成460首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14047
-      }
+      [
+        14047
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6363,9 +6407,9 @@
     "requirement": 470,
     "sentence": "在難易度MASTER，達成470首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14048
-      }
+      [
+        14048
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6376,9 +6420,9 @@
     "requirement": 480,
     "sentence": "在難易度MASTER，達成480首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14049
-      }
+      [
+        14049
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6389,9 +6433,9 @@
     "requirement": 490,
     "sentence": "在難易度MASTER，達成490首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14050
-      }
+      [
+        14050
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6402,9 +6446,9 @@
     "requirement": 500,
     "sentence": "在難易度MASTER，達成500首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14051
-      }
+      [
+        14051
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6415,9 +6459,9 @@
     "requirement": 510,
     "sentence": "在難易度MASTER，達成510首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14052
-      }
+      [
+        14052
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6428,9 +6472,9 @@
     "requirement": 520,
     "sentence": "在難易度MASTER，達成520首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14053
-      }
+      [
+        14053
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6441,9 +6485,9 @@
     "requirement": 530,
     "sentence": "在難易度MASTER，達成530首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14054
-      }
+      [
+        14054
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6454,9 +6498,9 @@
     "requirement": 540,
     "sentence": "在難易度MASTER，達成540首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14055
-      }
+      [
+        14055
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6467,9 +6511,9 @@
     "requirement": 550,
     "sentence": "在難易度MASTER，達成550首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14056
-      }
+      [
+        14056
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6480,9 +6524,9 @@
     "requirement": 560,
     "sentence": "在難易度MASTER，達成560首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14057
-      }
+      [
+        14057
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6493,9 +6537,9 @@
     "requirement": 570,
     "sentence": "在難易度MASTER，達成570首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14058
-      }
+      [
+        14058
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6506,9 +6550,9 @@
     "requirement": 580,
     "sentence": "在難易度MASTER，達成580首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14059
-      }
+      [
+        14059
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6519,9 +6563,9 @@
     "requirement": 590,
     "sentence": "在難易度MASTER，達成590首歌曲的FULL COMBO吧。",
     "rewards": [
-      {
-        "resourceBoxId": 14060
-      }
+      [
+        14060
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6532,9 +6576,9 @@
     "requirement": 5,
     "sentence": "在難易度MASTER，達成5首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15001
-      }
+      [
+        15001
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6545,9 +6589,9 @@
     "requirement": 10,
     "sentence": "在難易度MASTER，達成10首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15002
-      }
+      [
+        15002
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6558,9 +6602,9 @@
     "requirement": 20,
     "sentence": "在難易度MASTER，達成20首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15003
-      }
+      [
+        15003
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6571,9 +6615,9 @@
     "requirement": 30,
     "sentence": "在難易度MASTER，達成30首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15004
-      }
+      [
+        15004
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6584,9 +6628,9 @@
     "requirement": 40,
     "sentence": "在難易度MASTER，達成40首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15005
-      }
+      [
+        15005
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6597,9 +6641,9 @@
     "requirement": 50,
     "sentence": "在難易度MASTER，達成50首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15006
-      }
+      [
+        15006
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6610,9 +6654,9 @@
     "requirement": 60,
     "sentence": "在難易度MASTER，達成60首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15007
-      }
+      [
+        15007
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6623,9 +6667,9 @@
     "requirement": 70,
     "sentence": "在難易度MASTER，達成70首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15008
-      }
+      [
+        15008
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6636,9 +6680,9 @@
     "requirement": 80,
     "sentence": "在難易度MASTER，達成80首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15009
-      }
+      [
+        15009
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6649,9 +6693,9 @@
     "requirement": 90,
     "sentence": "在難易度MASTER，達成90首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15010
-      }
+      [
+        15010
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6662,9 +6706,9 @@
     "requirement": 100,
     "sentence": "在難易度MASTER，達成100首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15011
-      }
+      [
+        15011
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6675,9 +6719,9 @@
     "requirement": 110,
     "sentence": "在難易度MASTER，達成110首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15012
-      }
+      [
+        15012
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6688,9 +6732,9 @@
     "requirement": 120,
     "sentence": "在難易度MASTER，達成120首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15013
-      }
+      [
+        15013
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6701,9 +6745,9 @@
     "requirement": 130,
     "sentence": "在難易度MASTER，達成130首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15014
-      }
+      [
+        15014
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6714,9 +6758,9 @@
     "requirement": 140,
     "sentence": "在難易度MASTER，達成140首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15015
-      }
+      [
+        15015
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6727,9 +6771,9 @@
     "requirement": 150,
     "sentence": "在難易度MASTER，達成150首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15016
-      }
+      [
+        15016
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6740,9 +6784,9 @@
     "requirement": 160,
     "sentence": "在難易度MASTER，達成160首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15017
-      }
+      [
+        15017
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6753,9 +6797,9 @@
     "requirement": 170,
     "sentence": "在難易度MASTER，達成170首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15018
-      }
+      [
+        15018
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6766,9 +6810,9 @@
     "requirement": 180,
     "sentence": "在難易度MASTER，達成180首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15019
-      }
+      [
+        15019
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6779,9 +6823,9 @@
     "requirement": 190,
     "sentence": "在難易度MASTER，達成190首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15020
-      }
+      [
+        15020
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6792,9 +6836,9 @@
     "requirement": 200,
     "sentence": "在難易度MASTER，達成200首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15021
-      }
+      [
+        15021
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6805,9 +6849,9 @@
     "requirement": 210,
     "sentence": "在難易度MASTER，達成210首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15022
-      }
+      [
+        15022
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6818,9 +6862,9 @@
     "requirement": 220,
     "sentence": "在難易度MASTER，達成220首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15023
-      }
+      [
+        15023
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6831,9 +6875,9 @@
     "requirement": 230,
     "sentence": "在難易度MASTER，達成230首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15024
-      }
+      [
+        15024
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6844,9 +6888,9 @@
     "requirement": 240,
     "sentence": "在難易度MASTER，達成240首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15025
-      }
+      [
+        15025
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6857,9 +6901,9 @@
     "requirement": 250,
     "sentence": "在難易度MASTER，達成250首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15026
-      }
+      [
+        15026
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6870,9 +6914,9 @@
     "requirement": 260,
     "sentence": "在難易度MASTER，達成260首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15027
-      }
+      [
+        15027
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6883,9 +6927,9 @@
     "requirement": 270,
     "sentence": "在難易度MASTER，達成270首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15028
-      }
+      [
+        15028
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6896,9 +6940,9 @@
     "requirement": 280,
     "sentence": "在難易度MASTER，達成280首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15029
-      }
+      [
+        15029
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6909,9 +6953,9 @@
     "requirement": 290,
     "sentence": "在難易度MASTER，達成290首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15030
-      }
+      [
+        15030
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6922,9 +6966,9 @@
     "requirement": 300,
     "sentence": "在難易度MASTER，達成300首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15031
-      }
+      [
+        15031
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6935,9 +6979,9 @@
     "requirement": 310,
     "sentence": "在難易度MASTER，達成310首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15032
-      }
+      [
+        15032
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6948,9 +6992,9 @@
     "requirement": 320,
     "sentence": "在難易度MASTER，達成320首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15033
-      }
+      [
+        15033
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6961,9 +7005,9 @@
     "requirement": 330,
     "sentence": "在難易度MASTER，達成330首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15034
-      }
+      [
+        15034
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6974,9 +7018,9 @@
     "requirement": 340,
     "sentence": "在難易度MASTER，達成340首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15035
-      }
+      [
+        15035
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -6987,9 +7031,9 @@
     "requirement": 350,
     "sentence": "在難易度MASTER，達成350首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15036
-      }
+      [
+        15036
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7000,9 +7044,9 @@
     "requirement": 360,
     "sentence": "在難易度MASTER，達成360首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15037
-      }
+      [
+        15037
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7013,9 +7057,9 @@
     "requirement": 370,
     "sentence": "在難易度MASTER，達成370首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15038
-      }
+      [
+        15038
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7026,9 +7070,9 @@
     "requirement": 380,
     "sentence": "在難易度MASTER，達成380首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15039
-      }
+      [
+        15039
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7039,9 +7083,9 @@
     "requirement": 390,
     "sentence": "在難易度MASTER，達成390首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15040
-      }
+      [
+        15040
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7052,9 +7096,9 @@
     "requirement": 400,
     "sentence": "在難易度MASTER，達成400首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15041
-      }
+      [
+        15041
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7065,9 +7109,9 @@
     "requirement": 410,
     "sentence": "在難易度MASTER，達成410首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15042
-      }
+      [
+        15042
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7078,9 +7122,9 @@
     "requirement": 420,
     "sentence": "在難易度MASTER，達成420首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15043
-      }
+      [
+        15043
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7091,9 +7135,9 @@
     "requirement": 430,
     "sentence": "在難易度MASTER，達成430首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15044
-      }
+      [
+        15044
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7104,9 +7148,9 @@
     "requirement": 440,
     "sentence": "在難易度MASTER，達成440首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15045
-      }
+      [
+        15045
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7117,9 +7161,9 @@
     "requirement": 450,
     "sentence": "在難易度MASTER，達成450首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15046
-      }
+      [
+        15046
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7130,9 +7174,9 @@
     "requirement": 460,
     "sentence": "在難易度MASTER，達成460首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15047
-      }
+      [
+        15047
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7143,9 +7187,9 @@
     "requirement": 470,
     "sentence": "在難易度MASTER，達成470首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15048
-      }
+      [
+        15048
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7156,9 +7200,9 @@
     "requirement": 480,
     "sentence": "在難易度MASTER，達成480首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15049
-      }
+      [
+        15049
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7169,9 +7213,9 @@
     "requirement": 490,
     "sentence": "在難易度MASTER，達成490首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15050
-      }
+      [
+        15050
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7182,9 +7226,9 @@
     "requirement": 500,
     "sentence": "在難易度MASTER，達成500首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15051
-      }
+      [
+        15051
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7195,9 +7239,9 @@
     "requirement": 510,
     "sentence": "在難易度MASTER，達成510首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15052
-      }
+      [
+        15052
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7208,9 +7252,9 @@
     "requirement": 520,
     "sentence": "在難易度MASTER，達成520首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15053
-      }
+      [
+        15053
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7221,9 +7265,9 @@
     "requirement": 530,
     "sentence": "在難易度MASTER，達成530首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15054
-      }
+      [
+        15054
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7234,9 +7278,9 @@
     "requirement": 540,
     "sentence": "在難易度MASTER，達成540首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15055
-      }
+      [
+        15055
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7247,9 +7291,9 @@
     "requirement": 550,
     "sentence": "在難易度MASTER，達成550首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15056
-      }
+      [
+        15056
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7260,9 +7304,9 @@
     "requirement": 560,
     "sentence": "在難易度MASTER，達成560首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15057
-      }
+      [
+        15057
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7273,9 +7317,9 @@
     "requirement": 570,
     "sentence": "在難易度MASTER，達成570首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15058
-      }
+      [
+        15058
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7286,9 +7330,9 @@
     "requirement": 580,
     "sentence": "在難易度MASTER，達成580首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15059
-      }
+      [
+        15059
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7299,9 +7343,9 @@
     "requirement": 590,
     "sentence": "在難易度MASTER，達成590首歌曲的ALL PERFECT吧。",
     "rewards": [
-      {
-        "resourceBoxId": 15060
-      }
+      [
+        15060
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7312,9 +7356,9 @@
     "requirement": 10,
     "sentence": "擁有10名滿級的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50001
-      }
+      [
+        50001
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7325,9 +7369,9 @@
     "requirement": 25,
     "sentence": "擁有25名滿級的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50002
-      }
+      [
+        50002
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7338,9 +7382,9 @@
     "requirement": 50,
     "sentence": "擁有50名滿級的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50003
-      }
+      [
+        50003
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7351,9 +7395,9 @@
     "requirement": 75,
     "sentence": "擁有75名滿級的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50004
-      }
+      [
+        50004
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7364,9 +7408,9 @@
     "requirement": 100,
     "sentence": "擁有100名滿級的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50005
-      }
+      [
+        50005
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7377,9 +7421,9 @@
     "requirement": 150,
     "sentence": "擁有150名滿級的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50006
-      }
+      [
+        50006
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7390,9 +7434,9 @@
     "requirement": 200,
     "sentence": "擁有200名滿級的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50007
-      }
+      [
+        50007
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7403,9 +7447,9 @@
     "requirement": 250,
     "sentence": "擁有250名滿級的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50008
-      }
+      [
+        50008
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7416,9 +7460,9 @@
     "requirement": 25,
     "sentence": "擁有25名完成特訓的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50009
-      }
+      [
+        50009
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7429,9 +7473,9 @@
     "requirement": 50,
     "sentence": "擁有50名完成特訓的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50010
-      }
+      [
+        50010
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7442,9 +7486,9 @@
     "requirement": 75,
     "sentence": "擁有75名完成特訓的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50011
-      }
+      [
+        50011
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7455,9 +7499,9 @@
     "requirement": 100,
     "sentence": "擁有100名完成特訓的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50012
-      }
+      [
+        50012
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7468,9 +7512,9 @@
     "requirement": 125,
     "sentence": "擁有125名完成特訓的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50013
-      }
+      [
+        50013
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7481,9 +7525,9 @@
     "requirement": 150,
     "sentence": "擁有150名完成特訓的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50014
-      }
+      [
+        50014
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7494,9 +7538,9 @@
     "requirement": 10,
     "sentence": "擁有10名專精等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50017
-      }
+      [
+        50017
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7507,9 +7551,9 @@
     "requirement": 25,
     "sentence": "擁有25名專精等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50018
-      }
+      [
+        50018
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7520,9 +7564,9 @@
     "requirement": 50,
     "sentence": "擁有50名專精等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50019
-      }
+      [
+        50019
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7533,9 +7577,9 @@
     "requirement": 75,
     "sentence": "擁有75名專精等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50020
-      }
+      [
+        50020
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7546,9 +7590,9 @@
     "requirement": 100,
     "sentence": "擁有100名專精等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50021
-      }
+      [
+        50021
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7559,9 +7603,9 @@
     "requirement": 150,
     "sentence": "擁有150名專精等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50022
-      }
+      [
+        50022
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7572,9 +7616,9 @@
     "requirement": 200,
     "sentence": "擁有200名專精等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50023
-      }
+      [
+        50023
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7585,9 +7629,9 @@
     "requirement": 250,
     "sentence": "擁有250名專精等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50024
-      }
+      [
+        50024
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7598,9 +7642,9 @@
     "requirement": 10,
     "sentence": "擁有10名技能等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50025
-      }
+      [
+        50025
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7611,9 +7655,9 @@
     "requirement": 25,
     "sentence": "擁有25名技能等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50026
-      }
+      [
+        50026
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7624,9 +7668,9 @@
     "requirement": 50,
     "sentence": "擁有50名技能等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50027
-      }
+      [
+        50027
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7637,9 +7681,9 @@
     "requirement": 75,
     "sentence": "擁有75名技能等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50028
-      }
+      [
+        50028
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7650,9 +7694,9 @@
     "requirement": 100,
     "sentence": "擁有100名技能等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50029
-      }
+      [
+        50029
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7663,9 +7707,9 @@
     "requirement": 150,
     "sentence": "擁有150名技能等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50030
-      }
+      [
+        50030
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7676,9 +7720,9 @@
     "requirement": 200,
     "sentence": "擁有200名技能等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50031
-      }
+      [
+        50031
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7689,9 +7733,9 @@
     "requirement": 250,
     "sentence": "擁有250名技能等級≥2的成員吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50032
-      }
+      [
+        50032
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7702,9 +7746,9 @@
     "requirement": 10,
     "sentence": "觀賞10話前篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50033
-      }
+      [
+        50033
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7715,9 +7759,9 @@
     "requirement": 25,
     "sentence": "觀賞25話前篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50034
-      }
+      [
+        50034
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7728,9 +7772,9 @@
     "requirement": 100,
     "sentence": "觀賞100話前篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50035
-      }
+      [
+        50035
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7741,9 +7785,9 @@
     "requirement": 125,
     "sentence": "觀賞125話前篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50036
-      }
+      [
+        50036
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7754,9 +7798,9 @@
     "requirement": 150,
     "sentence": "觀賞150話前篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50037
-      }
+      [
+        50037
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7767,9 +7811,9 @@
     "requirement": 175,
     "sentence": "觀賞175話前篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50038
-      }
+      [
+        50038
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7780,9 +7824,9 @@
     "requirement": 200,
     "sentence": "觀賞200話前篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50039
-      }
+      [
+        50039
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7793,9 +7837,9 @@
     "requirement": 250,
     "sentence": "觀賞250話前篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50040
-      }
+      [
+        50040
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7806,9 +7850,9 @@
     "requirement": 10,
     "sentence": "觀賞10話後篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50041
-      }
+      [
+        50041
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7819,9 +7863,9 @@
     "requirement": 25,
     "sentence": "觀賞25話後篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50042
-      }
+      [
+        50042
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7832,9 +7876,9 @@
     "requirement": 50,
     "sentence": "觀賞50話後篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50043
-      }
+      [
+        50043
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7845,9 +7889,9 @@
     "requirement": 75,
     "sentence": "觀賞75話後篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50044
-      }
+      [
+        50044
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7858,9 +7902,9 @@
     "requirement": 100,
     "sentence": "觀賞100話後篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50045
-      }
+      [
+        50045
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7871,9 +7915,9 @@
     "requirement": 150,
     "sentence": "觀賞150話後篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50046
-      }
+      [
+        50046
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7884,9 +7928,9 @@
     "requirement": 200,
     "sentence": "觀賞200話後篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50047
-      }
+      [
+        50047
+      ]
     ],
     "startAt": 1640880000000
   },
@@ -7897,9 +7941,9 @@
     "requirement": 250,
     "sentence": "觀賞250話後篇劇情吧。",
     "rewards": [
-      {
-        "resourceBoxId": 50048
-      }
+      [
+        50048
+      ]
     ],
     "startAt": 1640880000000
   }

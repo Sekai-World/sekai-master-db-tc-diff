@@ -48,7 +48,7 @@
     "customProfileResourceType": "player_info",
     "id": 9,
     "seq": 5,
-    "name": "MVP・SUPERSTAR",
+    "name": "MVP\nSUPERSTAR",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "MultiLive"
@@ -66,7 +66,7 @@
     "customProfileResourceType": "player_info",
     "id": 11,
     "seq": 6,
-    "name": "角色等級・挑戰STAGE",
+    "name": "角色等級\n挑戰STAGE",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "CharacterRankAndChallengeStage",
@@ -99,25 +99,5 @@
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "StoryFavorite"
-  },
-  {
-    "customProfileResourceType": "player_info",
-    "id": 15,
-    "seq": 98,
-    "name": "角色等級・挑戰STAGE",
-    "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile\/ContentView\/General",
-    "fileName": "CharacterRankAndChallengeStage_1",
-    "groupId": 1
-  },
-  {
-    "customProfileResourceType": "player_info",
-    "id": 16,
-    "seq": 99,
-    "name": "歌曲資訊",
-    "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile\/ContentView\/General",
-    "fileName": "MusicClearInfo_1",
-    "groupId": 2
   }
 ]

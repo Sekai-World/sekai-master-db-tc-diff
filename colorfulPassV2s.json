@@ -8,7 +8,9 @@
     "dailyFreeGachaSpinLimit": 0,
     "dailyPaidGachaSpinLimit": 2,
     "maxLiveBonusCount": 20,
-    "maxAutoPlayCount": 20
+    "maxAutoPlayCount": 20,
+    "virtualItemRelationGroupId": 1,
+    "virtualLiveCheerMessageRelationGroupId": 1
   },
   {
     "id": 3,
@@ -19,6 +21,8 @@
     "dailyFreeGachaSpinLimit": 1,
     "dailyPaidGachaSpinLimit": 2,
     "maxLiveBonusCount": 20,
-    "maxAutoPlayCount": 99
+    "maxAutoPlayCount": 99,
+    "virtualItemRelationGroupId": 3,
+    "virtualLiveCheerMessageRelationGroupId": 1
   }
 ]
