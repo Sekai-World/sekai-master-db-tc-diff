@@ -99,5 +99,25 @@
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "StoryFavorite"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 15,
+    "seq": 98,
+    "name": "角色等級、挑戰STAGE",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
+    "fileName": "CharacterRankAndChallengeStageScroll",
+    "groupId": 1
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 16,
+    "seq": 99,
+    "name": "歌曲資訊",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
+    "fileName": "MusicClearSelectTabInfo",
+    "groupId": 2
   }
 ]
