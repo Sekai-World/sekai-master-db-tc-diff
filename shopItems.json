@@ -36260,6 +36260,132 @@
     "startAt": 1729062000000
   },
   {
+    "id": 10656,
+    "shopId": 2,
+    "seq": 269411600,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10656,
+    "costs": [
+      {
+        "cost": [
+          13,
+          "material",
+          0,
+          10
+        ]
+      }
+    ],
+    "startAt": 1730530800000
+  },
+  {
+    "id": 10657,
+    "shopId": 2,
+    "seq": 269325200,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10657,
+    "costs": [
+      {
+        "cost": [
+          13,
+          "material",
+          0,
+          10
+        ]
+      }
+    ],
+    "startAt": 1730617200000
+  },
+  {
+    "id": 10660,
+    "shopId": 2,
+    "seq": 269066000,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10660,
+    "costs": [
+      {
+        "cost": [
+          13,
+          "material",
+          0,
+          10
+        ]
+      }
+    ],
+    "startAt": 1730876400000
+  },
+  {
+    "id": 10663,
+    "shopId": 2,
+    "seq": 268720400,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10663,
+    "costs": [
+      {
+        "cost": [
+          13,
+          "material",
+          0,
+          10
+        ]
+      }
+    ],
+    "startAt": 1731222000000
+  },
+  {
+    "id": 10664,
+    "shopId": 2,
+    "seq": 268461200,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10664,
+    "costs": [
+      {
+        "cost": [
+          13,
+          "material",
+          0,
+          10
+        ]
+      }
+    ],
+    "startAt": 1731481200000
+  },
+  {
+    "id": 10665,
+    "shopId": 2,
+    "seq": 267683600,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10665,
+    "costs": [
+      {
+        "cost": [
+          13,
+          "material",
+          0,
+          10
+        ]
+      }
+    ],
+    "startAt": 1732258800000
+  },
+  {
+    "id": 10691,
+    "shopId": 2,
+    "seq": 997180,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10691,
+    "costs": [
+      {
+        "cost": [
+          13,
+          "material",
+          0,
+          10
+        ]
+      }
+    ],
+    "startAt": 1732518000000
+  },
+  {
     "id": 20001,
     "shopId": 12,
     "seq": 6700,
@@ -43426,7 +43552,7 @@
   {
     "id": 100070,
     "shopId": 12,
-    "seq": 1,
+    "seq": 5,
     "releaseConditionId": 1,
     "resourceBoxId": 100070,
     "costs": [
@@ -43444,7 +43570,7 @@
   {
     "id": 100071,
     "shopId": 12,
-    "seq": 2,
+    "seq": 6,
     "releaseConditionId": 1,
     "resourceBoxId": 100071,
     "costs": [
@@ -43462,7 +43588,7 @@
   {
     "id": 100072,
     "shopId": 12,
-    "seq": 3,
+    "seq": 7,
     "releaseConditionId": 1,
     "resourceBoxId": 100072,
     "costs": [
@@ -43480,7 +43606,7 @@
   {
     "id": 100073,
     "shopId": 12,
-    "seq": 4,
+    "seq": 8,
     "releaseConditionId": 1,
     "resourceBoxId": 100073,
     "costs": [
@@ -43494,5 +43620,77 @@
       }
     ],
     "startAt": 1726286400000
+  },
+  {
+    "id": 100074,
+    "shopId": 12,
+    "seq": 1,
+    "releaseConditionId": 1,
+    "resourceBoxId": 100074,
+    "costs": [
+      {
+        "cost": [
+          44,
+          "material",
+          0,
+          1
+        ]
+      }
+    ],
+    "startAt": 1730260800000
+  },
+  {
+    "id": 100075,
+    "shopId": 12,
+    "seq": 2,
+    "releaseConditionId": 1,
+    "resourceBoxId": 100075,
+    "costs": [
+      {
+        "cost": [
+          44,
+          "material",
+          0,
+          1
+        ]
+      }
+    ],
+    "startAt": 1730260800000
+  },
+  {
+    "id": 100076,
+    "shopId": 12,
+    "seq": 3,
+    "releaseConditionId": 1,
+    "resourceBoxId": 100076,
+    "costs": [
+      {
+        "cost": [
+          44,
+          "material",
+          0,
+          1
+        ]
+      }
+    ],
+    "startAt": 1730260800000
+  },
+  {
+    "id": 100077,
+    "shopId": 12,
+    "seq": 4,
+    "releaseConditionId": 1,
+    "resourceBoxId": 100077,
+    "costs": [
+      {
+        "cost": [
+          44,
+          "material",
+          0,
+          1
+        ]
+      }
+    ],
+    "startAt": 1730260800000
   }
 ]
