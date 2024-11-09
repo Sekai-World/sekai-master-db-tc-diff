@@ -29,16 +29,6 @@
     "endAt": 1731254399000
   },
   {
-    "homeBannerId": 769,
-    "seq": 170,
-    "homeBannerType": "event",
-    "assetbundleName": "event_warmth_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 111,
-    "startAt": 1730358000000,
-    "endAt": 1731067199000
-  },
-  {
     "homeBannerId": 776,
     "seq": 180,
     "homeBannerType": "general",
@@ -47,6 +37,16 @@
     "transitionDestinationId": 407,
     "startAt": 1731038400000,
     "endAt": 1732247999000
+  },
+  {
+    "homeBannerId": 777,
+    "seq": 170,
+    "homeBannerType": "event",
+    "assetbundleName": "event_underwater_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 112,
+    "startAt": 1731067200000,
+    "endAt": 1732258799000
   },
   {
     "homeBannerId": 10037,
