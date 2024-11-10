@@ -20,15 +20,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 638,
-    "seq": 9999,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_cp_invite_friends",
-    "transitionDestinationType": "friend_invitation_campaign",
-    "startAt": 1727539200000,
-    "endAt": 1731254399000
-  },
-  {
     "homeBannerId": 776,
     "seq": 180,
     "homeBannerType": "general",
@@ -47,6 +38,16 @@
     "transitionDestinationId": 112,
     "startAt": 1731067200000,
     "endAt": 1732258799000
+  },
+  {
+    "homeBannerId": 779,
+    "seq": 130,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive265",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 265,
+    "startAt": 1731222000000,
+    "endAt": 1731340799000
   },
   {
     "homeBannerId": 10037,
