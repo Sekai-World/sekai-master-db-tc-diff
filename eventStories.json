@@ -14036,7 +14036,7 @@
         "id": 1000929,
         "eventStoryId": 115,
         "episodeNo": 7,
-        "title": "抓捕有甲目大作戰",
+        "title": "抓捕犰狳大作戰",
         "assetbundleName": "event_keeper_2023_07",
         "scenarioId": "event_115_07",
         "releaseConditionId": 111406,
@@ -14208,7 +14208,7 @@
         "id": 1000940,
         "eventStoryId": 117,
         "episodeNo": 2,
-        "title": "準備首賣！",
+        "title": "準備新年特賣！",
         "assetbundleName": "event_cuddle_2023_02",
         "scenarioId": "event_117_02",
         "releaseConditionId": 111601,
@@ -14456,6 +14456,369 @@
         "episodeRewards": [
           {
             "resourceBoxId": 71
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "eventId": 119,
+    "outline": "Wonderlands×Showtime接下來的挑戰是電影的臨時演員！與以往不同，大家都很期待獲得透過鏡頭來表現的經驗，類也因為能學到新領域的表演而感到興奮，但……",
+    "bannerGameCharacterUnitId": 16,
+    "assetbundleName": "event_lensflare_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000957,
+        "eventStoryId": 119,
+        "episodeNo": 1,
+        "title": "下一個舞台是……",
+        "assetbundleName": "event_lensflare_2024_01",
+        "scenarioId": "event_119_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000958,
+        "eventStoryId": 119,
+        "episodeNo": 2,
+        "title": "開拍",
+        "assetbundleName": "event_lensflare_2024_02",
+        "scenarioId": "event_119_02",
+        "releaseConditionId": 111801,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000959,
+        "eventStoryId": 119,
+        "episodeNo": 3,
+        "title": "意外的提案",
+        "assetbundleName": "event_lensflare_2024_03",
+        "scenarioId": "event_119_03",
+        "releaseConditionId": 111802,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000960,
+        "eventStoryId": 119,
+        "episodeNo": 4,
+        "title": "先一步",
+        "assetbundleName": "event_lensflare_2024_04",
+        "scenarioId": "event_119_04",
+        "releaseConditionId": 111803,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000961,
+        "eventStoryId": 119,
+        "episodeNo": 5,
+        "title": "電影的拍攝技術",
+        "assetbundleName": "event_lensflare_2024_05",
+        "scenarioId": "event_119_05",
+        "releaseConditionId": 111804,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000962,
+        "eventStoryId": 119,
+        "episodeNo": 6,
+        "title": "看不到的出口",
+        "assetbundleName": "event_lensflare_2024_06",
+        "scenarioId": "event_119_06",
+        "releaseConditionId": 111805,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000963,
+        "eventStoryId": 119,
+        "episodeNo": 7,
+        "title": "最後一天",
+        "assetbundleName": "event_lensflare_2024_07",
+        "scenarioId": "event_119_07",
+        "releaseConditionId": 111806,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000964,
+        "eventStoryId": 119,
+        "episodeNo": 8,
+        "title": "為了能前進",
+        "assetbundleName": "event_lensflare_2024_08",
+        "scenarioId": "event_119_08",
+        "releaseConditionId": 111807,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "eventId": 120,
+    "outline": "心羽想在情人節送杏她很想要的巧克力，但已經銷售一空了，心羽感到很難過。但是，她知道了某個化妝品品牌主辦的「情人節攝影大賽」的獎品是那個巧克力──",
+    "bannerGameCharacterUnitId": 9,
+    "assetbundleName": "event_bestshot_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000965,
+        "eventStoryId": 120,
+        "episodeNo": 1,
+        "title": "為了送出那個巧克力",
+        "assetbundleName": "event_bestshot_2024_01",
+        "scenarioId": "event_120_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000966,
+        "eventStoryId": 120,
+        "episodeNo": 2,
+        "title": "組成隊伍！",
+        "assetbundleName": "event_bestshot_2024_02",
+        "scenarioId": "event_120_02",
+        "releaseConditionId": 111901,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000967,
+        "eventStoryId": 120,
+        "episodeNo": 3,
+        "title": "值得信賴的助手",
+        "assetbundleName": "event_bestshot_2024_03",
+        "scenarioId": "event_120_03",
+        "releaseConditionId": 111902,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000968,
+        "eventStoryId": 120,
+        "episodeNo": 4,
+        "title": "衝擊的一張",
+        "assetbundleName": "event_bestshot_2024_04",
+        "scenarioId": "event_120_04",
+        "releaseConditionId": 111903,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000969,
+        "eventStoryId": 120,
+        "episodeNo": 5,
+        "title": "出現敵手！",
+        "assetbundleName": "event_bestshot_2024_05",
+        "scenarioId": "event_120_05",
+        "releaseConditionId": 111904,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000970,
+        "eventStoryId": 120,
+        "episodeNo": 6,
+        "title": "那天的照片是",
+        "assetbundleName": "event_bestshot_2024_06",
+        "scenarioId": "event_120_06",
+        "releaseConditionId": 111905,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000971,
+        "eventStoryId": 120,
+        "episodeNo": 7,
+        "title": "最棒的一張",
+        "assetbundleName": "event_bestshot_2024_07",
+        "scenarioId": "event_120_07",
+        "releaseConditionId": 111906,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000972,
+        "eventStoryId": 120,
+        "episodeNo": 8,
+        "title": "戰鬥之後",
+        "assetbundleName": "event_bestshot_2024_08",
+        "scenarioId": "event_120_08",
+        "releaseConditionId": 111907,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "eventId": 121,
+    "outline": "被真堂問到「目標的音樂」後開始思考的穗波。但因為一直無法給出答案而開始感到焦躁。另一方面，真堂被Solis Record的老闆詢問關於Leo\/need的狀況──",
+    "bannerGameCharacterUnitId": 3,
+    "assetbundleName": "event_lead_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000973,
+        "eventStoryId": 121,
+        "episodeNo": 1,
+        "title": "我的目標",
+        "assetbundleName": "event_lead_2024_01",
+        "scenarioId": "event_121_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000974,
+        "eventStoryId": 121,
+        "episodeNo": 2,
+        "title": "從開心的事情開始",
+        "assetbundleName": "event_lead_2024_02",
+        "scenarioId": "event_121_02",
+        "releaseConditionId": 112001,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000975,
+        "eventStoryId": 121,
+        "episodeNo": 3,
+        "title": "想成為助力",
+        "assetbundleName": "event_lead_2024_03",
+        "scenarioId": "event_121_03",
+        "releaseConditionId": 112002,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000976,
+        "eventStoryId": 121,
+        "episodeNo": 4,
+        "title": "新的職責",
+        "assetbundleName": "event_lead_2024_04",
+        "scenarioId": "event_121_04",
+        "releaseConditionId": 112003,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000977,
+        "eventStoryId": 121,
+        "episodeNo": 5,
+        "title": "七零八落的音",
+        "assetbundleName": "event_lead_2024_05",
+        "scenarioId": "event_121_05",
+        "releaseConditionId": 112004,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000978,
+        "eventStoryId": 121,
+        "episodeNo": 6,
+        "title": "面向同一個方向",
+        "assetbundleName": "event_lead_2024_06",
+        "scenarioId": "event_121_06",
+        "releaseConditionId": 112005,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000979,
+        "eventStoryId": 121,
+        "episodeNo": 7,
+        "title": "為了完成最棒的演奏",
+        "assetbundleName": "event_lead_2024_07",
+        "scenarioId": "event_121_07",
+        "releaseConditionId": 112006,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000980,
+        "eventStoryId": 121,
+        "episodeNo": 8,
+        "title": "引導之音",
+        "assetbundleName": "event_lead_2024_08",
+        "scenarioId": "event_121_08",
+        "releaseConditionId": 112007,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 74
           }
         ]
       }
