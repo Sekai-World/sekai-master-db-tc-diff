@@ -2126,5 +2126,45 @@
         "resourceBoxId": 1104
       }
     ]
+  },
+  {
+    "id": 1051,
+    "startAt": 1732939200000,
+    "endAt": 1733601599000,
+    "assetbundleName": "winter_2024",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1153,
+        "limitedLoginBonusId": 1051,
+        "day": 1,
+        "resourceBoxId": 1067
+      },
+      {
+        "id": 1154,
+        "limitedLoginBonusId": 1051,
+        "day": 2,
+        "resourceBoxId": 1082
+      },
+      {
+        "id": 1155,
+        "limitedLoginBonusId": 1051,
+        "day": 3,
+        "resourceBoxId": 1082
+      }
+    ]
+  },
+  {
+    "id": 1052,
+    "startAt": 1733371200000,
+    "endAt": 1734623999000,
+    "assetbundleName": "sanrio_collab_2023",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1156,
+        "limitedLoginBonusId": 1052,
+        "day": 1,
+        "resourceBoxId": 1105
+      }
+    ]
   }
 ]
