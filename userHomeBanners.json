@@ -96,5 +96,15 @@
     "transitionDestinationType": "billing_shop_for_first_recharge",
     "startAt": 1695092400000,
     "endAt": 4093473599000
+  },
+  {
+    "homeBannerId": 10101,
+    "seq": 1,
+    "homeBannerType": "return",
+    "assetbundleName": "banner_gacha2001",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1100,
+    "startAt": 1733256000000,
+    "endAt": 1735847999000
   }
 ]
