@@ -5212,6 +5212,22 @@
     "virtualShopType": "event"
   },
   {
+    "id": 304,
+    "name": "カウントダウンライブ\/ハッピーニューイヤーライブ",
+    "virtualShopItems": [
+      {
+        "id": 489,
+        "virtualShopId": 304,
+        "virtualShopItemType": "coordinate",
+        "seq": 99816,
+        "resourceBoxId": 385,
+        "costPaidJewel": 1000,
+        "startAt": 1735628400000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
     "id": 1003,
     "name": "元旦2024",
     "virtualShopItems": [
