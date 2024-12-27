@@ -5146,7 +5146,7 @@
   },
   {
     "id": 242,
-    "name": "2024甘酒ショップ",
+    "name": "2025甘酒",
     "virtualShopItems": [
       {
         "id": 419,
@@ -5210,6 +5210,88 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 246,
+    "name": "第119回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 423,
+        "virtualShopId": 246,
+        "virtualShopItemType": "accessory",
+        "seq": 99887,
+        "resourceBoxId": 319,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1737615600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 247,
+    "name": "まふゆ BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 424,
+        "virtualShopId": 247,
+        "virtualShopItemType": "coordinate",
+        "seq": 99838,
+        "resourceBoxId": 320,
+        "costPaidJewel": 1000,
+        "startAt": 1737788400000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 248,
+    "name": "ルカ ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 425,
+        "virtualShopId": 248,
+        "virtualShopItemType": "coordinate",
+        "seq": 99837,
+        "resourceBoxId": 321,
+        "costPaidJewel": 1000,
+        "startAt": 1738047600000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 249,
+    "name": "第120回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 426,
+        "virtualShopId": 249,
+        "virtualShopItemType": "accessory",
+        "seq": 99886,
+        "resourceBoxId": 322,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1738324800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 250,
+    "name": "奏 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 427,
+        "virtualShopId": 250,
+        "virtualShopItemType": "coordinate",
+        "seq": 99836,
+        "resourceBoxId": 323,
+        "costPaidJewel": 1000,
+        "startAt": 1738998000000
+      }
+    ],
+    "virtualShopType": "birthday"
   },
   {
     "id": 304,
