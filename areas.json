@@ -57,6 +57,7 @@
     "displayTimelineType": "all",
     "additionalAreaType": "none",
     "name": "教室的「世界」",
+    "subName": "學校",
     "releaseConditionId": 1
   },
   {
@@ -69,6 +70,7 @@
     "displayTimelineType": "all",
     "additionalAreaType": "none",
     "name": "舞台的「世界」",
+    "subName": "舞台",
     "releaseConditionId": 1
   },
   {
@@ -188,6 +190,34 @@
     "startAt": 1711900800000,
     "endAt": 1711987200000,
     "releaseConditionId": 1
+  },
+  {
+    "id": 17,
+    "assetbundleName": "area17",
+    "groupId": 50,
+    "isBaseArea": false,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "none",
+    "name": "教室的「世界」",
+    "subName": "駅",
+    "startAt": 1753790400000,
+    "releaseConditionId": 113605
+  },
+  {
+    "id": 18,
+    "assetbundleName": "area18",
+    "groupId": 60,
+    "isBaseArea": false,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "none",
+    "name": "舞台的「世界」",
+    "subName": "花畑",
+    "startAt": 1747828800000,
+    "releaseConditionId": 112905
   },
   {
     "id": 19,

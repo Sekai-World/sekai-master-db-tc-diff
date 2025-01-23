@@ -37,7 +37,7 @@
   },
   {
     "wordingKey": "CHANGE_MUSIC_NAME_ENABLED",
-    "value": "0"
+    "value": "1"
   },
   {
     "wordingKey": "CHEERFUL_CARNIVAL_1ST_RESULT_REWARD",
@@ -709,7 +709,7 @@
   },
   {
     "wordingKey": "MSG_CHAPTER_RANKING_REWARD_HEAD_LINE",
-    "value": "的排行報酬"
+    "value": "的排名報酬"
   },
   {
     "wordingKey": "MSG_CHARACTER_ARCHIVE_VOICE_LOAD_ERROR",
@@ -3517,7 +3517,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_BOOST_LIVE_RANK",
-    "value": "粉絲數       倍"
+    "value": "粉絲數        倍"
   },
   {
     "wordingKey": "SUPPORT_EVENT_GRAND_TOTAL",
@@ -3541,11 +3541,11 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_PERSONAL_REWARD",
-    "value": "此為月光下的中秋應援祭！ 2024活動的個人獎勵"
+    "value": "此為應援!新春的世界2025活動的個人獎勵"
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LEGEND",
-    "value": "個人獎勵於9\/22統一發送到「禮物」"
+    "value": "個人獎勵於2\/9統一發送到「禮物」"
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LOCK",
@@ -3557,7 +3557,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_TOTAL_REWARD",
-    "value": "此為月光下的中秋應援祭！ 2024的世界獎勵"
+    "value": "此為月應援!新春的世界2025的世界獎勵"
   },
   {
     "wordingKey": "TAB_TITLE_BOX_PROVISION",
@@ -5378,6 +5378,10 @@
   {
     "wordingKey": "WORD_CREATE",
     "value": "創建"
+  },
+  {
+    "wordingKey": "WORD_CREATE_CONFIRM",
+    "value": "{0}を<color=#ff5599>{1}個<\/color>製作します。\nよろしいですか？"
   },
   {
     "wordingKey": "WORD_CREATE_PRIVATE_ROOM",
@@ -8829,7 +8833,7 @@
   },
   {
     "wordingKey": "Word_Custom_2582",
-    "value": "CHAPTER 2 白石杏的 的排行報酬"
+    "value": "CHAPTER 2 白石杏的 的排名報酬"
   },
   {
     "wordingKey": "Word_Custom_2583",
@@ -11461,7 +11465,7 @@
   },
   {
     "wordingKey": "WORD_EVENT_RANKING_REWARD",
-    "value": "排行報酬"
+    "value": "排名報酬"
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_billing_shop_for_colorful_pass",

@@ -3461,19 +3461,19 @@
       {
         "level": 8,
         "bonus": 0,
-        "description": "將星乃一歌的角色等級提升至115吧。",
+        "description": "將宵崎奏的角色等級提升至115吧。",
         "startAt": 1640880000000
       },
       {
         "level": 9,
         "bonus": 0,
-        "description": "將星乃一歌的角色等級提升至120吧。",
+        "description": "將宵崎奏的角色等級提升至120吧。",
         "startAt": 1640880000000
       },
       {
         "level": 10,
         "bonus": 0,
-        "description": "將星乃一歌的角色等級提升至125吧。",
+        "description": "將宵崎奏的角色等級提升至125吧。",
         "startAt": 1640880000000
       }
     ]
@@ -3490,13 +3490,13 @@
       {
         "level": 1,
         "bonus": 0,
-        "description": "將星乃一歌的角色等級提升至130吧。",
+        "description": "將宵崎奏的角色等級提升至130吧。",
         "startAt": 1640880000000
       },
       {
         "level": 2,
         "bonus": 0,
-        "description": "將星乃一歌的角色等級提升至135吧。",
+        "description": "將宵崎奏的角色等級提升至135吧。",
         "startAt": 1640880000000
       }
     ]
@@ -59092,6 +59092,21 @@
     ]
   },
   {
+    "id": 3241,
+    "seq": 20300,
+    "groupId": 337,
+    "honorRarity": "low",
+    "name": "HAPPY BIRTHDAY 繪名 2025.4.30",
+    "assetbundleName": "honor_3241",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "參加2025年的「HAPPY BIRTHDAY LIVE 繪名」吧。"
+      }
+    ]
+  },
+  {
     "id": 3244,
     "seq": 18000,
     "groupId": 340,
@@ -67837,7 +67852,7 @@
     "seq": 200031,
     "groupId": 373,
     "honorRarity": "low",
-    "name": "情人節2024",
+    "name": "情人節2025",
     "assetbundleName": "honor_3829",
     "levels": [
       {
@@ -73250,6 +73265,501 @@
     ]
   },
   {
+    "id": 4166,
+    "seq": 138801,
+    "groupId": 388,
+    "honorRarity": "highest",
+    "name": "1位",
+    "assetbundleName": "honor_top_000001",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で1位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4167,
+    "seq": 138802,
+    "groupId": 388,
+    "honorRarity": "highest",
+    "name": "2位",
+    "assetbundleName": "honor_top_000002",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で2位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4168,
+    "seq": 138803,
+    "groupId": 388,
+    "honorRarity": "highest",
+    "name": "3位",
+    "assetbundleName": "honor_top_000003",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で3位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4169,
+    "seq": 138804,
+    "groupId": 388,
+    "honorRarity": "highest",
+    "name": "4位",
+    "assetbundleName": "honor_top_000004",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で4位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4170,
+    "seq": 138805,
+    "groupId": 388,
+    "honorRarity": "highest",
+    "name": "5位",
+    "assetbundleName": "honor_top_000005",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で5位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4171,
+    "seq": 138806,
+    "groupId": 388,
+    "honorRarity": "highest",
+    "name": "6位",
+    "assetbundleName": "honor_top_000006",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で6位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4172,
+    "seq": 138807,
+    "groupId": 388,
+    "honorRarity": "highest",
+    "name": "7位",
+    "assetbundleName": "honor_top_000007",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で7位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4173,
+    "seq": 138808,
+    "groupId": 388,
+    "honorRarity": "highest",
+    "name": "8位",
+    "assetbundleName": "honor_top_000008",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で8位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4174,
+    "seq": 138809,
+    "groupId": 388,
+    "honorRarity": "highest",
+    "name": "9位",
+    "assetbundleName": "honor_top_000009",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で9位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4175,
+    "seq": 138810,
+    "groupId": 388,
+    "honorRarity": "highest",
+    "name": "10位",
+    "assetbundleName": "honor_top_000010_v2",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で10位になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4176,
+    "seq": 138811,
+    "groupId": 388,
+    "honorRarity": "high",
+    "name": "TOP20",
+    "assetbundleName": "honor_top_000020",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で20位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4177,
+    "seq": 138812,
+    "groupId": 388,
+    "honorRarity": "high",
+    "name": "TOP30",
+    "assetbundleName": "honor_top_000030",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で30位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4178,
+    "seq": 138813,
+    "groupId": 388,
+    "honorRarity": "high",
+    "name": "TOP40",
+    "assetbundleName": "honor_top_000040",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で40位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4179,
+    "seq": 138814,
+    "groupId": 388,
+    "honorRarity": "high",
+    "name": "TOP50",
+    "assetbundleName": "honor_top_000050",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で50位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4180,
+    "seq": 138815,
+    "groupId": 388,
+    "honorRarity": "high",
+    "name": "TOP100",
+    "assetbundleName": "honor_top_000100",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で100位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4181,
+    "seq": 138816,
+    "groupId": 388,
+    "honorRarity": "high",
+    "name": "TOP200",
+    "assetbundleName": "honor_top_000200",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で200位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4182,
+    "seq": 138817,
+    "groupId": 388,
+    "honorRarity": "high",
+    "name": "TOP300",
+    "assetbundleName": "honor_top_000300",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で300位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4183,
+    "seq": 138818,
+    "groupId": 388,
+    "honorRarity": "high",
+    "name": "TOP400",
+    "assetbundleName": "honor_top_000400",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で400位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4184,
+    "seq": 138819,
+    "groupId": 388,
+    "honorRarity": "high",
+    "name": "TOP500",
+    "assetbundleName": "honor_top_000500",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で500位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4185,
+    "seq": 138820,
+    "groupId": 388,
+    "honorRarity": "high",
+    "name": "TOP1000",
+    "assetbundleName": "honor_top_001000",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で1000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4186,
+    "seq": 138821,
+    "groupId": 388,
+    "honorRarity": "middle",
+    "name": "TOP1500",
+    "assetbundleName": "honor_top_001500",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で1500位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4187,
+    "seq": 138822,
+    "groupId": 388,
+    "honorRarity": "middle",
+    "name": "TOP2000",
+    "assetbundleName": "honor_top_002000",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で2000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4188,
+    "seq": 138823,
+    "groupId": 388,
+    "honorRarity": "middle",
+    "name": "TOP2500",
+    "assetbundleName": "honor_top_002500",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で2500位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4189,
+    "seq": 138824,
+    "groupId": 388,
+    "honorRarity": "middle",
+    "name": "TOP3000",
+    "assetbundleName": "honor_top_003000",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で3000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4190,
+    "seq": 138825,
+    "groupId": 388,
+    "honorRarity": "middle",
+    "name": "TOP4000",
+    "assetbundleName": "honor_top_004000",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で4000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4191,
+    "seq": 138826,
+    "groupId": 388,
+    "honorRarity": "middle",
+    "name": "TOP5000",
+    "assetbundleName": "honor_top_005000",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で5000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4192,
+    "seq": 138827,
+    "groupId": 388,
+    "honorRarity": "middle",
+    "name": "TOP10000",
+    "assetbundleName": "honor_top_010000",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で10000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4193,
+    "seq": 138828,
+    "groupId": 388,
+    "honorRarity": "low",
+    "name": "TOP20000",
+    "assetbundleName": "honor_top_020000",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で20000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4194,
+    "seq": 138829,
+    "groupId": 388,
+    "honorRarity": "low",
+    "name": "TOP30000",
+    "assetbundleName": "honor_top_030000",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で30000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4195,
+    "seq": 138830,
+    "groupId": 388,
+    "honorRarity": "low",
+    "name": "TOP40000",
+    "assetbundleName": "honor_top_040000",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で40000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4196,
+    "seq": 138831,
+    "groupId": 388,
+    "honorRarity": "low",
+    "name": "TOP50000",
+    "assetbundleName": "honor_top_050000",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で50000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4197,
+    "seq": 138832,
+    "groupId": 388,
+    "honorRarity": "low",
+    "name": "TOP100000",
+    "assetbundleName": "honor_top_100000",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」で100000位以内になろう。"
+      }
+    ]
+  },
+  {
+    "id": 4198,
+    "seq": 138833,
+    "groupId": 388,
+    "honorRarity": "low",
+    "name": "メモリアル",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "イベント「Parallel Harmonies」のストーリーを全て読もう。"
+      }
+    ]
+  },
+  {
     "id": 10001,
     "seq": 118525,
     "groupId": 10001,
@@ -77881,6 +78391,702 @@
         "level": 1,
         "bonus": 0,
         "description": "三週年紀念集章任務的獎勵"
+      }
+    ]
+  },
+  {
+    "id": 10165,
+    "seq": 118622,
+    "groupId": 10040,
+    "honorRarity": "low",
+    "name": "Leo\/need粉絲",
+    "assetbundleName": "honor_ny_2025_ln_1",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10166,
+    "seq": 118623,
+    "groupId": 10040,
+    "honorRarity": "middle",
+    "name": "Leo\/need粉絲",
+    "assetbundleName": "honor_ny_2025_ln_2",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10167,
+    "seq": 118624,
+    "groupId": 10040,
+    "honorRarity": "high",
+    "name": "Leo\/need粉絲",
+    "assetbundleName": "honor_ny_2025_ln_3",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10168,
+    "seq": 118623,
+    "groupId": 10040,
+    "honorRarity": "highest",
+    "name": "Leo\/need粉絲",
+    "assetbundleName": "honor_ny_2025_ln_4",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10169,
+    "seq": 118625,
+    "groupId": 10041,
+    "honorRarity": "low",
+    "name": "MORE MORE JUMP！粉絲",
+    "assetbundleName": "honor_ny_2025_mmj_1",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10170,
+    "seq": 118626,
+    "groupId": 10041,
+    "honorRarity": "middle",
+    "name": "MORE MORE JUMP！粉絲",
+    "assetbundleName": "honor_ny_2025_mmj_2",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10171,
+    "seq": 118627,
+    "groupId": 10041,
+    "honorRarity": "high",
+    "name": "MORE MORE JUMP！粉絲",
+    "assetbundleName": "honor_ny_2025_mmj_3",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10172,
+    "seq": 118624,
+    "groupId": 10041,
+    "honorRarity": "highest",
+    "name": "MORE MORE JUMP！粉絲",
+    "assetbundleName": "honor_ny_2025_mmj_4",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10173,
+    "seq": 118628,
+    "groupId": 10042,
+    "honorRarity": "low",
+    "name": "Vivid BAD SQUAD粉絲",
+    "assetbundleName": "honor_ny_2025_vbs_1",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10174,
+    "seq": 118629,
+    "groupId": 10042,
+    "honorRarity": "middle",
+    "name": "Vivid BAD SQUAD粉絲",
+    "assetbundleName": "honor_ny_2025_vbs_2",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10175,
+    "seq": 118630,
+    "groupId": 10042,
+    "honorRarity": "high",
+    "name": "Vivid BAD SQUAD粉絲",
+    "assetbundleName": "honor_ny_2025_vbs_3",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10176,
+    "seq": 118625,
+    "groupId": 10042,
+    "honorRarity": "highest",
+    "name": "Vivid BAD SQUAD粉絲",
+    "assetbundleName": "honor_ny_2025_vbs_4",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10177,
+    "seq": 118631,
+    "groupId": 10043,
+    "honorRarity": "low",
+    "name": "Wonderlands×Showtime粉絲",
+    "assetbundleName": "honor_ny_2025_ws_1",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10178,
+    "seq": 118632,
+    "groupId": 10043,
+    "honorRarity": "middle",
+    "name": "Wonderlands×Showtime粉絲",
+    "assetbundleName": "honor_ny_2025_ws_2",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10179,
+    "seq": 118633,
+    "groupId": 10043,
+    "honorRarity": "high",
+    "name": "Wonderlands×Showtime粉絲",
+    "assetbundleName": "honor_ny_2025_ws_3",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10180,
+    "seq": 118626,
+    "groupId": 10043,
+    "honorRarity": "highest",
+    "name": "Wonderlands×Showtime粉絲",
+    "assetbundleName": "honor_ny_2025_ws_4",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10181,
+    "seq": 118634,
+    "groupId": 10044,
+    "honorRarity": "low",
+    "name": "25點，Nightcord見。粉絲",
+    "assetbundleName": "honor_ny_2025_25_1",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10182,
+    "seq": 118635,
+    "groupId": 10044,
+    "honorRarity": "middle",
+    "name": "25點，Nightcord見。粉絲",
+    "assetbundleName": "honor_ny_2025_25_2",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10183,
+    "seq": 118636,
+    "groupId": 10044,
+    "honorRarity": "high",
+    "name": "25點，Nightcord見。粉絲",
+    "assetbundleName": "honor_ny_2025_25_3",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10184,
+    "seq": 118627,
+    "groupId": 10044,
+    "honorRarity": "highest",
+    "name": "25點，Nightcord見。粉絲",
+    "assetbundleName": "honor_ny_2025_25_4",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10185,
+    "seq": 118637,
+    "groupId": 10045,
+    "honorRarity": "low",
+    "name": "虛擬歌手粉絲",
+    "assetbundleName": "honor_ny_2025_vs_1",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10186,
+    "seq": 118638,
+    "groupId": 10045,
+    "honorRarity": "middle",
+    "name": "虛擬歌手粉絲",
+    "assetbundleName": "honor_ny_2025_vs_2",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 2,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 3,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 4,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      },
+      {
+        "level": 5,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10187,
+    "seq": 118639,
+    "groupId": 10045,
+    "honorRarity": "high",
+    "name": "虛擬歌手粉絲",
+    "assetbundleName": "honor_ny_2025_vs_3",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
+      }
+    ]
+  },
+  {
+    "id": 10188,
+    "seq": 118628,
+    "groupId": 10045,
+    "honorRarity": "highest",
+    "name": "虛擬歌手粉絲",
+    "assetbundleName": "honor_ny_2025_vs_4",
+    "startAt": 1737961200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "「應援！新春的世界 2025」活動團體應援獎勵",
+        "startAt": 1737961200000
       }
     ]
   }
