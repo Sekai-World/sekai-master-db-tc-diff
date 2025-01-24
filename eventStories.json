@@ -15343,5 +15343,126 @@
         ]
       }
     ]
+  },
+  {
+    "id": 126,
+    "eventId": 126,
+    "outline": "在每天的慢跑時，認識了某隻狗和飼主的彰人。他們為了在飛盤狗大賽上成為日本第一而每天努力練習著。但是在大賽前一天，飼主的腳受傷了……",
+    "bannerGameCharacterUnitId": 11,
+    "assetbundleName": "event_rise_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001015,
+        "eventStoryId": 126,
+        "episodeNo": 1,
+        "title": "和夥伴一起",
+        "assetbundleName": "event_rise_2024_01",
+        "scenarioId": "event_126_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001016,
+        "eventStoryId": 126,
+        "episodeNo": 2,
+        "title": "狗狗大集合",
+        "assetbundleName": "event_rise_2024_02",
+        "scenarioId": "event_126_02",
+        "releaseConditionId": 112501,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001017,
+        "eventStoryId": 126,
+        "episodeNo": 3,
+        "title": "不想做的理由",
+        "assetbundleName": "event_rise_2024_03",
+        "scenarioId": "event_126_03",
+        "releaseConditionId": 112502,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001018,
+        "eventStoryId": 126,
+        "episodeNo": 4,
+        "title": "無法抵抗的恐懼",
+        "assetbundleName": "event_rise_2024_04",
+        "scenarioId": "event_126_04",
+        "releaseConditionId": 112503,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001019,
+        "eventStoryId": 126,
+        "episodeNo": 5,
+        "title": "要消除恐懼的話",
+        "assetbundleName": "event_rise_2024_05",
+        "scenarioId": "event_126_05",
+        "releaseConditionId": 112504,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001020,
+        "eventStoryId": 126,
+        "episodeNo": 6,
+        "title": "為了瞭解極限",
+        "assetbundleName": "event_rise_2024_06",
+        "scenarioId": "event_126_06",
+        "releaseConditionId": 112505,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001021,
+        "eventStoryId": 126,
+        "episodeNo": 7,
+        "title": "很高的難度",
+        "assetbundleName": "event_rise_2024_07",
+        "scenarioId": "event_126_07",
+        "releaseConditionId": 112506,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001022,
+        "eventStoryId": 126,
+        "episodeNo": 8,
+        "title": "最棒的比賽",
+        "assetbundleName": "event_rise_2024_08",
+        "scenarioId": "event_126_08",
+        "releaseConditionId": 112507,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 79
+          }
+        ]
+      }
+    ]
   }
 ]

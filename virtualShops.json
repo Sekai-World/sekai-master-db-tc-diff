@@ -5156,6 +5156,18 @@
         "resourceBoxId": 147,
         "costVirtualCoin": 0,
         "costJewel": 0,
+        "startAt": 1735628400000,
+        "endAt": 1736337599000,
+        "limitValue": 1
+      },
+      {
+        "id": 10017,
+        "virtualShopId": 242,
+        "virtualShopItemType": "boost_item",
+        "seq": 499999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
         "startAt": 1737961200000,
         "endAt": 1739015999000,
         "limitValue": 1
@@ -5586,7 +5598,7 @@
         "id": 10015,
         "virtualShopId": 1005,
         "virtualShopItemType": "boost_item",
-        "seq": 299999,
+        "seq": 399999,
         "resourceBoxId": 147,
         "costVirtualCoin": 0,
         "costJewel": 0,
@@ -5614,22 +5626,19 @@
     "virtualShopType": "event"
   },
   {
-    "id": 1007,
-    "name": "甘酒商店",
+    "id": 1008,
+    "name": "春节2025",
     "virtualShopItems": [
       {
-        "id": 10017,
-        "virtualShopId": 1007,
-        "virtualShopItemType": "boost_item",
-        "seq": 299999,
-        "resourceBoxId": 147,
-        "costVirtualCoin": 0,
-        "costJewel": 0,
-        "startAt": 1737961200000,
-        "endAt": 1739015999000,
-        "limitValue": 1
+        "id": 10018,
+        "virtualShopId": 1008,
+        "virtualShopItemType": "coordinate",
+        "seq": 99815,
+        "resourceBoxId": 10011,
+        "costPaidJewel": 1000,
+        "startAt": 1737961200000
       }
     ],
-    "virtualShopType": "other"
+    "virtualShopType": "event"
   }
 ]
