@@ -30013,6 +30013,59 @@
     "archivePublishedAt": 1739516400000
   },
   {
+    "id": 1468,
+    "musicId": 492,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 5,
+    "caption": "「世界」ver.",
+    "characters": [
+      {
+        "id": 2594,
+        "musicId": 492,
+        "musicVocalId": 1468,
+        "characterType": "game_character",
+        "characterId": 19,
+        "seq": 4921
+      },
+      {
+        "id": 2595,
+        "musicId": 492,
+        "musicVocalId": 1468,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 4922
+      },
+      {
+        "id": 2596,
+        "musicId": 492,
+        "musicVocalId": 1468,
+        "characterType": "game_character",
+        "characterId": 17,
+        "seq": 4923
+      },
+      {
+        "id": 2597,
+        "musicId": 492,
+        "musicVocalId": 1468,
+        "characterType": "game_character",
+        "characterId": 18,
+        "seq": 4924
+      },
+      {
+        "id": 2598,
+        "musicId": 492,
+        "musicVocalId": 1468,
+        "characterType": "game_character",
+        "characterId": 20,
+        "seq": 4925
+      }
+    ],
+    "assetbundleName": "se_0492_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1744268400000
+  },
+  {
     "id": 1469,
     "musicId": 354,
     "musicVocalType": "april_fool_2022",
@@ -30356,5 +30409,58 @@
     "assetbundleName": "se_0441_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1738134000000
+  },
+  {
+    "id": 1476,
+    "musicId": 442,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 5,
+    "caption": "「世界」ver.",
+    "characters": [
+      {
+        "id": 2604,
+        "musicId": 442,
+        "musicVocalId": 1476,
+        "characterType": "game_character",
+        "characterId": 2,
+        "seq": 4420
+      },
+      {
+        "id": 2605,
+        "musicId": 442,
+        "musicVocalId": 1476,
+        "characterType": "game_character",
+        "characterId": 25,
+        "seq": 4421
+      },
+      {
+        "id": 2606,
+        "musicId": 442,
+        "musicVocalId": 1476,
+        "characterType": "game_character",
+        "characterId": 1,
+        "seq": 4422
+      },
+      {
+        "id": 2607,
+        "musicId": 442,
+        "musicVocalId": 1476,
+        "characterType": "game_character",
+        "characterId": 3,
+        "seq": 4423
+      },
+      {
+        "id": 2608,
+        "musicId": 442,
+        "musicVocalId": 1476,
+        "characterType": "game_character",
+        "characterId": 4,
+        "seq": 4424
+      }
+    ],
+    "assetbundleName": "se_0442_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1745849100000
   }
 ]
