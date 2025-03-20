@@ -192,6 +192,20 @@
     "releaseConditionId": 1
   },
   {
+    "id": 18,
+    "assetbundleName": "area18",
+    "groupId": 60,
+    "isBaseArea": false,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "none",
+    "name": "舞台的「世界」",
+    "subName": "花畑",
+    "startAt": 1747828800000,
+    "releaseConditionId": 112905
+  },
+  {
     "id": 19,
     "assetbundleName": "area19",
     "groupId": 70,
@@ -276,5 +290,19 @@
     "startAt": 1743436800000,
     "endAt": 1743523199000,
     "releaseConditionId": 1
+  },
+  {
+    "id": 25,
+    "assetbundleName": "area25",
+    "groupId": 200,
+    "isBaseArea": true,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "collaboration",
+    "name": "敞開的窗戶的「世界」",
+    "startAt": 1743091200000,
+    "endAt": 4102415999000,
+    "releaseConditionId": 2000000
   }
 ]

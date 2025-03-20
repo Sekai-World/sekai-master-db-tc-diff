@@ -1364,6 +1364,76 @@
     ]
   },
   {
+    "id": 88,
+    "startAt": 1743091200000,
+    "endAt": 1744487999000,
+    "assetbundleName": "world_3900_pre_anniversary",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 192,
+        "limitedLoginBonusId": 88,
+        "day": 1,
+        "resourceBoxId": 1107
+      },
+      {
+        "id": 1162,
+        "limitedLoginBonusId": 88,
+        "day": 2,
+        "resourceBoxId": 1107
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "startAt": 1743264000000,
+    "endAt": 1746028799000,
+    "assetbundleName": "world_3900_anniversary",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 193,
+        "limitedLoginBonusId": 89,
+        "day": 1,
+        "resourceBoxId": 1108
+      },
+      {
+        "id": 194,
+        "limitedLoginBonusId": 89,
+        "day": 2,
+        "resourceBoxId": 116
+      },
+      {
+        "id": 195,
+        "limitedLoginBonusId": 89,
+        "day": 3,
+        "resourceBoxId": 116
+      },
+      {
+        "id": 196,
+        "limitedLoginBonusId": 89,
+        "day": 4,
+        "resourceBoxId": 116
+      },
+      {
+        "id": 197,
+        "limitedLoginBonusId": 89,
+        "day": 5,
+        "resourceBoxId": 116
+      },
+      {
+        "id": 198,
+        "limitedLoginBonusId": 89,
+        "day": 6,
+        "resourceBoxId": 116
+      },
+      {
+        "id": 199,
+        "limitedLoginBonusId": 89,
+        "day": 7,
+        "resourceBoxId": 116
+      }
+    ]
+  },
+  {
     "id": 95,
     "startAt": 1724990400000,
     "endAt": 1725163199000,
@@ -1378,18 +1448,109 @@
     ]
   },
   {
+    "id": 111,
+    "startAt": 1742572800000,
+    "endAt": 1742659199000,
+    "assetbundleName": "movie_countdown_01",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 241,
+        "limitedLoginBonusId": 111,
+        "day": 1,
+        "resourceBoxId": 148
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "startAt": 1742659200000,
+    "endAt": 1742745599000,
+    "assetbundleName": "movie_countdown_02",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 242,
+        "limitedLoginBonusId": 112,
+        "day": 1,
+        "resourceBoxId": 149
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "startAt": 1742745600000,
+    "endAt": 1742831999000,
+    "assetbundleName": "movie_countdown_03",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 243,
+        "limitedLoginBonusId": 113,
+        "day": 1,
+        "resourceBoxId": 150
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "startAt": 1742832000000,
+    "endAt": 1742918399000,
+    "assetbundleName": "movie_countdown_04",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 244,
+        "limitedLoginBonusId": 114,
+        "day": 1,
+        "resourceBoxId": 151
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "startAt": 1742918400000,
+    "endAt": 1743004799000,
+    "assetbundleName": "movie_countdown_05",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 245,
+        "limitedLoginBonusId": 115,
+        "day": 1,
+        "resourceBoxId": 152
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "startAt": 1743004800000,
+    "endAt": 1743091199000,
+    "assetbundleName": "movie_countdown_06",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 246,
+        "limitedLoginBonusId": 116,
+        "day": 1,
+        "resourceBoxId": 153
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "startAt": 1743091200000,
+    "endAt": 1746028799000,
+    "assetbundleName": "cinema_logincp_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 247,
+        "limitedLoginBonusId": 117,
+        "day": 1,
+        "resourceBoxId": 154
+      }
+    ]
+  },
+  {
     "id": 120,
     "startAt": 1741449600000,
     "endAt": 1741535999000,
     "assetbundleName": "mikusday_2025",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 250,
-        "limitedLoginBonusId": 120,
-        "day": 1,
-        "resourceBoxId": 157
-      }
-    ]
+    "limitedLoginBonusDetails": []
   },
   {
     "id": 1022,

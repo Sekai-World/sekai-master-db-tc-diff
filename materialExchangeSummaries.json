@@ -13056,7 +13056,7 @@
   },
   {
     "id": 8,
-    "seq": 1,
+    "seq": 3,
     "exchangeCategory": "card_ticket",
     "materialExchangeType": "beginner",
     "name": "[新手限定]\n★4成員",
@@ -23709,6 +23709,618 @@
             "costGroupId": 1,
             "seq": 1,
             "resourceId": 59,
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4001,
+    "seq": 2,
+    "exchangeCategory": "common_ticket",
+    "materialExchangeType": "normal",
+    "name": "[劇場版]交換所B",
+    "assetbundleName": "icon_movie_ticket",
+    "startAt": 1743091200000,
+    "endAt": 1746028799000,
+    "materialExchanges": [
+      {
+        "id": 4001028,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3160,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001028,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001028,
+            "costGroupId": 4001028,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001029,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3170,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001029,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001029,
+            "costGroupId": 4001029,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001030,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3180,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001030,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001030,
+            "costGroupId": 4001030,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001031,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3190,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001031,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001031,
+            "costGroupId": 4001031,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001032,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3200,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001032,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001032,
+            "costGroupId": 4001032,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001033,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3210,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001033,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001033,
+            "costGroupId": 4001033,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4002,
+    "seq": 1,
+    "exchangeCategory": "card_ticket",
+    "materialExchangeType": "normal",
+    "name": "[劇場版]交換所A",
+    "assetbundleName": "icon_movie_ticket",
+    "startAt": 1743091200000,
+    "endAt": 1746028799000,
+    "materialExchanges": [
+      {
+        "id": 4001001,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2890,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001001,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001001,
+            "costGroupId": 4001001,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "id": 4001002,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2880,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001002,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001002,
+            "costGroupId": 4001002,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001003,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2870,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001003,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001003,
+            "costGroupId": 4001003,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001004,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2860,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001004,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001004,
+            "costGroupId": 4001004,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001005,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2850,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001005,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001005,
+            "costGroupId": 4001005,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001006,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2840,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001006,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001006,
+            "costGroupId": 4001006,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001007,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2830,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001007,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001007,
+            "costGroupId": 4001007,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001008,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2820,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001008,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001008,
+            "costGroupId": 4001008,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001009,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2810,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001009,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001009,
+            "costGroupId": 4001009,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001010,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2800,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001010,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001010,
+            "costGroupId": 4001010,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001011,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2790,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001011,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001011,
+            "costGroupId": 4001011,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001012,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2780,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001012,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001012,
+            "costGroupId": 4001012,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001013,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2770,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001013,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001013,
+            "costGroupId": 4001013,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001014,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2760,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001014,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001014,
+            "costGroupId": 4001014,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001015,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2750,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001015,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001015,
+            "costGroupId": 4001015,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001016,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2740,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001016,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001016,
+            "costGroupId": 4001016,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001017,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2730,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001017,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001017,
+            "costGroupId": 4001017,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001018,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2720,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001018,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001018,
+            "costGroupId": 4001018,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001019,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2710,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001019,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001019,
+            "costGroupId": 4001019,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001020,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2700,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001020,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001020,
+            "costGroupId": 4001020,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001021,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2690,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001021,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001021,
+            "costGroupId": 4001021,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001022,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2680,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001022,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001022,
+            "costGroupId": 4001022,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001023,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2670,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001023,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001023,
+            "costGroupId": 4001023,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001024,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2660,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001024,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001024,
+            "costGroupId": 4001024,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001025,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2650,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001025,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001025,
+            "costGroupId": 4001025,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001026,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2640,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001026,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001026,
+            "costGroupId": 4001026,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001027,
+        "materialExchangeSummaryId": 4002,
+        "seq": 2630,
+        "isDisplayQuantity": false,
+        "resourceBoxId": 4001027,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "costs": [
+          {
+            "materialExchangeId": 4001027,
+            "costGroupId": 4001027,
+            "seq": 1,
+            "resourceId": 4001,
             "quantity": 1
           }
         ]

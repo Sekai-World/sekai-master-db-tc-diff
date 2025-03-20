@@ -5486,20 +5486,102 @@
     "virtualShopType": "birthday"
   },
   {
-    "id": 304,
-    "name": "カウントダウンライブ\/ハッピーニューイヤーライブ",
+    "id": 262,
+    "name": "みのり BIRTHDAY",
     "virtualShopItems": [
       {
-        "id": 489,
-        "virtualShopId": 304,
-        "virtualShopItemType": "coordinate",
-        "seq": 99816,
-        "resourceBoxId": 385,
-        "costPaidJewel": 1000,
-        "startAt": 1735628400000
+        "id": 439,
+        "virtualShopId": 262,
+        "virtualShopItemType": "accessory",
+        "seq": 99881,
+        "resourceBoxId": 335,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1745132400000
       }
     ],
-    "virtualShopType": "special_live"
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 263,
+    "name": "第128回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 440,
+        "virtualShopId": 263,
+        "virtualShopItemType": "coordinate",
+        "seq": 99831,
+        "resourceBoxId": 336,
+        "costPaidJewel": 1000,
+        "startAt": 1745823600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 264,
+    "name": "絵名 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 441,
+        "virtualShopId": 264,
+        "virtualShopItemType": "accessory",
+        "seq": 99880,
+        "resourceBoxId": 337,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1745996400000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 265,
+    "name": "第129回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 442,
+        "virtualShopId": 265,
+        "virtualShopItemType": "coordinate",
+        "seq": 99830,
+        "resourceBoxId": 338,
+        "costPaidJewel": 1000,
+        "startAt": 1746601200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 266,
+    "name": "咲希 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 443,
+        "virtualShopId": 266,
+        "virtualShopItemType": "penlight",
+        "seq": 99911,
+        "resourceBoxId": 339,
+        "costPaidJewel": 1000,
+        "startAt": 1746792000000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 267,
+    "name": "第130回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 444,
+        "virtualShopId": 267,
+        "virtualShopItemType": "coordinate",
+        "seq": 99829,
+        "resourceBoxId": 340,
+        "costPaidJewel": 1000,
+        "startAt": 1747292400000
+      }
+    ],
+    "virtualShopType": "event"
   },
   {
     "id": 1003,

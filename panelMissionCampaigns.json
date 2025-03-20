@@ -1,1 +1,1624 @@
-[]
+[
+  {
+    "id": 3001,
+    "name": "3.5週年紀念集章任務",
+    "assetbundleName": "3rd_anniv_pm",
+    "bgmAssetbundleName": "world_3900_anniversary_bgm",
+    "selectableLimit": 3,
+    "startAt": 1743307200000,
+    "progressEndAt": 1744473599000,
+    "closedAt": 1746460799000,
+    "informationId": 11796,
+    "panelMissionSheetGroups": [
+      {
+        "id": 300101,
+        "panelMissionCampaignId": 3001,
+        "name": "團體",
+        "selectableLimit": 2,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 30010101,
+            "panelMissionSheetGroupId": 300101,
+            "name": "「VIRTUAL SINGER」珍愛卡 ",
+            "seq": 1,
+            "assetbundleName": "sheet_piapro",
+            "panelMissions": [
+              {
+                "id": 30010101,
+                "panelMissionSheetId": 30010101,
+                "name": "僅以團體成員\n進行10次LIVE",
+                "description": "僅以虛擬歌手成員編成團體並進行10次LIVE吧。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010102,
+                "panelMissionSheetId": 30010101,
+                "name": "穿著應援造型服裝\n參加1次虛擬LIVE",
+                "description": "穿著虛擬歌手的「應援法被」或成員的「粉絲T恤」，參加1次虛擬LIVE吧。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010103,
+                "panelMissionSheetId": 30010101,
+                "name": "選擇團體音樂\n進行10次LIVE",
+                "description": "以音樂選擇畫面的虛擬歌手分頁中的歌曲進行10次LIVE吧。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010104,
+                "panelMissionSheetId": 30010101,
+                "name": "選擇團體成員的\nAnother Vocal ver.\n並進行10次LIVE",
+                "description": "選擇主唱中有虛擬歌手成員的Another Vocal ver.歌曲並進行10次LIVE吧。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010105,
+                "panelMissionSheetId": 30010101,
+                "name": "2個人\n使用粉絲稱號\n通過1次「多人LIVE」",
+                "description": "2人使用虛擬歌手的粉絲稱號，並通過1次「多人LIVE」吧。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010106,
+                "panelMissionSheetId": 30010101,
+                "name": "獲得4套\n團體成員的\n演出服裝",
+                "description": "獲得4套虛擬歌手成員的演出服裝吧。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010107,
+                "panelMissionSheetId": 30010101,
+                "name": "迎接團體成員10次",
+                "description": "迎接虛擬歌手成員10次吧。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1466
+              ]
+            ]
+          },
+          {
+            "id": 30010102,
+            "panelMissionSheetGroupId": 300101,
+            "name": "「Leo\/need」珍愛卡 ",
+            "seq": 2,
+            "assetbundleName": "sheet_light_sound",
+            "panelMissions": [
+              {
+                "id": 30010108,
+                "panelMissionSheetId": 30010102,
+                "name": "僅以團體成員\n進行10次LIVE",
+                "description": "僅以包含副團體為Leo\/need的成員編成團體並進行10次LIVE吧。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010109,
+                "panelMissionSheetId": 30010102,
+                "name": "穿著應援造型服裝\n參加1次虛擬LIVE",
+                "description": "穿著Leo\/need的「應援法被」或成員的「粉絲T恤」，參加1次虛擬LIVE吧。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010110,
+                "panelMissionSheetId": 30010102,
+                "name": "選擇團體音樂\n進行10次LIVE",
+                "description": "以音樂選擇畫面的Leo\/need分頁中的歌曲進行10次LIVE吧。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010111,
+                "panelMissionSheetId": 30010102,
+                "name": "選擇團體成員的\nAnother Vocal ver.\n並進行10次LIVE",
+                "description": "選擇主唱中有Leo\/need成員的Another Vocal ver.歌曲並進行10次LIVE吧。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010112,
+                "panelMissionSheetId": 30010102,
+                "name": "2個人\n使用粉絲稱號\n通過1次「多人LIVE」",
+                "description": "2人使用Leo\/need的粉絲稱號，並通過1次「多人LIVE」吧。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010113,
+                "panelMissionSheetId": 30010102,
+                "name": "獲得4套\n團體成員的\n演出服裝",
+                "description": "獲得4套Leo\/need成員的演出服裝吧。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010114,
+                "panelMissionSheetId": 30010102,
+                "name": "迎接團體成員10次",
+                "description": "迎接Leo\/need成員10次吧。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1467
+              ]
+            ]
+          },
+          {
+            "id": 30010103,
+            "panelMissionSheetGroupId": 300101,
+            "name": "「MORE MORE JUMP！」珍愛卡 ",
+            "seq": 3,
+            "assetbundleName": "sheet_idol",
+            "panelMissions": [
+              {
+                "id": 30010115,
+                "panelMissionSheetId": 30010103,
+                "name": "僅以團體成員\n進行10次LIVE",
+                "description": "僅以包含副團體為MORE MORE JUMP！的成員編成團體並進行10次LIVE吧。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010116,
+                "panelMissionSheetId": 30010103,
+                "name": "穿著應援造型服裝\n參加1次虛擬LIVE",
+                "description": "穿著MORE MORE JUMP！的「應援法被」或成員的「粉絲T恤」，參加1次虛擬LIVE吧。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010117,
+                "panelMissionSheetId": 30010103,
+                "name": "選擇團體音樂\n進行10次LIVE",
+                "description": "以音樂選擇畫面的MORE MORE JUMP！分頁中的歌曲進行10次LIVE吧。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010118,
+                "panelMissionSheetId": 30010103,
+                "name": "選擇團體成員的\nAnother Vocal ver.\n並進行10次LIVE",
+                "description": "選擇主唱中有MORE MORE JUMP！成員的Another Vocal ver.歌曲並進行10次LIVE吧。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010119,
+                "panelMissionSheetId": 30010103,
+                "name": "2個人\n使用粉絲稱號\n通過1次「多人LIVE」",
+                "description": "2人使用MORE MORE JUMP！的粉絲稱號，並通過1次「多人LIVE」吧。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010120,
+                "panelMissionSheetId": 30010103,
+                "name": "獲得4套\n團體成員的\n演出服裝",
+                "description": "獲得4套MORE MORE JUMP！成員的演出服裝吧。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010121,
+                "panelMissionSheetId": 30010103,
+                "name": "迎接團體成員10次",
+                "description": "迎接MORE MORE JUMP！成員10次吧。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1468
+              ]
+            ]
+          },
+          {
+            "id": 30010104,
+            "panelMissionSheetGroupId": 300101,
+            "name": "「Vivid BAD SQUAD」珍愛卡 ",
+            "seq": 4,
+            "assetbundleName": "sheet_street",
+            "panelMissions": [
+              {
+                "id": 30010122,
+                "panelMissionSheetId": 30010104,
+                "name": "僅以團體成員\n進行10次LIVE",
+                "description": "僅以包含副團體為Vivid BAD SQUAD的成員編成團體並進行10次LIVE吧。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010123,
+                "panelMissionSheetId": 30010104,
+                "name": "穿著應援造型服裝\n參加1次虛擬LIVE",
+                "description": "穿著Vivid BAD SQUAD的「應援法被」或成員的「粉絲T恤」，參加1次虛擬LIVE吧。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010124,
+                "panelMissionSheetId": 30010104,
+                "name": "選擇團體音樂\n進行10次LIVE",
+                "description": "以音樂選擇畫面的Vivid BAD SQUAD分頁中的歌曲進行10次LIVE吧。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010125,
+                "panelMissionSheetId": 30010104,
+                "name": "選擇團體成員的\nAnother Vocal ver.\n並進行10次LIVE",
+                "description": "選擇主唱中有Vivid BAD SQUAD成員的Another Vocal ver.歌曲並進行10次LIVE吧。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010126,
+                "panelMissionSheetId": 30010104,
+                "name": "2個人\n使用粉絲稱號\n通過1次「多人LIVE」",
+                "description": "2人使用Vivid BAD SQUAD的粉絲稱號，並通過1次「多人LIVE」吧。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010127,
+                "panelMissionSheetId": 30010104,
+                "name": "獲得4套\n團體成員的\n演出服裝",
+                "description": "獲得4套Vivid BAD SQUAD成員的演出服裝吧。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010128,
+                "panelMissionSheetId": 30010104,
+                "name": "迎接團體成員10次",
+                "description": "迎接Vivid BAD SQUAD成員10次吧。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1469
+              ]
+            ]
+          },
+          {
+            "id": 30010105,
+            "panelMissionSheetGroupId": 300101,
+            "name": "「Wonderlands×Showtime」珍愛卡",
+            "seq": 5,
+            "assetbundleName": "sheet_theme_park",
+            "panelMissions": [
+              {
+                "id": 30010129,
+                "panelMissionSheetId": 30010105,
+                "name": "僅以團體成員\n進行10次LIVE",
+                "description": "僅以包含副團體為Wonderlands×Showtime的成員編成團體並進行10次LIVE吧。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010130,
+                "panelMissionSheetId": 30010105,
+                "name": "穿著應援造型服裝\n參加1次虛擬LIVE",
+                "description": "穿著Wonderlands×Showtime的「應援法被」或成員的「粉絲T恤」，參加1次虛擬LIVE吧。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010131,
+                "panelMissionSheetId": 30010105,
+                "name": "選擇團體音樂\n進行10次LIVE",
+                "description": "以音樂選擇畫面的Wonderlands×Showtime分頁中的歌曲進行10次LIVE吧。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010132,
+                "panelMissionSheetId": 30010105,
+                "name": "選擇團體成員的\nAnother Vocal ver.\n並進行10次LIVE",
+                "description": "選擇主唱中有Wonderlands×Showtime成員的Another Vocal ver.歌曲並進行10次LIVE吧。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010133,
+                "panelMissionSheetId": 30010105,
+                "name": "2個人\n使用粉絲稱號\n通過1次「多人LIVE」",
+                "description": "2人使用Wonderlands×Showtime的粉絲稱號，並通過1次「多人LIVE」吧。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010134,
+                "panelMissionSheetId": 30010105,
+                "name": "獲得4套\n團體成員的\n演出服裝",
+                "description": "獲得4套Wonderlands×Showtime成員的演出服裝吧。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010135,
+                "panelMissionSheetId": 30010105,
+                "name": "迎接團體成員10次",
+                "description": "迎接Wonderlands×Showtime成員10次吧。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1470
+              ]
+            ]
+          },
+          {
+            "id": 30010106,
+            "panelMissionSheetGroupId": 300101,
+            "name": "「25點，Nightcord見。」珍愛卡",
+            "seq": 6,
+            "assetbundleName": "sheet_school_refusal",
+            "panelMissions": [
+              {
+                "id": 30010136,
+                "panelMissionSheetId": 30010106,
+                "name": "僅以團體成員\n進行10次LIVE",
+                "description": "僅以包含副團體為25點，Nightcord見。的成員編成團體並進行10次LIVE吧。",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010137,
+                "panelMissionSheetId": 30010106,
+                "name": "穿著應援造型服裝\n參加1次虛擬LIVE",
+                "description": "穿著25點，Nightcord見。的「應援法被」或成員的「粉絲T恤」，參加1次虛擬LIVE吧。",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010138,
+                "panelMissionSheetId": 30010106,
+                "name": "選擇團體音樂\n進行10次LIVE",
+                "description": "以音樂選擇畫面的25點，Nightcord見。分頁中的歌曲進行10次LIVE吧。",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010139,
+                "panelMissionSheetId": 30010106,
+                "name": "選擇團體成員的\nAnother Vocal ver.\n並進行10次LIVE",
+                "description": "選擇主唱中有25點，Nightcord見。成員的Another Vocal ver.歌曲並進行10次LIVE吧。",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010140,
+                "panelMissionSheetId": 30010106,
+                "name": "2個人\n使用粉絲稱號\n通過1次「多人LIVE」",
+                "description": "2人使用25點，Nightcord見。的粉絲稱號，並通過1次「多人LIVE」吧。",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010141,
+                "panelMissionSheetId": 30010106,
+                "name": "獲得4套\n團體成員的\n演出服裝",
+                "description": "獲得4套25點，Nightcord見。成員的演出服裝吧。",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010142,
+                "panelMissionSheetId": 30010106,
+                "name": "迎接團體成員10次",
+                "description": "迎接25點，Nightcord見。成員10次吧。",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1471
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 300102,
+        "panelMissionCampaignId": 3001,
+        "name": "遊玩",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 30010201,
+            "panelMissionSheetGroupId": 300102,
+            "name": "休閒體驗卡 ",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_try",
+            "panelMissions": [
+              {
+                "id": 30010143,
+                "panelMissionSheetId": 30010201,
+                "name": "通過1次\n《はじまりの未来》",
+                "description": "通過1次歌曲《はじまりの未来》吧。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010144,
+                "panelMissionSheetId": 30010201,
+                "name": "多人LIVE\n通過10次",
+                "description": "通過10次「多人LIVE」吧。",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010145,
+                "panelMissionSheetId": 30010201,
+                "name": "將特別成員\n養成到等級50",
+                "description": "將成員「[玩累了] 花里实乃里」養成到等級50吧。",
+                "seq": 3,
+                "panelMissionType": "card_level_up",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010146,
+                "panelMissionSheetId": 30010201,
+                "name": "觀看活動「Rise as ONE！」\n最後一章的活動劇情",
+                "description": "觀看「Rise as ONE!」最後一章的活動劇情吧。",
+                "seq": 4,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010147,
+                "panelMissionSheetId": 30010201,
+                "name": "參加1次\n「Rise as ONE!\nAFTER LIVE」",
+                "description": "參加1次「Rise as ONE!  AFTER LIVE」吧。",
+                "seq": 5,
+                "panelMissionType": "join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010148,
+                "panelMissionSheetId": 30010201,
+                "name": "累計獲得\n20萬活動P",
+                "description": "累計獲得20萬活動P吧。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 200000,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010149,
+                "panelMissionSheetId": 30010201,
+                "name": "招募1次\n「[3.5週年紀念]\n10連免費招募」吧",
+                "description": "招募1次「[3.5週年紀念]10連免費招募」吧。",
+                "seq": 7,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1472
+              ]
+            ]
+          },
+          {
+            "id": 30010202,
+            "panelMissionSheetGroupId": 300102,
+            "name": "標準體驗卡",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_try",
+            "panelMissions": [
+              {
+                "id": 30010150,
+                "panelMissionSheetId": 30010202,
+                "name": "通過10次\n《はじまりの未来》",
+                "description": "通過10次歌曲《はじまりの未来》吧。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010151,
+                "panelMissionSheetId": 30010202,
+                "name": "5人全員\n以FULL COMBO\n通過1次",
+                "description": "5人全員以FULL COMBO通過1次「多人LIVE」吧。",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear_party_full_combo",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010152,
+                "panelMissionSheetId": 30010202,
+                "name": "達成15次\n「SUPER FEVER」",
+                "description": "在「多人LIVE」中達成15次「SUPER FEVER」吧。",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010153,
+                "panelMissionSheetId": 30010202,
+                "name": "上午與下午\n各遊玩10次LIVE",
+                "description": "在「00:00～11:59」、「12:00～23:59」這兩個時間段各遊玩10次LIVE吧。",
+                "seq": 4,
+                "panelMissionType": "live_clear_am_pm",
+                "requirement1": 2,
+                "requirement2": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010154,
+                "panelMissionSheetId": 30010202,
+                "name": "獲得10次「MVP、\nSUPER STAR、ACE」",
+                "description": "在「多人LIVE」中累計獲得10次「MVP、SUPER STAR、ACE」吧。",
+                "seq": 5,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010155,
+                "panelMissionSheetId": 30010202,
+                "name": "累計獲得\n40萬活動P",
+                "description": "累計獲得40萬活動P吧。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 400000,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010156,
+                "panelMissionSheetId": 30010202,
+                "name": "累計獲得20000次\nPERFECT判定",
+                "description": "在LIVE中累計獲得20000次PERFECT判定吧。",
+                "seq": 7,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 20000,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1473
+              ]
+            ]
+          },
+          {
+            "id": 30010203,
+            "panelMissionSheetGroupId": 300102,
+            "name": "無限體驗卡",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_try",
+            "panelMissions": [
+              {
+                "id": 30010157,
+                "panelMissionSheetId": 30010203,
+                "name": "5人全員通過10次\n多人LIVE",
+                "description": "5位好友一起通過10次「多人LIVE」吧。",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_with_friends",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010158,
+                "panelMissionSheetId": 30010203,
+                "name": "5人全員\n以FULL COMBO\n通過3次多人LIVE",
+                "description": "5人全員以FULL COMBO通過3次「多人LIVE」吧。",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear_party_full_combo",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010159,
+                "panelMissionSheetId": 30010203,
+                "name": "達成40次\n「SUPER FEVER」",
+                "description": "在「多人LIVE」中達成40次「SUPER FEVER」吧。",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 40,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010160,
+                "panelMissionSheetId": 30010203,
+                "name": "上午與下午\n各遊玩30次LIVE",
+                "description": "在「00:00～11:59」、「12:00～23:59」這兩個時間段各遊玩30次LIVE吧。",
+                "seq": 4,
+                "panelMissionType": "live_clear_am_pm",
+                "requirement1": 2,
+                "requirement2": 30,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010161,
+                "panelMissionSheetId": 30010203,
+                "name": "獲得30次「MVP、\nSUPER STAR、ACE」",
+                "description": "在「多人LIVE」中累計獲得30次「MVP、SUPER STAR、ACE」吧。",
+                "seq": 5,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010162,
+                "panelMissionSheetId": 30010203,
+                "name": "累計獲得\n100萬活動P",
+                "description": "累計獲得100萬活動P吧。",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010163,
+                "panelMissionSheetId": 30010203,
+                "name": "累計獲得100000次\nPERFECT判定",
+                "description": "在LIVE中累計獲得100000次PERFECT判定吧。",
+                "seq": 7,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 100000,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1474
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 300103,
+        "panelMissionCampaignId": 3001,
+        "name": "招募",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 30010301,
+            "panelMissionSheetGroupId": 300103,
+            "name": "黃金精選卡",
+            "seq": 1,
+            "assetbundleName": "sheet_gold_select",
+            "panelMissions": [
+              {
+                "id": 30010164,
+                "panelMissionSheetId": 30010301,
+                "name": "招募30次\n「七彩慶典、\n期間限定招募」",
+                "description": "招募30次「[3.5週年紀念]七彩慶典招募 夢幻選秀」或「Play with dogs招募」吧。",
+                "seq": 1,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010165,
+                "panelMissionSheetId": 30010301,
+                "name": "招募1次\n「歡樂禮物包招募」",
+                "description": "招募1次「[3.5週年紀念] 歡樂禮物包招募」吧。",
+                "seq": 2,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010166,
+                "panelMissionSheetId": 30010301,
+                "name": "招募1次\n「高級\n禮物招募」",
+                "description": "招募1次「[3.5週年紀念]高級禮物招募」吧。",
+                "seq": 3,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010167,
+                "panelMissionSheetId": 30010301,
+                "name": "購買任一種類的\n「[3.5週年]\n紀念組合包」",
+                "description": "在水晶商店中購買任一種類的「[3.5週年]紀念組合包」吧。（端外禮包不計入）",
+                "seq": 4,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010168,
+                "panelMissionSheetId": 30010301,
+                "name": "購買2025\/4的\n「高階\n任務通行證」\n（不含特殊版）",
+                "description": "購買2025年4月的「高階任務通行證」吧。（不含特殊版）",
+                "seq": 5,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010169,
+                "panelMissionSheetId": 30010301,
+                "name": "累積達\n3000點\n應援點數",
+                "description": "在虛擬LIVE中累積達3000點應援點數吧。",
+                "seq": 6,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 3000,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010170,
+                "panelMissionSheetId": 30010301,
+                "name": "在水晶商店購買1次\n[3.5週年紀念]水晶B\/D",
+                "description": "在水晶商店購買1次[3.5週年紀念]水晶B\/D吧。",
+                "seq": 7,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1475
+              ]
+            ]
+          },
+          {
+            "id": 30010302,
+            "panelMissionSheetGroupId": 300103,
+            "name": "鑽石精選卡",
+            "seq": 2,
+            "assetbundleName": "sheet_diamond_select",
+            "panelMissions": [
+              {
+                "id": 30010171,
+                "panelMissionSheetId": 30010302,
+                "name": "招募100次\n「七彩慶典、\n期間限定招募」",
+                "description": "招募100次「[3.5週年紀念]七彩慶典招募 夢幻選秀」或「Play with dogs招募」吧。",
+                "seq": 1,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010172,
+                "panelMissionSheetId": 30010302,
+                "name": "招募1次\n「歡樂禮物包招募」",
+                "description": "招募1次「[3.5週年紀念] 歡樂禮物包招募」吧。",
+                "seq": 2,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010173,
+                "panelMissionSheetId": 30010302,
+                "name": "招募2次\n「高級\n禮物招募」",
+                "description": "招募2次「[3.5週年紀念]高級禮物招募」吧。",
+                "seq": 3,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010174,
+                "panelMissionSheetId": 30010302,
+                "name": "購買任一種類的\n[3.5週年紀念]紀念\n組合包",
+                "description": "在水晶商店中購買任一種類的「[3.5週年] 紀念組合包」吧。（包括BEGINNING\/BRIGHT\/BRILLIANT\/BLESSING組合包）",
+                "seq": 4,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010175,
+                "panelMissionSheetId": 30010302,
+                "name": "購買2025\/4的\n「高階\n任務通行證」\n（不含特殊版）",
+                "description": "購買2025年4月的「高階任務通行證」吧。（不含特殊版）",
+                "seq": 5,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010176,
+                "panelMissionSheetId": 30010302,
+                "name": "招募1次\n「選擇清單招募\nLIMITED EDITION」",
+                "description": "招募1次「[3.5週年紀念]選擇清單招募 LIMITED EDITION」吧。",
+                "seq": 6,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010177,
+                "panelMissionSheetId": 30010302,
+                "name": "在水晶商店購買1次\n[3.5週年紀念]水晶G\/F",
+                "description": "在水晶商店購買1次[3.5週年紀念]水晶G\/F吧。",
+                "seq": 7,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1476
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 300104,
+        "panelMissionCampaignId": 3001,
+        "name": "節奏遊戲",
+        "selectableLimit": 1,
+        "seq": 4,
+        "panelMissionSheets": [
+          {
+            "id": 30010401,
+            "panelMissionSheetGroupId": 300104,
+            "name": "輕鬆節奏卡",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_gamer",
+            "panelMissions": [
+              {
+                "id": 30010178,
+                "panelMissionSheetId": 30010401,
+                "name": "以FULL COMBO\n通過歌曲10次",
+                "description": "以FULL COMBO通過歌曲10次吧。",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010179,
+                "panelMissionSheetId": 30010401,
+                "name": "使用鏡像譜面\n進行3次LIVE",
+                "description": "使用鏡像譜面通過歌曲3次吧。",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_mirror",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010180,
+                "panelMissionSheetId": 30010401,
+                "name": "使用2DMV、\n原曲MV模式\n進行3次LIVE",
+                "description": "使用2DMV、原曲MV模式歌曲3次吧。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_mv_2d_or_original",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010181,
+                "panelMissionSheetId": 30010401,
+                "name": "使用3DMV模式\n進行3次LIVE",
+                "description": "使用3DMV歌曲3次吧。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_mv_3d",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010182,
+                "panelMissionSheetId": 30010401,
+                "name": "提升成員技能1次",
+                "description": "提升成員技能1次吧。",
+                "seq": 5,
+                "panelMissionType": "any_member_skill_up",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010183,
+                "panelMissionSheetId": 30010401,
+                "name": "獲得20張音樂卡",
+                "description": "獲得20張音樂卡吧。",
+                "seq": 6,
+                "panelMissionType": "collect_material",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010184,
+                "panelMissionSheetId": 30010401,
+                "name": "以劇場版電影聯動&3.5週年\n所追加的歌曲\n進行30次LIVE",
+                "description": "以劇場版電影聯動&3.5週年所追加的歌曲進行10次LIVE吧。",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1477
+              ]
+            ]
+          },
+          {
+            "id": 30010402,
+            "panelMissionSheetGroupId": 300104,
+            "name": "挑戰節奏卡",
+            "seq": 2,
+            "assetbundleName": "sheet_heavy_gamer",
+            "panelMissions": [
+              {
+                "id": 30010185,
+                "panelMissionSheetId": 30010402,
+                "name": "以FULL COMBO\n通過Lv.27～28的\n歌曲10次",
+                "description": "以FULL COMBO通過Lv.27～28的歌曲10次吧。（也包含難易度APPEND）",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010186,
+                "panelMissionSheetId": 30010402,
+                "name": "以FULL COMBO\n通過Lv.29的\n歌曲10次",
+                "description": "以FULL COMBO通過Lv.29的歌曲10次吧。（也包含難易度APPEND）",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010187,
+                "panelMissionSheetId": 30010402,
+                "name": "通過Lv.30以上的\n歌曲10次",
+                "description": "以FULL COMBO通過Lv.30的歌曲10次吧。（也包含難易度APPEND）",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010188,
+                "panelMissionSheetId": 30010402,
+                "name": "以AP通過\n3次EXPERT以上",
+                "description": "在難易度EXPERT、MASTER、APPEND任一難度下，ALL PERFECT通過歌曲3次吧。",
+                "seq": 4,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010189,
+                "panelMissionSheetId": 30010402,
+                "name": "以段位配對\n進行10次LIVE",
+                "description": "以「段位配對」進行10次LIVE吧。",
+                "seq": 5,
+                "panelMissionType": "live_clear_rank_match",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010190,
+                "panelMissionSheetId": 30010402,
+                "name": "以劇場版電影聯動&3.5週年\n所追加的歌曲\n進行30次LIVE",
+                "description": "以劇場版電影聯動&3.5週年所追加的歌曲進行30次LIVE吧。",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010191,
+                "panelMissionSheetId": 30010402,
+                "name": "以FULL COMBO\n通過《はじまりの未来》\n5種難易度",
+                "description": "以FULL COMBO通過歌曲《はじまりの未来》的5種難易度吧。(對象難易度為EASY\/NORMAL\/HARD\/EXPERT\/MASTER\/APPEND）",
+                "seq": 7,
+                "panelMissionType": "live_clear_full_combo_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1478
+              ]
+            ]
+          },
+          {
+            "id": 30010403,
+            "panelMissionSheetGroupId": 300104,
+            "name": "終極節奏卡",
+            "seq": 3,
+            "assetbundleName": "sheet_pro",
+            "panelMissions": [
+              {
+                "id": 30010192,
+                "panelMissionSheetId": 30010403,
+                "name": "以FULL COMBO\n通過Lv.30～31的\n歌曲10次",
+                "description": "以FULL COMBO通過Lv.30～31的歌曲10次吧。（也包含難易度APPEND）",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010193,
+                "panelMissionSheetId": 30010403,
+                "name": "以FULL COMBO\n通過Lv.32的\n歌曲10次",
+                "description": "以FULL COMBO通過Lv.32的歌曲10次吧。（也包含難易度APPEND）",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010194,
+                "panelMissionSheetId": 30010403,
+                "name": "通過\nLv.33以上的\n歌曲10次",
+                "description": "通過Lv.33的歌曲10次吧。（也包含難易度APPEND）",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010195,
+                "panelMissionSheetId": 30010403,
+                "name": "以MASTER以上\n且AP\n通過3次",
+                "description": "以難易度MASTER、APPEND以上且ALL PERFECT通過3次歌曲吧。",
+                "seq": 4,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010196,
+                "panelMissionSheetId": 30010403,
+                "name": "以段位配對\n進行20次LIVE",
+                "description": "以「段位配對」進行20次LIVE吧。",
+                "seq": 5,
+                "panelMissionType": "live_clear_rank_match",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010197,
+                "panelMissionSheetId": 30010403,
+                "name": "以AP通過\n《はじまりの未来》\n5種難易度",
+                "description": "以ALL PERFECT通過歌曲《はじまりの未来》的5種難易度吧。(對象難易度為EASY\/NORMAL\/HARD\/EXPERT\/MASTER\/APPEND）",
+                "seq": 6,
+                "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              },
+              {
+                "id": 30010198,
+                "panelMissionSheetId": 30010403,
+                "name": "以AP通過\n《Worlders》\n5種難易度",
+                "description": "以ALL PERFECT通過歌曲《Worlders》的5種難易度吧。(對象難易度為EASY\/NORMAL\/HARD\/EXPERT\/MASTER\/APPEND）",
+                "seq": 7,
+                "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    9999
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1479
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
