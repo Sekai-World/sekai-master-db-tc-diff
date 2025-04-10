@@ -20,16 +20,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 875,
-    "seq": 50,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha484",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 484,
-    "startAt": 1743307200000,
-    "endAt": 1743739199000
-  },
-  {
     "homeBannerId": 879,
     "seq": 190,
     "homeBannerType": "general",
@@ -40,16 +30,6 @@
     "endAt": 1746028799000
   },
   {
-    "homeBannerId": 882,
-    "seq": 170,
-    "homeBannerType": "event",
-    "assetbundleName": "event_rise_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 126,
-    "startAt": 1743318000000,
-    "endAt": 1744268399000
-  },
-  {
     "homeBannerId": 883,
     "seq": 150,
     "homeBannerType": "general",
@@ -57,6 +37,26 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1743307200000,
     "endAt": 1746028799000
+  },
+  {
+    "homeBannerId": 885,
+    "seq": 170,
+    "homeBannerType": "event",
+    "assetbundleName": "event_unseen_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 127,
+    "startAt": 1744268400000,
+    "endAt": 1745132399000
+  },
+  {
+    "homeBannerId": 887,
+    "seq": 180,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha490",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 490,
+    "startAt": 1744257600000,
+    "endAt": 1745121599000
   },
   {
     "homeBannerId": 10037,
@@ -94,15 +94,5 @@
     "transitionDestinationId": 2038,
     "startAt": 1743264000000,
     "endAt": 1744430399000
-  },
-  {
-    "homeBannerId": 10101,
-    "seq": 1,
-    "homeBannerType": "return",
-    "assetbundleName": "banner_gacha2001",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1100,
-    "startAt": 1741032000000,
-    "endAt": 1743623999000
   }
 ]
