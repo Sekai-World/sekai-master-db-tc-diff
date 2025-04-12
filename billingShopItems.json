@@ -6517,6 +6517,34 @@
     "saleType": "exchange"
   },
   {
+    "id": 30108,
+    "seq": 300616,
+    "billingShopItemType": "costume_3d",
+    "description": "WCS 2024 EDITION主题服装\n",
+    "resourceBoxId": "count",
+    "bonusResourceBoxId": 1,
+    "startAt": "none",
+    "billableLimitType": "shop_1535",
+    "billableLimitValue": 30108,
+    "label": 1745380800000,
+    "saleType": "exchange"
+  },
+  {
+    "id": 50001,
+    "seq": 300611,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1227,
+    "description": "[花里實乃理]生日組合包",
+    "resourceBoxId": "count",
+    "bonusResourceBoxId": 1,
+    "startAt": "none",
+    "billableLimitType": "shop_bd_mnr1",
+    "billableLimitValue": 50001,
+    "billableLimitResetIntervalValue": "生日限定",
+    "label": 1744560000000,
+    "purchaseOption": 1745164740000
+  },
+  {
     "id": 300000,
     "seq": 300000,
     "billingShopItemType": "costume_3d",
