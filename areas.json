@@ -192,6 +192,21 @@
     "releaseConditionId": 1
   },
   {
+    "id": 17,
+    "assetbundleName": "area17",
+    "groupId": 50,
+    "isBaseArea": false,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "none",
+    "name": "教室的「世界」",
+    "subName": "駅",
+    "startAt": 1753790400000,
+    "releaseConditionId": 113605,
+    "releaseConditionId2": 113900
+  },
+  {
     "id": 18,
     "assetbundleName": "area18",
     "groupId": 60,
@@ -201,9 +216,10 @@
     "displayTimelineType": "next_grade",
     "additionalAreaType": "none",
     "name": "舞台的「世界」",
-    "subName": "花畑",
+    "subName": "花田",
     "startAt": 1747828800000,
-    "releaseConditionId": 112905
+    "releaseConditionId": 112905,
+    "releaseConditionId2": 113900
   },
   {
     "id": 19,
@@ -217,7 +233,8 @@
     "name": "街頭的「世界」",
     "subName": "廣場",
     "startAt": 1737460800000,
-    "releaseConditionId": 111705
+    "releaseConditionId": 111705,
+    "releaseConditionId2": 113900
   },
   {
     "id": 20,
@@ -231,7 +248,8 @@
     "name": "奇幻樂園的「世界」",
     "subName": "港口",
     "startAt": 1742472000000,
-    "releaseConditionId": 112305
+    "releaseConditionId": 112305,
+    "releaseConditionId2": 113900
   },
   {
     "id": 21,
@@ -245,7 +263,8 @@
     "name": "空無一人的「世界」",
     "subName": "湖",
     "startAt": 1732104000000,
-    "releaseConditionId": 111105
+    "releaseConditionId": 111105,
+    "releaseConditionId2": 113900
   },
   {
     "id": 22,

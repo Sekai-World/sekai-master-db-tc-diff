@@ -1576,6 +1576,11 @@
     "honorType": "achievement"
   },
   {
+    "id": 309,
+    "name": "總是在身邊",
+    "honorType": "achievement"
+  },
+  {
     "id": 310,
     "name": "手忙腳亂 cafe ●REC!!",
     "honorType": "event",
@@ -1629,6 +1634,11 @@
     "backgroundAssetbundleName": "season_2023_autumn"
   },
   {
+    "id": 319,
+    "name": "HAPPY BIRTHDAY 一歌 2025.8.11",
+    "honorType": "event"
+  },
+  {
     "id": 320,
     "name": "HAPPY BIRTHDAY 咲希 2025.5.9",
     "honorType": "event"
@@ -1669,13 +1679,38 @@
     "honorType": "event"
   },
   {
+    "id": 328,
+    "name": "HAPPY BIRTHDAY 杏 2025.7.26",
+    "honorType": "event"
+  },
+  {
     "id": 329,
     "name": "HAPPY BIRTHDAY 彰人 2024.11.12",
     "honorType": "event"
   },
   {
+    "id": 330,
+    "name": "HAPPY BIRTHDAY 冬彌 2025.5.25",
+    "honorType": "event"
+  },
+  {
     "id": 331,
     "name": "HAPPY BIRTHDAY 司 2025.5.17",
+    "honorType": "event"
+  },
+  {
+    "id": 332,
+    "name": "HAPPY BIRTHDAY 笑夢 2025.9.9",
+    "honorType": "event"
+  },
+  {
+    "id": 333,
+    "name": "HAPPY BIRTHDAY 寧寧 2025.7.20",
+    "honorType": "event"
+  },
+  {
+    "id": 334,
+    "name": "HAPPY BIRTHDAY 類 2025.6.24",
     "honorType": "event"
   },
   {
@@ -1691,6 +1726,16 @@
   {
     "id": 337,
     "name": "HAPPY BIRTHDAY 繪名 2025.4.30",
+    "honorType": "event"
+  },
+  {
+    "id": 338,
+    "name": "HAPPY BIRTHDAY 瑞希 2025.8.27",
+    "honorType": "event"
+  },
+  {
+    "id": 339,
+    "name": "HAPPY ANNIVERSARY 初音未來 2025.8.31",
     "honorType": "event"
   },
   {
@@ -1992,37 +2037,297 @@
   },
   {
     "id": 390,
-    "name": "邁向終將盛開的舞台 綜合",
+    "name": "終將邁向盛開的舞台 綜合",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_blooming"
   },
   {
     "id": 391,
-    "name": "邁向終將盛開的舞台 章節1",
+    "name": "終將邁向盛開的舞台 章節1",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_blooming_cp1",
     "frameName": "event_blooming_cp1"
   },
   {
     "id": 392,
-    "name": "邁向終將盛開的舞台 章節2",
+    "name": "終將邁向盛開的舞台 章節2",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_blooming_cp2",
     "frameName": "event_blooming_cp2"
   },
   {
     "id": 393,
-    "name": "邁向終將盛開的舞台 章節3",
+    "name": "終將邁向盛開的舞台 章節3",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_blooming_cp3",
     "frameName": "event_blooming_cp3"
   },
   {
     "id": 394,
-    "name": "邁向終將盛開的舞台 章節4",
+    "name": "終將邁向盛開的舞台 章節4",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_blooming_cp4",
     "frameName": "event_blooming_cp4"
+  },
+  {
+    "id": 395,
+    "name": "perspective for smile",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_smile"
+  },
+  {
+    "id": 396,
+    "name": "大家一起直播♡WEDDING LIVE！",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wedding"
+  },
+  {
+    "id": 397,
+    "name": "連線LIVE RESONANCE BEATS!!",
+    "honorType": "event"
+  },
+  {
+    "id": 398,
+    "name": "Lead to shine more",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_shine"
+  },
+  {
+    "id": 399,
+    "name": "伸手抓住燈火",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_tomoshibi"
+  },
+  {
+    "id": 400,
+    "name": "OVER RAD SQUAD!!",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_overrad"
+  },
+  {
+    "id": 401,
+    "name": "七夕2025",
+    "honorType": "event"
+  },
+  {
+    "id": 402,
+    "name": "段位配對2025 SUMMER",
+    "honorType": "rank_match",
+    "backgroundAssetbundleName": "season_2024_summer"
+  },
+  {
+    "id": 403,
+    "name": "束手就擒！？天馬逮捕記",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_torimonothou"
+  },
+  {
+    "id": 404,
+    "name": "那一日仰望的夜空，終將通向我們的將來 綜合",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_nightsky"
+  },
+  {
+    "id": 405,
+    "name": "那一日仰望的夜空，終將通向我們的將來 章節1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp1",
+    "frameName": "event_nightsky_cp1"
+  },
+  {
+    "id": 406,
+    "name": "那一日仰望的夜空，終將通向我們的將來 章節2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp2",
+    "frameName": "event_nightsky_cp2"
+  },
+  {
+    "id": 407,
+    "name": "那一日仰望的夜空，終將通向我們的將來 章節3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp3",
+    "frameName": "event_nightsky_cp3"
+  },
+  {
+    "id": 408,
+    "name": "那一日仰望的夜空，終將通向我們的將來 章節4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_nightsky_cp4",
+    "frameName": "event_nightsky_cp4"
+  },
+  {
+    "id": 409,
+    "name": "Chase my IDEAL IDOL!",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_chase"
+  },
+  {
+    "id": 410,
+    "name": "LIVE Master 秘傳",
+    "honorType": "achievement"
+  },
+  {
+    "id": 411,
+    "name": "LIVE Master 真・秘傳",
+    "honorType": "achievement"
+  },
+  {
+    "id": 412,
+    "name": "奏響美妙樂音！",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_beautifulsound"
+  },
+  {
+    "id": 413,
+    "name": "與你一同，在「世界」的起點 綜合",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_beginning"
+  },
+  {
+    "id": 414,
+    "name": "與你一同，在「世界」的起點 章節1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp1",
+    "frameName": "event_beginning_cp1"
+  },
+  {
+    "id": 415,
+    "name": "與你一同，在「世界」的起點 章節2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp2",
+    "frameName": "event_beginning_cp2"
+  },
+  {
+    "id": 416,
+    "name": "與你一同，在「世界」的起點 章節3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp3",
+    "frameName": "event_beginning_cp3"
+  },
+  {
+    "id": 417,
+    "name": "與你一同，在「世界」的起點 章節4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp4",
+    "frameName": "event_beginning_cp4"
+  },
+  {
+    "id": 418,
+    "name": "與你一同，在「世界」的起點 章節5",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp5",
+    "frameName": "event_beginning_cp5"
+  },
+  {
+    "id": 419,
+    "name": "與你一同，在「世界」的起點 章節6",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_beginning_cp6",
+    "frameName": "event_beginning_cp6"
+  },
+  {
+    "id": 420,
+    "name": "Wonderhorror～！？的試膽大會！",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_horror"
+  },
+  {
+    "id": 421,
+    "name": "社群交流盃2024 SUMMER",
+    "honorType": "event"
+  },
+  {
+    "id": 422,
+    "name": "世界計畫全國統一測驗",
+    "honorType": "event"
+  },
+  {
+    "id": 423,
+    "name": "鍛鍊FLY！Muscle Training！",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_muscle"
+  },
+  {
+    "id": 424,
+    "name": "This moment with you!",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_moment"
+  },
+  {
+    "id": 425,
+    "name": "石榴石",
+    "honorType": "achievement"
+  },
+  {
+    "id": 428,
+    "name": "HAPPY BIRTHDAY 穗波 2025.10.27",
+    "honorType": "event"
+  },
+  {
+    "id": 431,
+    "name": "HAPPY BIRTHDAY 遙 2025.10.5",
+    "honorType": "event"
+  },
+  {
+    "id": 436,
+    "name": "HAPPY BIRTHDAY 彰人 2025.11.12",
+    "honorType": "event"
+  },
+  {
+    "id": 450,
+    "name": "HAPPY ANNIVERSARY MEIKO 2025.11.5",
+    "honorType": "event"
+  },
+  {
+    "id": 452,
+    "name": "社群交流盃2025 AUTUMN",
+    "honorType": "event"
+  },
+  {
+    "id": 453,
+    "name": "段位配對2025 AUTUMN",
+    "honorType": "rank_match",
+    "backgroundAssetbundleName": "season_2024_autumn"
+  },
+  {
+    "id": 454,
+    "name": "傾注心意！Dream Stage",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_dreamstage"
+  },
+  {
+    "id": 455,
+    "name": "連線LIVE 4th ANNIVERSARY Brilliant Stage",
+    "honorType": "event"
+  },
+  {
+    "id": 456,
+    "name": "荊棘之路通往何處",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_thorns"
+  },
+  {
+    "id": 457,
+    "name": "Rekindle the flame",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_rekindle"
+  },
+  {
+    "id": 458,
+    "name": "萬聖節2025",
+    "honorType": "event"
+  },
+  {
+    "id": 459,
+    "name": "Happy Enjoy Music!",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_enjoymusic"
+  },
+  {
+    "id": 461,
+    "name": "當秋葉再次染紅之際",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_foliage"
   },
   {
     "id": 10001,

@@ -15589,7 +15589,7 @@
   {
     "id": 128,
     "eventId": 128,
-    "outline": "朝著各自的夢想持續訓練的Wonderlands×Showtime。某一天，被鈴他們叫到「世界」，那邊出現了從未見過的大廣場──！？",
+    "outline": "Leo\/need終於要開始製作出道曲了！只不過，真堂說希望由咲希和一歌兩人一起寫歌。雖然咲希她們一心一意想寫出最棒的歌，卻遲遲寫不出好曲子……",
     "bannerGameCharacterUnitId": 2,
     "assetbundleName": "event_parallel_2024",
     "eventStoryEpisodes": [
@@ -15710,7 +15710,7 @@
   {
     "id": 129,
     "eventId": 129,
-    "outline": "Vivid BAD SQUAD，為了超越RAD WEEKEND，面對謙所提出的功課。冬彌被要求「創作出在活動中要以團體演唱的歌曲」，因此打算盡全力作出一首歌──",
+    "outline": "杏為了達成課題而卯足了勁，但她的歌聲裡摻雜了一絲迷惘。杏發現自己受到內心對心羽動盪的情感所影響，為了做出了斷，她把心羽叫來Vivid Street──",
     "bannerGameCharacterUnitId": 10,
     "assetbundleName": "event_whip_2024",
     "eventStoryEpisodes": [
@@ -15831,7 +15831,7 @@
   {
     "id": 130,
     "eventId": 130,
-    "outline": "在每天的慢跑時，認識了某隻狗和飼主的彰人。他們為了在飛盤狗大賽上成為日本第一而每天努力練習著。但是在大賽前一天，飼主的腳受傷了……",
+    "outline": "MORE MORE JUMP！藉著久違的空檔盡情享受了學校生活。正當她們因前陣子上節目而掀起話題，卯足了勁要繼續努力時，卻在「世界」裡發現了陌生的地點──！？",
     "bannerGameCharacterUnitId": 5,
     "assetbundleName": "event_blooming_2024",
     "eventStoryEpisodes": [
@@ -15980,6 +15980,1348 @@
         "episodeRewards": [
           {
             "resourceBoxId": 83
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "eventId": 131,
+    "outline": "Wonderlands×Showtime在春名劇團的鍛鍊結束了。笑夢等人緊接著拜訪的是擅長武打戲的「劇團三日月組」。他們將在這新天地挑戰極度要求體能的戲碼──！？",
+    "bannerGameCharacterUnitId": 14,
+    "assetbundleName": "event_smile_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001057,
+        "eventStoryId": 131,
+        "episodeNo": 1,
+        "title": "團長現身！",
+        "assetbundleName": "event_smile_2024_01",
+        "scenarioId": "event_131_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001058,
+        "eventStoryId": 131,
+        "episodeNo": 2,
+        "title": "被指派的角色",
+        "assetbundleName": "event_smile_2024_02",
+        "scenarioId": "event_131_02",
+        "releaseConditionId": 113001,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001059,
+        "eventStoryId": 131,
+        "episodeNo": 3,
+        "title": "不足之處",
+        "assetbundleName": "event_smile_2024_03",
+        "scenarioId": "event_131_03",
+        "releaseConditionId": 113002,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001060,
+        "eventStoryId": 131,
+        "episodeNo": 4,
+        "title": "所謂的演戲",
+        "assetbundleName": "event_smile_2024_04",
+        "scenarioId": "event_131_04",
+        "releaseConditionId": 113003,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001061,
+        "eventStoryId": 131,
+        "episodeNo": 5,
+        "title": "特訓！特訓！特訓！",
+        "assetbundleName": "event_smile_2024_05",
+        "scenarioId": "event_131_05",
+        "releaseConditionId": 113004,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001062,
+        "eventStoryId": 131,
+        "episodeNo": 6,
+        "title": "弱點",
+        "assetbundleName": "event_smile_2024_06",
+        "scenarioId": "event_131_06",
+        "releaseConditionId": 113005,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001063,
+        "eventStoryId": 131,
+        "episodeNo": 7,
+        "title": "大家的「視角」",
+        "assetbundleName": "event_smile_2024_07",
+        "scenarioId": "event_131_07",
+        "releaseConditionId": 113006,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001064,
+        "eventStoryId": 131,
+        "episodeNo": 8,
+        "title": "為了把情感傳達出去",
+        "assetbundleName": "event_smile_2024_08",
+        "scenarioId": "event_131_08",
+        "releaseConditionId": 113007,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 84
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "eventId": 132,
+    "outline": "實乃理開始做起自己一個人散步的直播，來當成MORE MORE JUMP！活動的一環。某天，她在觀眾的推薦下，前去參觀「鳳凰・婚禮博覽會」，結果──！？",
+    "bannerGameCharacterUnitId": 5,
+    "assetbundleName": "event_wedding_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001065,
+        "eventStoryId": 132,
+        "episodeNo": 1,
+        "title": "再訪婚禮博覽會！",
+        "assetbundleName": "event_wedding_2024_01",
+        "scenarioId": "event_132_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001066,
+        "eventStoryId": 132,
+        "episodeNo": 2,
+        "title": "我們要一起！？做直播！",
+        "assetbundleName": "event_wedding_2024_02",
+        "scenarioId": "event_132_02",
+        "releaseConditionId": 113101,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001067,
+        "eventStoryId": 132,
+        "episodeNo": 3,
+        "title": "充滿夢想的婚禮",
+        "assetbundleName": "event_wedding_2024_03",
+        "scenarioId": "event_132_03",
+        "releaseConditionId": 113102,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001068,
+        "eventStoryId": 132,
+        "episodeNo": 4,
+        "title": "大家一起聊聊實乃理！",
+        "assetbundleName": "event_wedding_2024_04",
+        "scenarioId": "event_132_04",
+        "releaseConditionId": 113103,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001069,
+        "eventStoryId": 132,
+        "episodeNo": 5,
+        "title": "婚禮演出的舞台後方",
+        "assetbundleName": "event_wedding_2024_05",
+        "scenarioId": "event_132_05",
+        "releaseConditionId": 113104,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001070,
+        "eventStoryId": 132,
+        "episodeNo": 6,
+        "title": "代打選手是偶像",
+        "assetbundleName": "event_wedding_2024_06",
+        "scenarioId": "event_132_06",
+        "releaseConditionId": 113105,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001071,
+        "eventStoryId": 132,
+        "episodeNo": 7,
+        "title": "一起辦婚禮LIVE♡",
+        "assetbundleName": "event_wedding_2024_07",
+        "scenarioId": "event_132_07",
+        "releaseConditionId": 113106,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001072,
+        "eventStoryId": 132,
+        "episodeNo": 8,
+        "title": "有如結婚典禮一般",
+        "assetbundleName": "event_wedding_2024_08",
+        "scenarioId": "event_132_08",
+        "releaseConditionId": 113107,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "eventId": 133,
+    "outline": "由於工作邀約增加，MORE MORE JUMP！現在沒辦法把所有工作都接下來了。遙等人打算來決定要以何種標準判斷是否接下工作，開始商量往後的活動方向……",
+    "bannerGameCharacterUnitId": 6,
+    "assetbundleName": "event_shine_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001073,
+        "eventStoryId": 133,
+        "episodeNo": 1,
+        "title": "為了篩選工作",
+        "assetbundleName": "event_shine_2024_01",
+        "scenarioId": "event_133_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001074,
+        "eventStoryId": 133,
+        "episodeNo": 2,
+        "title": "缺少的事物",
+        "assetbundleName": "event_shine_2024_02",
+        "scenarioId": "event_133_02",
+        "releaseConditionId": 113201,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001075,
+        "eventStoryId": 133,
+        "episodeNo": 3,
+        "title": "那個人的教誨",
+        "assetbundleName": "event_shine_2024_03",
+        "scenarioId": "event_133_03",
+        "releaseConditionId": 113202,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001076,
+        "eventStoryId": 133,
+        "episodeNo": 4,
+        "title": "我們的個性是",
+        "assetbundleName": "event_shine_2024_04",
+        "scenarioId": "event_133_04",
+        "releaseConditionId": 113203,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001077,
+        "eventStoryId": 133,
+        "episodeNo": 5,
+        "title": "得出的答案",
+        "assetbundleName": "event_shine_2024_05",
+        "scenarioId": "event_133_05",
+        "releaseConditionId": 113204,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001078,
+        "eventStoryId": 133,
+        "episodeNo": 6,
+        "title": "用盡全力，傳達心意",
+        "assetbundleName": "event_shine_2024_06",
+        "scenarioId": "event_133_06",
+        "releaseConditionId": 113205,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001079,
+        "eventStoryId": 133,
+        "episodeNo": 7,
+        "title": "攜手",
+        "assetbundleName": "event_shine_2024_07",
+        "scenarioId": "event_133_07",
+        "releaseConditionId": 113206,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001080,
+        "eventStoryId": 133,
+        "episodeNo": 8,
+        "title": "新的決心",
+        "assetbundleName": "event_shine_2024_08",
+        "scenarioId": "event_133_08",
+        "releaseConditionId": 113207,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 86
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "eventId": 134,
+    "outline": "自從來到奏的家中，真冬就陷入了無法向前邁進的狀態。\n就在這時，父親向她說「希望你能把和媽媽談話那天的事告訴我」。\n真冬原本打算告訴父親，卻不知為何無法把當時的事說出口──",
+    "bannerGameCharacterUnitId": 18,
+    "assetbundleName": "event_tomoshibi_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001081,
+        "eventStoryId": 134,
+        "episodeNo": 1,
+        "title": "預兆",
+        "assetbundleName": "event_tomoshibi_2024_01",
+        "scenarioId": "event_134_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001082,
+        "eventStoryId": 134,
+        "episodeNo": 2,
+        "title": "無法前進",
+        "assetbundleName": "event_tomoshibi_2024_02",
+        "scenarioId": "event_134_02",
+        "releaseConditionId": 113301,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001083,
+        "eventStoryId": 134,
+        "episodeNo": 3,
+        "title": "那天晚上",
+        "assetbundleName": "event_tomoshibi_2024_03",
+        "scenarioId": "event_134_03",
+        "releaseConditionId": 113302,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001084,
+        "eventStoryId": 134,
+        "episodeNo": 4,
+        "title": "說不出口的原因",
+        "assetbundleName": "event_tomoshibi_2024_04",
+        "scenarioId": "event_134_04",
+        "releaseConditionId": 113303,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001085,
+        "eventStoryId": 134,
+        "episodeNo": 5,
+        "title": "窩心的放學路",
+        "assetbundleName": "event_tomoshibi_2024_05",
+        "scenarioId": "event_134_05",
+        "releaseConditionId": 113304,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001086,
+        "eventStoryId": 134,
+        "episodeNo": 6,
+        "title": "回憶",
+        "assetbundleName": "event_tomoshibi_2024_06",
+        "scenarioId": "event_134_06",
+        "releaseConditionId": 113305,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001087,
+        "eventStoryId": 134,
+        "episodeNo": 7,
+        "title": "雷鳴之夜",
+        "assetbundleName": "event_tomoshibi_2024_07",
+        "scenarioId": "event_134_07",
+        "releaseConditionId": 113306,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001088,
+        "eventStoryId": 134,
+        "episodeNo": 8,
+        "title": "緊握燈火",
+        "assetbundleName": "event_tomoshibi_2024_08",
+        "scenarioId": "event_134_08",
+        "releaseConditionId": 113307,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 87
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "eventId": 135,
+    "outline": "「超越RAD WEEKEND」之時終於到來。\n心羽在這巨大難關前感到緊張不已，但她回顧自己過去一路克服的重重障礙，下定決心並握緊了拳頭。\n究竟Vivid BAD SQUAD一行人能不能成功跨越高牆呢──！？",
+    "bannerGameCharacterUnitId": 9,
+    "assetbundleName": "event_overrad_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001089,
+        "eventStoryId": 135,
+        "episodeNo": 1,
+        "title": "一週前",
+        "assetbundleName": "event_overrad_2024_01",
+        "scenarioId": "event_135_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001090,
+        "eventStoryId": 135,
+        "episodeNo": 2,
+        "title": "心羽的課題",
+        "assetbundleName": "event_overrad_2024_02",
+        "scenarioId": "event_135_02",
+        "releaseConditionId": 113401,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001091,
+        "eventStoryId": 135,
+        "episodeNo": 3,
+        "title": "特別教練",
+        "assetbundleName": "event_overrad_2024_03",
+        "scenarioId": "event_135_03",
+        "releaseConditionId": 113402,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001092,
+        "eventStoryId": 135,
+        "episodeNo": 4,
+        "title": "化失敗為養分",
+        "assetbundleName": "event_overrad_2024_04",
+        "scenarioId": "event_135_04",
+        "releaseConditionId": 113403,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001093,
+        "eventStoryId": 135,
+        "episodeNo": 5,
+        "title": "我的私心",
+        "assetbundleName": "event_overrad_2024_05",
+        "scenarioId": "event_135_05",
+        "releaseConditionId": 113404,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001094,
+        "eventStoryId": 135,
+        "episodeNo": 6,
+        "title": "RAD BLAST",
+        "assetbundleName": "event_overrad_2024_06",
+        "scenarioId": "event_135_06",
+        "releaseConditionId": 113405,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001095,
+        "eventStoryId": 135,
+        "episodeNo": 7,
+        "title": "絕對要登上頂點",
+        "assetbundleName": "event_overrad_2024_07",
+        "scenarioId": "event_135_07",
+        "releaseConditionId": 113406,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001096,
+        "eventStoryId": 135,
+        "episodeNo": 8,
+        "title": "前往新的世界",
+        "assetbundleName": "event_overrad_2024_08",
+        "scenarioId": "event_135_08",
+        "releaseConditionId": 113407,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "eventId": 136,
+    "outline": "為了三日月組的公演，司一行人來到了古裝劇村。司接受鬼島的建議，把身體鍛鍊得更加結實，準備正式上場，但就在此時，古裝劇村卻遭了小偷，公演臨時取消！不只如此，司的面前還出現了可疑的忍者身影！？",
+    "bannerGameCharacterUnitId": 13,
+    "assetbundleName": "event_torimonothou_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001097,
+        "eventStoryId": 136,
+        "episodeNo": 1,
+        "title": "Let's鍛鍊身體！",
+        "assetbundleName": "event_torimonothou_2024_01",
+        "scenarioId": "event_136_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001098,
+        "eventStoryId": 136,
+        "episodeNo": 2,
+        "title": "日織古裝劇村",
+        "assetbundleName": "event_torimonothou_2024_02",
+        "scenarioId": "event_136_02",
+        "releaseConditionId": 113501,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001099,
+        "eventStoryId": 136,
+        "episodeNo": 3,
+        "title": "公演取消！？",
+        "assetbundleName": "event_torimonothou_2024_03",
+        "scenarioId": "event_136_03",
+        "releaseConditionId": 113502,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001100,
+        "eventStoryId": 136,
+        "episodeNo": 4,
+        "title": "對決！盜賊忍者",
+        "assetbundleName": "event_torimonothou_2024_04",
+        "scenarioId": "event_136_04",
+        "releaseConditionId": 113503,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001101,
+        "eventStoryId": 136,
+        "episodeNo": 5,
+        "title": "如果能跑得更快",
+        "assetbundleName": "event_torimonothou_2024_05",
+        "scenarioId": "event_136_05",
+        "releaseConditionId": 113504,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001102,
+        "eventStoryId": 136,
+        "episodeNo": 6,
+        "title": "撞上高牆時",
+        "assetbundleName": "event_torimonothou_2024_06",
+        "scenarioId": "event_136_06",
+        "releaseConditionId": 113505,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001103,
+        "eventStoryId": 136,
+        "episodeNo": 7,
+        "title": "讓自己躍上高處",
+        "assetbundleName": "event_torimonothou_2024_07",
+        "scenarioId": "event_136_07",
+        "releaseConditionId": 113506,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001104,
+        "eventStoryId": 136,
+        "episodeNo": 8,
+        "title": "心態、技術、體能",
+        "assetbundleName": "event_torimonothou_2024_08",
+        "scenarioId": "event_136_08",
+        "releaseConditionId": 113507,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 89
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "eventId": 137,
+    "outline": "出道曲的虛擬歌手版本在部分地區爆紅，讓一歌等人開心得不得了。就在她們卯足鬥志，決定之後要一起努力當個職業樂團時，「世界」卻出現了新的地點……？",
+    "bannerGameCharacterUnitId": 1,
+    "assetbundleName": "event_nightsky_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001105,
+        "eventStoryId": 137,
+        "episodeNo": 1,
+        "title": "傳遞給更多的人",
+        "assetbundleName": "event_nightsky_2024_01",
+        "scenarioId": "wl_band_01_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001106,
+        "eventStoryId": 137,
+        "gameCharacterId": 2,
+        "episodeNo": 2,
+        "title": "不可思議的感覺",
+        "assetbundleName": "event_nightsky_2024_02",
+        "scenarioId": "wl_band_01_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001107,
+        "eventStoryId": 137,
+        "gameCharacterId": 2,
+        "episodeNo": 3,
+        "title": "沒事的",
+        "assetbundleName": "event_nightsky_2024_03",
+        "scenarioId": "wl_band_01_03",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001108,
+        "eventStoryId": 137,
+        "gameCharacterId": 3,
+        "episodeNo": 4,
+        "title": "變得更堅強",
+        "assetbundleName": "event_nightsky_2024_04",
+        "scenarioId": "wl_band_01_04",
+        "releaseConditionId": 113601,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001109,
+        "eventStoryId": 137,
+        "gameCharacterId": 3,
+        "episodeNo": 5,
+        "title": "那一天的我們",
+        "assetbundleName": "event_nightsky_2024_05",
+        "scenarioId": "wl_band_01_05",
+        "releaseConditionId": 113601,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001110,
+        "eventStoryId": 137,
+        "gameCharacterId": 4,
+        "episodeNo": 6,
+        "title": "四個人一起玩音樂",
+        "assetbundleName": "event_nightsky_2024_06",
+        "scenarioId": "wl_band_01_06",
+        "releaseConditionId": 113602,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001111,
+        "eventStoryId": 137,
+        "gameCharacterId": 4,
+        "episodeNo": 7,
+        "title": "要往前進時，一定會──",
+        "assetbundleName": "event_nightsky_2024_07",
+        "scenarioId": "wl_band_01_07",
+        "releaseConditionId": 113602,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001112,
+        "eventStoryId": 137,
+        "gameCharacterId": 1,
+        "episodeNo": 8,
+        "title": "你的厲害之處",
+        "assetbundleName": "event_nightsky_2024_08",
+        "scenarioId": "wl_band_01_08",
+        "releaseConditionId": 113603,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001113,
+        "eventStoryId": 137,
+        "gameCharacterId": 1,
+        "episodeNo": 9,
+        "title": "軌道的另一頭",
+        "assetbundleName": "event_nightsky_2024_09",
+        "scenarioId": "wl_band_01_09",
+        "releaseConditionId": 113603,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001114,
+        "eventStoryId": 137,
+        "episodeNo": 10,
+        "title": "朝著那片星空",
+        "assetbundleName": "event_nightsky_2024_10",
+        "scenarioId": "wl_band_01_10",
+        "releaseConditionId": 113604,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 90
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "eventId": 138,
+    "outline": "MORE MORE JUMP！接下了被稱作新進偶像出名捷徑的音樂節──「偶像愛好家」的表演委託。愛莉在聯合彩排時看見某個團體的表演，對其表現倍感衝擊……",
+    "bannerGameCharacterUnitId": 7,
+    "assetbundleName": "event_chase_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001115,
+        "eventStoryId": 138,
+        "episodeNo": 1,
+        "title": "下一件工作是",
+        "assetbundleName": "event_chase_2024_01",
+        "scenarioId": "event_138_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001116,
+        "eventStoryId": 138,
+        "episodeNo": 2,
+        "title": "新的邂逅",
+        "assetbundleName": "event_chase_2024_02",
+        "scenarioId": "event_138_02",
+        "releaseConditionId": 113701,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001117,
+        "eventStoryId": 138,
+        "episodeNo": 3,
+        "title": "點燃的火焰",
+        "assetbundleName": "event_chase_2024_03",
+        "scenarioId": "event_138_03",
+        "releaseConditionId": 113702,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001118,
+        "eventStoryId": 138,
+        "episodeNo": 4,
+        "title": "開始特訓！",
+        "assetbundleName": "event_chase_2024_04",
+        "scenarioId": "event_138_04",
+        "releaseConditionId": 113703,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001119,
+        "eventStoryId": 138,
+        "episodeNo": 5,
+        "title": "為了追求理想",
+        "assetbundleName": "event_chase_2024_05",
+        "scenarioId": "event_138_05",
+        "releaseConditionId": 113704,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001120,
+        "eventStoryId": 138,
+        "episodeNo": 6,
+        "title": "登上舞台！",
+        "assetbundleName": "event_chase_2024_06",
+        "scenarioId": "event_138_06",
+        "releaseConditionId": 113705,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001121,
+        "eventStoryId": 138,
+        "episodeNo": 7,
+        "title": "嚮往的景色",
+        "assetbundleName": "event_chase_2024_07",
+        "scenarioId": "event_138_07",
+        "releaseConditionId": 113706,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001122,
+        "eventStoryId": 138,
+        "episodeNo": 8,
+        "title": "狂熱之後",
+        "assetbundleName": "event_chase_2024_08",
+        "scenarioId": "event_138_08",
+        "releaseConditionId": 113707,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 91
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "eventId": 139,
+    "outline": "成功超越RAD WEEKEND後，冬彌度過了一段短暫的平靜時光。正當冬彌在心中盤算要做點新嘗試時，常關照他的樂器行店長拜託他去樂器活動招呼客人……！？",
+    "bannerGameCharacterUnitId": 12,
+    "assetbundleName": "event_beautifulsound_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001123,
+        "eventStoryId": 139,
+        "episodeNo": 1,
+        "title": "澀谷樂器DAY",
+        "assetbundleName": "event_beautifulsound_2024_01",
+        "scenarioId": "event_139_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001124,
+        "eventStoryId": 139,
+        "episodeNo": 2,
+        "title": "接待特訓！",
+        "assetbundleName": "event_beautifulsound_2024_02",
+        "scenarioId": "event_139_02",
+        "releaseConditionId": 113801,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001125,
+        "eventStoryId": 139,
+        "episodeNo": 3,
+        "title": "喜歡的心情",
+        "assetbundleName": "event_beautifulsound_2024_03",
+        "scenarioId": "event_139_03",
+        "releaseConditionId": 113802,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001126,
+        "eventStoryId": 139,
+        "episodeNo": 4,
+        "title": "少年與小號",
+        "assetbundleName": "event_beautifulsound_2024_04",
+        "scenarioId": "event_139_04",
+        "releaseConditionId": 113803,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001127,
+        "eventStoryId": 139,
+        "episodeNo": 5,
+        "title": "大家一起挑戰！",
+        "assetbundleName": "event_beautifulsound_2024_05",
+        "scenarioId": "event_139_05",
+        "releaseConditionId": 113804,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001128,
+        "eventStoryId": 139,
+        "episodeNo": 6,
+        "title": "音樂總有一天會",
+        "assetbundleName": "event_beautifulsound_2024_06",
+        "scenarioId": "event_139_06",
+        "releaseConditionId": 113805,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001129,
+        "eventStoryId": 139,
+        "episodeNo": 7,
+        "title": "美妙的聲音",
+        "assetbundleName": "event_beautifulsound_2024_07",
+        "scenarioId": "event_139_07",
+        "releaseConditionId": 113806,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001130,
+        "eventStoryId": 139,
+        "episodeNo": 8,
+        "title": "憧憬與喜悅",
+        "assetbundleName": "event_beautifulsound_2024_08",
+        "scenarioId": "event_139_08",
+        "releaseConditionId": 113807,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 92
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "eventId": 140,
+    "outline": "初音未來等人從「世界」的夾縫中，守護著一歌他們。這時，有塊神秘的碎片出現在未來他們面前。碎片引導他們前往的地方，有著尚未形成「真正心願」的一歌等人──",
+    "bannerGameCharacterUnitId": 21,
+    "assetbundleName": "event_beginning_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001131,
+        "eventStoryId": 140,
+        "episodeNo": 1,
+        "title": "碰觸「世界」的心願",
+        "assetbundleName": "event_beginning_2024_01",
+        "scenarioId": "wl_piapro_01_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001132,
+        "eventStoryId": 140,
+        "gameCharacterId": 24,
+        "episodeNo": 2,
+        "title": "於流星之夜",
+        "assetbundleName": "event_beginning_2024_02",
+        "scenarioId": "wl_piapro_01_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001133,
+        "eventStoryId": 140,
+        "gameCharacterId": 24,
+        "episodeNo": 3,
+        "title": "在教室中懷抱心願",
+        "assetbundleName": "event_beginning_2024_03",
+        "scenarioId": "wl_piapro_01_03",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001134,
+        "eventStoryId": 140,
+        "gameCharacterId": 22,
+        "episodeNo": 4,
+        "title": "從閃閃發光的舞台上",
+        "assetbundleName": "event_beginning_2024_04",
+        "scenarioId": "wl_piapro_01_04",
+        "releaseConditionId": 113902,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001135,
+        "eventStoryId": 140,
+        "gameCharacterId": 22,
+        "episodeNo": 5,
+        "title": "用能傳遞希望的歌",
+        "assetbundleName": "event_beginning_2024_05",
+        "scenarioId": "wl_piapro_01_05",
+        "releaseConditionId": 113902,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001136,
+        "eventStoryId": 140,
+        "gameCharacterId": 25,
+        "episodeNo": 6,
+        "title": "在狂熱的夜晚",
+        "assetbundleName": "event_beginning_2024_06",
+        "scenarioId": "wl_piapro_01_06",
+        "releaseConditionId": 113903,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001137,
+        "eventStoryId": 140,
+        "gameCharacterId": 25,
+        "episodeNo": 7,
+        "title": "在大家的歸宿",
+        "assetbundleName": "event_beginning_2024_07",
+        "scenarioId": "wl_piapro_01_07",
+        "releaseConditionId": 113903,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001138,
+        "eventStoryId": 140,
+        "gameCharacterId": 23,
+        "episodeNo": 8,
+        "title": "唱出超越那一晚的歌",
+        "assetbundleName": "event_beginning_2024_08",
+        "scenarioId": "wl_piapro_01_08",
+        "releaseConditionId": 113904,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001139,
+        "eventStoryId": 140,
+        "gameCharacterId": 23,
+        "episodeNo": 9,
+        "title": "為了大家！",
+        "assetbundleName": "event_beginning_2024_09",
+        "scenarioId": "wl_piapro_01_09",
+        "releaseConditionId": 113904,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001140,
+        "eventStoryId": 140,
+        "gameCharacterId": 26,
+        "episodeNo": 10,
+        "title": "用表演帶來笑容",
+        "assetbundleName": "event_beginning_2024_10",
+        "scenarioId": "wl_piapro_01_10",
+        "releaseConditionId": 113905,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001141,
+        "eventStoryId": 140,
+        "gameCharacterId": 26,
+        "episodeNo": 11,
+        "title": "守護心願",
+        "assetbundleName": "event_beginning_2024_11",
+        "scenarioId": "wl_piapro_01_11",
+        "releaseConditionId": 113905,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001142,
+        "eventStoryId": 140,
+        "gameCharacterId": 21,
+        "episodeNo": 12,
+        "title": "尋找真正的自己",
+        "assetbundleName": "event_beginning_2024_12",
+        "scenarioId": "wl_piapro_01_12",
+        "releaseConditionId": 113906,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001143,
+        "eventStoryId": 140,
+        "gameCharacterId": 21,
+        "episodeNo": 13,
+        "title": "靜靜地，傳來溫暖",
+        "assetbundleName": "event_beginning_2024_13",
+        "scenarioId": "wl_piapro_01_13",
+        "releaseConditionId": 113906,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001144,
+        "eventStoryId": 140,
+        "episodeNo": 14,
+        "title": "成長茁壯的心願",
+        "assetbundleName": "event_beginning_2024_14",
+        "scenarioId": "wl_piapro_01_14",
+        "releaseConditionId": 113907,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 93
           }
         ]
       }

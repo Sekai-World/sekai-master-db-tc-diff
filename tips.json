@@ -448,6 +448,13 @@
     "toUserRank": 29
   },
   {
+    "id": 101,
+    "title": "自動LIVE",
+    "description": "若在「單人LIVE」中設置「AUTO」，\n就可以用自動方式遊玩節奏遊戲。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
     "id": 102,
     "title": "自動LIVE",
     "description": "每日最多可進行10次「自動LIVE」。",
@@ -471,7 +478,7 @@
   {
     "id": 105,
     "title": "挑戰LIVE的EX STAGE",
-    "description": "若將「挑戰LIVE」的STAGE升到100，\n將會變為EX STAGE。",
+    "description": "若將「挑戰LIVE」的STAGE升到150，\n將會變為EX STAGE。",
     "fromUserRank": 250,
     "toUserRank": 999
   },
@@ -675,6 +682,27 @@
     "id": 138,
     "title": "在LIVE中體力變成0時",
     "description": "就算在LIVE中體力變成0後，\n也能遊玩到最後。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 139,
+    "title": "廣告功能",
+    "description": "每天看「廣告」後，\n可以獲得各種不同的報酬。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 140,
+    "title": "FULL COMBO、ALL PERFECT專屬LIVE結果台詞",
+    "description": "只要達成FULL COMBO或ALL PERFECT，\n就會播放專屬的LIVE結果台詞。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 141,
+    "title": "觀看完全部劇情",
+    "description": "以不跳過、不快轉的方式觀看完主線劇情\/活動劇情，\n即可依觀看完的章節數獲得相對應的報酬。",
     "fromUserRank": 1,
     "toUserRank": 999
   },

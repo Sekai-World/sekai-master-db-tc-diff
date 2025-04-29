@@ -1550,7 +1550,14 @@
     "startAt": 1741449600000,
     "endAt": 1741535999000,
     "assetbundleName": "mikusday_2025",
-    "limitedLoginBonusDetails": []
+    "limitedLoginBonusDetails": [
+      {
+        "id": 250,
+        "limitedLoginBonusId": 120,
+        "day": 1,
+        "resourceBoxId": 157
+      }
+    ]
   },
   {
     "id": 1022,
@@ -2537,6 +2544,82 @@
       {
         "id": 1163,
         "limitedLoginBonusId": 1054,
+        "day": 1,
+        "resourceBoxId": 1109
+      }
+    ]
+  },
+  {
+    "id": 1055,
+    "startAt": 1745899200000,
+    "endAt": 1747339199000,
+    "assetbundleName": "gw_2024",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1164,
+        "limitedLoginBonusId": 1055,
+        "day": 1,
+        "resourceBoxId": 1110
+      },
+      {
+        "id": 1165,
+        "limitedLoginBonusId": 1055,
+        "day": 2,
+        "resourceBoxId": 1111
+      },
+      {
+        "id": 1166,
+        "limitedLoginBonusId": 1055,
+        "day": 3,
+        "resourceBoxId": 1112
+      },
+      {
+        "id": 1167,
+        "limitedLoginBonusId": 1055,
+        "day": 4,
+        "resourceBoxId": 1113
+      },
+      {
+        "id": 1168,
+        "limitedLoginBonusId": 1055,
+        "day": 5,
+        "resourceBoxId": 1114
+      },
+      {
+        "id": 1169,
+        "limitedLoginBonusId": 1055,
+        "day": 6,
+        "resourceBoxId": 1115
+      },
+      {
+        "id": 1170,
+        "limitedLoginBonusId": 1055,
+        "day": 7,
+        "resourceBoxId": 1116
+      },
+      {
+        "id": 1171,
+        "limitedLoginBonusId": 1055,
+        "day": 8,
+        "resourceBoxId": 1117
+      },
+      {
+        "id": 1172,
+        "limitedLoginBonusId": 1055,
+        "day": 9,
+        "resourceBoxId": 1118
+      }
+    ]
+  },
+  {
+    "id": 1056,
+    "startAt": 1745942400000,
+    "endAt": 1746547199000,
+    "assetbundleName": "birthday2025_19",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1173,
+        "limitedLoginBonusId": 1056,
         "day": 1,
         "resourceBoxId": 1109
       }

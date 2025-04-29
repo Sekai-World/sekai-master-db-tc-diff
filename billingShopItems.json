@@ -361,7 +361,7 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "day",
-    "billableLimitResetIntervalValue": 27,
+    "billableLimitResetIntervalValue": 180,
     "assetbundleName": "shop_69",
     "resourceBoxId": 40001
   },
@@ -375,7 +375,7 @@
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "day",
-    "billableLimitResetIntervalValue": 27,
+    "billableLimitResetIntervalValue": 180,
     "assetbundleName": "shop_70",
     "resourceBoxId": 40002
   },
@@ -6542,7 +6542,22 @@
     "resourceBoxId": 50001,
     "label": "生日限定",
     "startAt": 1744560000000,
-    "endAt": 1745164740000
+    "endAt": 1745164799000
+  },
+  {
+    "id": 50019,
+    "seq": 300611,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50019,
+    "name": "[東雲繪名]生日組合包",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_bd_ena1",
+    "resourceBoxId": 50019,
+    "label": "生日限定",
+    "startAt": 1745942400000,
+    "endAt": 1746547199000
   },
   {
     "id": 300000,

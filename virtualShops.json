@@ -5584,6 +5584,22 @@
     "virtualShopType": "event"
   },
   {
+    "id": 268,
+    "name": "司 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 445,
+        "virtualShopId": 268,
+        "virtualShopItemType": "coordinate",
+        "seq": 99828,
+        "resourceBoxId": 341,
+        "costPaidJewel": 1000,
+        "startAt": 1747983600000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
     "id": 1003,
     "name": "元旦2024",
     "virtualShopItems": [

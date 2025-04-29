@@ -117,6 +117,18 @@
     "startAt": 1640880000000
   },
   {
+    "id": 208,
+    "seq": 8,
+    "honorMissionType": "player_rank",
+    "requirement": 700,
+    "sentence": "將玩家等級提升至700吧。",
+    "rewards": [
+      [
+        1560
+      ]
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
@@ -177,6 +189,19 @@
     "rewards": [
       [
         1398
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 405,
+    "seq": 5,
+    "honorMissionType": "login_total",
+    "requirement": 1825,
+    "sentence": "累積登入1825天吧。",
+    "rewards": [
+      [
+        1561
       ]
     ],
     "startAt": 1640880000000
@@ -1199,7 +1224,7 @@
     "seq": 1,
     "honorMissionType": "read_story_no_skip",
     "requirement": 100,
-    "sentence": "不跳過、不快轉並觀看100章「主線劇情」或「卡片劇情」吧。",
+    "sentence": "不跳過、不快轉並觀看100章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
     "rewards": [
       [
         1046
@@ -1212,7 +1237,7 @@
     "seq": 2,
     "honorMissionType": "read_story_no_skip",
     "requirement": 200,
-    "sentence": "不跳過、不快轉並觀看200章「主線劇情」或「卡片劇情」吧。",
+    "sentence": "不跳過、不快轉並觀看200章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
     "rewards": [
       [
         1440
@@ -1225,7 +1250,7 @@
     "seq": 3,
     "honorMissionType": "read_story_no_skip",
     "requirement": 300,
-    "sentence": "不跳過、不快轉並觀看300章「主線劇情」或「卡片劇情」吧。",
+    "sentence": "不跳過、不快轉並觀看300章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
     "rewards": [
       [
         1441
@@ -1238,7 +1263,7 @@
     "seq": 4,
     "honorMissionType": "read_story_no_skip",
     "requirement": 400,
-    "sentence": "不跳過、不快轉並觀看400章「主線劇情」或「卡片劇情」吧。",
+    "sentence": "不跳過、不快轉並觀看400章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
     "rewards": [
       [
         1442
@@ -1251,7 +1276,7 @@
     "seq": 5,
     "honorMissionType": "read_story_no_skip",
     "requirement": 500,
-    "sentence": "不跳過、不快轉並觀看500章「主線劇情」或「卡片劇情」吧。",
+    "sentence": "不跳過、不快轉並觀看500章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
     "rewards": [
       [
         1443
@@ -1264,7 +1289,7 @@
     "seq": 6,
     "honorMissionType": "read_story_no_skip",
     "requirement": 600,
-    "sentence": "不跳過、不快轉並觀看600章「主線劇情」或「卡片劇情」吧。",
+    "sentence": "不跳過、不快轉並觀看600章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
     "rewards": [
       [
         1444
@@ -1277,7 +1302,7 @@
     "seq": 7,
     "honorMissionType": "read_story_no_skip",
     "requirement": 700,
-    "sentence": "不跳過、不快轉並觀看700章「主線劇情」或「卡片劇情」吧。",
+    "sentence": "不跳過、不快轉並觀看700章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
     "rewards": [
       [
         1445
@@ -1290,7 +1315,7 @@
     "seq": 8,
     "honorMissionType": "read_story_no_skip",
     "requirement": 800,
-    "sentence": "不跳過、不快轉並觀看800章「主線劇情」或「卡片劇情」吧。",
+    "sentence": "不跳過、不快轉並觀看800章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
     "rewards": [
       [
         1446
@@ -1303,7 +1328,7 @@
     "seq": 9,
     "honorMissionType": "read_story_no_skip",
     "requirement": 900,
-    "sentence": "不跳過、不快轉並觀看900章「主線劇情」或「卡片劇情」吧。",
+    "sentence": "不跳過、不快轉並觀看900章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
     "rewards": [
       [
         1447
@@ -1316,7 +1341,7 @@
     "seq": 10,
     "honorMissionType": "read_story_no_skip",
     "requirement": 1000,
-    "sentence": "不跳過、不快轉並觀看1000章「主線劇情」或「卡片劇情」吧。",
+    "sentence": "不跳過、不快轉並觀看1000章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
     "rewards": [
       [
         1448
@@ -1329,10 +1354,205 @@
     "seq": 11,
     "honorMissionType": "read_story_no_skip",
     "requirement": 1100,
-    "sentence": "不跳過、不快轉並觀看1100章「主線劇情」或「卡片劇情」吧。",
+    "sentence": "不跳過、不快轉並觀看1100章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
     "rewards": [
       [
         1449
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2312,
+    "seq": 12,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 1200,
+    "sentence": "不跳過、不快轉並觀看1200章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1545
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2313,
+    "seq": 13,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 1300,
+    "sentence": "不跳過、不快轉並觀看1300章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1546
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2314,
+    "seq": 14,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 1400,
+    "sentence": "不跳過、不快轉並觀看1400章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1547
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2315,
+    "seq": 15,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 1500,
+    "sentence": "不跳過、不快轉並觀看1500章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1548
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2316,
+    "seq": 16,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 1600,
+    "sentence": "不跳過、不快轉並觀看1600章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1549
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2317,
+    "seq": 17,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 1700,
+    "sentence": "不跳過、不快轉並觀看1700章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1550
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2318,
+    "seq": 18,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 1800,
+    "sentence": "不跳過、不快轉並觀看1800章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1551
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2319,
+    "seq": 19,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 1900,
+    "sentence": "不跳過、不快轉並觀看1900章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1552
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2320,
+    "seq": 20,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 2000,
+    "sentence": "不跳過、不快轉並觀看2000章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1553
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2321,
+    "seq": 21,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 2100,
+    "sentence": "不跳過、不快轉並觀看2100章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1554
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2322,
+    "seq": 22,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 2200,
+    "sentence": "不跳過、不快轉並觀看2200章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1555
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2323,
+    "seq": 23,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 2300,
+    "sentence": "不跳過、不快轉並觀看2300章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1556
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2324,
+    "seq": 24,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 2400,
+    "sentence": "不跳過、不快轉並觀看2400章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1557
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2325,
+    "seq": 25,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 2500,
+    "sentence": "不跳過、不快轉並觀看2500章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1558
+      ]
+    ],
+    "startAt": 1640880000000
+  },
+  {
+    "id": 2326,
+    "seq": 26,
+    "honorMissionType": "read_story_no_skip",
+    "requirement": 2600,
+    "sentence": "不跳過、不快轉並觀看2600章「主線劇情」、「活動劇情」或「卡片劇情」吧。",
+    "rewards": [
+      [
+        1559
       ]
     ],
     "startAt": 1640880000000
@@ -7348,6 +7568,1998 @@
       ]
     ],
     "startAt": 1640880000000
+  },
+  {
+    "id": 16001,
+    "seq": 1,
+    "honorMissionType": "append_full_combo",
+    "requirement": 5,
+    "sentence": "在難易度APPEND，達成5首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16001
+      ]
+    ]
+  },
+  {
+    "id": 16002,
+    "seq": 2,
+    "honorMissionType": "append_full_combo",
+    "requirement": 10,
+    "sentence": "在難易度APPEND，達成10首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16002
+      ]
+    ]
+  },
+  {
+    "id": 16003,
+    "seq": 3,
+    "honorMissionType": "append_full_combo",
+    "requirement": 20,
+    "sentence": "在難易度APPEND，達成20首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16003
+      ]
+    ]
+  },
+  {
+    "id": 16004,
+    "seq": 4,
+    "honorMissionType": "append_full_combo",
+    "requirement": 30,
+    "sentence": "在難易度APPEND，達成30首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16004
+      ]
+    ]
+  },
+  {
+    "id": 16005,
+    "seq": 5,
+    "honorMissionType": "append_full_combo",
+    "requirement": 40,
+    "sentence": "在難易度APPEND，達成40首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16005
+      ]
+    ]
+  },
+  {
+    "id": 16006,
+    "seq": 6,
+    "honorMissionType": "append_full_combo",
+    "requirement": 50,
+    "sentence": "在難易度APPEND，達成50首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16006
+      ]
+    ]
+  },
+  {
+    "id": 16007,
+    "seq": 7,
+    "honorMissionType": "append_full_combo",
+    "requirement": 60,
+    "sentence": "在難易度APPEND，達成60首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16007
+      ]
+    ]
+  },
+  {
+    "id": 16008,
+    "seq": 8,
+    "honorMissionType": "append_full_combo",
+    "requirement": 70,
+    "sentence": "在難易度APPEND，達成70首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16008
+      ]
+    ]
+  },
+  {
+    "id": 16009,
+    "seq": 9,
+    "honorMissionType": "append_full_combo",
+    "requirement": 80,
+    "sentence": "在難易度APPEND，達成80首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16009
+      ]
+    ]
+  },
+  {
+    "id": 16010,
+    "seq": 10,
+    "honorMissionType": "append_full_combo",
+    "requirement": 90,
+    "sentence": "在難易度APPEND，達成90首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16010
+      ]
+    ]
+  },
+  {
+    "id": 16011,
+    "seq": 11,
+    "honorMissionType": "append_full_combo",
+    "requirement": 100,
+    "sentence": "在難易度APPEND，達成100首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16011
+      ]
+    ]
+  },
+  {
+    "id": 16012,
+    "seq": 12,
+    "honorMissionType": "append_full_combo",
+    "requirement": 110,
+    "sentence": "在難易度APPEND，達成110首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16012
+      ]
+    ]
+  },
+  {
+    "id": 16013,
+    "seq": 13,
+    "honorMissionType": "append_full_combo",
+    "requirement": 120,
+    "sentence": "在難易度APPEND，達成120首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16013
+      ]
+    ]
+  },
+  {
+    "id": 16014,
+    "seq": 14,
+    "honorMissionType": "append_full_combo",
+    "requirement": 130,
+    "sentence": "在難易度APPEND，達成130首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16014
+      ]
+    ]
+  },
+  {
+    "id": 16015,
+    "seq": 15,
+    "honorMissionType": "append_full_combo",
+    "requirement": 140,
+    "sentence": "在難易度APPEND，達成140首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16015
+      ]
+    ]
+  },
+  {
+    "id": 16016,
+    "seq": 16,
+    "honorMissionType": "append_full_combo",
+    "requirement": 150,
+    "sentence": "在難易度APPEND，達成150首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16016
+      ]
+    ]
+  },
+  {
+    "id": 16017,
+    "seq": 17,
+    "honorMissionType": "append_full_combo",
+    "requirement": 160,
+    "sentence": "在難易度APPEND，達成160首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16017
+      ]
+    ]
+  },
+  {
+    "id": 16018,
+    "seq": 18,
+    "honorMissionType": "append_full_combo",
+    "requirement": 170,
+    "sentence": "在難易度APPEND，達成170首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16018
+      ]
+    ]
+  },
+  {
+    "id": 16019,
+    "seq": 19,
+    "honorMissionType": "append_full_combo",
+    "requirement": 180,
+    "sentence": "在難易度APPEND，達成180首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16019
+      ]
+    ]
+  },
+  {
+    "id": 16020,
+    "seq": 20,
+    "honorMissionType": "append_full_combo",
+    "requirement": 190,
+    "sentence": "在難易度APPEND，達成190首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16020
+      ]
+    ]
+  },
+  {
+    "id": 16021,
+    "seq": 21,
+    "honorMissionType": "append_full_combo",
+    "requirement": 200,
+    "sentence": "在難易度APPEND，達成200首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16021
+      ]
+    ]
+  },
+  {
+    "id": 16022,
+    "seq": 22,
+    "honorMissionType": "append_full_combo",
+    "requirement": 210,
+    "sentence": "在難易度APPEND，達成210首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16022
+      ]
+    ]
+  },
+  {
+    "id": 16023,
+    "seq": 23,
+    "honorMissionType": "append_full_combo",
+    "requirement": 220,
+    "sentence": "在難易度APPEND，達成220首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16023
+      ]
+    ]
+  },
+  {
+    "id": 16024,
+    "seq": 24,
+    "honorMissionType": "append_full_combo",
+    "requirement": 230,
+    "sentence": "在難易度APPEND，達成230首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16024
+      ]
+    ]
+  },
+  {
+    "id": 16025,
+    "seq": 25,
+    "honorMissionType": "append_full_combo",
+    "requirement": 240,
+    "sentence": "在難易度APPEND，達成240首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16025
+      ]
+    ]
+  },
+  {
+    "id": 16026,
+    "seq": 26,
+    "honorMissionType": "append_full_combo",
+    "requirement": 250,
+    "sentence": "在難易度APPEND，達成250首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16026
+      ]
+    ]
+  },
+  {
+    "id": 16027,
+    "seq": 27,
+    "honorMissionType": "append_full_combo",
+    "requirement": 260,
+    "sentence": "在難易度APPEND，達成260首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16027
+      ]
+    ]
+  },
+  {
+    "id": 16028,
+    "seq": 28,
+    "honorMissionType": "append_full_combo",
+    "requirement": 270,
+    "sentence": "在難易度APPEND，達成270首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16028
+      ]
+    ]
+  },
+  {
+    "id": 16029,
+    "seq": 29,
+    "honorMissionType": "append_full_combo",
+    "requirement": 280,
+    "sentence": "在難易度APPEND，達成280首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16029
+      ]
+    ]
+  },
+  {
+    "id": 16030,
+    "seq": 30,
+    "honorMissionType": "append_full_combo",
+    "requirement": 290,
+    "sentence": "在難易度APPEND，達成290首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16030
+      ]
+    ]
+  },
+  {
+    "id": 16031,
+    "seq": 31,
+    "honorMissionType": "append_full_combo",
+    "requirement": 300,
+    "sentence": "在難易度APPEND，達成300首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16031
+      ]
+    ]
+  },
+  {
+    "id": 16032,
+    "seq": 32,
+    "honorMissionType": "append_full_combo",
+    "requirement": 310,
+    "sentence": "在難易度APPEND，達成310首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16032
+      ]
+    ]
+  },
+  {
+    "id": 16033,
+    "seq": 33,
+    "honorMissionType": "append_full_combo",
+    "requirement": 320,
+    "sentence": "在難易度APPEND，達成320首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16033
+      ]
+    ]
+  },
+  {
+    "id": 16034,
+    "seq": 34,
+    "honorMissionType": "append_full_combo",
+    "requirement": 330,
+    "sentence": "在難易度APPEND，達成330首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16034
+      ]
+    ]
+  },
+  {
+    "id": 16035,
+    "seq": 35,
+    "honorMissionType": "append_full_combo",
+    "requirement": 340,
+    "sentence": "在難易度APPEND，達成340首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16035
+      ]
+    ]
+  },
+  {
+    "id": 16036,
+    "seq": 36,
+    "honorMissionType": "append_full_combo",
+    "requirement": 350,
+    "sentence": "在難易度APPEND，達成350首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16036
+      ]
+    ]
+  },
+  {
+    "id": 16037,
+    "seq": 37,
+    "honorMissionType": "append_full_combo",
+    "requirement": 360,
+    "sentence": "在難易度APPEND，達成360首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16037
+      ]
+    ]
+  },
+  {
+    "id": 16038,
+    "seq": 38,
+    "honorMissionType": "append_full_combo",
+    "requirement": 370,
+    "sentence": "在難易度APPEND，達成370首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16038
+      ]
+    ]
+  },
+  {
+    "id": 16039,
+    "seq": 39,
+    "honorMissionType": "append_full_combo",
+    "requirement": 380,
+    "sentence": "在難易度APPEND，達成380首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16039
+      ]
+    ]
+  },
+  {
+    "id": 16040,
+    "seq": 40,
+    "honorMissionType": "append_full_combo",
+    "requirement": 390,
+    "sentence": "在難易度APPEND，達成390首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16040
+      ]
+    ]
+  },
+  {
+    "id": 16041,
+    "seq": 41,
+    "honorMissionType": "append_full_combo",
+    "requirement": 400,
+    "sentence": "在難易度APPEND，達成400首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16041
+      ]
+    ]
+  },
+  {
+    "id": 16042,
+    "seq": 42,
+    "honorMissionType": "append_full_combo",
+    "requirement": 410,
+    "sentence": "在難易度APPEND，達成410首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16042
+      ]
+    ]
+  },
+  {
+    "id": 16043,
+    "seq": 43,
+    "honorMissionType": "append_full_combo",
+    "requirement": 420,
+    "sentence": "在難易度APPEND，達成420首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16043
+      ]
+    ]
+  },
+  {
+    "id": 16044,
+    "seq": 44,
+    "honorMissionType": "append_full_combo",
+    "requirement": 430,
+    "sentence": "在難易度APPEND，達成430首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16044
+      ]
+    ]
+  },
+  {
+    "id": 16045,
+    "seq": 45,
+    "honorMissionType": "append_full_combo",
+    "requirement": 440,
+    "sentence": "在難易度APPEND，達成440首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16045
+      ]
+    ]
+  },
+  {
+    "id": 16046,
+    "seq": 46,
+    "honorMissionType": "append_full_combo",
+    "requirement": 450,
+    "sentence": "在難易度APPEND，達成450首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16046
+      ]
+    ]
+  },
+  {
+    "id": 16047,
+    "seq": 47,
+    "honorMissionType": "append_full_combo",
+    "requirement": 460,
+    "sentence": "在難易度APPEND，達成460首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16047
+      ]
+    ]
+  },
+  {
+    "id": 16048,
+    "seq": 48,
+    "honorMissionType": "append_full_combo",
+    "requirement": 470,
+    "sentence": "在難易度APPEND，達成470首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16048
+      ]
+    ]
+  },
+  {
+    "id": 16049,
+    "seq": 49,
+    "honorMissionType": "append_full_combo",
+    "requirement": 480,
+    "sentence": "在難易度APPEND，達成480首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16049
+      ]
+    ]
+  },
+  {
+    "id": 16050,
+    "seq": 50,
+    "honorMissionType": "append_full_combo",
+    "requirement": 490,
+    "sentence": "在難易度APPEND，達成490首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16050
+      ]
+    ]
+  },
+  {
+    "id": 16051,
+    "seq": 51,
+    "honorMissionType": "append_full_combo",
+    "requirement": 500,
+    "sentence": "在難易度APPEND，達成500首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16051
+      ]
+    ]
+  },
+  {
+    "id": 16052,
+    "seq": 52,
+    "honorMissionType": "append_full_combo",
+    "requirement": 510,
+    "sentence": "在難易度APPEND，達成510首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16052
+      ]
+    ]
+  },
+  {
+    "id": 16053,
+    "seq": 53,
+    "honorMissionType": "append_full_combo",
+    "requirement": 520,
+    "sentence": "在難易度APPEND，達成520首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16053
+      ]
+    ]
+  },
+  {
+    "id": 16054,
+    "seq": 54,
+    "honorMissionType": "append_full_combo",
+    "requirement": 530,
+    "sentence": "在難易度APPEND，達成530首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16054
+      ]
+    ]
+  },
+  {
+    "id": 16055,
+    "seq": 55,
+    "honorMissionType": "append_full_combo",
+    "requirement": 540,
+    "sentence": "在難易度APPEND，達成540首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16055
+      ]
+    ]
+  },
+  {
+    "id": 16056,
+    "seq": 56,
+    "honorMissionType": "append_full_combo",
+    "requirement": 550,
+    "sentence": "在難易度APPEND，達成550首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16056
+      ]
+    ]
+  },
+  {
+    "id": 16057,
+    "seq": 57,
+    "honorMissionType": "append_full_combo",
+    "requirement": 560,
+    "sentence": "在難易度APPEND，達成560首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16057
+      ]
+    ]
+  },
+  {
+    "id": 16058,
+    "seq": 58,
+    "honorMissionType": "append_full_combo",
+    "requirement": 570,
+    "sentence": "在難易度APPEND，達成570首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16058
+      ]
+    ]
+  },
+  {
+    "id": 16059,
+    "seq": 59,
+    "honorMissionType": "append_full_combo",
+    "requirement": 580,
+    "sentence": "在難易度APPEND，達成580首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16059
+      ]
+    ]
+  },
+  {
+    "id": 16060,
+    "seq": 60,
+    "honorMissionType": "append_full_combo",
+    "requirement": 590,
+    "sentence": "在難易度APPEND，達成590首歌曲的FULL COMBO吧。",
+    "rewards": [
+      [
+        16060
+      ]
+    ]
+  },
+  {
+    "id": 17001,
+    "seq": 1,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 5,
+    "sentence": "在難易度APPEND，達成5首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17001
+      ]
+    ]
+  },
+  {
+    "id": 17002,
+    "seq": 2,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 10,
+    "sentence": "在難易度APPEND，達成10首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17002
+      ]
+    ]
+  },
+  {
+    "id": 17003,
+    "seq": 3,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 20,
+    "sentence": "在難易度APPEND，達成20首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17003
+      ]
+    ]
+  },
+  {
+    "id": 17004,
+    "seq": 4,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 30,
+    "sentence": "在難易度APPEND，達成30首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17004
+      ]
+    ]
+  },
+  {
+    "id": 17005,
+    "seq": 5,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 40,
+    "sentence": "在難易度APPEND，達成40首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17005
+      ]
+    ]
+  },
+  {
+    "id": 17006,
+    "seq": 6,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 50,
+    "sentence": "在難易度APPEND，達成50首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17006
+      ]
+    ]
+  },
+  {
+    "id": 17007,
+    "seq": 7,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 60,
+    "sentence": "在難易度APPEND，達成60首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17007
+      ]
+    ]
+  },
+  {
+    "id": 17008,
+    "seq": 8,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 70,
+    "sentence": "在難易度APPEND，達成70首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17008
+      ]
+    ]
+  },
+  {
+    "id": 17009,
+    "seq": 9,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 80,
+    "sentence": "在難易度APPEND，達成80首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17009
+      ]
+    ]
+  },
+  {
+    "id": 17010,
+    "seq": 10,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 90,
+    "sentence": "在難易度APPEND，達成90首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17010
+      ]
+    ]
+  },
+  {
+    "id": 17011,
+    "seq": 11,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 100,
+    "sentence": "在難易度APPEND，達成100首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17011
+      ]
+    ]
+  },
+  {
+    "id": 17012,
+    "seq": 12,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 110,
+    "sentence": "在難易度APPEND，達成110首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17012
+      ]
+    ]
+  },
+  {
+    "id": 17013,
+    "seq": 13,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 120,
+    "sentence": "在難易度APPEND，達成120首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17013
+      ]
+    ]
+  },
+  {
+    "id": 17014,
+    "seq": 14,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 130,
+    "sentence": "在難易度APPEND，達成130首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17014
+      ]
+    ]
+  },
+  {
+    "id": 17015,
+    "seq": 15,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 140,
+    "sentence": "在難易度APPEND，達成140首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17015
+      ]
+    ]
+  },
+  {
+    "id": 17016,
+    "seq": 16,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 150,
+    "sentence": "在難易度APPEND，達成150首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17016
+      ]
+    ]
+  },
+  {
+    "id": 17017,
+    "seq": 17,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 160,
+    "sentence": "在難易度APPEND，達成160首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17017
+      ]
+    ]
+  },
+  {
+    "id": 17018,
+    "seq": 18,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 170,
+    "sentence": "在難易度APPEND，達成170首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17018
+      ]
+    ]
+  },
+  {
+    "id": 17019,
+    "seq": 19,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 180,
+    "sentence": "在難易度APPEND，達成180首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17019
+      ]
+    ]
+  },
+  {
+    "id": 17020,
+    "seq": 20,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 190,
+    "sentence": "在難易度APPEND，達成190首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17020
+      ]
+    ]
+  },
+  {
+    "id": 17021,
+    "seq": 21,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 200,
+    "sentence": "在難易度APPEND，達成200首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17021
+      ]
+    ]
+  },
+  {
+    "id": 17022,
+    "seq": 22,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 210,
+    "sentence": "在難易度APPEND，達成210首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17022
+      ]
+    ]
+  },
+  {
+    "id": 17023,
+    "seq": 23,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 220,
+    "sentence": "在難易度APPEND，達成220首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17023
+      ]
+    ]
+  },
+  {
+    "id": 17024,
+    "seq": 24,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 230,
+    "sentence": "在難易度APPEND，達成230首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17024
+      ]
+    ]
+  },
+  {
+    "id": 17025,
+    "seq": 25,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 240,
+    "sentence": "在難易度APPEND，達成240首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17025
+      ]
+    ]
+  },
+  {
+    "id": 17026,
+    "seq": 26,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 250,
+    "sentence": "在難易度APPEND，達成250首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17026
+      ]
+    ]
+  },
+  {
+    "id": 17027,
+    "seq": 27,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 260,
+    "sentence": "在難易度APPEND，達成260首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17027
+      ]
+    ]
+  },
+  {
+    "id": 17028,
+    "seq": 28,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 270,
+    "sentence": "在難易度APPEND，達成270首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17028
+      ]
+    ]
+  },
+  {
+    "id": 17029,
+    "seq": 29,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 280,
+    "sentence": "在難易度APPEND，達成280首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17029
+      ]
+    ]
+  },
+  {
+    "id": 17030,
+    "seq": 30,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 290,
+    "sentence": "在難易度APPEND，達成290首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17030
+      ]
+    ]
+  },
+  {
+    "id": 17031,
+    "seq": 31,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 300,
+    "sentence": "在難易度APPEND，達成300首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17031
+      ]
+    ]
+  },
+  {
+    "id": 17032,
+    "seq": 32,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 310,
+    "sentence": "在難易度APPEND，達成310首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17032
+      ]
+    ]
+  },
+  {
+    "id": 17033,
+    "seq": 33,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 320,
+    "sentence": "在難易度APPEND，達成320首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17033
+      ]
+    ]
+  },
+  {
+    "id": 17034,
+    "seq": 34,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 330,
+    "sentence": "在難易度APPEND，達成330首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17034
+      ]
+    ]
+  },
+  {
+    "id": 17035,
+    "seq": 35,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 340,
+    "sentence": "在難易度APPEND，達成340首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17035
+      ]
+    ]
+  },
+  {
+    "id": 17036,
+    "seq": 36,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 350,
+    "sentence": "在難易度APPEND，達成350首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17036
+      ]
+    ]
+  },
+  {
+    "id": 17037,
+    "seq": 37,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 360,
+    "sentence": "在難易度APPEND，達成360首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17037
+      ]
+    ]
+  },
+  {
+    "id": 17038,
+    "seq": 38,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 370,
+    "sentence": "在難易度APPEND，達成370首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17038
+      ]
+    ]
+  },
+  {
+    "id": 17039,
+    "seq": 39,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 380,
+    "sentence": "在難易度APPEND，達成380首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17039
+      ]
+    ]
+  },
+  {
+    "id": 17040,
+    "seq": 40,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 390,
+    "sentence": "在難易度APPEND，達成390首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17040
+      ]
+    ]
+  },
+  {
+    "id": 17041,
+    "seq": 41,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 400,
+    "sentence": "在難易度APPEND，達成400首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17041
+      ]
+    ]
+  },
+  {
+    "id": 17042,
+    "seq": 42,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 410,
+    "sentence": "在難易度APPEND，達成410首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17042
+      ]
+    ]
+  },
+  {
+    "id": 17043,
+    "seq": 43,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 420,
+    "sentence": "在難易度APPEND，達成420首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17043
+      ]
+    ]
+  },
+  {
+    "id": 17044,
+    "seq": 44,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 430,
+    "sentence": "在難易度APPEND，達成430首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17044
+      ]
+    ]
+  },
+  {
+    "id": 17045,
+    "seq": 45,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 440,
+    "sentence": "在難易度APPEND，達成440首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17045
+      ]
+    ]
+  },
+  {
+    "id": 17046,
+    "seq": 46,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 450,
+    "sentence": "在難易度APPEND，達成450首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17046
+      ]
+    ]
+  },
+  {
+    "id": 17047,
+    "seq": 47,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 460,
+    "sentence": "在難易度APPEND，達成460首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17047
+      ]
+    ]
+  },
+  {
+    "id": 17048,
+    "seq": 48,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 470,
+    "sentence": "在難易度APPEND，達成470首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17048
+      ]
+    ]
+  },
+  {
+    "id": 17049,
+    "seq": 49,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 480,
+    "sentence": "在難易度APPEND，達成480首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17049
+      ]
+    ]
+  },
+  {
+    "id": 17050,
+    "seq": 50,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 490,
+    "sentence": "在難易度APPEND，達成490首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17050
+      ]
+    ]
+  },
+  {
+    "id": 17051,
+    "seq": 51,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 500,
+    "sentence": "在難易度APPEND，達成500首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17051
+      ]
+    ]
+  },
+  {
+    "id": 17052,
+    "seq": 52,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 510,
+    "sentence": "在難易度APPEND，達成510首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17052
+      ]
+    ]
+  },
+  {
+    "id": 17053,
+    "seq": 53,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 520,
+    "sentence": "在難易度APPEND，達成520首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17053
+      ]
+    ]
+  },
+  {
+    "id": 17054,
+    "seq": 54,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 530,
+    "sentence": "在難易度APPEND，達成530首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17054
+      ]
+    ]
+  },
+  {
+    "id": 17055,
+    "seq": 55,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 540,
+    "sentence": "在難易度APPEND，達成540首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17055
+      ]
+    ]
+  },
+  {
+    "id": 17056,
+    "seq": 56,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 550,
+    "sentence": "在難易度APPEND，達成550首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17056
+      ]
+    ]
+  },
+  {
+    "id": 17057,
+    "seq": 57,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 560,
+    "sentence": "在難易度APPEND，達成560首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17057
+      ]
+    ]
+  },
+  {
+    "id": 17058,
+    "seq": 58,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 570,
+    "sentence": "在難易度APPEND，達成570首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17058
+      ]
+    ]
+  },
+  {
+    "id": 17059,
+    "seq": 59,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 580,
+    "sentence": "在難易度APPEND，達成580首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17059
+      ]
+    ]
+  },
+  {
+    "id": 17060,
+    "seq": 60,
+    "honorMissionType": "append_full_perfect",
+    "requirement": 590,
+    "sentence": "在難易度APPEND，達成590首歌曲的ALL PERFECT吧。",
+    "rewards": [
+      [
+        17060
+      ]
+    ]
+  },
+  {
+    "id": 20001,
+    "seq": 15,
+    "honorMissionType": "play_level_clear",
+    "requirement": 15,
+    "sentence": "通過Lv.15以上的歌曲吧。",
+    "rewards": [
+      [
+        20001
+      ]
+    ]
+  },
+  {
+    "id": 20002,
+    "seq": 16,
+    "honorMissionType": "play_level_clear",
+    "requirement": 16,
+    "sentence": "通過Lv.16以上的歌曲吧。",
+    "rewards": [
+      [
+        20002
+      ]
+    ]
+  },
+  {
+    "id": 20003,
+    "seq": 17,
+    "honorMissionType": "play_level_clear",
+    "requirement": 17,
+    "sentence": "通過Lv.17以上的歌曲吧。",
+    "rewards": [
+      [
+        20003
+      ]
+    ]
+  },
+  {
+    "id": 20004,
+    "seq": 18,
+    "honorMissionType": "play_level_clear",
+    "requirement": 18,
+    "sentence": "通過Lv.18以上的歌曲吧。",
+    "rewards": [
+      [
+        20004
+      ]
+    ]
+  },
+  {
+    "id": 20005,
+    "seq": 19,
+    "honorMissionType": "play_level_clear",
+    "requirement": 19,
+    "sentence": "通過Lv.19以上的歌曲吧。",
+    "rewards": [
+      [
+        20005
+      ]
+    ]
+  },
+  {
+    "id": 20006,
+    "seq": 20,
+    "honorMissionType": "play_level_clear",
+    "requirement": 20,
+    "sentence": "通過Lv.20以上的歌曲吧。",
+    "rewards": [
+      [
+        20006
+      ]
+    ]
+  },
+  {
+    "id": 20007,
+    "seq": 21,
+    "honorMissionType": "play_level_clear",
+    "requirement": 21,
+    "sentence": "通過Lv.21以上的歌曲吧。",
+    "rewards": [
+      [
+        20007
+      ]
+    ]
+  },
+  {
+    "id": 20008,
+    "seq": 22,
+    "honorMissionType": "play_level_clear",
+    "requirement": 22,
+    "sentence": "通過Lv.22以上的歌曲吧。",
+    "rewards": [
+      [
+        20008
+      ]
+    ]
+  },
+  {
+    "id": 20009,
+    "seq": 23,
+    "honorMissionType": "play_level_clear",
+    "requirement": 23,
+    "sentence": "通過Lv.23以上的歌曲吧。",
+    "rewards": [
+      [
+        20009
+      ]
+    ]
+  },
+  {
+    "id": 20010,
+    "seq": 24,
+    "honorMissionType": "play_level_clear",
+    "requirement": 24,
+    "sentence": "通過Lv.24以上的歌曲吧。",
+    "rewards": [
+      [
+        20010
+      ]
+    ]
+  },
+  {
+    "id": 20011,
+    "seq": 25,
+    "honorMissionType": "play_level_clear",
+    "requirement": 25,
+    "sentence": "通過Lv.25以上的歌曲吧。",
+    "rewards": [
+      [
+        20011
+      ]
+    ]
+  },
+  {
+    "id": 20012,
+    "seq": 26,
+    "honorMissionType": "play_level_clear",
+    "requirement": 26,
+    "sentence": "通過Lv.26以上的歌曲吧。",
+    "rewards": [
+      [
+        20012
+      ]
+    ]
+  },
+  {
+    "id": 20013,
+    "seq": 27,
+    "honorMissionType": "play_level_clear",
+    "requirement": 27,
+    "sentence": "通過Lv.27以上的歌曲吧。",
+    "rewards": [
+      [
+        20013
+      ]
+    ]
+  },
+  {
+    "id": 20014,
+    "seq": 28,
+    "honorMissionType": "play_level_clear",
+    "requirement": 28,
+    "sentence": "通過Lv.28以上的歌曲吧。",
+    "rewards": [
+      [
+        20014
+      ]
+    ]
+  },
+  {
+    "id": 20015,
+    "seq": 29,
+    "honorMissionType": "play_level_clear",
+    "requirement": 29,
+    "sentence": "通過Lv.29以上的歌曲吧。",
+    "rewards": [
+      [
+        20015
+      ]
+    ]
+  },
+  {
+    "id": 20016,
+    "seq": 30,
+    "honorMissionType": "play_level_clear",
+    "requirement": 30,
+    "sentence": "通過Lv.30以上的歌曲吧。",
+    "rewards": [
+      [
+        20016
+      ]
+    ]
+  },
+  {
+    "id": 20017,
+    "seq": 31,
+    "honorMissionType": "play_level_clear",
+    "requirement": 31,
+    "sentence": "通過Lv.31以上的歌曲吧。",
+    "rewards": [
+      [
+        20017
+      ]
+    ]
+  },
+  {
+    "id": 20018,
+    "seq": 32,
+    "honorMissionType": "play_level_clear",
+    "requirement": 32,
+    "sentence": "通過Lv.32以上的歌曲吧。",
+    "rewards": [
+      [
+        20018
+      ]
+    ]
+  },
+  {
+    "id": 20019,
+    "seq": 33,
+    "honorMissionType": "play_level_clear",
+    "requirement": 33,
+    "sentence": "通過Lv.33以上的歌曲吧。",
+    "rewards": [
+      [
+        20019
+      ]
+    ]
+  },
+  {
+    "id": 20020,
+    "seq": 34,
+    "honorMissionType": "play_level_clear",
+    "requirement": 34,
+    "sentence": "通過Lv.34以上的歌曲吧。",
+    "rewards": [
+      [
+        20020
+      ]
+    ]
+  },
+  {
+    "id": 20021,
+    "seq": 35,
+    "honorMissionType": "play_level_clear",
+    "requirement": 35,
+    "sentence": "通過Lv.35以上的歌曲吧。",
+    "rewards": [
+      [
+        20021
+      ]
+    ]
+  },
+  {
+    "id": 20022,
+    "seq": 36,
+    "honorMissionType": "play_level_clear",
+    "requirement": 36,
+    "sentence": "通過Lv.36以上的歌曲吧。",
+    "rewards": [
+      [
+        20022
+      ]
+    ]
+  },
+  {
+    "id": 20023,
+    "seq": 37,
+    "honorMissionType": "play_level_clear",
+    "requirement": 37,
+    "sentence": "通過Lv.37以上的歌曲吧。",
+    "rewards": [
+      [
+        20023
+      ]
+    ]
+  },
+  {
+    "id": 21001,
+    "seq": 15,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 15,
+    "sentence": "以FULL COMBO通過Lv.15的歌曲吧。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 21002,
+    "seq": 16,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 16,
+    "sentence": "以FULL COMBO通過Lv.16的歌曲吧。",
+    "rewards": [
+      [
+        21002
+      ]
+    ]
+  },
+  {
+    "id": 21003,
+    "seq": 17,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 17,
+    "sentence": "以FULL COMBO通過Lv.17的歌曲吧。",
+    "rewards": [
+      [
+        21003
+      ]
+    ]
+  },
+  {
+    "id": 21004,
+    "seq": 18,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 18,
+    "sentence": "以FULL COMBO通過Lv.18的歌曲吧。",
+    "rewards": [
+      [
+        21004
+      ]
+    ]
+  },
+  {
+    "id": 21005,
+    "seq": 19,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 19,
+    "sentence": "以FULL COMBO通過Lv.19的歌曲吧。",
+    "rewards": [
+      [
+        21005
+      ]
+    ]
+  },
+  {
+    "id": 21006,
+    "seq": 20,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 20,
+    "sentence": "以FULL COMBO通過Lv.20的歌曲吧。",
+    "rewards": [
+      [
+        21006
+      ]
+    ]
+  },
+  {
+    "id": 21007,
+    "seq": 21,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 21,
+    "sentence": "以FULL COMBO通過Lv.21的歌曲吧。",
+    "rewards": [
+      [
+        21007
+      ]
+    ]
+  },
+  {
+    "id": 21008,
+    "seq": 22,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 22,
+    "sentence": "以FULL COMBO通過Lv.22的歌曲吧。",
+    "rewards": [
+      [
+        21008
+      ]
+    ]
+  },
+  {
+    "id": 21009,
+    "seq": 23,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 23,
+    "sentence": "以FULL COMBO通過Lv.23的歌曲吧。",
+    "rewards": [
+      [
+        21009
+      ]
+    ]
+  },
+  {
+    "id": 21010,
+    "seq": 24,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 24,
+    "sentence": "以FULL COMBO通過Lv.24的歌曲吧。",
+    "rewards": [
+      [
+        21010
+      ]
+    ]
+  },
+  {
+    "id": 21011,
+    "seq": 25,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 25,
+    "sentence": "以FULL COMBO通過Lv.25的歌曲吧。",
+    "rewards": [
+      [
+        21011
+      ]
+    ]
+  },
+  {
+    "id": 21012,
+    "seq": 26,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 26,
+    "sentence": "以FULL COMBO通過Lv.26的歌曲吧。",
+    "rewards": [
+      [
+        21012
+      ]
+    ]
+  },
+  {
+    "id": 21013,
+    "seq": 27,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 27,
+    "sentence": "以FULL COMBO通過Lv.27的歌曲吧。",
+    "rewards": [
+      [
+        21013
+      ]
+    ]
+  },
+  {
+    "id": 21014,
+    "seq": 28,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 28,
+    "sentence": "以FULL COMBO通過Lv.28的歌曲吧。",
+    "rewards": [
+      [
+        21014
+      ]
+    ]
+  },
+  {
+    "id": 21015,
+    "seq": 29,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 29,
+    "sentence": "以FULL COMBO通過Lv.29的歌曲吧。",
+    "rewards": [
+      [
+        21015
+      ]
+    ]
+  },
+  {
+    "id": 21016,
+    "seq": 30,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 30,
+    "sentence": "以FULL COMBO通過Lv.30的歌曲吧。",
+    "rewards": [
+      [
+        21016
+      ]
+    ]
+  },
+  {
+    "id": 21017,
+    "seq": 31,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 31,
+    "sentence": "以FULL COMBO通過Lv.31的歌曲吧。",
+    "rewards": [
+      [
+        21017
+      ]
+    ]
+  },
+  {
+    "id": 21018,
+    "seq": 32,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 32,
+    "sentence": "以FULL COMBO通過Lv.32的歌曲吧。",
+    "rewards": [
+      [
+        21018
+      ]
+    ]
+  },
+  {
+    "id": 21019,
+    "seq": 33,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 33,
+    "sentence": "以FULL COMBO通過Lv.33的歌曲吧。",
+    "rewards": [
+      [
+        21019
+      ]
+    ]
+  },
+  {
+    "id": 21020,
+    "seq": 34,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 34,
+    "sentence": "以FULL COMBO通過Lv.34的歌曲吧。",
+    "rewards": [
+      [
+        21020
+      ]
+    ]
+  },
+  {
+    "id": 21021,
+    "seq": 35,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 35,
+    "sentence": "以FULL COMBO通過Lv.35的歌曲吧。",
+    "rewards": [
+      [
+        21021
+      ]
+    ]
+  },
+  {
+    "id": 21022,
+    "seq": 36,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 36,
+    "sentence": "以FULL COMBO通過Lv.36的歌曲吧。",
+    "rewards": [
+      [
+        21022
+      ]
+    ]
+  },
+  {
+    "id": 21023,
+    "seq": 37,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 37,
+    "sentence": "以FULL COMBO通過Lv.37的歌曲吧。",
+    "rewards": [
+      [
+        21023
+      ]
+    ]
   },
   {
     "id": 50001,
