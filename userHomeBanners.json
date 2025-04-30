@@ -20,53 +20,24 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 879,
-    "seq": 190,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha485",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 485,
-    "startAt": 1743307200000,
-    "endAt": 1746028799000
-  },
-  {
-    "homeBannerId": 883,
-    "seq": 150,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_shop_world_3900_anniversary",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1743307200000,
-    "endAt": 1746028799000
-  },
-  {
-    "homeBannerId": 918,
+    "homeBannerId": 928,
     "seq": 180,
     "homeBannerType": "event",
-    "assetbundleName": "event_parallel_2024",
+    "assetbundleName": "event_whip_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 128,
-    "startAt": 1745132400000,
-    "endAt": 1745996400000
+    "transitionDestinationId": 129,
+    "startAt": 1745996400000,
+    "endAt": 1746792000000
   },
   {
-    "homeBannerId": 921,
+    "homeBannerId": 931,
     "seq": 170,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha498",
+    "assetbundleName": "banner_gacha503",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 498,
-    "startAt": 1745121600000,
-    "endAt": 1745985600000
-  },
-  {
-    "homeBannerId": 925,
-    "seq": 130,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha500",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 500,
-    "startAt": 1745942400000,
-    "endAt": 1746028800000
+    "transitionDestinationId": 503,
+    "startAt": 1745985600000,
+    "endAt": 1746763200000
   },
   {
     "homeBannerId": 10037,
@@ -85,15 +56,6 @@
     "transitionDestinationType": "billing_shop_for_first_recharge",
     "startAt": 1695092400000,
     "endAt": 4093473599000
-  },
-  {
-    "homeBannerId": 10062,
-    "seq": 9999,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_cp_invite_friends",
-    "transitionDestinationType": "friend_invitation_campaign",
-    "startAt": 1743091200000,
-    "endAt": 1746028799000
   },
   {
     "homeBannerId": 10101,
