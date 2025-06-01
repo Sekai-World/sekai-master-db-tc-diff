@@ -20,26 +20,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 947,
-    "seq": 180,
-    "homeBannerType": "event",
-    "assetbundleName": "event_smile_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 131,
-    "startAt": 1747983600000,
-    "endAt": 1748674800000
-  },
-  {
-    "homeBannerId": 950,
-    "seq": 170,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha516",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 516,
-    "startAt": 1747972800000,
-    "endAt": 1748664000000
-  },
-  {
     "homeBannerId": 951,
     "seq": 90,
     "homeBannerType": "general",
@@ -48,6 +28,26 @@
     "transitionDestinationId": 520,
     "startAt": 1748232000000,
     "endAt": 1749009600000
+  },
+  {
+    "homeBannerId": 956,
+    "seq": 180,
+    "homeBannerType": "event",
+    "assetbundleName": "event_wedding_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 132,
+    "startAt": 1748674800000,
+    "endAt": 1749538800000
+  },
+  {
+    "homeBannerId": 958,
+    "seq": 170,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha521",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 521,
+    "startAt": 1748664000000,
+    "endAt": 1749528000000
   },
   {
     "homeBannerId": 10037,
