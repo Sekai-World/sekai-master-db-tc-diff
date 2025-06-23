@@ -208,6 +208,10 @@
     "value": "GB"
   },
   {
+    "wordingKey": "GOOGLE_POINTS_PRESENT_REASON",
+    "value": "10"
+  },
+  {
     "wordingKey": "HARD",
     "value": "HARD"
   },
@@ -2776,6 +2780,10 @@
     "value": "獲得了尚未領取的獎勵任務報酬。"
   },
   {
+    "wordingKey": "MSG_RECEIVE_LIMIT_MISSION_EXPIRED_REWARD",
+    "value": "獲得了尚未領取的獎勵任務報酬。"
+  },
+  {
     "wordingKey": "MSG_RECOLLECTION_APPEAL_SELECT_CARD",
     "value": "招募附贈點數將在這次達到{0}！\n請選擇BONUS獎勵成員。"
   },
@@ -4782,6 +4790,10 @@
   {
     "wordingKey": "WORD_CAN_ENTRY_OFFLINE_EVENT_DIALOG_TITLE",
     "value": "確認"
+  },
+  {
+    "wordingKey": "WORD_CAN_GET",
+    "value": "可獲得"
   },
   {
     "wordingKey": "WORD_CAPACITY_SETTING",
@@ -7076,6 +7088,10 @@
     "value": "GET"
   },
   {
+    "wordingKey": "WORD_GET_ALL",
+    "value": "一鍵領取"
+  },
+  {
     "wordingKey": "WORD_GET_CEIL_ITEM",
     "value": "獲得招募貼紙"
   },
@@ -7438,6 +7454,10 @@
   {
     "wordingKey": "WORD_GUIDE_ALPHA",
     "value": "引導的不透明度"
+  },
+  {
+    "wordingKey": "WORD_GUIDE_URL",
+    "value": "https:\/\/act.sgsnssdk.com\/gms\/a3d3d93814\/?from_source=h5"
   },
   {
     "wordingKey": "WORD_HAIR",
@@ -7886,6 +7906,10 @@
   {
     "wordingKey": "WORD_LIMITED_TIME_RELEASE",
     "value": "期間限定開放中"
+  },
+  {
+    "wordingKey": "WORD_LIMIT_MISSION_COMPLETE_REWARD",
+    "value": "獎勵任務 完成報酬"
   },
   {
     "wordingKey": "WORD_LIMIT_MISSION_TIME",
@@ -9581,7 +9605,7 @@
   },
   {
     "wordingKey": "WORD_ONCE_A_WEEK_GACHA_END_AT",
-    "value": "每週一{0}:00重置次數"
+    "value": "每週一0{0}:00重置次數"
   },
   {
     "wordingKey": "WORD_ONCE_CHECK_AGAIN_LIVE",
@@ -11448,6 +11472,14 @@
     "value": "副團體"
   },
   {
+    "wordingKey": "WORD_SUDOKU_GO_CN",
+    "value": "前往"
+  },
+  {
+    "wordingKey": "WORD_SUDOKU_MISSION_PROGRESS",
+    "value": "（{0}\/{1}）"
+  },
+  {
     "wordingKey": "WORD_SUPER_STAR",
     "value": "SUPER\nSTAR"
   },
@@ -11770,6 +11802,18 @@
   {
     "wordingKey": "WORD_TranslateMusicName",
     "value": "中譯版歌曲名稱"
+  },
+  {
+    "wordingKey": "WORD_TURN_INFO_SCH_CN",
+    "value": "世界入住任務"
+  },
+  {
+    "wordingKey": "WORD_TURN_REWARD_CN",
+    "value": "第{0}輪額外獎勵"
+  },
+  {
+    "wordingKey": "WORD_TURN_STG_CN",
+    "value": "完成第{0}輪"
   },
   {
     "wordingKey": "WORD_TWITTER",

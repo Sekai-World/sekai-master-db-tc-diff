@@ -151,6 +151,10 @@
       {
         "bonusType": "exp_card",
         "value": 2.0
+      },
+      {
+        "bonusType": "exp_card",
+        "value": 2.0
       }
     ],
     "normalBoxDailyLimit": 4,
@@ -161,7 +165,9 @@
       3,
       4,
       5,
-      6
+      6,
+      15,
+      16
     ],
     "exBoxResourceBoxIds": [
       7,
@@ -171,8 +177,64 @@
       11,
       12,
       13,
-      14
+      14,
+      17,
+      18
     ],
     "limitMissionGroupId": 17
+  },
+  {
+    "id": 5,
+    "startAt": 1751256000000,
+    "endAt": 1752292799000,
+    "url": "https:\/\/sf19-draftcdn-sg.ibytedtos.com\/obj\/ies-hotsoon-draft-sg\/mktw\/f102d309-eada-407b-ab38-23517f5c7720.html",
+    "bonusAssetbundleName": "event_bonus",
+    "bonuses": [
+      {
+        "bonusType": "rate",
+        "resourceType": "material",
+        "resourceId": 14,
+        "value": 3.0
+      },
+      {
+        "bonusType": "rate",
+        "resourceType": "material",
+        "resourceId": 17,
+        "value": 3.0
+      },
+      {
+        "bonusType": "exp_unit",
+        "value": 2.0
+      },
+      {
+        "bonusType": "exp_card",
+        "value": 2.0
+      }
+    ],
+    "normalBoxDailyLimit": 6,
+    "exBoxDailyLimit": 2,
+    "normalBoxResourceBoxIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      15,
+      16
+    ],
+    "exBoxResourceBoxIds": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      17,
+      18
+    ],
+    "limitMissionGroupId": 15
   }
 ]
