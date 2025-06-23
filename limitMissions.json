@@ -793,48 +793,12 @@
   },
   {
     "limitMissionGroupId": 17,
-    "id": 100,
-    "seq": 1,
-    "limitMissionType": "clear_solo_challenge_live",
-    "requirement": 5,
-    "sentence": "通過5次「挑戰LIVE」吧。",
-    "resourceBoxId": 100319
-  },
-  {
-    "limitMissionGroupId": 17,
-    "id": 101,
-    "seq": 1,
-    "limitMissionType": "clear_multi_live",
-    "requirement": 10,
-    "sentence": "通過10次「多人LIVE」或「Cheerful LIVE」吧。",
-    "resourceBoxId": 100327
-  },
-  {
-    "limitMissionGroupId": 17,
-    "id": 102,
-    "seq": 1,
-    "limitMissionType": "buy_event_item",
-    "requirement": 3,
-    "sentence": "在活動交換所中進行3次交換吧。",
-    "resourceBoxId": 100309
-  },
-  {
-    "limitMissionGroupId": 17,
-    "id": 103,
-    "seq": 1,
-    "limitMissionType": "friend_share",
-    "requirement": 1,
-    "sentence": "進行1次分享吧。（分享按鈕位於[LIVE結算畫面]、[成員詳情]、[招募結果]等畫面的上部）",
-    "resourceBoxId": 100307
-  },
-  {
-    "limitMissionGroupId": 17,
     "id": 104,
     "seq": 1,
     "limitMissionType": "master_rank",
     "requirement": 1,
     "sentence": "提升1次成員的專精等級吧。",
-    "resourceBoxId": 100321
+    "resourceBoxId": 8002
   },
   {
     "limitMissionGroupId": 17,
@@ -844,5 +808,59 @@
     "requirement": 5,
     "sentence": "通過以上所有任務吧。",
     "resourceBoxId": 100329
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 106,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "通過5次「挑戰LIVE」吧。",
+    "resourceBoxId": 400074
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 107,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "通過10次「多人LIVE」吧。",
+    "resourceBoxId": 400075
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 108,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 400076
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 109,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": "累計消耗30LIVE BONUS吧。（可以從[LIVE]->[設定]的圖示中變更LIVE BONUS的消費量）",
+    "resourceBoxId": 400077
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 110,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成員的專精等級吧。",
+    "resourceBoxId": 400078
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 111,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "通過以上所有任務吧。",
+    "resourceBoxId": 400079
   }
 ]
