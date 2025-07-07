@@ -353,7 +353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 2,
@@ -2408,7 +2409,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 3,
@@ -3832,7 +3834,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 4,
@@ -4425,7 +4428,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 5,
@@ -7179,7 +7183,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 6,
@@ -9865,7 +9870,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 7,
@@ -14456,7 +14462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 8,
@@ -19615,7 +19622,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 10,
@@ -19643,7 +19651,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 11,
@@ -22308,7 +22317,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 12,
@@ -26197,7 +26207,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 14,
@@ -26702,7 +26713,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 15,
@@ -26730,7 +26742,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 17,
@@ -27213,6 +27226,57 @@
           }
         ]
       }
+    ],
+    "materialExchangeDisplayResourceGroupId": 1,
+    "materialExchangeDisplayResourceGroups": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 95,
+        "assetbundleName": "icon_fortuneFlower_wh"
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 96,
+        "assetbundleName": "icon_fortuneFlower_bl"
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 97,
+        "assetbundleName": "icon_fortuneFlower_gn"
+      },
+      {
+        "id": 4,
+        "groupId": 1,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 98,
+        "assetbundleName": "icon_fortuneFlower_rd"
+      },
+      {
+        "id": 5,
+        "groupId": 1,
+        "seq": 5,
+        "resourceType": "material",
+        "resourceId": 99,
+        "assetbundleName": "icon_fortuneFlower_yw"
+      },
+      {
+        "id": 6,
+        "groupId": 1,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 100,
+        "assetbundleName": "icon_fortuneFlower_pr"
+      }
     ]
   },
   {
@@ -27573,6 +27637,57 @@
           }
         ]
       }
+    ],
+    "materialExchangeDisplayResourceGroupId": 2,
+    "materialExchangeDisplayResourceGroups": [
+      {
+        "id": 7,
+        "groupId": 2,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 89,
+        "assetbundleName": "icon_fortuneGrass_wh"
+      },
+      {
+        "id": 8,
+        "groupId": 2,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 90,
+        "assetbundleName": "icon_fortuneGrass_bl"
+      },
+      {
+        "id": 9,
+        "groupId": 2,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 91,
+        "assetbundleName": "icon_fortuneGrass_gn"
+      },
+      {
+        "id": 10,
+        "groupId": 2,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 92,
+        "assetbundleName": "icon_fortuneGrass_rd"
+      },
+      {
+        "id": 11,
+        "groupId": 2,
+        "seq": 5,
+        "resourceType": "material",
+        "resourceId": 93,
+        "assetbundleName": "icon_fortuneGrass_yw"
+      },
+      {
+        "id": 12,
+        "groupId": 2,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 94,
+        "assetbundleName": "icon_fortuneGrass_pr"
+      }
     ]
   },
   {
@@ -27698,6 +27813,17 @@
             "quantity": 1
           }
         ]
+      }
+    ],
+    "materialExchangeDisplayResourceGroupId": 3,
+    "materialExchangeDisplayResourceGroups": [
+      {
+        "id": 13,
+        "groupId": 3,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 166,
+        "assetbundleName": "icon_fortuneFlower_mi"
       }
     ]
   },
@@ -32608,6 +32734,169 @@
           }
         ]
       }
+    ],
+    "materialExchangeDisplayResourceGroups": [],
+    "materialExchangeFreebieGroupJson": {
+      "id": 1,
+      "materialExchangeFreebieType": "exchange_already_owned_card"
+    },
+    "materialExchangeFreebies": [
+      {
+        "id": 1,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 1,
+        "resourceBoxId": 1
+      },
+      {
+        "id": 2,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 2,
+        "resourceBoxId": 2
+      },
+      {
+        "id": 3,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 3,
+        "resourceBoxId": 3
+      },
+      {
+        "id": 4,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 4,
+        "resourceBoxId": 4
+      },
+      {
+        "id": 5,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 5,
+        "resourceBoxId": 5
+      },
+      {
+        "id": 6,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 6,
+        "resourceBoxId": 6
+      },
+      {
+        "id": 7,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 7,
+        "resourceBoxId": 7
+      },
+      {
+        "id": 8,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 8,
+        "resourceBoxId": 8
+      },
+      {
+        "id": 9,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 9,
+        "resourceBoxId": 9
+      },
+      {
+        "id": 10,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 10,
+        "resourceBoxId": 10
+      },
+      {
+        "id": 11,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 11,
+        "resourceBoxId": 11
+      },
+      {
+        "id": 12,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 12,
+        "resourceBoxId": 12
+      },
+      {
+        "id": 13,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 13,
+        "resourceBoxId": 13
+      },
+      {
+        "id": 14,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 14,
+        "resourceBoxId": 14
+      },
+      {
+        "id": 15,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 15,
+        "resourceBoxId": 15
+      },
+      {
+        "id": 16,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 16,
+        "resourceBoxId": 16
+      },
+      {
+        "id": 17,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 17,
+        "resourceBoxId": 17
+      },
+      {
+        "id": 18,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 18,
+        "resourceBoxId": 18
+      },
+      {
+        "id": 19,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 19,
+        "resourceBoxId": 19
+      },
+      {
+        "id": 20,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 20,
+        "resourceBoxId": 20
+      },
+      {
+        "id": 21,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 21,
+        "resourceBoxId": 21
+      },
+      {
+        "id": 22,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 22,
+        "resourceBoxId": 22
+      },
+      {
+        "id": 23,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 23,
+        "resourceBoxId": 23
+      },
+      {
+        "id": 24,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 24,
+        "resourceBoxId": 24
+      },
+      {
+        "id": 25,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 25,
+        "resourceBoxId": 25
+      },
+      {
+        "id": 26,
+        "materialExchangeFreebieGroupId": 1,
+        "materialExchangeFreebieTypeId": 26,
+        "resourceBoxId": 26
+      }
     ]
   },
   {
@@ -32722,7 +33011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   },
   {
     "id": 4002,
@@ -33220,6 +33510,7 @@
           }
         ]
       }
-    ]
+    ],
+    "materialExchangeDisplayResourceGroups": []
   }
 ]
