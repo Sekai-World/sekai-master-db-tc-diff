@@ -28421,6 +28421,35 @@
     "archivePublishedAt": 1760263200000
   },
   {
+    "id": 1112,
+    "musicId": 555,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "虛擬歌手ver.",
+    "characters": [
+      {
+        "id": 1980,
+        "musicId": 555,
+        "musicVocalId": 1112,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 5550
+      },
+      {
+        "id": 2911,
+        "musicId": 555,
+        "musicVocalId": 1112,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 5551
+      }
+    ],
+    "assetbundleName": "vs_0555_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1739548800000
+  },
+  {
     "id": 1121,
     "musicId": 564,
     "musicVocalType": "original_song",
@@ -32615,80 +32644,6 @@
     "archivePublishedAt": 1749538800000
   },
   {
-    "id": 1486,
-    "musicId": 6,
-    "musicVocalType": "streaming_live",
-    "seq": 601,
-    "releaseConditionId": 11,
-    "caption": "コネクトライブver.",
-    "characters": [
-      {
-        "id": 2669,
-        "musicId": 6,
-        "musicVocalId": 1486,
-        "characterType": "game_character",
-        "characterId": 21,
-        "seq": 66
-      },
-      {
-        "id": 2670,
-        "musicId": 6,
-        "musicVocalId": 1486,
-        "characterType": "outside_character",
-        "characterId": 25,
-        "seq": 67
-      },
-      {
-        "id": 2671,
-        "musicId": 6,
-        "musicVocalId": 1486,
-        "characterType": "outside_character",
-        "characterId": 27,
-        "seq": 68
-      }
-    ],
-    "assetbundleName": "cl_0006_01",
-    "archiveDisplayType": "none",
-    "archivePublishedAt": 1623310031000
-  },
-  {
-    "id": 1488,
-    "musicId": 253,
-    "musicVocalType": "streaming_live",
-    "seq": 601,
-    "releaseConditionId": 11,
-    "caption": "コネクトライブver.",
-    "characters": [
-      {
-        "id": 2672,
-        "musicId": 253,
-        "musicVocalId": 1488,
-        "characterType": "game_character",
-        "characterId": 21,
-        "seq": 2536
-      },
-      {
-        "id": 2673,
-        "musicId": 253,
-        "musicVocalId": 1488,
-        "characterType": "outside_character",
-        "characterId": 27,
-        "seq": 2537
-      },
-      {
-        "id": 2674,
-        "musicId": 253,
-        "musicVocalId": 1488,
-        "characterType": "outside_character",
-        "characterId": 25,
-        "seq": 2538
-      }
-    ],
-    "assetbundleName": "cl_0253_01",
-    "archiveDisplayType": "none",
-    "archivePublishedAt": 1687330800000
-  },
-  {
     "id": 1490,
     "musicId": 494,
     "musicVocalType": "sekai",
@@ -33075,6 +33030,101 @@
     "archivePublishedAt": 1737043200000
   },
   {
+    "id": 1555,
+    "musicId": 555,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 10,
+    "caption": "「世界」ver.",
+    "characters": [
+      {
+        "id": 2912,
+        "musicId": 555,
+        "musicVocalId": 1555,
+        "characterType": "outside_character",
+        "characterId": 35,
+        "seq": 5552
+      }
+    ],
+    "assetbundleName": "se_0555_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1739548800000
+  },
+  {
+    "id": 1560,
+    "musicId": 138,
+    "musicVocalType": "sekai",
+    "seq": 1201,
+    "releaseConditionId": 10,
+    "caption": "偶像夢幻祭2聯動ver.",
+    "characters": [
+      {
+        "id": 2917,
+        "musicId": 138,
+        "musicVocalId": 1560,
+        "characterType": "game_character",
+        "characterId": 13,
+        "seq": 1386
+      },
+      {
+        "id": 2918,
+        "musicId": 138,
+        "musicVocalId": 1560,
+        "characterType": "game_character",
+        "characterId": 16,
+        "seq": 1387
+      },
+      {
+        "id": 2919,
+        "musicId": 138,
+        "musicVocalId": 1560,
+        "characterType": "outside_character",
+        "characterId": 36,
+        "seq": 1388
+      }
+    ],
+    "assetbundleName": "collabo_es_138_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1752390000000
+  },
+  {
+    "id": 1561,
+    "musicId": 69,
+    "musicVocalType": "sekai",
+    "seq": 1201,
+    "releaseConditionId": 10,
+    "caption": "偶像夢幻祭2聯動ver.",
+    "characters": [
+      {
+        "id": 2920,
+        "musicId": 69,
+        "musicVocalId": 1561,
+        "characterType": "game_character",
+        "characterId": 11,
+        "seq": 697
+      },
+      {
+        "id": 2921,
+        "musicId": 69,
+        "musicVocalId": 1561,
+        "characterType": "game_character",
+        "characterId": 12,
+        "seq": 698
+      },
+      {
+        "id": 2922,
+        "musicId": 69,
+        "musicVocalId": 1561,
+        "characterType": "outside_character",
+        "characterId": 37,
+        "seq": 699
+      }
+    ],
+    "assetbundleName": "collabo_es_69_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1752390000000
+  },
+  {
     "id": 1565,
     "musicId": 575,
     "musicVocalType": "sekai",
@@ -33290,5 +33340,66 @@
     "assetbundleName": "cinema_0141_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1744354800000
+  },
+  {
+    "id": 1581,
+    "musicId": 536,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 5,
+    "caption": "「世界」ver.",
+    "characters": [
+      {
+        "id": 2981,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 5361
+      },
+      {
+        "id": 2982,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 5362
+      },
+      {
+        "id": 2983,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 11,
+        "seq": 5363
+      },
+      {
+        "id": 2984,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 12,
+        "seq": 5364
+      },
+      {
+        "id": 2985,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 13,
+        "seq": 5365
+      },
+      {
+        "id": 2986,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 16,
+        "seq": 5366
+      }
+    ],
+    "assetbundleName": "se_0536_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1753772400000
   }
 ]

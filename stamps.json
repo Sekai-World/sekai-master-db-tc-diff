@@ -8386,8 +8386,8 @@
   },
   {
     "id": 715,
-    "stampType": "illustration",
-    "seq": 9090,
+    "stampType": "non_character_illustration",
+    "seq": 100000,
     "name": "[貼圖]Happy Halloween",
     "assetbundleName": "stamp0715",
     "balloonAssetbundleName": "balloon_stamp_01",
@@ -8475,8 +8475,8 @@
   },
   {
     "id": 722,
-    "stampType": "illustration",
-    "seq": 9180,
+    "stampType": "non_character_illustration",
+    "seq": 100010,
     "name": "[貼圖]Merry Christmas",
     "assetbundleName": "stamp0722",
     "balloonAssetbundleName": "balloon_stamp_01",
@@ -8525,8 +8525,8 @@
   },
   {
     "id": 726,
-    "stampType": "illustration",
-    "seq": 9190,
+    "stampType": "non_character_illustration",
+    "seq": 100020,
     "name": "[貼圖]Happy New Year",
     "assetbundleName": "stamp0726",
     "balloonAssetbundleName": "balloon_stamp_01",
@@ -8549,8 +8549,8 @@
   },
   {
     "id": 728,
-    "stampType": "illustration",
-    "seq": 9270,
+    "stampType": "non_character_illustration",
+    "seq": 100030,
     "name": "[貼圖]Happy Valentine",
     "assetbundleName": "stamp0728",
     "balloonAssetbundleName": "balloon_stamp_01",
@@ -8599,8 +8599,8 @@
   },
   {
     "id": 732,
-    "stampType": "illustration",
-    "seq": 9320,
+    "stampType": "non_character_illustration",
+    "seq": 100040,
     "name": "[貼圖]Happy White Day",
     "assetbundleName": "stamp0732",
     "balloonAssetbundleName": "balloon_stamp_01",
@@ -9740,6 +9740,71 @@
     "description": "參加「Grow glorious glow\n AFTER LIVE」"
   },
   {
+    "id": 867,
+    "stampType": "illustration",
+    "seq": 10570,
+    "name": "[貼圖]寧寧：這就是我現在的實力",
+    "assetbundleName": "stamp0867",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 15,
+    "gameCharacterUnitId": 15,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1763622000000,
+    "description": "參加「Special present for YOU！\n AFTER LIVE」"
+  },
+  {
+    "id": 868,
+    "stampType": "illustration",
+    "seq": 10610,
+    "name": "[貼圖]繪名： 跟我待在一起吧",
+    "assetbundleName": "stamp0868",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 19,
+    "gameCharacterUnitId": 19,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1764486000000,
+    "description": "參加「Unfading wishing\n AFTER LIVE」"
+  },
+  {
+    "id": 869,
+    "stampType": "illustration",
+    "seq": 10620,
+    "name": "[貼圖]雫： 我想承擔！",
+    "assetbundleName": "stamp0869",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 8,
+    "gameCharacterUnitId": 8,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1765436400000,
+    "description": "參加「Time to take off！\n AFTER LIVE」"
+  },
+  {
+    "id": 870,
+    "stampType": "illustration",
+    "seq": 10630,
+    "name": "[貼圖]類： 這是我的職責",
+    "assetbundleName": "stamp0870",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 16,
+    "gameCharacterUnitId": 16,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1766300400000,
+    "description": "參加「Show your shine\n AFTER LIVE」"
+  },
+  {
+    "id": 871,
+    "stampType": "illustration",
+    "seq": 10660,
+    "name": "[貼圖]彰人： 或許是個不錯的開始",
+    "assetbundleName": "stamp0871",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 11,
+    "gameCharacterUnitId": 11,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1767164400000,
+    "description": "志步和杏的情誼等級升至66時獲得"
+  },
+  {
     "id": 874,
     "stampType": "illustration",
     "seq": 10690,
@@ -9751,6 +9816,58 @@
     "archiveDisplayType": "hide",
     "archivePublishedAt": 1737043200000,
     "description": "劇場版世界計畫聯動\n透過集章活動獲得"
+  },
+  {
+    "id": 878,
+    "stampType": "illustration",
+    "seq": 10790,
+    "name": "[貼圖] 彰人：你可要跟上喔",
+    "assetbundleName": "stamp0878",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 11,
+    "gameCharacterUnitId": 11,
+    "archiveDisplayType": "hide",
+    "archivePublishedAt": 1752390000000,
+    "description": "コラボ限定メンバー「★4[共鳴する闘争心] 東雲彰人」を入手で獲得"
+  },
+  {
+    "id": 879,
+    "stampType": "illustration",
+    "seq": 10800,
+    "name": "[貼圖] 冬彌：很開心能見到你",
+    "assetbundleName": "stamp0879",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 12,
+    "gameCharacterUnitId": 12,
+    "archiveDisplayType": "hide",
+    "archivePublishedAt": 1752390000000,
+    "description": "コラボ限定メンバー「★4[互いの武器を振るって] 青柳冬弥」を入手で獲得"
+  },
+  {
+    "id": 880,
+    "stampType": "illustration",
+    "seq": 10810,
+    "name": "[貼圖] 司：笑容真棒呢！",
+    "assetbundleName": "stamp0880",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 13,
+    "gameCharacterUnitId": 13,
+    "archiveDisplayType": "hide",
+    "archivePublishedAt": 1752390000000,
+    "description": "コラボ限定メンバー「★4[星のように輝くステージを] 天馬司」を入手で獲得"
+  },
+  {
+    "id": 881,
+    "stampType": "illustration",
+    "seq": 10820,
+    "name": "[貼圖] 類：這可是特別準備的喔",
+    "assetbundleName": "stamp0881",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 16,
+    "gameCharacterUnitId": 16,
+    "archiveDisplayType": "hide",
+    "archivePublishedAt": 1752390000000,
+    "description": "コラボ限定メンバー「★4[魔法と発明が織りなすショー] 神代類」を入手で獲得"
   },
   {
     "id": 10001,
@@ -11255,6 +11372,19 @@
     "description": "志步和心羽的情誼等級升至66時獲得"
   },
   {
+    "id": 104101,
+    "stampType": "illustration",
+    "seq": 10580,
+    "name": "[貼圖]志步和杏：即興表演很棒喔",
+    "assetbundleName": "stamp104101",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 4,
+    "characterId2": 10,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1764473400000,
+    "description": "劇場版世界計畫聯動\n透過集章活動獲得"
+  },
+  {
     "id": 104131,
     "stampType": "illustration",
     "seq": 7550,
@@ -11422,6 +11552,19 @@
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727452800000,
     "description": "實乃理和奏的情誼等級升至66時獲得"
+  },
+  {
+    "id": 105191,
+    "stampType": "illustration",
+    "seq": 10590,
+    "name": "[貼圖]實乃理和繪名：總會想幫忙加油呢",
+    "assetbundleName": "stamp105191",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "characterId2": 19,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1764473400000,
+    "description": "參加「將心意注入每一針\n AFTER LIVE」"
   },
   {
     "id": 105211,
@@ -11942,6 +12085,19 @@
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727452800000,
     "description": "心羽和司的情誼等級升至66時獲得"
+  },
+  {
+    "id": 109141,
+    "stampType": "illustration",
+    "seq": 10600,
+    "name": "[貼圖]小羽和笑夢：連我也露出笑容了",
+    "assetbundleName": "stamp109141",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 9,
+    "characterId2": 14,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1764473400000,
+    "description": "參加「Rise and Strive\n AFTER LIVE」"
   },
   {
     "id": 109211,

@@ -208,6 +208,10 @@
     "value": "GB"
   },
   {
+    "wordingKey": "GOOGLE_POINTS_PRESENT_REASON",
+    "value": "Google Play Points獎勵"
+  },
+  {
     "wordingKey": "HARD",
     "value": "HARD"
   },
@@ -698,6 +702,10 @@
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_CONFIRM",
     "value": "{0}x{1}\n是否確定領取此報酬？"
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_CONFIRM_NO_COUNT",
+    "value": "{0}\n是否確定領取此報酬？"
   },
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_INFO",
@@ -2608,6 +2616,10 @@
     "value": "每進行1次招募，都會獲得各種道具作為獎品。\n\n※獎品抽取會在招募結果畫面進行。\n※每1次獎品抽取都是依據出現機率獨立抽取。例如出現機率為1%，並不代表抽100次該道具就一定會出現1次。\n※可從獎品獲得的「[4週年紀念]絢爛慶典招募專用票券」，是只能在預訂於9\/30 12:00開始的「[4週年紀念]絢爛慶典招募 夢幻選秀」使用的招募票劵。此外，在超過舉辦期限後，「[4週年紀念]絢爛慶典招募專用票券」便無法使用。\n※可從獎品獲得的「[4週年紀念]10連免費招募票券」，是只能在預訂於9\/30 12:00開始的「[4週年紀念]10連免費招募」使用的招募票券。此外，在超過舉辦期限後，「[4週年紀念]10連免費招募票券」便無法使用。"
   },
   {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_2",
+    "value": "ガチャを1回引くごとに、各種アイテムがプライズとして獲得できます。\n\n※プライズの抽選は、ガチャの結果画面にて実行されます。\n※プライズは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のアイテムが100回中1回必ず出現するという仕組みではありません。\n※プライズで獲得できる「[2025新春]ブルームフェスティバルガチャ専用チケット」は、「[2025新春]ブルームフェスティバルガチャ」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[2025新春]ブルームフェスティバルガチャ専用チケット」はご利用いただけなくなりますのでご注意ください。\n※プライズで獲得できる「[2025新春]お正月無料ガチャチケット」は、「[2025新春]お正月無料ガチャ」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[2025新春]お正月無料ガチャチケット」はご利用いただけなくなりますのでご注意ください。"
+  },
+  {
     "wordingKey": "MSG_PRODUCT_IS_PENDING",
     "value": "因有尚未付款完成的商品，無法購入商品。"
   },
@@ -3621,7 +3633,7 @@
   },
   {
     "wordingKey": "MUTE_DIALOG_TEXT",
-    "value": "由於您被禁言，無法發送訊息；請在%s後重試。"
+    "value": "您已被禁言，目前無法發送訊息，請於%秒後重試。"
   },
   {
     "wordingKey": "NORMAL",
@@ -7340,6 +7352,14 @@
     "value": "前往休息室"
   },
   {
+    "wordingKey": "Word_GPFail",
+    "value": "領取失敗"
+  },
+  {
+    "wordingKey": "Word_GPMessage",
+    "value": "Google Play Points獎勵兌換成功，是否要在當前帳號下領取?"
+  },
+  {
     "wordingKey": "WORD_GRATE_FORTUNE",
     "value": "大吉"
   },
@@ -7910,6 +7930,10 @@
   {
     "wordingKey": "WORD_LIMIT_MISSION_TIME",
     "value": "到{0}為止"
+  },
+  {
+    "wordingKey": "WORD_LIMIT_MISSION_TIP",
+    "value": "限時任務"
   },
   {
     "wordingKey": "WORD_LINE_SPACE",
@@ -9292,6 +9316,10 @@
     "value": "觀看MV"
   },
   {
+    "wordingKey": "Word_MyListOverwriteNotice",
+    "value": "是否取代歌單？"
+  },
+  {
     "wordingKey": "WORD_MYLIST_MUSIC_NUM",
     "value": "歌曲數量"
   },
@@ -9756,6 +9784,10 @@
     "value": "付費"
   },
   {
+    "wordingKey": "WORD_PAID_CHARGE_TIP",
+    "value": "付費"
+  },
+  {
     "wordingKey": "WORD_PAID_JEWEL",
     "value": "付費水晶"
   },
@@ -9970,6 +10002,50 @@
   {
     "wordingKey": "WORD_PLAY_LIST_BIRTHDAY_ARCHIVE",
     "value": "BD&AN LIVE"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_IMPORT",
+    "value": "導入"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_IsNull",
+    "value": "歌單無歌曲，無法分享。"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_LOAD",
+    "value": "導入播放清單"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_LOAD_DEFAULT",
+    "value": "播放清單導入失敗。"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_LOAD_DETAIL",
+    "value": "播放清單已導入。"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_LOAD_NOUSE",
+    "value": "播放清單分享碼不可用，請重新導入。"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_LOAD_SAME",
+    "value": "該播放清單已存在，請勿重複導入。"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_NOMUSIC",
+    "value": "歌單中包含未解鎖歌曲，請購買歌曲後再嘗試導入。"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_SHARE",
+    "value": "分享播放清單"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_SHARE_DETAIL",
+    "value": "播放清單分享碼已生成並複製到剪貼簿。"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_SHARE_NOUSE",
+    "value": "播放清單不可用，請編輯後分享。"
   },
   {
     "wordingKey": "WORD_PLAY_MUSIC_VIDEO_FROM_EVENT_STORY",
@@ -11260,6 +11336,10 @@
     "value": "已特訓"
   },
   {
+    "wordingKey": "WORD_SPLIT_CHAR",
+    "value": "「{0}」"
+  },
+  {
     "wordingKey": "WORD_SPRING_EVENT",
     "value": "春節活動"
   },
@@ -11446,10 +11526,6 @@
   {
     "wordingKey": "WORD_STREAMING_LIVE_RE_ENTER_TITLE",
     "value": "確認再次入場"
-  },
-  {
-    "wordingKey": "WORD_STREAMING_LIVE_SHOP_CONFIRM_DUPLICATE",
-    "value": "已購入的特別物品組合中含有此物品。\n以下包含在組合的物品\n再度購買也無法重複獲得"
   },
   {
     "wordingKey": "WORD_STREAMING_LIVE_TICKET_PURCHASED",
@@ -11801,7 +11877,7 @@
   },
   {
     "wordingKey": "WORD_TURN_INFO_SCH_CN",
-    "value": "世界入住任務"
+    "value": "「世界」入住任務"
   },
   {
     "wordingKey": "WORD_TURN_REWARD_CN",
@@ -12825,7 +12901,7 @@
   },
   {
     "wordingKey": "W_C_182",
-    "value": "未觀看"
+    "value": "未讀"
   },
   {
     "wordingKey": "W_C_183",
@@ -12841,7 +12917,7 @@
   },
   {
     "wordingKey": "W_C_186",
-    "value": "後半未觀看"
+    "value": "後篇未讀"
   },
   {
     "wordingKey": "W_C_187",
@@ -14833,7 +14909,7 @@
   },
   {
     "wordingKey": "W_C_634",
-    "value": "起跑衝刺"
+    "value": "「世界」入住任務"
   },
   {
     "wordingKey": "W_C_635",
