@@ -20,36 +20,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 988,
-    "seq": 180,
-    "homeBannerType": "event",
-    "assetbundleName": "event_torimonothou_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 136,
-    "startAt": 1752044400000,
-    "endAt": 1752753600000
-  },
-  {
-    "homeBannerId": 991,
-    "seq": 170,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha536",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 536,
-    "startAt": 1752033600000,
-    "endAt": 1752724800000
-  },
-  {
-    "homeBannerId": 992,
-    "seq": 130,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha537",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 537,
-    "startAt": 1752120000000,
-    "endAt": 1752724800000
-  },
-  {
     "homeBannerId": 993,
     "seq": 140,
     "homeBannerType": "general",
@@ -78,6 +48,26 @@
     "transitionDestinationId": 540,
     "startAt": 1752552000000,
     "endAt": 1753329600000
+  },
+  {
+    "homeBannerId": 997,
+    "seq": 180,
+    "homeBannerType": "event",
+    "assetbundleName": "event_nightsky_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 137,
+    "startAt": 1752753600000,
+    "endAt": 1753945200000
+  },
+  {
+    "homeBannerId": 1000,
+    "seq": 170,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha541",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 541,
+    "startAt": 1752724800000,
+    "endAt": 1753934400000
   },
   {
     "homeBannerId": 1199,
@@ -116,15 +106,5 @@
     "transitionDestinationType": "billing_shop_for_first_recharge",
     "startAt": 1695092400000,
     "endAt": 4093473599000
-  },
-  {
-    "homeBannerId": 10101,
-    "seq": 1,
-    "homeBannerType": "return",
-    "assetbundleName": "banner_gacha2001",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1101,
-    "startAt": 1750104000000,
-    "endAt": 1752695999000
   }
 ]

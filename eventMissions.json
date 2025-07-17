@@ -6798,5 +6798,115 @@
     "eventMissionSelectableRewardGroupId": 1,
     "sentence": "通過所有7個任務吧。",
     "rewards": []
+  },
+  {
+    "id": 481,
+    "eventId": 141,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "連續9日每天通過1次LIVE吧。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 482,
+    "eventId": 141,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "通過50次LIVE吧。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 483,
+    "eventId": 141,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "在LIVE中達成10次FULL COMBO吧。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 484,
+    "eventId": 141,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "在LIVE中通過10首歌曲吧。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 485,
+    "eventId": 141,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "觀賞活動「Wonderhorror～！？的試膽大會！」最後一章的活動劇情吧。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 486,
+    "eventId": 141,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "在活動「Wonderhorror～！？的試膽大會！」的交換所消耗20000個徽章吧。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 487,
+    "eventId": 141,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "參加「Wonderhorror～！？的試膽大會！ AFTER LIVE」吧。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 488,
+    "eventId": 141,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "通過所有7個任務吧。",
+    "rewards": []
   }
 ]

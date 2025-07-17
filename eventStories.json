@@ -17326,5 +17326,126 @@
         ]
       }
     ]
+  },
+  {
+    "id": 141,
+    "eventId": 141,
+    "outline": "笑夢與真冬因為班級代表會議的活動，而要負責協助管理除草志工。然而完全沒人想在仲夏時節報名除草活動！傷腦筋的笑夢開始思考「有沒有什麼好點子能讓人開心參加呢？」──",
+    "bannerGameCharacterUnitId": 14,
+    "assetbundleName": "event_horror_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001145,
+        "eventStoryId": 141,
+        "episodeNo": 1,
+        "title": "班級代表的工作",
+        "assetbundleName": "event_horror_2024_01",
+        "scenarioId": "event_141_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001146,
+        "eventStoryId": 141,
+        "episodeNo": 2,
+        "title": "志工活動是除草！",
+        "assetbundleName": "event_horror_2024_02",
+        "scenarioId": "event_141_02",
+        "releaseConditionId": 114001,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001147,
+        "eventStoryId": 141,
+        "episodeNo": 3,
+        "title": "可靠的夥伴",
+        "assetbundleName": "event_horror_2024_03",
+        "scenarioId": "event_141_03",
+        "releaseConditionId": 114002,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001148,
+        "eventStoryId": 141,
+        "episodeNo": 4,
+        "title": "Let's視察現場！",
+        "assetbundleName": "event_horror_2024_04",
+        "scenarioId": "event_141_04",
+        "releaseConditionId": 114003,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001149,
+        "eventStoryId": 141,
+        "episodeNo": 5,
+        "title": "和幫手打造可愛妖怪",
+        "assetbundleName": "event_horror_2024_05",
+        "scenarioId": "event_141_05",
+        "releaseConditionId": 114004,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001150,
+        "eventStoryId": 141,
+        "episodeNo": 6,
+        "title": "大家一起快樂除草",
+        "assetbundleName": "event_horror_2024_06",
+        "scenarioId": "event_141_06",
+        "releaseConditionId": 114005,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001151,
+        "eventStoryId": 141,
+        "episodeNo": 7,
+        "title": "刺激歡樂試膽大會",
+        "assetbundleName": "event_horror_2024_07",
+        "scenarioId": "event_141_07",
+        "releaseConditionId": 114006,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001152,
+        "eventStoryId": 141,
+        "episodeNo": 8,
+        "title": "看見你開心地笑",
+        "assetbundleName": "event_horror_2024_08",
+        "scenarioId": "event_141_08",
+        "releaseConditionId": 114007,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 94
+          }
+        ]
+      }
+    ]
   }
 ]
