@@ -1552,6 +1552,147 @@
     ]
   },
   {
+    "id": 9,
+    "name": "[女神異聞錄5 皇家版聯動紀念]集章任務",
+    "assetbundleName": "persona5royal_collab_2025_pm",
+    "bgmAssetbundleName": "persona5royal_collab_2025_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1754280000000,
+    "progressEndAt": 1755100799000,
+    "closedAt": 1755100799000,
+    "distributionEndAt": 1756310399000,
+    "informationId": 11998,
+    "panelMissionSheetGroups": [
+      {
+        "id": 901,
+        "panelMissionCampaignId": 9,
+        "name": "聯動",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 90101,
+            "panelMissionSheetGroupId": 901,
+            "name": "聯動卡片",
+            "seq": 1,
+            "assetbundleName": "sheet_persona5royal_collab",
+            "panelMissions": [
+              {
+                "id": 9010101,
+                "panelMissionSheetId": 90101,
+                "name": "通過1次\n《Life Will Change》",
+                "description": "通過1次歌曲《Life Will Change》吧。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010102,
+                "panelMissionSheetId": 90101,
+                "name": "通過\n3個種類的歌曲",
+                "description": "通過3種歌曲吧。\n※AUTO LIVE也算在內。",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010103,
+                "panelMissionSheetId": 90101,
+                "name": "通過\n5個種類的歌曲",
+                "description": "通過5種歌曲吧。\n※AUTO LIVE也算在內。",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010104,
+                "panelMissionSheetId": 90101,
+                "name": "通過\n10個種類的歌曲",
+                "description": "通過10種歌曲吧。\n※AUTO LIVE也算在內。",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010105,
+                "panelMissionSheetId": 90101,
+                "name": "通過\n15個種類的歌曲",
+                "description": "通過15種歌曲吧。\n※AUTO LIVE也算在內。",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010106,
+                "panelMissionSheetId": 90101,
+                "name": "通過\n20個種類的歌曲",
+                "description": "通過20種歌曲吧。\n※AUTO LIVE也算在內。",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010107,
+                "panelMissionSheetId": 90101,
+                "name": "通過\n25個種類的歌曲",
+                "description": "通過25種歌曲吧。\n※AUTO LIVE也算在內。",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1768
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 3001,
     "name": "3.5週年紀念集章任務",
     "assetbundleName": "3rd_anniv_pm",

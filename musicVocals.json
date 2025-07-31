@@ -28912,7 +28912,32 @@
     "seq": 101,
     "releaseConditionId": 5,
     "caption": "虛擬歌手ver.",
-    "characters": [],
+    "characters": [
+      {
+        "id": 2073,
+        "musicId": 648,
+        "musicVocalId": 1205,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 6480
+      },
+      {
+        "id": 3187,
+        "musicId": 648,
+        "musicVocalId": 1205,
+        "characterType": "game_character",
+        "characterId": 22,
+        "seq": 6481
+      },
+      {
+        "id": 3188,
+        "musicId": 648,
+        "musicVocalId": 1205,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 6482
+      }
+    ],
     "assetbundleName": "vs_0648_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1754280000000
