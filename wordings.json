@@ -2617,7 +2617,7 @@
   },
   {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_2",
-    "value": "ガチャを1回引くごとに、各種アイテムがプライズとして獲得できます。\n\n※プライズの抽選は、ガチャの結果画面にて実行されます。\n※プライズは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のアイテムが100回中1回必ず出現するという仕組みではありません。\n※プライズで獲得できる「[2025新春]ブルームフェスティバルガチャ専用チケット」は、「[2025新春]ブルームフェスティバルガチャ」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[2025新春]ブルームフェスティバルガチャ専用チケット」はご利用いただけなくなりますのでご注意ください。\n※プライズで獲得できる「[2025新春]お正月無料ガチャチケット」は、「[2025新春]お正月無料ガチャ」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[2025新春]お正月無料ガチャチケット」はご利用いただけなくなりますのでご注意ください。"
+    "value": "每進行1次招募，都會獲得各種道具作為獎品。\n\n※獎品抽取會在招募結果畫面進行。\n※每1次獎品抽取都是依據出現機率獨立抽取。例如出現機率為1%，並不代表抽100次該道具就一定會出現1次。\n※可從獎品獲得的「[2026新春]絢爛慶典招募專用票券」，是只能在「[2026新春]絢爛慶典招募」使用的招募票劵。此外，在超過舉辦期限後，「[2026新春]絢爛慶典招募專用票券」便無法使用。\n※可從獎品獲得的「[2026新春]新年免費招募票券」，是只能在「[2026新春]新年免費招募」使用的招募票券。此外，在超過舉辦期限後，「[2026新春]新年免費招募票券」便無法使用。"
   },
   {
     "wordingKey": "MSG_PRODUCT_IS_PENDING",
@@ -4748,6 +4748,14 @@
     "value": "已觀看"
   },
   {
+    "wordingKey": "WORD_BTN_PV",
+    "value": "團體MV"
+  },
+  {
+    "wordingKey": "WORD_BTN_RELATION",
+    "value": "關係圖"
+  },
+  {
     "wordingKey": "WORD_BUG",
     "value": "重要資訊"
   },
@@ -5841,7 +5849,7 @@
   },
   {
     "wordingKey": "Word_Custom_2235",
-    "value": "因偵測到您的行為對其他玩家造成困擾，\\n將暫時封鎖您的多人LIVE功能。"
+    "value": "因偵測到您的行為對其他玩家造成困擾，\\n將暫時封鎖您的實時匹配功能。"
   },
   {
     "wordingKey": "Word_Custom_2236",
@@ -6130,6 +6138,10 @@
   {
     "wordingKey": "WORD_DISCONNECT",
     "value": "連線中斷"
+  },
+  {
+    "wordingKey": "WORD_DISCOUNT_SPLITCHAR",
+    "value": " → "
   },
   {
     "wordingKey": "WORD_DISPLAY_DIFFICULTY",
@@ -7246,6 +7258,10 @@
   {
     "wordingKey": "WORD_GO_GACHA",
     "value": "前往招募頁面"
+  },
+  {
+    "wordingKey": "WORD_GO_GET",
+    "value": "去獲得"
   },
   {
     "wordingKey": "WORD_GO_LIVE",
@@ -9332,6 +9348,10 @@
     "value": "播放清單尚未被儲存。\n要儲存後再返回嗎？"
   },
   {
+    "wordingKey": "WORD_MYSEKAI_DETAIL_JSON_TW",
+    "value": "{\n  \"list\": [\n    {\n      \"head\": \"■組合內容\",\n      \"desc\": \"購買<color=#FF5599>我的「世界」任務通行證<\/color>後，可立即獲得付費水晶×1850、心願碎片×300，並解鎖當月LIVE任務的世界任務。完成當月的LIVE任務，可獲得大量獎勵。同時購買<color=#FF5599>我的「世界」任務通行證<\/color>與<color=#FF5599>高階任務通行證<\/color>，可獲得優惠折扣。若已單獨購買<color=#FF5599>高階任務通行證<\/color>或<color=#FF5599>高階任務通行證（進階版）<\/color>，然後在當月內再購買<color=#FF5599>我的「世界」任務通行證<\/color>，即可享購入優惠；若已單獨購買<color=#FF5599>我的「世界」任務通行證<\/color>，則在當月內可選<color=#FF5599>高階任務通行證<\/color>或<color=#FF5599>高階任務通行證（進階版）<\/color>其中一個通行證來享受購買優惠。各通行證價格如下：<color=#FF5599>高階任務通行證<\/color>：530台幣<color=#FF5599>我的「世界」任務通行證<\/color>：530台幣<color=#FF5599>我的「世界」任務通行證<\/color>+<color=#FF5599>高階任務通行證<\/color>：920台幣\"\n    },\n    {\n      \"head\": \"■LIVE任務 解鎖我的「世界」獎勵\",\n      \"desc\": \"根據這個月累計獲得的LIVE P，可解鎖LIVE任務 我的「世界」獎勵。・[限定角色家具]玩偶的設計圖(S\/M\/L)×最多6～7種・七彩記憶×最多20個・空白設計圖×最多2張・鏈鋸×最多1個・鑿岩機×最多1個・心願碎片×最多700個・LIVE BONUS飲料（大）×最多50個※七彩記憶是可以換成喜歡的角色的記憶的道具。※七彩記憶可以到[選單]→[交換所]→[心願碎片／記憶交換所]→[七彩記憶]使用。※[限定角色家具]玩偶的設計圖的種類數量每個月會不同。詳情請至每個月1日00:00公布的「我的『世界』任務通行證」販售開始的公告確認。\"\n    },\n    {\n      \"head\": \"■商品款項的支付時間・方法\",\n      \"desc\": \"・信用卡：以各發卡銀行的扣款日依其規定為準。・透過電信業者收費：將與您的電信費用合併計費，付款時間依各電信業者規定為準。・由本公司發行的預付型支付工具：在最終確認畫面中按下「確定購買」按鈕時即完成付款。・其他由第三方金流服務商提供的付款方式：實際付款方式將依各金流服務商的規定為準，付款時間亦同。\"\n    },\n    {\n      \"head\": \"■商品交付時間\",\n      \"desc\": \"・組合內容：完成購買手續後，將立即發送。・LIVE任務「我的『世界』」獎勵：完成購買手續後，根據累計的LIVE P點數，可至［任務］→［LIVE］畫面領取。※LIVE任務所需LIVE P、各階段的獎勵內容與詳細條件，請至［任務］→［LIVE］畫面中確認。※水晶為預付型支付。※使用「超商付款」時，因系統處理時間，商品可能需數小時至數日才可交付，無法即時發送，敬請注意。\"\n    },\n    {\n      \"head\": \"■商品的退貨・換貨\",\n      \"desc\": \"由於商品屬性之故，恕無法受理退貨或更換。\"\n    },\n    {\n      \"head\": \"■注意事項\",\n      \"desc\": \"・LIVE任務將於每個月1號的00:00重置。・解鎖LIVE任務的我的「世界」獎勵、購買高階任務通行證的組合優惠，僅於購買的當月有效。・透過LIVE任務解鎖我的「世界」獎勵的報酬，亦包含購買前該月份內累積的LIVE P點數對應的報酬。・未領取的LIVE任務中我的「世界」獎勵會如同普通的LIVE任務報酬，在下個月發送至「禮物」。・發送至「禮物」的LIVE任務中我的「世界」獎勵的領取期限為發送至「禮物」起的30天內。・在購買｢我的『世界』任務通行證」後，即使尚未領取所有報酬，未達成的累積LIVE P對應報酬將會失效，敬請注意。・即使更換同系統裝置或轉移至不同作業系統，「我的『世界』任務通行證」的購買資訊仍會保留，可繼續領取相關報酬。・「七彩記憶是可以換成喜歡的角色的記憶的道具。・七彩記憶可以到[選單]→[交換所]→[心願碎片／記憶交換所]→[七彩記憶]使用。・在我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」不會出現在我的「世界」的「神秘商店」。・無法對我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」進行素描。・在我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」今後仍有可能再次登場。・可在我的「世界」任務通行證中獲得得家具和道具的內容今後有可能會改變。\"\n    }\n  ]\n}\n"
+  },
+  {
     "wordingKey": "WORD_MY_FAVORITE_STORY",
     "value": "推薦劇情"
   },
@@ -9542,6 +9562,10 @@
   {
     "wordingKey": "WORD_NO_CHARGE",
     "value": "免費"
+  },
+  {
+    "wordingKey": "WORD_NO_MORE_TODAY",
+    "value": "今日不再顯示"
   },
   {
     "wordingKey": "WORD_NO_PLACE_CONTENT",
@@ -10062,6 +10086,10 @@
   {
     "wordingKey": "WORD_PM_TIME",
     "value": "「12:00 ～ 23:59」"
+  },
+  {
+    "wordingKey": "WORD_POINT_EXCHANGE",
+    "value": "兌換"
   },
   {
     "wordingKey": "Word_PolicyUpdateContent",
@@ -10832,6 +10860,22 @@
     "value": "看內容物"
   },
   {
+    "wordingKey": "WORD_SEKAI_ECHO",
+    "value": "角色劇情一覽"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_ECHO_CARD_MISSION",
+    "value": "活動卡片任務"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_ECHO_MISSION",
+    "value": "回響劇情任務"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_ECHO_STAMP",
+    "value": "活動貼圖"
+  },
+  {
     "wordingKey": "WORD_SEKAI_VERSION",
     "value": "「世界」ver."
   },
@@ -11082,6 +11126,10 @@
   {
     "wordingKey": "WORD_SHOP_PRICE_DESC",
     "value": "<color={0}>{1}<\/color>"
+  },
+  {
+    "wordingKey": "WORD_SHOP_PRICE_HK_DESC",
+    "value": "HKD"
   },
   {
     "wordingKey": "WORD_SHOP_PURCHASE",
@@ -15088,12 +15136,108 @@
     "value": "透過熱呼呼的鬆餅\\n獲得了LIVE BONUS×10"
   },
   {
+    "wordingKey": "W_C_676",
+    "value": "台詞台詞"
+  },
+  {
+    "wordingKey": "W_C_677",
+    "value": "<color=#FFFFFFFF>\\xA5480<\/color>"
+  },
+  {
+    "wordingKey": "W_C_678",
+    "value": "家具的設計圖名16個字以上MARQUEE"
+  },
+  {
+    "wordingKey": "W_C_679",
+    "value": "過去獎勵一覽"
+  },
+  {
     "wordingKey": "W_C_68",
     "value": "即將下載新增檔案298.8MB。\\n確定嗎？"
   },
   {
+    "wordingKey": "W_C_680",
+    "value": "要恢復5點加成耐力，確定嗎？"
+  },
+  {
+    "wordingKey": "W_C_681",
+    "value": "表現力BONUS"
+  },
+  {
+    "wordingKey": "W_C_682",
+    "value": "(可從主畫面的環境中進行設定)\\n"
+  },
+  {
+    "wordingKey": "W_C_683",
+    "value": "木板"
+  },
+  {
+    "wordingKey": "W_C_684",
+    "value": "將使用素材及以下的成員來製作無框畫。\\\\n確定嗎？"
+  },
+  {
+    "wordingKey": "W_C_685",
+    "value": "<color=#ffffff>000<\/color>"
+  },
+  {
+    "wordingKey": "W_C_686",
+    "value": "家具名稱"
+  },
+  {
+    "wordingKey": "W_C_687",
+    "value": "硬幣"
+  },
+  {
+    "wordingKey": "W_C_688",
+    "value": "\\xD71"
+  },
+  {
+    "wordingKey": "W_C_689",
+    "value": "獲得"
+  },
+  {
     "wordingKey": "W_C_69",
     "value": "關閉"
+  },
+  {
+    "wordingKey": "W_C_690",
+    "value": "素材持有數量"
+  },
+  {
+    "wordingKey": "W_C_691",
+    "value": "將回收已選擇的素材，確定嗎？"
+  },
+  {
+    "wordingKey": "W_C_692",
+    "value": "回收素材"
+  },
+  {
+    "wordingKey": "W_C_693",
+    "value": "家具持有數"
+  },
+  {
+    "wordingKey": "W_C_694",
+    "value": "每天05:00恢復"
+  },
+  {
+    "wordingKey": "W_C_695",
+    "value": "報酬"
+  },
+  {
+    "wordingKey": "W_C_696",
+    "value": "「世界」任務"
+  },
+  {
+    "wordingKey": "W_C_697",
+    "value": "已擴大庭園尺寸。"
+  },
+  {
+    "wordingKey": "W_C_698",
+    "value": "將把<color=#F59>預覽 2<\/color>的配置圖設定到我的「世界」"
+  },
+  {
+    "wordingKey": "W_C_699",
+    "value": "消耗LIVE BONUS<color=#ff5599>1<\/color>點，恢復<color=#ff5599>1<\/color>回憶的耐力，\\n並進行額外加成。"
   },
   {
     "wordingKey": "W_C_7",
@@ -15104,40 +15248,440 @@
     "value": "星界ちゃんと可不ちゃんのおつかい合騒曲"
   },
   {
+    "wordingKey": "W_C_700",
+    "value": "已持有此設計圖，\\n購買後會轉變為多餘設計圖。"
+  },
+  {
+    "wordingKey": "W_C_701",
+    "value": "購買"
+  },
+  {
+    "wordingKey": "W_C_702",
+    "value": "蓬鬆的床鋪的設計圖"
+  },
+  {
+    "wordingKey": "W_C_703",
+    "value": "多餘設計圖\\n"
+  },
+  {
+    "wordingKey": "W_C_704",
+    "value": "由於沒有世界通行證，\\n無法登入神秘商店。"
+  },
+  {
+    "wordingKey": "W_C_705",
+    "value": "神秘商店.com"
+  },
+  {
+    "wordingKey": "W_C_706",
+    "value": "將消耗空白設計圖來素描這個家具的設計圖。"
+  },
+  {
+    "wordingKey": "W_C_707",
+    "value": "蓬鬆的單人床家具名稱"
+  },
+  {
+    "wordingKey": "W_C_708",
+    "value": "已刪除配置圖"
+  },
+  {
+    "wordingKey": "W_C_709",
+    "value": "1F"
+  },
+  {
     "wordingKey": "W_C_71",
     "value": "Vo."
+  },
+  {
+    "wordingKey": "W_C_710",
+    "value": "2F"
+  },
+  {
+    "wordingKey": "W_C_711",
+    "value": "3F"
+  },
+  {
+    "wordingKey": "W_C_712",
+    "value": "目前無法交談"
+  },
+  {
+    "wordingKey": "W_C_713",
+    "value": "再99999"
+  },
+  {
+    "wordingKey": "W_C_714",
+    "value": "選擇中"
+  },
+  {
+    "wordingKey": "W_C_715",
+    "value": "其他4件"
+  },
+  {
+    "wordingKey": "W_C_716",
+    "value": "搜尋中"
+  },
+  {
+    "wordingKey": "W_C_717",
+    "value": "持有中"
+  },
+  {
+    "wordingKey": "W_C_718",
+    "value": "布置中"
+  },
+  {
+    "wordingKey": "W_C_719",
+    "value": "99\\xD799"
   },
   {
     "wordingKey": "W_C_72",
     "value": "Brand"
   },
   {
+    "wordingKey": "W_C_720",
+    "value": "蓬鬆的床鋪"
+  },
+  {
+    "wordingKey": "W_C_721",
+    "value": "我的網站設定中"
+  },
+  {
+    "wordingKey": "W_C_722",
+    "value": "設計圖"
+  },
+  {
+    "wordingKey": "W_C_723",
+    "value": "設定中"
+  },
+  {
+    "wordingKey": "W_C_724",
+    "value": "領取"
+  },
+  {
+    "wordingKey": "W_C_725",
+    "value": "COMPLETE!!"
+  },
+  {
+    "wordingKey": "W_C_726",
+    "value": "鎖定中…"
+  },
+  {
+    "wordingKey": "W_C_727",
+    "value": "選擇要製作的物品"
+  },
+  {
+    "wordingKey": "W_C_728",
+    "value": "轉換道具中"
+  },
+  {
+    "wordingKey": "W_C_729",
+    "value": "aaaaaaaa"
+  },
+  {
     "wordingKey": "W_C_73",
     "value": "Vo"
+  },
+  {
+    "wordingKey": "W_C_730",
+    "value": "PHOTO BOARD"
+  },
+  {
+    "wordingKey": "W_C_731",
+    "value": "himitsunoshop\/mysekai"
+  },
+  {
+    "wordingKey": "W_C_732",
+    "value": "感謝訂購"
+  },
+  {
+    "wordingKey": "W_C_733",
+    "value": "CONNECTING"
+  },
+  {
+    "wordingKey": "W_C_734",
+    "value": "□□□□■□□□□◆□□□□■□的設計圖"
+  },
+  {
+    "wordingKey": "W_C_735",
+    "value": "METEOR SHOWER"
+  },
+  {
+    "wordingKey": "W_C_736",
+    "value": "天氣"
+  },
+  {
+    "wordingKey": "W_C_737",
+    "value": "選擇顏色"
+  },
+  {
+    "wordingKey": "W_C_738",
+    "value": "需要素材"
+  },
+  {
+    "wordingKey": "W_C_739",
+    "value": "西式"
   },
   {
     "wordingKey": "W_C_74",
     "value": "Another Vocal"
   },
   {
+    "wordingKey": "W_C_740",
+    "value": "蓬鬆到令人驚訝的床鋪。布置後會因療癒效果變得有精神。"
+  },
+  {
+    "wordingKey": "W_C_741",
+    "value": "1.0\\xD71.0"
+  },
+  {
+    "wordingKey": "W_C_742",
+    "value": "因已製作，所以無變化"
+  },
+  {
+    "wordingKey": "W_C_743",
+    "value": "需要的素材不足。"
+  },
+  {
+    "wordingKey": "W_C_744",
+    "value": "—可獲得的設計圖種類—"
+  },
+  {
+    "wordingKey": "W_C_745",
+    "value": "購買世界通行證後可解鎖"
+  },
+  {
+    "wordingKey": "W_C_746",
+    "value": "—可獲得的唱片種類—"
+  },
+  {
+    "wordingKey": "W_C_747",
+    "value": "26人"
+  },
+  {
+    "wordingKey": "W_C_748",
+    "value": "展示櫃家具名稱置中\n□■□□□□◆"
+  },
+  {
+    "wordingKey": "W_C_749",
+    "value": "請選擇要放置物品的展示櫃"
+  },
+  {
     "wordingKey": "W_C_75",
     "value": "名為\\n司的\\n sent\\nＡＡＡ"
+  },
+  {
+    "wordingKey": "W_C_750",
+    "value": "展示櫃"
+  },
+  {
+    "wordingKey": "W_C_751",
+    "value": "請先製作工作台"
+  },
+  {
+    "wordingKey": "W_C_752",
+    "value": "邀請函"
+  },
+  {
+    "wordingKey": "W_C_753",
+    "value": "MORE"
+  },
+  {
+    "wordingKey": "W_C_754",
+    "value": "提升等級的素材"
+  },
+  {
+    "wordingKey": "W_C_755",
+    "value": "大門等級"
+  },
+  {
+    "wordingKey": "W_C_756",
+    "value": "距離下次邀請"
+  },
+  {
+    "wordingKey": "W_C_757",
+    "value": "請選擇要邀請到我的「世界」的角色\\n"
+  },
+  {
+    "wordingKey": "W_C_758",
+    "value": "\\xD749"
+  },
+  {
+    "wordingKey": "W_C_759",
+    "value": "配置圖"
   },
   {
     "wordingKey": "W_C_76",
     "value": "Lv.1"
   },
   {
+    "wordingKey": "W_C_760",
+    "value": "我的「世界」等級經驗值"
+  },
+  {
+    "wordingKey": "W_C_761",
+    "value": "我的「世界」等級"
+  },
+  {
+    "wordingKey": "W_C_762",
+    "value": "回收"
+  },
+  {
+    "wordingKey": "W_C_763",
+    "value": "這個家具無法回收。"
+  },
+  {
+    "wordingKey": "W_C_764",
+    "value": "視角\\r\\n切換"
+  },
+  {
+    "wordingKey": "W_C_765",
+    "value": "請選擇要設定為封面的照片"
+  },
+  {
+    "wordingKey": "W_C_766",
+    "value": "手持\\n"
+  },
+  {
+    "wordingKey": "W_C_767",
+    "value": "請選擇相框的種類並將照片儲存至相簿。"
+  },
+  {
+    "wordingKey": "W_C_768",
+    "value": "腳架"
+  },
+  {
+    "wordingKey": "W_C_769",
+    "value": "2023\/02\/31 23:59為止"
+  },
+  {
     "wordingKey": "W_C_77",
     "value": "獲得了。\\n"
+  },
+  {
+    "wordingKey": "W_C_770",
+    "value": "啊啊啊啊啊啊"
+  },
+  {
+    "wordingKey": "W_C_771",
+    "value": "PASS:'"
+  },
+  {
+    "wordingKey": "W_C_772",
+    "value": "—一張設計圖可製作出該家具的所有顏色。\\n-每樣商品限購1個。\\n-商品將於購買後立即送達。"
+  },
+  {
+    "wordingKey": "W_C_773",
+    "value": "TOP>WEEKLY PICKUP"
+  },
+  {
+    "wordingKey": "W_C_774",
+    "value": "Melody Rain"
+  },
+  {
+    "wordingKey": "W_C_775",
+    "value": "請選擇要素描的家具。"
+  },
+  {
+    "wordingKey": "W_C_776",
+    "value": "刪除我的「世界」資產"
+  },
+  {
+    "wordingKey": "W_C_777",
+    "value": "已完成我的「世界」教學的玩家"
+  },
+  {
+    "wordingKey": "W_C_778",
+    "value": "尚未製作"
+  },
+  {
+    "wordingKey": "W_C_779",
+    "value": "已製作"
   },
   {
     "wordingKey": "W_C_78",
     "value": "任務內容靠中 32p"
   },
   {
+    "wordingKey": "W_C_780",
+    "value": "達到「世界」排行10"
+  },
+  {
+    "wordingKey": "W_C_781",
+    "value": "E聯名的「世界」（暫定）"
+  },
+  {
+    "wordingKey": "W_C_782",
+    "value": "00\/00 00:00 為止"
+  },
+  {
+    "wordingKey": "W_C_783",
+    "value": "低"
+  },
+  {
+    "wordingKey": "W_C_784",
+    "value": "一鍵下載"
+  },
+  {
+    "wordingKey": "W_C_785",
+    "value": "所有人"
+  },
+  {
+    "wordingKey": "W_C_786",
+    "value": "僅限好友"
+  },
+  {
+    "wordingKey": "W_C_787",
+    "value": "拒絕"
+  },
+  {
+    "wordingKey": "W_C_788",
+    "value": "設定轉換機"
+  },
+  {
+    "wordingKey": "W_C_789",
+    "value": "被遺忘的秘境"
+  },
+  {
     "wordingKey": "W_C_79",
     "value": "道具名稱 靠左 32px #557 靠中"
+  },
+  {
+    "wordingKey": "W_C_790",
+    "value": "解除"
+  },
+  {
+    "wordingKey": "W_C_791",
+    "value": "設定"
+  },
+  {
+    "wordingKey": "W_C_792",
+    "value": "其他"
+  },
+  {
+    "wordingKey": "W_C_793",
+    "value": "世界計畫"
+  },
+  {
+    "wordingKey": "W_C_794",
+    "value": "已保存"
+  },
+  {
+    "wordingKey": "W_C_795",
+    "value": "前往Another Vocal交換\\n"
+  },
+  {
+    "wordingKey": "W_C_796",
+    "value": "沒有\\n組合家具。"
+  },
+  {
+    "wordingKey": "W_C_797",
+    "value": "布置"
+  },
+  {
+    "wordingKey": "W_C_798",
+    "value": "個性化廣告開關"
+  },
+  {
+    "wordingKey": "W_C_799",
+    "value": "購買高階任務通行證後解鎖"
   },
   {
     "wordingKey": "W_C_8",
@@ -15148,12 +15692,104 @@
     "value": "剩餘００００００"
   },
   {
+    "wordingKey": "W_C_800",
+    "value": "購買我的「世界」任務通行證後解鎖"
+  },
+  {
+    "wordingKey": "W_C_801",
+    "value": "邀請中！"
+  },
+  {
+    "wordingKey": "W_C_802",
+    "value": "前往購買\\n世界通行證"
+  },
+  {
+    "wordingKey": "W_C_803",
+    "value": "<color=#FFFFFFFF>¥480<\/color>"
+  },
+  {
+    "wordingKey": "W_C_804",
+    "value": "預設"
+  },
+  {
+    "wordingKey": "W_C_805",
+    "value": "手持"
+  },
+  {
+    "wordingKey": "W_C_806",
+    "value": "將消耗空白設計圖來素描這個家具的設計圖。\\n確定嗎？"
+  },
+  {
+    "wordingKey": "W_C_807",
+    "value": "蓬鬆的單人床家具名稱■ 的設計圖"
+  },
+  {
+    "wordingKey": "W_C_808",
+    "value": "素描"
+  },
+  {
+    "wordingKey": "W_C_809",
+    "value": "PASS:"
+  },
+  {
     "wordingKey": "W_C_81",
     "value": "RANK UP！"
   },
   {
+    "wordingKey": "W_C_810",
+    "value": "達機器Lv.3"
+  },
+  {
+    "wordingKey": "W_C_811",
+    "value": "不可變更"
+  },
+  {
+    "wordingKey": "W_C_812",
+    "value": "視角\\n切換"
+  },
+  {
+    "wordingKey": "W_C_813",
+    "value": "將使用素材及以下的成員來製作無框畫。\\n確定嗎？"
+  },
+  {
+    "wordingKey": "W_C_814",
+    "value": "配置圖01"
+  },
+  {
+    "wordingKey": "W_C_815",
+    "value": "將把<color=#F59>預覽 2<\/color>的配置圖設定到我的「世界」 \\n現在布置的家具將被清理掉，確定嗎？\\n\\n<color=#F36>※若配置圖中有尚未持有的家具，將不會被布置。<\/color>"
+  },
+  {
+    "wordingKey": "W_C_816",
+    "value": "送出邀請函"
+  },
+  {
+    "wordingKey": "W_C_817",
+    "value": "取消邀請"
+  },
+  {
+    "wordingKey": "W_C_818",
+    "value": "原版"
+  },
+  {
+    "wordingKey": "W_C_819",
+    "value": "升級"
+  },
+  {
     "wordingKey": "W_C_82",
     "value": "x100"
+  },
+  {
+    "wordingKey": "W_C_820",
+    "value": "距離可變更還剩hh:mm:ss"
+  },
+  {
+    "wordingKey": "W_C_821",
+    "value": "解鎖"
+  },
+  {
+    "wordingKey": "W_C_822",
+    "value": "變更"
   },
   {
     "wordingKey": "W_C_83",

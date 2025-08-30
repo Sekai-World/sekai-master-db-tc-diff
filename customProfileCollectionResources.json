@@ -6745,7 +6745,9 @@
     "name": "「2026新春」抽籤",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "lottery_game\/new_year_2025",
-    "fileName": "Prefabs\/Omikuji"
+    "fileName": "Prefabs\/Omikuji",
+    "customProfileResourceCollectionType": "omikuji",
+    "groupId": 4
   },
   {
     "customProfileResourceType": "collection",
@@ -7575,6 +7577,34 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/cht",
     "fileName": "butterfly_35"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10003,
+    "seq": 10003,
+    "name": "4週年限定徽章",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/mk",
+    "fileName": "4th_tw2025_09",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10004,
+    "seq": 10004,
+    "name": "初音未來2025紀念日裝飾",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/mk",
+    "fileName": "pic_birthday2025_21"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10005,
+    "seq": 10005,
+    "name": "鳳笑夢2025生日裝飾",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/pic_birthday2025_14",
+    "fileName": "pic_birthday2025_14"
   },
   {
     "customProfileResourceType": "collection",
