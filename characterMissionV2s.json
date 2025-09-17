@@ -148,7 +148,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 1,
     "parameterGroupId": 19,
-    "sentence": "收集｢星乃一歌」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢星乃一歌｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 1,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢星乃一歌｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 1,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢星乃一歌｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 1,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢星乃一歌｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -319,7 +346,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 2,
     "parameterGroupId": 19,
-    "sentence": "收集｢天馬咲希」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢天馬咲希｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 2,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢天馬咲希｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 2,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢天馬咲希｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 2,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢天馬咲希｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -490,7 +544,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 3,
     "parameterGroupId": 19,
-    "sentence": "收集｢望月穗波」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢望月穗波｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 3,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢望月穗波｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 3,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢望月穗波｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 3,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢望月穗波｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -661,7 +742,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 4,
     "parameterGroupId": 19,
-    "sentence": "收集｢日野森志步」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢日野森志步｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 4,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢日野森志步｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 4,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢日野森志步｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 4,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢日野森志步｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -832,7 +940,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 5,
     "parameterGroupId": 19,
-    "sentence": "收集｢花里實乃理」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢花里實乃理｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 5,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢花里實乃理｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 5,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢花里實乃理｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 5,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢花里實乃理｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -1003,7 +1138,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 6,
     "parameterGroupId": 19,
-    "sentence": "收集｢桐谷遙」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢桐谷遙｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 6,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢桐谷遙｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 6,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢桐谷遙｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 6,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢桐谷遙｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -1174,7 +1336,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 7,
     "parameterGroupId": 19,
-    "sentence": "收集｢桃井愛莉」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢桃井愛莉｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 7,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢桃井愛莉｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 7,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢桃井愛莉｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 7,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢桃井愛莉｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -1345,7 +1534,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 8,
     "parameterGroupId": 19,
-    "sentence": "收集｢日野森雫」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢日野森雫｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 8,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢日野森雫｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 8,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢日野森雫｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 8,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢日野森雫｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -1516,7 +1732,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 9,
     "parameterGroupId": 19,
-    "sentence": "收集｢小豆澤心羽」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢小豆澤心羽｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 9,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢小豆澤心羽｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 9,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢小豆澤心羽｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 9,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢小豆澤心羽｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -1687,7 +1930,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 10,
     "parameterGroupId": 19,
-    "sentence": "收集｢白石杏」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢白石杏｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 10,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢白石杏｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 10,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢白石杏｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 10,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢白石杏｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -1858,7 +2128,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 11,
     "parameterGroupId": 19,
-    "sentence": "收集｢東雲彰人」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢東雲彰人｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 11,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢東雲彰人｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 11,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢東雲彰人｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 11,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢東雲彰人｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -2029,7 +2326,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 12,
     "parameterGroupId": 19,
-    "sentence": "收集｢青柳冬彌」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢青柳冬彌｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 12,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢青柳冬彌｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 12,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢青柳冬彌｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 12,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢青柳冬彌｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -2200,7 +2524,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 13,
     "parameterGroupId": 19,
-    "sentence": "收集｢天馬司」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢天馬司｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 13,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢天馬司｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 13,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢天馬司｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 13,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢天馬司｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -2371,7 +2722,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 14,
     "parameterGroupId": 19,
-    "sentence": "收集｢鳳笑夢」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢鳳笑夢｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 14,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢鳳笑夢｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 14,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢鳳笑夢｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 14,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢鳳笑夢｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -2542,7 +2920,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 15,
     "parameterGroupId": 19,
-    "sentence": "收集｢草薙寧寧」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢草薙寧寧｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 15,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢草薙寧寧｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 15,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢草薙寧寧｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 15,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢草薙寧寧｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -2713,7 +3118,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 16,
     "parameterGroupId": 19,
-    "sentence": "收集｢神代類」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢神代類｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 16,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢神代類｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 16,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢神代類｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 16,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢神代類｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -2884,7 +3316,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 17,
     "parameterGroupId": 19,
-    "sentence": "收集｢宵崎奏」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢宵崎奏｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 17,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢宵崎奏｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 17,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢宵崎奏｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 17,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢宵崎奏｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -3055,7 +3514,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 18,
     "parameterGroupId": 19,
-    "sentence": "收集｢朝比奈真冬」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢朝比奈真冬｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 18,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢朝比奈真冬｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 18,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢朝比奈真冬｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 18,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢朝比奈真冬｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -3226,7 +3712,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 19,
     "parameterGroupId": 19,
-    "sentence": "收集｢東雲繪名」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢東雲繪名｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 19,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢東雲繪名｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 19,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢東雲繪名｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 19,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢東雲繪名｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -3397,7 +3910,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 20,
     "parameterGroupId": 19,
-    "sentence": "收集｢曉山瑞希」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢曉山瑞希｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 20,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢曉山瑞希｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 20,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢曉山瑞希｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 20,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢曉山瑞希｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -3568,7 +4108,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 21,
     "parameterGroupId": 19,
-    "sentence": "收集｢初音未來」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢初音未來｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 21,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢初音未來｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 21,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢初音未來｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 21,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢初音未來｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -3739,7 +4306,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 22,
     "parameterGroupId": 19,
-    "sentence": "收集｢鏡音鈴」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢鏡音鈴｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 22,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢鏡音鈴｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 22,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢鏡音鈴｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 22,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢鏡音鈴｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -3910,7 +4504,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 23,
     "parameterGroupId": 19,
-    "sentence": "收集｢鏡音連」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢鏡音連｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 23,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢鏡音連｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 23,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢鏡音連｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 23,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢鏡音連｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -4081,7 +4702,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 24,
     "parameterGroupId": 19,
-    "sentence": "收集｢巡音流歌」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢巡音流歌｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 24,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢巡音流歌｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 24,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢巡音流歌｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 24,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢巡音流歌｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -4252,7 +4900,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 25,
     "parameterGroupId": 19,
-    "sentence": "收集｢MEIKO」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢MEIKO｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 25,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢MEIKO｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 25,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢MEIKO｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 25,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢MEIKO｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },
@@ -4423,7 +5098,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 26,
     "parameterGroupId": 19,
-    "sentence": "收集｢KAITO」的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "sentence": "收集｢KAITO｣的LIVE台詞、招募台詞總計{requirement}個種類吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 26,
+    "parameterGroupId": 20,
+    "sentence": "在我的「世界」製作帶有｢KAITO｣標籤的家具{requirement}種吧。",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 26,
+    "parameterGroupId": 21,
+    "sentence": "在我的「世界」製作｢KAITO｣的成員的無框畫{requirement}種吧",
+    "progressSentence": "{progress}種類",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 26,
+    "parameterGroupId": 22,
+    "sentence": "在我的「世界」製作會產生｢KAITO｣的對話的家具，並觀看{requirement}種對話吧。",
     "progressSentence": "{progress}種類",
     "isAchievementMission": false
   },

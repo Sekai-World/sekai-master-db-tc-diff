@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "mysekaiItemType": "white_blueprint",
+    "name": "空白設計圖",
+    "pronunciation": "はくしのせっけいず",
+    "description": "全新未使用的設計圖。可以用來素描出其他人「世界」中的家具。",
+    "iconAssetbundleName": "item_blank_blueprint"
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "mysekaiItemType": "surplus_blueprint",
+    "name": "多餘設計圖",
+    "pronunciation": "あまったせっけいず",
+    "description": "多出來的設計圖。可透過轉換器轉換成其他設計圖。",
+    "iconAssetbundleName": "item_surplus_blueprint"
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "mysekaiItemType": "surplus_music_record",
+    "name": "多餘唱片",
+    "pronunciation": "あまったれこーど",
+    "description": "多出來的唱片。可透過轉換器轉換成其他唱片。",
+    "iconAssetbundleName": "item_surplus_music_record"
+  },
+  {
+    "id": 6,
+    "seq": 6,
+    "mysekaiItemType": "mysekai_photo_film",
+    "name": "相片底片",
+    "pronunciation": "ふぉとふぃるむ",
+    "description": "沖洗相片時所需的底片。拍攝相片時的必備品。",
+    "iconAssetbundleName": "item_photofilm"
+  },
+  {
+    "id": 7,
+    "seq": 7,
+    "mysekaiItemType": "blueprint_fragment",
+    "name": "設計圖碎片",
+    "pronunciation": "せっけいずのきれはし",
+    "description": "設計圖的碎片。收集起來後可透過轉換器轉換城隨機的設計圖。",
+    "iconAssetbundleName": "item_blueprint_fragment"
+  }
+]

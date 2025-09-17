@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "sekaiEchoMissionType": "read_main_story",
+    "seq": 1,
+    "sentence": "觀看任一團體的全部主線劇情。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222223
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sekaiEchoMissionType": "read_character_box_story",
+    "seq": 2,
+    "sentence": "以不跳過、不快轉的方式，觀看任一角色第一學年的關鍵劇情。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222224
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sekaiEchoMissionType": "read_unit_box_story",
+    "seq": 3,
+    "sentence": "以不跳過、不快轉的方式，觀看任一團體第一學年的關鍵劇情。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222225
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sekaiEchoMissionType": "get_box_story_honor_stamp",
+    "seq": 4,
+    "sentence": "獲得1個關鍵劇情的稱號和貼圖。（可透過參加虛擬LIVE獲得。）",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222226
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "sekaiEchoMissionType": "clear_event_music",
+    "seq": 5,
+    "sentence": "點擊活動簿上的活動創作歌曲，進行一次LIVE吧。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222227
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "sekaiEchoMissionType": "read_graph",
+    "seq": 6,
+    "sentence": "觀看任一團體的角色關係圖。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222228
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "sekaiEchoMissionType": "read_all_pv",
+    "seq": 7,
+    "sentence": "觀看任一團體的ＭV。",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222229
+      }
+    ]
+  }
+]

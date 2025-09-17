@@ -1048,5 +1048,65 @@
     "sentence": "完成所有的初音未來週年慶限時任務吧。",
     "resourceBoxId": 100306,
     "selectableRewardGroupId": 1002
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 118,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "通過10次「多人LIVE」吧。",
+    "resourceBoxId": 100327,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 119,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成員的專精等級吧。",
+    "resourceBoxId": 400078,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 120,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "通過5次「挑戰LIVE」吧。",
+    "resourceBoxId": 100319,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 121,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 100309,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 122,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": "累積消耗30個LIVE BONUS吧。",
+    "resourceBoxId": 100301,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 123,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "通過所有[4週年紀念] 世界心願計畫活動的限時任務吧。",
+    "resourceBoxId": 100400,
+    "selectableRewardGroupId": 0
   }
 ]

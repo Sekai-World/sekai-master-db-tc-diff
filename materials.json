@@ -790,7 +790,7 @@
   {
     "id": 93,
     "seq": 10606,
-    "name": "橙色花瓣",
+    "name": "橘色花瓣",
     "flavorText": "因Wonderlands×Showtime全體成員的心願而盛開的花朵花瓣。可使用於幸運之花遊行交換所。\n使用期限：2025\/11\/14 23:59",
     "canUse": false,
     "materialType": "common"
@@ -1380,6 +1380,46 @@
     "materialType": "common"
   },
   {
+    "id": 167,
+    "seq": 165167,
+    "name": "[劇場版]★2成員券",
+    "flavorText": "可在[劇場版]★2成員券交換所交換喜歡的★2成員。",
+    "canUse": false,
+    "materialType": "card_ticket"
+  },
+  {
+    "id": 168,
+    "seq": 200000,
+    "name": "七彩記憶",
+    "flavorText": "閃耀著七彩光輝的回憶碎片。\n可用來交換特定記憶。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 169,
+    "seq": 200001,
+    "name": "「連線LIVE Ensemble in SEKAI」連線LIVE ver. Vocal兌換卡",
+    "flavorText": "可兌換在「連線LIVE 特別版 世界計畫×偶像夢幻祭2 Ensemble in SEKAI」公演中發表之歌曲的連線LIVE ver. Vocal。",
+    "canUse": false,
+    "materialType": "auto_exchange_music_vocal_ticket"
+  },
+  {
+    "id": 170,
+    "seq": 10615,
+    "name": "世界碎片",
+    "flavorText": "可至世界碎片交換所交換報酬。\n使用期限：2025\/4\/22 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 171,
+    "seq": 10616,
+    "name": "[4.5週年紀念]禮物券",
+    "flavorText": "可使用[4.5週年紀念]禮物券交換報酬。\n使用期限：2025\/4\/22 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
     "id": 1001,
     "seq": 1001,
     "name": "七彩通行證～BASIC～兌換券",
@@ -1412,6 +1452,30 @@
     "materialType": "web_ticket"
   },
   {
+    "id": 1005,
+    "seq": 1005,
+    "name": "我的「世界」任務通行證交換券",
+    "flavorText": "我的「世界」任務通行證交換券",
+    "canUse": false,
+    "materialType": "web_ticket"
+  },
+  {
+    "id": 1006,
+    "seq": 1006,
+    "name": "高階任務通行證交換券（升級包）",
+    "flavorText": "高階任務通行證交換券（升級包）",
+    "canUse": false,
+    "materialType": "web_ticket"
+  },
+  {
+    "id": 1009,
+    "seq": 1009,
+    "name": "通行證組合包交換券",
+    "flavorText": "[通行證組合包]高階任務通行證+我的「世界」任務通行證交換券",
+    "canUse": false,
+    "materialType": "web_ticket"
+  },
+  {
     "id": 3002,
     "seq": 90,
     "name": "回响点数",
@@ -1434,5 +1498,13 @@
     "flavorText": "「摩爾加納像」設計圖的兌換券。",
     "canUse": false,
     "materialType": "common"
+  },
+  {
+    "id": 19999,
+    "seq": 19999,
+    "name": "世界通行證交換券",
+    "flavorText": "世界通行證交換券",
+    "canUse": false,
+    "materialType": "web_ticket"
   }
 ]

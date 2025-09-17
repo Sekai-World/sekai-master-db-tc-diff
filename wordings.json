@@ -180,6 +180,10 @@
     "value": "{0} x {1}"
   },
   {
+    "wordingKey": "FORMAT_CONVERT_SHORTEN_TIME_HAVE_JOINED_PASS",
+    "value": "因使用通行證而縮短{0}%"
+  },
+  {
     "wordingKey": "FORMAT_DAY",
     "value": "DAY {0}"
   },
@@ -188,8 +192,64 @@
     "value": "Lv.{0}"
   },
   {
+    "wordingKey": "FORMAT_MSG_CONFIRM_CANCEL_INVITATION",
+    "value": "取消寄送邀請函給{0}嗎？"
+  },
+  {
+    "wordingKey": "FORMAT_MSG_CONFIRM_CANCEL_INVITATION_NOT_RECEIVED_MEMORIA",
+    "value": "要取消寄送邀請函給{0}嗎？\n<color=#FF3366>※尚未領取本日的記憶。\n取消邀請後，本日可獲得的記憶將變為1個。<\/color>"
+  },
+  {
+    "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE",
+    "value": "即將布置{0}。\n確定嗎？\n\n<color=#FF5588>※直到隔天05:00前都無法獲得記憶。\n※無法於{1}天內再次布置大門。\n※已發出的邀請函會被取消。<\/color>"
+  },
+  {
+    "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE_TUTORIAL",
+    "value": "將布置{0}。\n確定嗎？"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_BLUEPRINT_NAME",
+    "value": "{0}的設計圖"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_CONVERT_SLOT_NO",
+    "value": "<size=36><color=#0faf9d>SLOT<\/color><\/size><size=80><color=#0faf9d>0{0}<\/color><\/size>"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_CONFIRM",
+    "value": "由於世界通行證已過期{0}天，\n儲存在我的「世界」額外預置欄位中的內容將會被刪除。\n您要為了保留內容而購買新的通行證嗎？"
+  },
+  {
     "wordingKey": "FORMAT_MYSEKAI_GATE_MAX_LEVEL",
     "value": "{0} <size=28>MAX<\/size>"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_GATE_VISIT_CHARACTER",
+    "value": "大門等級{0}後來訪的角色"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HARVEST_TOOL_QUANTITY",
+    "value": "×{0}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_PHOTO_ALBUM_PAGE_COUNT",
+    "value": "{0}\/{1}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_PHOTO_FILM_QUANTITY",
+    "value": "×{0}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_PUT_LIMIT",
+    "value": "{0}\/{1}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_SECRET_SHOP_PURCHASE_LIMIT_COUNT",
+    "value": "{0}\/{1}次"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_SITE_LAYOUT_SIZE",
+    "value": "{0}×{1}"
   },
   {
     "wordingKey": "FORMAT_RECEIVE_PRESENTED_MUSIC",
@@ -198,6 +258,14 @@
   {
     "wordingKey": "FORMAT_RELEASE_EVENT_RELATED_MUSIC_INFO",
     "value": "觀看到第{0}章劇情即可解鎖"
+  },
+  {
+    "wordingKey": "FORMAT_SECRET_SHOP_PURCHASE_CONFIRM",
+    "value": "將消耗<color=#ff5599>{0}個<\/color>水晶\n購買{1}。\n確定嗎？"
+  },
+  {
+    "wordingKey": "FORMAT_SEND_INVITATION_CHARACTER",
+    "value": "{0} {1}"
   },
   {
     "wordingKey": "FRIEND_SHARE_PRESENT_SENTENCE",
@@ -368,6 +436,14 @@
     "value": "每日獎勵"
   },
   {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_HARVEST_CONTENT",
+    "value": "一般耐力時，消耗1格耐力可<color=#ff55AA>獲得1<\/color>LIVE P。\n加成耐力時，消耗1格耐力可<color=#ff55AA>獲得5<\/color>LIVE P。\n※有可能產生小數點以下的LIVE P。\n※小數點以下的LIVE P每達到1便會添加到累積LIVE P。\n※小數點以下的LIVE P會在每月00:00被捨棄，敬請注意。"
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_HARVEST_TITLE",
+    "value": "我的「世界」 採集"
+  },
+  {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
     "value": "獲得「[{0}]{1}」即可解鎖\n髮型為專用飾品，\n解鎖髮型後即可設定。"
   },
@@ -494,6 +570,10 @@
   {
     "wordingKey": "MSG_ALREADY_CLEARED_LIVE_RETRY",
     "value": "連線中斷。將返回主畫面。\nLIVE結果將會正常顯示。"
+  },
+  {
+    "wordingKey": "MSG_ALREADY_GET_BLUEPRINT",
+    "value": "此為已獲得的設計圖"
   },
   {
     "wordingKey": "MSG_ANDROID_RATING",
@@ -652,12 +732,40 @@
     "value": "要使用<color=#ff5599>{0}<\/color>水晶\n恢復<color=#ff5599>{1}<\/color>LIVE BONUS嗎？"
   },
   {
+    "wordingKey": "MSG_BOOST_STAMINA_HARVEST_SPEED",
+    "value": "採集速度會在耐力加成期間大幅上升。"
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_COMPLETE",
+    "value": "已恢復耐力。"
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_CONFIRM",
+    "value": "即將恢復<color=#ff5599>{0}<\/color>格耐力，並提供加成。\n確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_METHOD_JEWEL_CONFIRM",
+    "value": "即將消耗<color=#ff5599>{0}<\/color>個水晶來恢復<color=#ff5599>{1}<\/color>格耐力，\n並提供加成。"
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_METHOD_LIVE_BONUS_CONFIRM",
+    "value": "即將消耗<color=#ff5599>{0}<\/color>LIVE BONUS來恢復<color=#ff5599>{1}<\/color>格耐力，\n並提供加成。"
+  },
+  {
     "wordingKey": "MSG_BORDER_RANKING",
     "value": "精彩片段"
   },
   {
+    "wordingKey": "MSG_BROKEN_TOOL",
+    "value": "工具已損壞。"
+  },
+  {
     "wordingKey": "MSG_BUY_COMPLETE",
     "value": "已完成購買。"
+  },
+  {
+    "wordingKey": "MSG_CANVAS_BONUS_DIALOG_DESCRIPTION",
+    "value": "在我的「世界」將該成員繪製於無框畫上，\n會提升表現力。"
   },
   {
     "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
@@ -738,6 +846,10 @@
   {
     "wordingKey": "MSG_CHARACTER_SELECT_DESCRIPTION",
     "value": "請選擇角色"
+  },
+  {
+    "wordingKey": "MSG_CHARA_MATERIAL_DROP",
+    "value": "找到{0}。"
   },
   {
     "wordingKey": "MSG_CHARA_NOT_HAVE",
@@ -900,6 +1012,22 @@
     "value": "已針對您檢舉的玩家進行懲處。\n感謝您的協助。"
   },
   {
+    "wordingKey": "MSG_COMPETION_VOTING_PERIOD",
+    "value": "投票時間至 {0}"
+  },
+  {
+    "wordingKey": "MSG_COMPETITION_POST_CONFIRM",
+    "value": "要以此內容上傳嗎？"
+  },
+  {
+    "wordingKey": "MSG_COMPETITION_POST_TITLE",
+    "value": "「{0}」"
+  },
+  {
+    "wordingKey": "MSG_COMPLETE_CANCEL_INVITATION",
+    "value": "已取消邀請。"
+  },
+  {
     "wordingKey": "MSG_COMPLETE_READ_REWARD_TIPS",
     "value": "以不跳過、不快轉的方式觀看「主線劇情」、「活動劇情」，\n即可獲得1個全部觀看印章。"
   },
@@ -912,12 +1040,28 @@
     "value": "對「[{0}] {1}」進行特訓"
   },
   {
+    "wordingKey": "MSG_CONFIRME_KICK_DIALOG",
+    "value": "將把此玩家從我的「世界」踢除。\n確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRME_OTHER_PLAYER_MYSEKAI_VISIT",
+    "value": "將外出拜訪{0}的我的「世界」。\n確定嗎？"
+  },
+  {
     "wordingKey": "MSG_CONFIRM_CACHE_CLEAR_DIALOG",
-    "value": "是否確認清除緩存？"
+    "value": "除了玩家資料外的\\n歌曲、語音、選項設定等\\n保存在設備的資料將全部被刪除。\\n\\n可以清除快取嗎？\\n\\n<color=#FF3366>※下次登入時將再次下載檔案。\\n建議在Wi-Fi環境下進行。"
   },
   {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
     "value": "\"將綁定下列玩家資料，\n確定執行？\""
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_GATE_LEVEL_UP",
+    "value": "將提升{0}等級。\n確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_LEAVE_MYSEKAI",
+    "value": "要退出{0}的我的「世界」。\n確定嗎？"
   },
   {
     "wordingKey": "MSG_CONFIRM_MYLIST_RESET",
@@ -942,6 +1086,10 @@
   {
     "wordingKey": "MSG_CONFIRM_PLAY_LOGIN_STORY_DIALOG",
     "value": "即將播放登入劇情，\n確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_RANDOM_VISIT",
+    "value": "將外出隨機拜訪我的「世界」。\n確定嗎？"
   },
   {
     "wordingKey": "MSG_CONFIRM_REMOVE_BOOK_MARK",
@@ -1032,12 +1180,84 @@
     "value": "消耗<size={0}>{1}<\/size>"
   },
   {
+    "wordingKey": "MSG_CONVERT_BLUEPRINT_RANDOM_BOX_CHOICE_DESCRIPTION",
+    "value": "進行轉換可隨機從{0}內獲得設計圖。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_BLUEPRINT_RANDOM_BOX_DESCRIPTION",
+    "value": "進行轉換可隨機獲得設計圖。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_ITEM_NONE",
+    "value": "沒有可轉換的道具。"
+  },
+  {
     "wordingKey": "MSG_CONVERT_MESSAGE",
     "value": "因「{0}」的交換期限已過，\n已自動轉換為{1}。"
   },
   {
+    "wordingKey": "MSG_CONVERT_NOT_ENOUGH_CONSUMED_RESOURCE",
+    "value": "所需的素材不夠"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_NOT_EXPIRED_PASS",
+    "value": "由於世界通行證已過期，\n無法轉換。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_RECORD_RANDOM_BOX_CHOICE_DESCRIPTION",
+    "value": "進行轉換可隨機從{0}內獲得唱片。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_RECORD_RANDOM_BOX_DESCRIPTION",
+    "value": "進行轉換可隨機獲得唱片。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SLOT_LOCK_EXPIRED_PASS",
+    "value": "由於世界通行證已過期，欄位已遭到鎖定。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SLOT_SHORTEN_CONFIRM",
+    "value": "即將消耗<color=#ff5588>{0}個<\/color>水晶，\n來跳過{1}的轉換時間。\n確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_START_ATTENTION_EXPIRED_PASS",
+    "value": "※若在開始前世界通行證已超過有效期限，轉換時間將會改變。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_START_CONFIRM",
+    "value": "將開始轉換。確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_BLUEPRINT_CHOICE_ATTENTION",
+    "value": "※設計圖有可能會重複。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_BLUEPRINT_CHOICE_TITLE",
+    "value": "請選擇要轉換的設計圖類別。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_RECORD_CHOICE_ATTENTION",
+    "value": "※唱片有可能會重複。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_RECORD_CHOICE_TITLE",
+    "value": "請選擇要轉換的唱片的團體。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_UPPER_LIMIT_PASS",
+    "value": "由於世界通行證已過期，\n無法轉換這個數量。\n請再次選擇。"
+  },
+  {
+    "wordingKey": "MSG_COPY_COMPLETE_COMPETITION_NUMBER",
+    "value": "已複製上傳NO.。"
+  },
+  {
     "wordingKey": "MSG_COPY_COMPLETE_ROOM_ID",
     "value": "已複製房間ID。"
+  },
+  {
+    "wordingKey": "MSG_COPY_COMPLETE_SERIAL_CODE",
+    "value": "已複製序號。"
   },
   {
     "wordingKey": "MSG_COPY_COMPLETE_USER_ID",
@@ -1054,6 +1274,18 @@
   {
     "wordingKey": "MSG_COUNTING_NOW",
     "value": "預定於所有LIVE結束後，\n{0}月{1}日 {2}左右公告結果。"
+  },
+  {
+    "wordingKey": "MSG_CRAFT_NOT_ENOUGH_MATERIAL",
+    "value": "所需的素材不夠"
+  },
+  {
+    "wordingKey": "MSG_CRAFT_REACHED_POSSESSION_LIMIT",
+    "value": "已達到可收納於持有物的數量上限"
+  },
+  {
+    "wordingKey": "MSG_CREATE_COMPETITION_PHOTO",
+    "value": "拍攝相片中……"
   },
   {
     "wordingKey": "MSG_CREATE_PRIVATE_ROOM",
@@ -1188,6 +1420,10 @@
     "value": "因連線中斷，將返回主畫面。<size=28>({0})<\/size>"
   },
   {
+    "wordingKey": "MSG_DL_MYSEKAI_VOICE",
+    "value": "要下載我的「世界」用的語音嗎？\n\n<color=#ff5599>約{0}MB<\/color>\n\n能以全程語音享受我的「世界」中的對話。\n※可於我的「世界」設定結束後進行設定。"
+  },
+  {
     "wordingKey": "MSG_DOUBLE_SKILL_INFO_DIALOG",
     "value": "特訓前、特訓後各擁有1種技能。\n切換顯示的插圖，就會變更LIVE時發動的技能。"
   },
@@ -1226,6 +1462,10 @@
   {
     "wordingKey": "MSG_DO_UPDATE",
     "value": "更新"
+  },
+  {
+    "wordingKey": "MSG_EACH_COLOR_ONE_ONLY",
+    "value": "※此家具每種顏色只能製作{0}個。"
   },
   {
     "wordingKey": "MSG_EDITABLE_MYLIST",
@@ -1306,6 +1546,10 @@
   {
     "wordingKey": "MSG_ERROR_NAME_INPUT_MIN",
     "value": "最少需要輸入1個字。"
+  },
+  {
+    "wordingKey": "MSG_ERROR_TO_HOME",
+    "value": "發生錯誤。\n將返回主畫面。"
   },
   {
     "wordingKey": "MSG_ERROR_TO_TITLE",
@@ -1430,6 +1674,18 @@
   {
     "wordingKey": "MSG_FINISHED_TODAY_CHALLENGE",
     "value": "本日的挑戰已結束。"
+  },
+  {
+    "wordingKey": "MSG_FIXTURE_ACTION_WARNING_OWNER_EDIT_MODE",
+    "value": "屋主正在編輯，無法使用家具。"
+  },
+  {
+    "wordingKey": "MSG_FIXTURE_BONUS_UP_DIALOG",
+    "value": "已提升家具BONUS。"
+  },
+  {
+    "wordingKey": "MSG_FIXTURE_POSSESSION",
+    "value": "已提升家具持有的上限。"
   },
   {
     "wordingKey": "MSG_FIX_MIKU_COSTUME",
@@ -1632,12 +1888,44 @@
     "value": "附{0}"
   },
   {
+    "wordingKey": "MSG_GATE_LEVEL_UP_INCREASE_VISITS",
+    "value": "大門等級提升後，團體來訪的次數會增加。"
+  },
+  {
+    "wordingKey": "MSG_GATE_SEND_INVITATION_CHARACTER_SELECT",
+    "value": "請選擇要送出邀請函的角色。"
+  },
+  {
+    "wordingKey": "MSG_GET_BLUEPRINT",
+    "value": "已獲得「{0}」。"
+  },
+  {
     "wordingKey": "MSG_GET_GACHA_BONUS",
     "value": "已獲得招募附贈點數。"
   },
   {
     "wordingKey": "MSG_GET_LIVE_MISSION_POINT",
     "value": "共獲得{0}點LIVE P"
+  },
+  {
+    "wordingKey": "MSG_GET_RECORD",
+    "value": "已獲得唱片。"
+  },
+  {
+    "wordingKey": "MSG_GET_SERIAL_CODE_REWARD",
+    "value": "獲得了序號獎勵。"
+  },
+  {
+    "wordingKey": "MSG_GET_SERIAL_CODE_STAMP_RALLY_REWARD",
+    "value": "獲得了報酬。"
+  },
+  {
+    "wordingKey": "MSG_GET_SURPLUS_BLUEPRINT",
+    "value": "已獲得設計圖，但由於已持有，因此換成獲得「<color=#ff5588>{0}<\/color>」。"
+  },
+  {
+    "wordingKey": "MSG_GET_SURPLUS_RECORD",
+    "value": "已獲得唱片，但由於已持有，因此換成獲得「<color=#ff5588>多餘唱片<\/color>」。"
   },
   {
     "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
@@ -1660,6 +1948,14 @@
     "value": "<color=#ff5588>「{0}」<\/color>\n贈送LIVE BONUS×{1}給你。"
   },
   {
+    "wordingKey": "MSG_GOTO_HOUSING_COMPETITION_CONFIRM",
+    "value": "將外出拜訪此作品。\n確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_HARVST_SITE_RELEASE_NEW_SITE",
+    "value": "已解鎖新區域。"
+  },
+  {
     "wordingKey": "MSG_HAS_CUTIN",
     "value": "包含特殊片段"
   },
@@ -1670,6 +1966,14 @@
   {
     "wordingKey": "MSG_HIGH_SCORE_UPDATE_REWARD",
     "value": "每次刷新最高分<color=#FF5599>{0}<\/color>的報酬"
+  },
+  {
+    "wordingKey": "MSG_HOME_SITE_SIZE_EXPAND",
+    "value": "已擴大庭園尺寸。"
+  },
+  {
+    "wordingKey": "MSG_HOUSING_PRESET_SLOT_LOCK_EXPIRED_PASS",
+    "value": "由於世界通行證已過期，欄位已遭到鎖定。"
   },
   {
     "wordingKey": "MSG_ID_NOT_FOUND",
@@ -1728,6 +2032,10 @@
     "value": "※設定密碼後，將會發送帳號綁定ID。"
   },
   {
+    "wordingKey": "MSG_INPUT_COMPETITION_NUMBER",
+    "value": "請輸入上傳NO.。"
+  },
+  {
     "wordingKey": "MSG_INPUT_FIELD_ERROR_EMPTY",
     "value": "最少需要輸入1個字。"
   },
@@ -1738,6 +2046,10 @@
   {
     "wordingKey": "MSG_INSUFFICIENTSPACE_CN",
     "value": "儲存空間不足，請清理儲存空間。"
+  },
+  {
+    "wordingKey": "MSG_INVENTORY_OVER",
+    "value": "持有物上限已滿。"
   },
   {
     "wordingKey": "MSG_INVITE_FAILED_CHEERFUL_INVALID_TEAM",
@@ -1764,6 +2076,10 @@
     "value": "已取得團體造型服裝。"
   },
   {
+    "wordingKey": "MSG_KICKOUT_DIALOG_TEXT",
+    "value": "因玩家變更設定已退出。\n將回到自己的我的「世界」。"
+  },
+  {
     "wordingKey": "MSG_KICKOUT_TO_HOME",
     "value": "現在發生了問題。\n請稍後再試。"
   },
@@ -1780,6 +2096,10 @@
     "value": "最新的LIVE"
   },
   {
+    "wordingKey": "MSG_LAYOUT_UPDATE",
+    "value": "正在更新我的「世界」……"
+  },
+  {
     "wordingKey": "MSG_LB_RECEIVE_LIMIT",
     "value": "對方接收次數已達上限，\n無法贈送LIVE BONUS給對方。"
   },
@@ -1790,6 +2110,14 @@
   {
     "wordingKey": "MSG_LEADER_SETTING_CAUTION",
     "value": "請設定隊長。"
+  },
+  {
+    "wordingKey": "MSG_LEARN_PHENOMENA",
+    "value": "新天氣「<color=#ff5588>{0}<\/color>」出現，可將其設定於我的家。"
+  },
+  {
+    "wordingKey": "MSG_LEAVE_CHARACTER",
+    "value": "{0}回去了。"
   },
   {
     "wordingKey": "MSG_LEFT_ROOM",
@@ -1950,6 +2278,10 @@
   {
     "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM_BY_GACHA_CIEL",
     "value": "要消耗<color=#FF5599>{1}<\/color>張{0}\n來交換道具嗎？"
+  },
+  {
+    "wordingKey": "MSG_MATERIAL_POSSESSION",
+    "value": "已提升素材持有的上限。"
   },
   {
     "wordingKey": "MSG_MAX_ANOUNCE",
@@ -2184,6 +2516,210 @@
     "value": "※可在之後更改。"
   },
   {
+    "wordingKey": "MSG_MYROOM_SITE_RELEASE_NEW_FLOOR",
+    "value": "已解鎖新樓層。"
+  },
+  {
+    "wordingKey": "MSG_MYROOM_SITE_SIZE_EXPAND",
+    "value": "已擴大房間尺寸。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_COLORFUL_PASS_ALERT",
+    "value": "世界通行證已超過有效期限。\n要購買新的嗎？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_COMPETITION_CHANGE_DIALOG_CONFIRM",
+    "value": "本主題已上傳完成。\n要重置後再次上傳嗎？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_COMPETITION_CHANGE_DIALOG_COTION",
+    "value": "不可重複上傳同一主題。\n重新上傳將會重置原先的按讚數。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_COMPETITION_POST_DIALOG_TEXT",
+    "value": "將目前的我的「世界」上傳至39景。\n請選擇要上傳的相片，並輸入作品名稱。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
+    "value": "已提升可設置於我的家的<color=#ff5599>柵欄與道路<\/color>最大數量。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
+    "value": "已提升可設置於我的家的<color=#ff5599>家具<\/color>最大數量。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_CHANGE_INTERVAL_FORMAT",
+    "value": "距離可變更還有{0}"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_DETAIL_ATTENTION",
+    "value": "※獎勵對同一副團體的虛擬歌手也有效。\n※原創虛擬歌手會從所有大門中獎勵最高的那一個獲得受益。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_IN_INVITATION",
+    "value": "已寄送邀請函。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_IN_SETTING",
+    "value": "已設定"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_NOT_ENOUGH_MATERIAL_TO_LEVEL_UP",
+    "value": "提升等級所需的素材不夠"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_REACHED_TO_MAX_LEVEL",
+    "value": "已達到大門等級上限"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION",
+    "value": "寄送邀請函吧！"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION_COMPLETED",
+    "value": "已邀請{0}前來我的「世界」。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION_CONFIRM",
+    "value": "要寄送邀請函給{0}嗎？\n<color=#FF3366>寄送邀請函後，想再次寄送邀請函需間隔\n{1}天。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SKIN_NOT_SETUP",
+    "value": "這個外觀僅可設定於{0}。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SKIN_RELEASE",
+    "value": "已解鎖外觀。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SKIN_RELEASE_CONFIRM",
+    "value": "將解鎖「{0}」。\n確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_INVALID_TO_TRIPOD_MODE",
+    "value": "後方無空間，無法立起三腳架。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_INVITATION_BALLOON",
+    "value": "可從邀請中的角色獲得的記憶會+1個！"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_JOIN_ERROR",
+    "value": "由於已達現在可拜訪人數的上限，\n因此無法前往這位玩家的我的「世界」遊玩。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_LAYOUT_EDIT_PLANNING_COUNT",
+    "value": "還剩{0}"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MATCHING_MODEL_ROOM_DESCRIPTION",
+    "value": "搜尋樣品屋中……"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MATCHING_NOW_DESCRIPTION",
+    "value": "搜尋我的「世界」中……"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MISSION_COMING_SOON",
+    "value": "coming soon..."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MOVE_TO_PRESET_CONFIRM",
+    "value": "將儲存目前的配置圖並前往預置。\n確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_NOT_ENOUGH_PHOTO_FILM",
+    "value": "底片不足無法拍攝。\n底片可透過轉換獲得。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_OPEN_SITE_MESSAGE",
+    "value": "已解鎖新區域「{0}」。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_OWNER_LEAVE",
+    "value": "連線中斷。\n將返回自己的我的「世界」。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PHOTO_RELEASE_INFO",
+    "value": "已將相片取消置頂。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PHOTO_SETTING_INFO",
+    "value": "已將相片設為置頂。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PHOTO_SHOT_SAVE",
+    "value": "已將拍攝的相片儲存進相簿。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PUT_LIMIT",
+    "value": "已達可布置家具的上限數。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SECRET_SHOP_PURCHASE_LIMIT_REACHED",
+    "value": "已達本週可購買次數，無法購買。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SITE_EDIT_SAVE",
+    "value": "已儲存"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SITE_LAYOUT_EDIT_CLEAN_UP_CONFIRM",
+    "value": "將清理編輯中區域的所有家具。\n確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_CONFIRM",
+    "value": "即將在空白設計圖上素描此家具。\n確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_CRYSTAL_SHOP_GO",
+    "value": "前往水晶商店"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_HAD_BLUE_PRINT",
+    "value": "由於已獲得此家具的設計圖，無法素描。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_HAS_NOT_FIXTURE",
+    "value": "這個我的「世界」裡沒有可素描的家具。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_SPECIAL_FIXTURE",
+    "value": "無法素描特殊家具。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_TRADE_GO",
+    "value": "前往轉換"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_CHARACTER_VISIT_COUNT_FORMAT",
+    "value": "向拜訪我的「世界」{0}次以上的{1}搭話便會發生"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_CHARACTER_VISIT_COUNT_ONCE_FORMAT",
+    "value": "向{0}搭話便會發生"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_FIXTURE_MULTI_FORMAT",
+    "value": "當{0}使用了目標家具便會發生"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_FIXTURE_SINGLE_FORMAT",
+    "value": "當{0}使用了「{1}」便會發生"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_PHENOMENA_FORMAT",
+    "value": "天氣為{0}時，向{1}搭話便會發生"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_READ_EVENT_STORY_EPISODE_FORMAT",
+    "value": "觀看「{0}」的第{1}章\n向{2}搭話便會發生"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TUTORIAL_CALL_CHARACTER_IN_PHOTO_MODE",
+    "value": "試著以輕觸來呼喚角色吧！"
+  },
+  {
     "wordingKey": "MSG_NAME_INPUT",
     "value": "名稱最多僅能輸入10個字。"
   },
@@ -2210,6 +2746,10 @@
   {
     "wordingKey": "MSG_NETWORK_CONNECTION_ERROR",
     "value": "連線失敗了。"
+  },
+  {
+    "wordingKey": "MSG_NEW_AREA_RELEASE",
+    "value": "已解鎖新區域。"
   },
   {
     "wordingKey": "MSG_NEXT_EPISODE_RELEASE_DATE_AT",
@@ -2244,8 +2784,20 @@
     "value": "無練習譜，\n可透過LIVE或在交換所中交換獲得。"
   },
   {
+    "wordingKey": "MSG_NONE_INVITATION",
+    "value": "沒有邀請函。"
+  },
+  {
+    "wordingKey": "MSG_NONE_MYSEKAI_FRIEND_LIST",
+    "value": "無可拜訪的好友。"
+  },
+  {
     "wordingKey": "MSG_NONE_PAID_LIVE_REWARD",
     "value": "無初次參加報酬。"
+  },
+  {
+    "wordingKey": "MSG_NONE_TAG_OPTIONS",
+    "value": "輸入關鍵字後會顯示候補標籤。"
   },
   {
     "wordingKey": "MSG_NOTHING_ACCESSORY_ITEM",
@@ -2312,8 +2864,16 @@
     "value": "無舉辦中的活動。"
   },
   {
+    "wordingKey": "MSG_NOT_CANCEL_INVITATION_EXPIRED_PASS",
+    "value": "由於世界通行證過期，\n無法取消邀請。\n將回到我的家。"
+  },
+  {
     "wordingKey": "MSG_NOT_CONSUME",
     "value": "無消耗"
+  },
+  {
+    "wordingKey": "MSG_NOT_EDIT_LAYOUT_VISITING_CHARACTER_FROM_GATE",
+    "value": "角色在使用大門的期間，無法變更配置圖。"
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_CURRENCY",
@@ -2340,6 +2900,10 @@
     "value": "票券不足。"
   },
   {
+    "wordingKey": "MSG_NOT_ENOUGH_WHITE_BLUE_PRINT",
+    "value": "沒有空白設計圖。\n可透過我的「世界」任務通行證的\n我的「世界」報酬或轉換器獲得。"
+  },
+  {
     "wordingKey": "MSG_NOT_ENTRY_EVENT",
     "value": "未參加活動。"
   },
@@ -2352,6 +2916,22 @@
     "value": "無舉辦中的活動。"
   },
   {
+    "wordingKey": "MSG_NOT_FOUND_COMPETITION_NUMBER",
+    "value": "找不到符合該ID的玩家。"
+  },
+  {
+    "wordingKey": "MSG_NOT_HAVE_TOOL",
+    "value": "沒有工具。\n請於工作台製作。"
+  },
+  {
+    "wordingKey": "MSG_NOT_HOUSE_INCLUDED_IN_PRESET",
+    "value": "由於預先設定包含未持有的房子\n<color=#FF5599>{0}<\/color>，\n因此無法布置。"
+  },
+  {
+    "wordingKey": "MSG_NOT_INVITATION_EXPIRED_PASS",
+    "value": "由於世界通行證過期，無法邀請。\n將回到我的家。"
+  },
+  {
     "wordingKey": "MSG_NOT_PLAYABLE_EVENT",
     "value": "活動已經結束。"
   },
@@ -2362,6 +2942,10 @@
   {
     "wordingKey": "MSG_NOT_PUBLISH_MUSIC_ERROR",
     "value": "還無法遊玩這首歌曲。"
+  },
+  {
+    "wordingKey": "MSG_NOT_PURCHASE_SECRET_SHOP_EXPIRED_PASS",
+    "value": "由於世界通行證過期，\n無法使用神秘商店。\n將回到我的家。"
   },
   {
     "wordingKey": "MSG_NOT_RESULT_CONFIRM_NOW",
@@ -2428,6 +3012,10 @@
     "value": "無邀請。"
   },
   {
+    "wordingKey": "MSG_NO_SETTING_CHARACTER",
+    "value": "尚未編組成員。"
+  },
+  {
     "wordingKey": "MSG_NO_STORY_FOUND",
     "value": "無該劇情。"
   },
@@ -2488,8 +3076,16 @@
     "value": "限定1次"
   },
   {
+    "wordingKey": "MSG_ONE_ONLY_CRAFT",
+    "value": "※此家具只能製作{0}個。"
+  },
+  {
     "wordingKey": "MSG_ON_GOING_EVENT_MAINTENANCE",
     "value": "活動維護中。"
+  },
+  {
+    "wordingKey": "MSG_OTHER_MYSEKAI_NAME",
+    "value": "{0}的我的「世界」"
   },
   {
     "wordingKey": "MSG_OTHER_UNIT",
@@ -2504,6 +3100,10 @@
     "value": "由目前為舉辦時間外，將回到段位配對的首頁。"
   },
   {
+    "wordingKey": "MSG_OVER_BOOST_STAMINA_RECOVER",
+    "value": "已達上限。"
+  },
+  {
     "wordingKey": "MSG_OVER_RARITY_3_ONCE",
     "value": "必中1名★3以上！"
   },
@@ -2514,6 +3114,14 @@
   {
     "wordingKey": "MSG_OVER_RECOVER",
     "value": "LIVE BONUS的上限為999"
+  },
+  {
+    "wordingKey": "MSG_OWNER_JOIN_NOTICE",
+    "value": "{0}\n回去我的「世界」了。"
+  },
+  {
+    "wordingKey": "MSG_OWNER_LEAVE_NOTICE",
+    "value": "{0}\n已退出。{1}秒後\n回到自己的我的「世界」。"
   },
   {
     "wordingKey": "MSG_PAID_LIVE_DISC",
@@ -2564,6 +3172,10 @@
     "value": "有尚未付款完成的商品。"
   },
   {
+    "wordingKey": "MSG_PHOTOSHOT_UNSAVE",
+    "value": "將刪除拍下的相片回到拍攝前。\n確定嗎？"
+  },
+  {
     "wordingKey": "MSG_PIN_THE_LEADER",
     "value": "將隊長設為固定"
   },
@@ -2576,8 +3188,32 @@
     "value": "距離決定起始等級\n還剩<color=#FF5599>{0}<\/color>次配對"
   },
   {
+    "wordingKey": "MSG_PLAYER_KICKOUT_AND_BLOCK_RESULT",
+    "value": "已將此玩家封鎖並從我的「世界」踢除。"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_KICKOUT_RESULT",
+    "value": "已將此玩家從我的「世界」踢除。"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_LEAVE_NOTICE",
+    "value": "{0}已從\n我的「世界」退出。"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_VISIT_NOTICE",
+    "value": "{0}\n來我的「世界」玩了。"
+  },
+  {
     "wordingKey": "MSG_PLEASE_SELECT_REWARD",
     "value": "請選擇1個想要領取的報酬。"
+  },
+  {
+    "wordingKey": "MSG_POSSESSION_OVER_LIMIT",
+    "value": "由於已達道具持有數上限，\n因此無法領取道具。"
+  },
+  {
+    "wordingKey": "MSG_POSTED_COMPETITION",
+    "value": "已完成上傳。"
   },
   {
     "wordingKey": "MSG_PRACTICE_EXECUTE",
@@ -2760,6 +3396,10 @@
     "value": "正在查詢會場的空位狀況……"
   },
   {
+    "wordingKey": "MSG_RECEIVED_CONVERT_REWARD",
+    "value": "已領取轉換的道具。"
+  },
+  {
     "wordingKey": "MSG_RECEIVED_COSTUME",
     "value": "已獲得。"
   },
@@ -2774,6 +3414,10 @@
   {
     "wordingKey": "MSG_RECEIVED_LOGIN_BONUS",
     "value": "獲得了報酬。"
+  },
+  {
+    "wordingKey": "MSG_RECEIVED_PARTIAL_REWARD_DUE_TO_POSSESSION_LIMIT",
+    "value": "由於已達道具持有數上限，因此無法領取部分道具。"
   },
   {
     "wordingKey": "MSG_RECEIVED_PRESENT_MUSIC",
@@ -2856,12 +3500,24 @@
     "value": "養成中的「技能升級」已解鎖。\n要立刻前往該頁面嗎？"
   },
   {
+    "wordingKey": "MSG_RELEASING_AT_MYSEKAI_COLORFUL_PASS_PURCHASE",
+    "value": "購買世界通行證後解鎖"
+  },
+  {
+    "wordingKey": "MSG_RELEASING_AT_MYSEKAI_MISSION_PASS_PURCHASE",
+    "value": "購買我的「世界」\n任務通行證後解鎖"
+  },
+  {
     "wordingKey": "MSG_RELEASING_AT_PREMIUM_MISSION_PATH_PURCHASE",
     "value": "購買高階任務通行證後\n解鎖"
   },
   {
     "wordingKey": "MSG_REMING_COUNT_SIZE_FORMAT",
     "value": "還剩<size={0}>{1}次<\/size>"
+  },
+  {
+    "wordingKey": "MSG_REPAIR_TOOL",
+    "value": "沒有工具。\n請到工作台製作。"
   },
   {
     "wordingKey": "MSG_REPLACE_CUT_IN_NOTE",
@@ -2984,8 +3640,20 @@
     "value": "配對中……"
   },
   {
+    "wordingKey": "MSG_SERIAL_CODE_COSTUME_GET",
+    "value": "獲得了演出服裝。"
+  },
+  {
+    "wordingKey": "MSG_SERIAL_CODE_STAMP_RALLY_COSTUME_GET",
+    "value": "獲得了演出服裝。"
+  },
+  {
     "wordingKey": "MSG_SETTABLE_FROM_OPTION",
     "value": "※亦可從選項中設定。"
+  },
+  {
+    "wordingKey": "MSG_SET_DISCOUNT_ANNOTATION",
+    "value": "※正在使用任務通行證組合購買優惠。"
   },
   {
     "wordingKey": "MSG_SHOP_AGE_CONFIRM",
@@ -3105,11 +3773,15 @@
   },
   {
     "wordingKey": "MSG_SIDE_STORY_RELEASE_CONDITION",
-    "value": "獲得「[{0}]」後解鎖"
+    "value": "獲得「{0}」後解鎖"
   },
   {
     "wordingKey": "MSG_SINGER_NAME",
     "value": "Vo. {0}"
+  },
+  {
+    "wordingKey": "MSG_SKETCH_WARNING_OWNER_EDIT_MODE",
+    "value": "屋主正在編輯，無法素描。"
   },
   {
     "wordingKey": "MSG_SKILL_PRACTICE_EXECUTE",
@@ -3122,6 +3794,10 @@
   {
     "wordingKey": "MSG_SKILL_PRACTICE_NOTHING",
     "value": "沒有可進行技能練習的成員。"
+  },
+  {
+    "wordingKey": "MSG_SKIP_SCENE_CONFIRM",
+    "value": "要跳過這一幕嗎？"
   },
   {
     "wordingKey": "MSG_SPECIAL_TRAINING_1_CONFIRM",
@@ -3224,6 +3900,14 @@
     "value": "After event無法移動"
   },
   {
+    "wordingKey": "MSG_STREAMINGLIVE_AFTEREVENT_STATE_NOTICE",
+    "value": "在往後的公演中，將和AFTER EVENT一樣無法移動。"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_ENTER_FREE_CHARGE",
+    "value": "本公演無須公演門票即可觀賞LIVE到最後。\n要入場嗎？"
+  },
+  {
     "wordingKey": "MSG_STREAMING_LIVE_FINISH",
     "value": "公演結束"
   },
@@ -3308,8 +3992,24 @@
     "value": "返回標題畫面"
   },
   {
+    "wordingKey": "MSG_TRADE_MACHINE_LEVEL_UP",
+    "value": "已提升轉換器的等級"
+  },
+  {
+    "wordingKey": "MSG_TREASURE_BOX_NOTICE",
+    "value": "寶箱出現在\n{0}！"
+  },
+  {
     "wordingKey": "MSG_TROUBLE_MULTILIVE",
     "value": "因偵測到您的行為對其他玩家造成困擾，\n本次LIVE結果無效。\n\n若反覆偵測到您有不適當的行為，\n您的帳號將有可能被停權。"
+  },
+  {
+    "wordingKey": "MSG_TUTORIAL_HARVEST_LIMIT",
+    "value": "已充分獲得可從此處採集的素材。\n※若未達成任務，有可能沒有取得掉落的素材。"
+  },
+  {
+    "wordingKey": "MSG_TUTORIAL_NEXT_CONFIRM",
+    "value": "即將進入下一階段的教學，確定嗎？"
   },
   {
     "wordingKey": "MSG_TUTORIAL_QUESTION1",
@@ -3322,6 +4022,10 @@
   {
     "wordingKey": "MSG_TUTORIAL_QUESTION3",
     "value": "看見的景色是……"
+  },
+  {
+    "wordingKey": "MSG_TUTORIAL_REQUIRE_RECORD",
+    "value": "沒有唱片無法使用。"
   },
   {
     "wordingKey": "MSG_TUTORIAL_UNIT_CONFIRM_BODY",
@@ -3340,12 +4044,20 @@
     "value": "尚未領取報酬。"
   },
   {
+    "wordingKey": "MSG_UNIT_NAME_SETTING_HOLDER",
+    "value": " "
+  },
+  {
     "wordingKey": "MSG_UNLOCK_AREAITEM",
     "value": "「{0}」區域的店鋪已進貨。"
   },
   {
     "wordingKey": "MSG_UNLOCK_EVENTSTORY_BODY",
     "value": "已解鎖活動劇情\n第{0}章「{1}」。"
+  },
+  {
+    "wordingKey": "MSG_UNLOCK_FROM_BUY_MYSEKAI_MISSION_PASS",
+    "value": "購買我的「世界」任務通行證後解鎖"
   },
   {
     "wordingKey": "MSG_UNLOCK_FROM_BUY_PREMIUM",
@@ -3390,6 +4102,14 @@
   {
     "wordingKey": "MSG_USE_VSYNC_DIALOG",
     "value": "根據裝置性能自動調整LIVE的流暢度(FPS)。\n\n<color=#FF3366>※此選項為預先發布功能。\n若該功能未正常運作，\n請將設定變更為ON，並透過「聯絡我們」進行回報。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_VALID_SET_UP_IN_FLOOR",
+    "value": "可布置於地板"
+  },
+  {
+    "wordingKey": "MSG_VALID_SET_UP_IN_WALL",
+    "value": "可布置於牆壁"
   },
   {
     "wordingKey": "MSG_VETERAN_ROOM_DESCRIPTION",
@@ -3464,6 +4184,10 @@
     "value": "距離開演還剩{0}分鐘"
   },
   {
+    "wordingKey": "MSG_VISIT_CHARACTER",
+    "value": "{1}\n從{0}來玩了。"
+  },
+  {
     "wordingKey": "MSG_VL_MESSAGE_CURRENCY_NOT_ENOUGH",
     "value": "因使用的數量不足，無法送出"
   },
@@ -3500,6 +4224,14 @@
     "value": "此段劇情後，\n曉山瑞希將暫時不會出現在「現實世界」。\n確定要觀看嗎？"
   },
   {
+    "wordingKey": "MSG_WARNING_SKETCH_OTHER_PLAYER",
+    "value": "其他玩家正在素描，無法編輯。"
+  },
+  {
+    "wordingKey": "MSG_WARNING_USE_FIXTURE_OTHER_PLAYER",
+    "value": "其他玩家正在使用家具，無法編輯。"
+  },
+  {
     "wordingKey": "MSG_WARN_ALREADY_USE_STREAMING_LIVE_TICKET",
     "value": "※已使用「{0}」，因此無法消耗。"
   },
@@ -3534,6 +4266,10 @@
   {
     "wordingKey": "MSG_WEAR_COSTUME_RESULT",
     "value": "已更換演出服裝。"
+  },
+  {
+    "wordingKey": "MSG_WEAR_OUT_TOOL",
+    "value": "工具即將損壞。"
   },
   {
     "wordingKey": "MSG_WEB_LINK_BANNER_CONFIRM_DIALOG_BODY",
@@ -3633,7 +4369,15 @@
   },
   {
     "wordingKey": "MUTE_DIALOG_TEXT",
-    "value": "您已被禁言，目前無法發送訊息，請於%秒後重試。"
+    "value": "您已被禁言，目前無法發送訊息，請於%s秒後重試。"
+  },
+  {
+    "wordingKey": "MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_CONFIRM",
+    "value": "將刪除儲存在我的「世界」額外預置欄位中的內容，\n並進入我的「世界」遊玩。\n確定嗎？"
+  },
+  {
+    "wordingKey": "MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_DELETE",
+    "value": "刪除並前往\n我的「世界」"
   },
   {
     "wordingKey": "NORMAL",
@@ -3733,7 +4477,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_BOOST_LIVE_RANK",
-    "value": "粉絲數        倍"
+    "value": "粉絲數       倍"
   },
   {
     "wordingKey": "SUPPORT_EVENT_GRAND_TOTAL",
@@ -3808,6 +4552,10 @@
     "value": "關於大賽模式"
   },
   {
+    "wordingKey": "TOTAL_POSSESSION_NUMBER",
+    "value": "持有"
+  },
+  {
     "wordingKey": "UPGRADE_1_13_CHALLENGE_STAGE_REWARD",
     "value": "此為調整挑戰STAGE經驗值的補償。"
   },
@@ -3868,12 +4616,20 @@
     "value": "解鎖節奏遊戲中相互對話的原創語音\n{0}×{1}"
   },
   {
+    "wordingKey": "WARD_EXCHANGE_ANOTHER_VOCAL",
+    "value": "在Another Vocal商店交換"
+  },
+  {
     "wordingKey": "WORDING_CUSTOMPROFILE_CLOSE",
     "value": "自製個人資料功能維護中，請耐心等待。"
   },
   {
     "wordingKey": "WORD_\bEXCHANGE_NUM",
     "value": "交換數量"
+  },
+  {
+    "wordingKey": "WORD_  REQUIRED_MATERIAL",
+    "value": "必要素材"
   },
   {
     "wordingKey": "WORD_10_SONGS",
@@ -3968,6 +4724,10 @@
     "value": "變更飾品"
   },
   {
+    "wordingKey": "WORD_ACCESSORIES_FURNITURE",
+    "value": "小型家具"
+  },
+  {
     "wordingKey": "WORD_ACCESSORY",
     "value": "飾品"
   },
@@ -4014,6 +4774,10 @@
   {
     "wordingKey": "WORD_ACTION",
     "value": "動作"
+  },
+  {
+    "wordingKey": "WORD_ACTION_SET_RELEASE_FORMAT",
+    "value": "已解鎖「{0}」的新區域對話。"
   },
   {
     "wordingKey": "WORD_ACTIVATED_W_SKILL",
@@ -4100,6 +4864,10 @@
     "value": "{\n \"title\": \"獎勵詳情\",\n \"list\" : [ \n {\n \"head\" : \" \",\n \"desc\" : \"1天限定2次，觀看完廣告後，可獲得以下一項獎勵。\n\n・★4成員×1\n・★3成員×1\n・★2成員×1\n・LIVE BONUS飲料(小)×2\n・可愛寶石×30、帥氣寶石×30、純真寶石×30、快樂寶石×30、神秘寶石×30\n・奇蹟寶石×20\n・魔法布×50\n・魔法線×5\n・不可思議的種子×5\n\n※可觀看廣告的次數計算會在每日4點重置。\n※獎勵內容若有變更，恕不另行通知。\n\n■關於成員\n對象成員如以下規範。\n※不包含期間限定、七彩慶典限定、團體活動限定、生日限定、紀念日限定、聯動限定成員。\n\n◯★4成員\n★4[串連心意的星光碎片] 星乃一歌\n★4[傳遞出去的心願] 天馬咲希\n★4[因為是重要的朋友] 望月穗波\n★4[昔日懷抱的願望] 日野森志步\n★4[Let's fan meeting!] 花里實乃理\n★4[在「最喜歡」的面前] 桐谷遙\n★4[全力！Happy everyday！] 桃井愛莉\n★4[不是其他人而是「這個我」] 日野森雫\n★4[內心力量的覺醒] 小豆澤心羽\n★4[明明是夥伴] 白石杏\n★4[獲得的激情] 東雲彰人\n★4[Outdoor cooking！] 青柳冬彌\n★4[選擇的前方] 天馬司\n★4[笑夢隊員調查中！] 鳳笑夢\n★4[放煙火慶功] 草薙寧寧\n★4[昔日的憧憬] 神代類\n★4[發出微光的厄爾畢斯] 宵崎奏\n★4[溫暖的愛情記憶] 朝比奈真冬\n★4[痛苦也好，慘澹也罷] 東雲繪名\n★4[已察覺的心意] 曉山瑞希\n★4[強者的笑容] 初音未來\n★4[俏皮的旋律] 鏡音鈴\n★4[舞台的王子] 鏡音連\n★4[河童喜歡的東西？] 巡音流歌\n★4[必要的距離] MEIKO\n★4[用音樂傾訴的合奏] KAITO\n\n◯★3成員\n★3[仰望的遠方] 星乃一歌\n★3[想做的100件事] 天馬咲希\n★3[明明味道沒有變] 望月穗波\n★3[殘留在心中的旋律] 日野森志步\n★3[LIVE前一晚的決心] 花里實乃理\n★3[不是偶像的我] 桐谷遙\n★3[支持夢想！] 桃井愛莉\n★3[在華麗的現場] 日野森雫\n★3[在「世界」裡小憩片刻] 小豆澤心羽\n★3[火熱幫忙中！] 白石杏\n★3[滲出的焦躁] 東雲彰人\n★3[斷絕的情誼] 青柳冬彌\n★3[來自玩偶裝的招呼] 天馬司\n★3[Let's作戰會議！] 鳳笑夢\n★3[從舞台後方操作中] 草薙寧寧\n★3[神出鬼沒的表演者] 神代類\n★3[螢幕的另一邊……] 宵崎奏\n★3[「乖孩子」的我] 朝比奈真冬\n★3[最棒的角度] 東雲繪名\n★3[無法退讓的堅持] 曉山瑞希\n★3[守護的眼神] 初音未來\n★3[閃耀的舞台] 鏡音鈴\n★3[困難的「和好」] 鏡音連\n★3[引導的手] 巡音流歌\n★3[嚴選的一杯] MEIKO\n★3[劇團成員招募中！] KAITO\n★3[好好休息] 望月穗波\n★3[嬉戲的片刻] 曉山瑞希\n★3[坐上熊貓先生] 鳳笑夢\n★3[好開心好開心的兩人三腳？] 朝比奈真冬\n★3[我想成為的是] 日野森雫\n★3[平靜的咖啡時光] 青柳冬彌\n★3[動物棉花糖♪] 草薙寧寧\n★3[安眠之夜] 神代類\n★3[最重要的心願] 天馬咲希\n★3[默默支持] 天馬咲希\n★3[偶像的責任] 桐谷遙\n★3[憂鬱的夜晚] 小豆澤心羽\n★3[我來為你介紹！！] 天馬司\n★3[尋找相遇的意義] 鏡音鈴\n★3[用最擅長的方式！] 鏡音連\n★3[快樂的女兒節♪] 巡音流歌\n★3[身為偶像的守則] 巡音流歌\n★3[擴展的朋友圈] 花里實乃理\n★3[夢幻與美麗] 宵崎奏\n★3[心願呀，傳達出去吧] 星乃一歌\n★3[想一起成長] 小豆澤心羽\n★3[無法停止的構想與失控] 神代類\n★3[適合紅色的新面孔！] MEIKO\n★3[緊握幸福] 東雲彰人\n★3[Smile night time!] 鏡音鈴\n★3[拉住迷失的手] 曉山瑞希\n★3[為夥伴著想這件事] 望月穗波\n★3[對夥伴的敬畏] 青柳冬彌\n★3[太狡猾了吧！] 桃井愛莉\n★3[大大的貝殼在哪裡呢？] 初音未來\n★3[秘密交涉] 日野森雫\n★3[團長的休假日] KAITO\n★3[在頂樓的談話] 初音未來\n★3[檢討會] 日野森志步\n★3[取消的訊息] 東雲繪名\n★3[音樂讓我們看見的世界] 宵崎奏\n★3[明明是我的搭擋] 鏡音連\n★3[軍官的危機] 天馬司\n★3[正確的天秤] MEIKO\n★3[新歌的方向性] 星乃一歌\n★3[期待的最高潮！] 白石杏\n★3[一如往常的拉麵] 宵崎奏\n★3[偶像兼經紀人！？] KAITO\n★3[自由人登場！] 巡音流歌\n★3[歌牌界的頂尖偶像？] 初音未來\n★3[還以為要死掉了] 草薙寧寧\n★3[為了做出相符的東西] 東雲繪名\n★3[Idol on cake♪] 鏡音鈴\n★3[現在就開店！] 白石杏\n★3[明日之星的教導] 天馬咲希\n★3[飽含「謝謝」] 日野森志步\n★3[為了表現出「我們」」] 桐谷遙\n★3[被想起的色彩] 朝比奈真冬\n★3[試吃春天的菜單] MEIKO\n★3[笑容作戰大成功！] 鳳笑夢\n★3[今後的發展] 日野森志步\n★3[搔癢癢怎麼樣呢？] 初音未來\n★3[沒空管那些了！] 東雲彰人\n★3[肚子很誠實] 青柳冬彌\n★3[被可愛迷住] 桃井愛莉\n★3[用拍起來最美的角度] 東雲繪名\n★3[挑戰的心得！] MEIKO\n★3[烈日當空的加油] 巡音流歌\n★3[喝檸檬汁小憩♪] 小豆澤心羽\n★3[面對歌曲這件事] KAITO\n★3[和玩偶一起] 東雲彰人\n★3[混合心願的果昔] 花里實乃理\n★3[因為想做出好的作品] 東雲繪名\n★3[無法說出口的話語] 鏡音鈴\n★3[我的風格，帥氣的表現！] 鏡音連\n★3[語感] 白石杏\n★3[為了讓大家認識我們] 望月穗波\n★3[興奮地開箱周邊♪] 日野森雫\n★3[無精打采～] 初音未來\n★3[閃耀的洪水！？] 桐谷遙\n★3[把自己託付給溫柔] 天馬咲希\n★3[也問問弟弟吧～！] 曉山瑞希\n★3[深夜的MC特訓] 花里實乃理\n★3[聖誕節就要到了！] 小豆澤心羽\n★3[第一次的茶道] 桃井愛莉\n★3[兜風GOGO！] 草薙寧寧\n★3[Never give up] 天馬司\n★3[學姐的目光] 初音未來\n★3[微笑的前方] 望月穗波\n★3[回到的這個地方] 桐谷遙\n★3[完美的圖書館管理員] 青柳冬彌\n★3[擅長料理嗎？] 初音未來\n★3[祕密武器！鳳凰機器人] 神代類\n★3[激情的體現] KAITO\n★3[為了接近金絲雀] 草薙寧寧\n★3[期待已久的訊息] 星乃一歌\n★3[相信不會消失的心意] KAITO\n★3[灌注在蝴蝶結中的溫柔] 鏡音連\n★3[覺得自己是祕密偶像] 天馬咲希\n★3[夢想之後] 鳳笑夢\n★3[作戰成功，擊掌！] 鏡音鈴\n★3[消失的活路] 東雲彰人\n★3[中午的學習會] 日野森雫\n★3[休息的時間] 朝比奈真冬\n★3[期待已久的通知] 曉山瑞希\n★3[和支持我的大家一起] 望月穗波\n★3[活用美味的三個層次] 花里實乃理\n★3[偶爾也要有這樣的日子] 白石杏\n★3[深夜的糾葛] 神代類\n★3[哪怕只是一點點] MEIKO\n★3[甜蜜～的回憶] 鳳笑夢\n★3[交給我！] 天馬司\n\n◯★2成員\n★2[Leo\/need] 星乃一歌\n★2[Leo\/need] 天馬咲希\n★2[Leo\/need] 望月穗波\n★2[Leo\/need] 日野森志步\n★2[MORE MORE JUMP！] 花里實乃理\n★2[MORE MORE JUMP！] 桐谷遙\n★2[MORE MORE JUMP！] 桃井愛莉\n★2[MORE MORE JUMP！] 日野森雫\n★2[Vivid BAD SQUAD] 小豆澤心羽\n★2[Vivid BAD SQUAD] 白石杏\n★2[Vivid BAD SQUAD] 東雲彰人\n★2[Vivid BAD SQUAD] 青柳冬彌\n★2[Wonderlands×Showtime] 天馬司\n★2[Wonderlands×Showtime] 鳳笑夢\n★2[Wonderlands×Showtime] 草薙寧寧\n★2[Wonderlands×Showtime] 神代類\n★2[25點，Nightcord見。] 宵崎奏\n★2[25點，Nightcord見。] 朝比奈真冬\n★2[25點，Nightcord見。] 東雲繪名\n★2[25點，Nightcord見。] 曉山瑞希\n★2[教室的「世界」] 初音未來\n★2[舞台的「世界」] 初音未來\n★2[街頭的「世界」] 初音未來\n★2[奇幻樂園的「世界」] 初音未來\n★2[空無一人的「世界」] 初音未來\n★2[舞台的「世界」] 鏡音鈴\n★2[街頭的「世界」] 鏡音連\n★2[教室的「世界」] 巡音流歌\n★2[街頭的「世界」] MEIKO\n★2[奇幻樂園的「世界」] KAITO\n★2[星星的步伐] 星乃一歌\n★2[傀儡娃娃禮服] 東雲繪名\n★2[奇幻魔杖] 草薙寧寧\n★2[I'm運動會活動幹部！] 天馬咲希\n★2[夏波帝藍] 桐谷遙\n★2[溫暖的眼神] MEIKO\n★2[意外的才能？] 青柳冬彌\n★2[閃亮馴鹿髮箍☆] 鳳笑夢\n★2[全員出席的新年] 天馬司\n★2[各式各樣的溫柔] 日野森志步\n★2[正向之花] 花里實乃理\n★2[感傷的旋律] 鏡音連\n★2[瘋狂怪獸] 神代類\n★2[Trust You] 曉山瑞希\n★2[氣球發送員] 天馬司\n★2[雖然不該這麼做……] 望月穗波\n★2[為了後進能做的事] 桃井愛莉\n★2[與妳共度這個春天……] 宵崎奏\n★2[在廢校的相遇] 朝比奈真冬\n★2[答えを探して] MEIKO\n★2[尋找答案] 青柳冬彌\n★2[妖精提燈♪] 巡音流歌\n★2[Perfect sweets] 桃井愛莉\n★2[臨時加入的舞者] 白石杏\n★2[柴郡貓與笑臉] KAITO\n★2[希望你能說出來] 東雲繪名\n★2[等待天晴的雨傘] 星乃一歌\n★2[跳出「世界」] 鏡音鈴\n★2[仲夏夜慶典] 曉山瑞希\n★2[充滿心願的海玻璃] 小豆澤心羽\n★2[冒失的信使] 花里實乃理\n★2[想要守護的笑容] 鳳笑夢\n★2[抬頭看到的月亮是同一個] 朝比奈真冬\n★2[餅乾應援] 天馬咲希\n★2[笨拙的下午茶] 宵崎奏\n★2[自豪的選擇] 東雲彰人\n★2[聰明女孩] 鏡音鈴\n★2[引導的拐杖] 朝比奈真冬\n★2[與心願碰撞的堅強] 鏡音連\n★2[鳳凰樂園的夜晚約會] 日野森雫\n★2[為了重要的兒時玩伴] 望月穗波\n★2[Present for you！] 桐谷遙\n★2[溫暖的露營風格] 小豆澤心羽\n★2[不管是音樂的道路還是書法的道路] 日野森志步\n★2[Rainbow☆Cast] 神代類\n★2[守護心願的開端] 初音未來\n★2[Lady of Valentine] 日野森雫\n★2[Towards Legend] 東雲彰人\n★2[Cool riders lady] 望月穗波\n★2[純真的隨侍] 鏡音連\n★2[神秘之心・女巫] 桃井愛莉\n★2[只有三人的夜晚] 曉山瑞希\n★2[bloomy idol♪] 鏡音鈴\n★2[挑戰代演！] 初音未來\n★2[準確的建議] 巡音流歌\n★2[完成報告！] 日野森雫\n★2[運動會的舞台後方] 東雲繪名\n★2[一點點的後悔] 白石杏\n★2[美麗的伴娘] 小豆澤心羽\n★2[不放開那雙手] 宵崎奏\n★2[生存挑戰！] 神代類\n★2[得主動才行] 星乃一歌\n★2[感受到的想法的去向] 青柳冬彌\n★2[直球雪恥] 日野森志步\n★2[未來未來☆射擊手] 初音未來\n★2[夏天！集訓！泳衣！] 桐谷遙\n★2[「等待」這個選擇] 巡音流歌\n★2[相信的力量] 望月穗波\n★2[引導著相遇] 宵崎奏\n★2[各自的假日過法] 東雲彰人\n★2[可靠的前輩們] KAITO\n★2[一起演奏練習曲♪] 鳳笑夢\n★2[Let's enjoy校慶♪] 鏡音鈴\n★2[用演奏推大家一把] KAITO\n★2[各自產生關聯的方式] 鏡音連\n★2[緊盯著前方] 日野森雫\n★2[限定菜單問券！] 白石杏\n★2[Leo\/need一起玩雪] 日野森志步\n★2[旅途中也是重要的過程] 東雲彰人\n★2[能夠自己學到的事情] 草薙寧寧\n★2[緊張的感謝訊息] 星乃一歌\n★2[把想傳達給出的想法具體化] 鏡音連\n★2[明明想要更加地支持你] MEIKO\n★2[粗糙，但很寬闊響亮] 巡音流歌\n★2[慢慢地、用心地] 天馬咲希\n★2[溫柔是力量的泉源] MEIKO\n★2[無法阻擋的心意] 朝比奈真冬\n★2[技術專家] 日野森志步\n★2[在友情中放鬆] 花里實乃理\n★2[遺憾、後悔和感謝] 東雲繪名\n★2[就算分開，還是會默默推一把] 草薙寧寧\n★2[一步一腳印] 天馬司\n★2[想念傳聞中的女孩] 曉山瑞希\n★2[最後的練習] 小豆澤心羽\n★2[驚喜的背後] 桐谷遙\n★2[因為我也很期待啊] 桃井愛莉\n★2[逐漸高漲的恐懼] 巡音流歌\n★2[大家集合～！感謝LIVE！] 天馬咲希\n★2[和姊姊一起☆] 鳳笑夢\n★2[就是要光彩奪目] 初音未來\n★2[感謝的問候] 天馬司\n★2[祕密的想法] KAITO\n★2[給重要的學妹很～～多的愛] 桃井愛莉\n★2[熬夜慢跑！] 東雲彰人\"\n        },\n    ] \n}"
   },
   {
+    "wordingKey": "WORD_AFTER",
+    "value": "After"
+  },
+  {
     "wordingKey": "WORD_AFTER_EVENT",
     "value": "After event"
   },
@@ -4154,6 +4922,10 @@
   {
     "wordingKey": "WORD_ALREADY_COPIED",
     "value": "已複製"
+  },
+  {
+    "wordingKey": "WORD_ALREADY_CREATED_COSTUME",
+    "value": "已製作"
   },
   {
     "wordingKey": "WORD_ALREADY_DOWNLOADED",
@@ -4214,6 +4986,14 @@
   {
     "wordingKey": "WORD_API_ERROR",
     "value": "連線錯誤"
+  },
+  {
+    "wordingKey": "WORD_APPEAL_DISCOUNT",
+    "value": "優惠30港幣"
+  },
+  {
+    "wordingKey": "WORD_APPEAL_DISCOUNT_TW",
+    "value": "優惠140台幣"
   },
   {
     "wordingKey": "WORD_APPEAR",
@@ -4364,6 +5144,14 @@
     "value": "造型服裝\n飾品"
   },
   {
+    "wordingKey": "WORD_AVATOR_PENLIGHT_INFO",
+    "value": "應援棒的設定只會反映在虛擬LIVE中。"
+  },
+  {
+    "wordingKey": "WORD_AXE",
+    "value": "斧頭"
+  },
+  {
     "wordingKey": "WORD_A_PARENTHESES_B_FORMAT",
     "value": "{0}（{1}）"
   },
@@ -4380,12 +5168,24 @@
     "value": "背景"
   },
   {
+    "wordingKey": "WORD_BACK_NUMBER",
+    "value": "各期回顧"
+  },
+  {
     "wordingKey": "WORD_BANNER_URL_DIALOG_TITLE",
     "value": "確定"
   },
   {
     "wordingKey": "WORD_BATTERY_ALERT",
     "value": "低電量警告"
+  },
+  {
+    "wordingKey": "WORD_BED",
+    "value": "床"
+  },
+  {
+    "wordingKey": "WORD_BEFORE",
+    "value": "Before"
   },
   {
     "wordingKey": "WORD_BEGINNER_MISSION",
@@ -4417,15 +5217,15 @@
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_3",
-    "value": "購買<color=#FF5599>高階任務通行證（進階版）<\/color>能立即獲得大量LIVE P，並領取限定服裝；\n<color=#FF5599>高階任務通行證（特殊版）<\/color>在LIVE P達到4900點後即可用免費水晶購買。\n購買後也能立即解鎖當月LIVE高階任務。"
+    "value": "購買<color=#FF5599>高階任務通行證（進階版）<\/color>能立即獲得大量LIVE P，並領取限定服裝；\n<color=#FF5599>高階任務通行證（特殊版）<\/color>在LIVE P達到4900點後即可用免費水晶購買。\n購買後也能立即解鎖當月LIVE高階任務。\n購買<color=#FF5599>高階任務通行證<\/color>後，也可透過購買<color=#FF5599>高階任務通行證（升級包）<\/color>，升級為<color=#FF5599>高階任務通行證（進階版）<\/color>。\n同時購買<color=#FF5599>我的「世界」任務通行證<\/color>與<color=#FF5599>高階任務通行證<\/color>，可獲得優惠折扣。若已單獨購買<color=#FF5599>高階任務通行證<\/color>或<color=#FF5599>高階任務通行證（進階版）<\/color>，然後在當月內再購買<color=#FF5599>我的「世界」任務通行證<\/color>，即可享購入優惠；若已單獨購買<color=#FF5599>我的「世界」任務通行證<\/color>，則在當月內可選<color=#FF5599>高階任務通行證<\/color>或<color=#FF5599>高階任務通行證（進階版）<\/color>其中一個通行證來享受購買優惠。"
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_4",
-    "value": "三種<color=#FF5599>高階任務通行證<\/color>的價格如下："
+    "value": "各種通行證價格如下："
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_CONTENT_5",
-    "value": "<color=#FF5599>高階任務通行證<\/color>：{0}\n<color=#FF5599>高階任務通行證（進階版）<\/color>：{1}\n<color=#FF5599>高階任務通行證（特殊版）<\/color>：免費水晶×3900"
+    "value": "<color=#FF5599>高階任務通行證<\/color>：{0}\n<color=#FF5599>高階任務通行證（進階版）<\/color>：{1}\n<color=#FF5599>高階任務通行證（升級包）<\/color>：{2}\n<color=#FF5599>我的「世界」任務通行證<\/color>：{3}\n<color=#FF5599>我的「世界」任務通行證<\/color>+<color=#FF5599>高階任務通行證<\/color>：{4}\n<color=#FF5599>高階任務通行證（特殊版）<\/color>：免費水晶×3900\n※<color=#FF5599>我的「世界」任務通行證<\/color>及相關優惠將於2025\/10上線。\n※限定演出服裝今後有可能會再登場。"
   },
   {
     "wordingKey": "WORD_BETTLEPASS_COMMODITY_REWARD",
@@ -4470,6 +5270,10 @@
   {
     "wordingKey": "WORD_BLOCKED_USER",
     "value": "封鎖玩家"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_AND_KICK",
+    "value": "封鎖後踢除"
   },
   {
     "wordingKey": "WORD_BLOCK_LIST",
@@ -4628,6 +5432,14 @@
     "value": "演出服裝"
   },
   {
+    "wordingKey": "WORD_BONUS_DETAIL_CUSTOM_PROFILE",
+    "value": "自製個人資料素材"
+  },
+  {
+    "wordingKey": "WORD_BONUS_DETAIL_STAMP",
+    "value": "貼圖"
+  },
+  {
     "wordingKey": "WORD_BONUS_EVENT_LIMIT_MISSION",
     "value": "<color=#dfa7ff>限<\/color>時任務"
   },
@@ -4686,6 +5498,10 @@
   {
     "wordingKey": "WORD_BONUS_POINT_LIFE_0_FORMAT",
     "value": "體力歸零{0}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_TARGET",
+    "value": "獎勵對象"
   },
   {
     "wordingKey": "WORD_BOOKMARK",
@@ -4760,6 +5576,10 @@
     "value": "重要資訊"
   },
   {
+    "wordingKey": "WORD_BUILDING",
+    "value": "展示道具"
+  },
+  {
     "wordingKey": "WORD_BULK_DOWNLOAD",
     "value": "全部下載"
   },
@@ -4800,6 +5620,42 @@
     "value": "取消"
   },
   {
+    "wordingKey": "WORD_CANCEL_INVITATION",
+    "value": "取消寄送"
+  },
+  {
+    "wordingKey": "WORD_CANVAS",
+    "value": "無框畫"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_BONUS",
+    "value": "無框畫BONUS"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_BONUS_DESCRIPTION",
+    "value": "「{0} {1}」的表現力提升<color=#FF5588>{2}<\/color>。（每個成員最多一次）"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_BONUS_DIALOG_DESCRIPTION",
+    "value": "在我的「世界」繪製任一「無框畫」，提升表現力<color=#ff5599>{0}<\/color>。"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_FINISHED_FILTER",
+    "value": "已製作"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_FINISH_FILTER",
+    "value": "無框畫製作情況"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_MENBER_CARD_FINISH",
+    "value": "因已製作，並無變化"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_NOT_FINISHED_FILTER",
+    "value": "未製作"
+  },
+  {
     "wordingKey": "WORD_CAN_ARCHIVE_EVENT_STORY_TIME_SORT",
     "value": "舉辦順序"
   },
@@ -4810,6 +5666,14 @@
   {
     "wordingKey": "WORD_CAN_GET",
     "value": "可獲得"
+  },
+  {
+    "wordingKey": "WORD_CAN_MAKE_COSTUME",
+    "value": "可製作"
+  },
+  {
+    "wordingKey": "WORD_CAN_NOT_RECYCLED",
+    "value": "不可回收"
   },
   {
     "wordingKey": "WORD_CAPACITY_SETTING",
@@ -4864,6 +5728,14 @@
     "value": "成員種類"
   },
   {
+    "wordingKey": "WORD_CARPET",
+    "value": "地毯"
+  },
+  {
+    "wordingKey": "WORD_CATEGORY_ORDER",
+    "value": "依種類排列"
+  },
+  {
     "wordingKey": "WORD_CCU_BUSY",
     "value": "僅剩一點空位"
   },
@@ -4878,6 +5750,10 @@
   {
     "wordingKey": "WORD_CG",
     "value": "社群規範"
+  },
+  {
+    "wordingKey": "WORD_CHAIR",
+    "value": "椅子"
   },
   {
     "wordingKey": "WORD_CHALLENGE",
@@ -5008,8 +5884,16 @@
     "value": "[{0}]"
   },
   {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_FIXTURE_TALK",
+    "value": "家具"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_GACHA",
     "value": "招募"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_GENERAL_TALK",
+    "value": "一般"
   },
   {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_LIVE",
@@ -5132,6 +6016,10 @@
     "value": "角色等級EXP+{0}"
   },
   {
+    "wordingKey": "WORD_CHARACTER_SEARCH",
+    "value": "搜尋角色反應"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_SELECT",
     "value": "選擇角色"
   },
@@ -5232,8 +6120,20 @@
     "value": "應援排行"
   },
   {
+    "wordingKey": "WORD_CHEST_FURNITURE_NUM",
+    "value": "持有家具總數"
+  },
+  {
+    "wordingKey": "WORD_CHEST_MATERIAL_NUM",
+    "value": "持有素材總數"
+  },
+  {
     "wordingKey": "WORD_CLASS",
     "value": "前幾名{0}"
+  },
+  {
+    "wordingKey": "WORD_CLEAN_UP",
+    "value": "清理"
   },
   {
     "wordingKey": "WORD_CLEAR",
@@ -5242,6 +6142,10 @@
   {
     "wordingKey": "WORD_CLOSE",
     "value": "關閉"
+  },
+  {
+    "wordingKey": "WORD_CLOSET",
+    "value": "衣櫃"
   },
   {
     "wordingKey": "WORD_CLOTH_COUNT",
@@ -5258,6 +6162,10 @@
   {
     "wordingKey": "WORD_COLLECTION",
     "value": "收藏"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_BOARD",
+    "value": "收藏品展示櫃"
   },
   {
     "wordingKey": "WORD_COLLECTION_GACHA",
@@ -5284,6 +6192,14 @@
     "value": "甘酒"
   },
   {
+    "wordingKey": "WORD_COLLECTION_STAGE",
+    "value": "收藏品展示台"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_STAND",
+    "value": "收藏品展示架"
+  },
+  {
     "wordingKey": "WORD_COLLECTION_STATE",
     "value": "持有狀態"
   },
@@ -5305,15 +6221,19 @@
   },
   {
     "wordingKey": "WORD_COLORFULPASS_BASIC_DETAIL_JSON",
-    "value": "{\n \"title\": \"七彩通行證～BASIC～\",\n \"list\" : [\n {\n \"head\" : \"■組合內容\",\n \"desc\" : \"・水晶(付費)×300個\n\n・每日水晶(免費)×50個\n\n・LIVE BONUS上限15→30(獎勵)\n\n・1日AUTO LIVE次數10→20(獎勵)\n\n・1週免費進行1次七彩通行證招募\n\n・「1日1次付費招募」可招募2次(獎勵)\n\n・挑戰P獲得量2倍(獎勵)\n\n・LIVE P獲得量2倍(獎勵) ※除了「水晶(付費)×300個」以外的獎勵是在購買後30天內有效的獎勵。\"\n },\n {\n \"head\" : \"■初次購買獎勵\",\n \"desc\" : \"・水晶(免費)×1,000個(初次獎勵) ※只有在首次購買「七彩通行證～BASIC～」、「七彩通行證～PRECIOUS～」的任一通行證時可以領取。\"\n },\n {\n \"head\" : \"■續購說明\",\n \"desc\" : \" \n・在「七彩通行證～BASIC～」通行證有效期限內，可至水晶商店頁面續購相同版本的通行證；有效期限將會繼續疊加。\n・當「七彩通行證～BASIC～」有效期限≤179天時，可以續購同版本的通行證，權益將累積增加30天。\n・當「七彩通行證～BASIC～」有效期限>180天時，則不可續購。\n・若需要更改為「七彩通行證～PRECIOUS～」，則需要等待「七彩通行證～BASIC～」有效期限到期後，再進入水晶商店的「七彩通行證～PRECIOUS～」頁面購買。\"\n },\n {\n \"head\" : \"■獎勵說明\",\n \"desc\" : \"○每日水晶(免費)×50個\n\n・「每日水晶(免費)×50個」從購買日起，1天1次登入遊戲時可以領取。\n\n・可獲得「每日水晶(免費)×50個」的機會將在每天4點重置。\n\n・未登入且尚未領取的水晶，將在下次登入時一次領取。\n\n・「七彩通行證～BASIC～」有效期間結束後也可以領取尚未領取的水晶。\n\n・「每日水晶(免費)×50個」可領取數量為1天1次，共30次。第1次的領取時間與購買「七彩通行證～BASIC～」時同時，因此也有可能在30天前就全部領取完畢。\n\n・水晶(免費)會被送至「禮物」。領取期限為送至「禮物」起30天內，敬請記得領取。\n\n○1週1次免費進行七彩通行證招募\n\n・「七彩通行證招募」1週可免費招募1次。\n\n・「七彩通行證招募」的可招募次數會在每週一4點重置。\n\n・若沒有進行「七彩通行證招募」，該週的招募次數被重置後將無法繼承，會變為無效。\n\n・「七彩通行證招募」的獎勵為各通行證共通的。若該週已經進行「七彩通行證招募」，就算再次購買七彩通行證，也必須等到隔週的週一4點才會重置可招募次數。\n\n[七彩通行證招募]\n\n・「七彩通行證招募」僅會顯示於已購入七彩通行證的玩家頁面。\n\n・本招募會出現該舉辦月份的1年前登場過的★3成員和常駐★4成員。\n\n・本招募中出現的成員會定期更新。\n\n・本招募的稀有度出現機率★3成員為97%、★4成員為3%。\n\n・本招募相同稀有度的每位成員的出現機率相同。\n\n・每1次招募都是依據成員出現機率獨立抽取。例如成員的出現機率為1%，並不代表抽100次該成員就一定會出現1次。\n\n・本招募出現的成員均為特訓前的狀態。\n\n・重複獲得的成員將自動送至休息室。\n\n・可以從招募頁面確認新成員的數值與技能等詳細內容。\n\n・請從招募頁面的出現機率中，確認附帶演出服裝的成員。\n\n・進行招募後，若強制關閉遊戲或中斷網路連線而未正常顯示招募結果畫面時，仍會正常取得成員。請至成員清單或休息室確認。 ・招募附贈點數不適用於本招募。\n\n・本招募不會獲得招募貼紙。\n\n・招募若有變更，恕不另行通知。\n\n・「七彩通行證招募」不會出現七彩慶典限定、期間限定、生日限定、紀念日限定、聯動限定的成員。\n\n・「七彩通行證招募」1週可進行1次。在招募後，直到隔週的週一4點重置前，將不會顯示於招募畫面。\n\n・「七彩通行證招募」的詳情請至遊戲內公告確認。\n\n○「1日1次付費招募」可招募2次(獎勵)\n・若要進行「1日1次付費招募」，每次均需付費水晶。\n\n・「『1日1次付費招募』可招募2次(獎勵)」在沒有舉辦「1日1次付費招募」的期間將不適用，敬請見諒。\n\n\n○LIVE BONUS上限15→30(獎勵)\n\n・可透過時間恢復的LIVE BONUS變成30。\n\n・不適用於在玩家等級提升時恢復的LIVE BONUS量。\n\n・有效期限結束後，LIVE BONUS的上限值會回到原本的數值，但LIVE BONUS當下的數值將會被保留。\n\n○1日AUTO LIVE次數10→20(獎勵)\n\n・1天可使用的AUTO LIVE次數從10次變成20次。\n\n・※若設定為AUTO LIVE，MV會以較低品質播放。\n\n・若使用推薦設備以外的設備，有可能會因為設備的負荷等問題導致遊戲強致終止，AUTO LIVE也會停止。\n\n・若在AUTO LIVE中此獎勵的有效期限結束，AUTO LIVE將會終止。\n\n○挑戰P獲得量2倍(獎勵)\n・「挑戰P獲得量2倍」僅適用於挑戰LIVE能獲得的挑戰P。\n\n○LIVE P獲得量2倍(獎勵)\n・「LIVE P獲得量2倍」除了LIVE中獲得的LIVE P以外，透過每日獎勵、獎勵任務報酬獲得的LIVE P也包含在內。\"\n },\n {\n \"head\" : \"■商品領取時期\",\n \"desc\" : \"\n・水晶(付費)×300個：購買完成後，立刻領取。\n\n・水晶(免費)×1,000個(初次獎勵)：購買完成後，立刻領取。\n\n・每日水晶(免費)×50個：購買完成後，30天內在1天1次登入時透過「禮物」領取。\n\n・1週免費進行1次七彩通行證招募：購買完成後，立刻領取。\n\n・「1日1次付費招募」變為1天2次(獎勵)：購買完成後，立刻領取。\n\n・挑戰P獲得量2倍(獎勵)：購買完成後，立刻領取。\n\n・LIVE P獲得量2倍(獎勵)：購買完成後，立刻領取。\n\"\n },\n {\n \"head\" : \"■官網儲值中心新增道具\",\n \"desc\" : \"\n・伴隨此次七彩通行證內容更新，官網儲值中心的「七彩通行證兌換券」道具將更改名稱為「七彩通行證～BASIC～兌換券」，可以用於兌換「七彩通行證～BASIC～」。\n・使用「七彩通行證～BASIC～兌換券」首次兌換「七彩通行證～BASIC～」時，可以獲得初次購買特典的「水晶(免費)×1,000」的獎勵。\n\n\n※初次購買特典的「水晶(免費)×1,000」的獎勵僅可通過遊戲內購買，或者是使用「七彩通行證～BASIC～兌換券」或「七彩通行證～PRECIOUS～兌換券」兌換新版七彩通行證時獲得一次，使用不同方法購買或是在下次選擇重新購買其他商品均不會重複獲得。\n\"\n },\n {\n \"head\" : \"■商品的退貨、交換 由於商品特性，無法退貨或交換。\",\n \"desc\" : \" \"\n },\n {\n \"head\" : \"■注意事項\",\n \"desc\" : \"\n・購買後30天內的獎勵「七彩通行證～BASIC～」從購買日期當天起30天內有效。\n\n・在相同OS的設備變更，以及不同OS的資料繼承，也會繼承購買資訊，可持續領取獎勵。\n\n・在舊款七彩通行證的有效期限中也可購買「七彩通行證～BASIC～」，但「挑戰P獲得量2倍」、「LIVE P獲得量2倍」、「『1日1次付費招募』可招募2次」的效果不會重複，敬請見諒。\n\"\n },\n ] \n}"
+    "value": "{\n \"title\": \"七彩通行證～BASIC～\",\n \"list\" : [\n {\n \"head\" : \"■組合內容\",\n \"desc\" : \"・水晶(付費)×300個\n\n・每日水晶(免費)×50個\n\n・LIVE BONUS上限25→50(獎勵)\n\n・1日AUTO LIVE次數10→20(獎勵)\n\n・1週免費進行1次七彩通行證招募\n\n・「1日1次付費招募」可招募2次(獎勵)\n\n・挑戰P獲得量2倍(獎勵)\n\n・LIVE P獲得量2倍(獎勵) ※除了「水晶(付費)×300個」以外的獎勵是在購買後30天內有效的獎勵。\"\n },\n {\n \"head\" : \"■初次購買獎勵\",\n \"desc\" : \"・水晶(免費)×1,000個(初次獎勵) ※只有在首次購買「七彩通行證～BASIC～」、「七彩通行證～PRECIOUS～」的任一通行證時可以領取。\"\n },\n {\n \"head\" : \"■續購說明\",\n \"desc\" : \" \n・在「七彩通行證～BASIC～」通行證有效期限內，可至水晶商店頁面續購相同版本的通行證；有效期限將會繼續疊加。\n・當「七彩通行證～BASIC～」有效期限≤179天時，可以續購同版本的通行證，權益將累積增加30天。\n・當「七彩通行證～BASIC～」有效期限>180天時，則不可續購。\n・若需要更改為「七彩通行證～PRECIOUS～」，則需要等待「七彩通行證～BASIC～」有效期限到期後，再進入水晶商店的「七彩通行證～PRECIOUS～」頁面購買。\"\n },\n {\n \"head\" : \"■獎勵說明\",\n \"desc\" : \"○每日水晶(免費)×50個\n\n・「每日水晶(免費)×50個」從購買日起，1天1次登入遊戲時可以領取。\n\n・可獲得「每日水晶(免費)×50個」的機會將在每天4點重置。\n\n・未登入且尚未領取的水晶，將在下次登入時一次領取。\n\n・「七彩通行證～BASIC～」有效期間結束後也可以領取尚未領取的水晶。\n\n・「每日水晶(免費)×50個」可領取數量為1天1次，共30次。第1次的領取時間與購買「七彩通行證～BASIC～」時同時，因此也有可能在30天前就全部領取完畢。\n\n・水晶(免費)會被送至「禮物」。領取期限為送至「禮物」起30天內，敬請記得領取。\n\n○1週1次免費進行七彩通行證招募\n\n・「七彩通行證招募」1週可免費招募1次。\n\n・「七彩通行證招募」的可招募次數會在每週一4點重置。\n\n・若沒有進行「七彩通行證招募」，該週的招募次數被重置後將無法繼承，會變為無效。\n\n・「七彩通行證招募」的獎勵為各通行證共通的。若該週已經進行「七彩通行證招募」，就算再次購買七彩通行證，也必須等到隔週的週一4點才會重置可招募次數。\n\n[七彩通行證招募]\n\n・「七彩通行證招募」僅會顯示於已購入七彩通行證的玩家頁面。\n\n・本招募會出現該舉辦月份的1年前登場過的★3成員和常駐★4成員。\n\n・本招募中出現的成員會定期更新。\n\n・本招募的稀有度出現機率★3成員為97%、★4成員為3%。\n\n・本招募相同稀有度的每位成員的出現機率相同。\n\n・每1次招募都是依據成員出現機率獨立抽取。例如成員的出現機率為1%，並不代表抽100次該成員就一定會出現1次。\n\n・本招募出現的成員均為特訓前的狀態。\n\n・重複獲得的成員將自動送至休息室。\n\n・可以從招募頁面確認新成員的數值與技能等詳細內容。\n\n・請從招募頁面的出現機率中，確認附帶演出服裝的成員。\n\n・進行招募後，若強制關閉遊戲或中斷網路連線而未正常顯示招募結果畫面時，仍會正常取得成員。請至成員清單或休息室確認。 ・招募附贈點數不適用於本招募。\n\n・本招募不會獲得招募貼紙。\n\n・招募若有變更，恕不另行通知。\n\n・「七彩通行證招募」不會出現七彩慶典限定、期間限定、生日限定、紀念日限定、聯動限定的成員。\n\n・「七彩通行證招募」1週可進行1次。在招募後，直到隔週的週一4點重置前，將不會顯示於招募畫面。\n\n・「七彩通行證招募」的詳情請至遊戲內公告確認。\n\n○「1日1次付費招募」可招募2次(獎勵)\n・若要進行「1日1次付費招募」，每次均需付費水晶。\n\n・「『1日1次付費招募』可招募2次(獎勵)」在沒有舉辦「1日1次付費招募」的期間將不適用，敬請見諒。\n\n\n○LIVE BONUS上限15→30(獎勵)\n\n・可透過時間恢復的LIVE BONUS變成30。\n\n・不適用於在玩家等級提升時恢復的LIVE BONUS量。\n\n・有效期限結束後，LIVE BONUS的上限值會回到原本的數值，但LIVE BONUS當下的數值將會被保留。\n\n○1日AUTO LIVE次數10→20(獎勵)\n\n・1天可使用的AUTO LIVE次數從10次變成20次。\n\n・※若設定為AUTO LIVE，MV會以較低品質播放。\n\n・若使用推薦設備以外的設備，有可能會因為設備的負荷等問題導致遊戲強制終止，AUTO LIVE也會停止。\n\n・若在AUTO LIVE中此獎勵的有效期限結束，AUTO LIVE將會終止。\n\n○挑戰P獲得量2倍(獎勵)\n・「挑戰P獲得量2倍」僅適用於挑戰LIVE能獲得的挑戰P。\n\n○LIVE P獲得量2倍(獎勵)\n・「LIVE P獲得量2倍」除了LIVE中獲得的LIVE P以外，透過每日獎勵、獎勵任務報酬獲得的LIVE P也包含在內。\"\n },\n {\n \"head\" : \"■商品領取時期\",\n \"desc\" : \"\n・水晶(付費)×300個：購買完成後，立刻領取。\n\n・水晶(免費)×1,000個(初次獎勵)：購買完成後，立刻領取。\n\n・每日水晶(免費)×50個：購買完成後，30天內在1天1次登入時透過「禮物」領取。\n\n・1週免費進行1次七彩通行證招募：購買完成後，立刻領取。\n\n・「1日1次付費招募」變為1天2次(獎勵)：購買完成後，立刻領取。\n\n・挑戰P獲得量2倍(獎勵)：購買完成後，立刻領取。\n\n・LIVE P獲得量2倍(獎勵)：購買完成後，立刻領取。\n\"\n },\n {\n \"head\" : \"■官網儲值中心新增道具\",\n \"desc\" : \"\n・伴隨此次七彩通行證內容更新，官網儲值中心的「七彩通行證兌換券」道具將更改名稱為「七彩通行證～BASIC～兌換券」，可以用於兌換「七彩通行證～BASIC～」。\n・使用「七彩通行證～BASIC～兌換券」首次兌換「七彩通行證～BASIC～」時，可以獲得初次購買特典的「水晶(免費)×1,000」的獎勵。\n\n\n※初次購買特典的「水晶(免費)×1,000」的獎勵僅可通過遊戲內購買，或者是使用「七彩通行證～BASIC～兌換券」或「七彩通行證～PRECIOUS～兌換券」兌換新版七彩通行證時獲得一次，使用不同方法購買或是在下次選擇重新購買其他商品均不會重複獲得。\n\"\n },\n {\n \"head\" : \"■商品的退貨、交換 由於商品特性，無法退貨或交換。\",\n \"desc\" : \" \"\n },\n {\n \"head\" : \"■注意事項\",\n \"desc\" : \"\n・購買後30天內的獎勵「七彩通行證～BASIC～」從購買日期當天起30天內有效。\n\n・在相同OS的設備變更，以及不同OS的資料繼承，也會繼承購買資訊，可持續領取獎勵。\n\n・在舊款七彩通行證的有效期限中也可購買「七彩通行證～BASIC～」，但「挑戰P獲得量2倍」、「LIVE P獲得量2倍」、「『1日1次付費招募』可招募2次」的效果不會重複，敬請見諒。\n\"\n },\n ] \n}"
   },
   {
     "wordingKey": "WORD_COLORFULPASS_INFORMATION_BUTTON",
     "value": "詳情、獎勵"
   },
   {
+    "wordingKey": "WORD_COLORFULPASS_MYSEKAI_DETAIL_JSON",
+    "value": "{\n  \"list\": [\n    {\n      \"head\": \"組合包內容\",\n      \"desc\": \"購買後可立即獲得以下內容：\\n・水晶（付費）×1,380 個 \\n・解鎖大門的「邀請函」功能（獎勵）\\n・解鎖「神秘商店」（獎勵）\\n・強化耐力（獎勵）\\n・強化轉換機（獎勵）\\n・家具配置圖的預先設定的儲存數量從 3 個提升至 10 個（獎勵）\"\n    },\n    {\n      \"head\": \"特典說明\",\n      \"desc\": \"■解鎖大門的「邀請函」功能（獎勵）\\n・將可以對布置於我的「世界」的大門使用「邀請函」。\\n・可以發送「邀請函」給已布置好的大門的團體成員中的任一位角色，該角色一定會來我的「世界」玩。\\n・若你和透過「邀請函」邀請來的角色交談，可領取的記憶數會從 1 天 1 個額外增加 1 個。\\n・若更換邀請的角色等等時，會影響可獲得的記憶數量與種類。\\n1. 被邀請的角色來到我的「世界」，在該狀態下與該角色交談，可獲得 2 個那個角色的記憶。\\n2. 若受邀角色（角色 A）來拜訪我的「世界」，但你將邀請對象切換成另一位角色（角色 B）：\\n - 若在切換前與角色 A 交談，可獲得 2 個角色 A 的記憶，而與角色 B 交談時會獲得 1 個角色 B 的記憶。\\n - 若在切換前沒有和角色 A 交談，與切換後的角色 B 交談時，可獲得 2 個角色 B 的記憶，與角色 A 交談時則可獲得角色 A 的記憶 1 個。\\n3. 如果在角色選擇來訪時，世界通行證仍在效期內，但在與角色交談時，世界通行證已過期：\\n - 交談的當下可獲得的記憶為 1 個。若之後再購買世界通行證，且再次交談時，可再獲得 1 個記憶。\\n・使用「邀請函」邀請的角色，3 天內無法更改。\\n・若在「邀請中」時取消邀請，受邀的角色會在下次的角色來訪前待在我的「世界」，但之後的效果會失效。\\n・在招待期間，若更換為其他團體的大門，當下已邀請的角色會離開我的「世界」，同時「邀請函」的效果也會失效。\\n・有效期間結束後，使用中的「邀請函」效果會持續保留到下次的角色造訪為止。\\n・有效期間結束後，如果再次購買世界通行證，會延續上次「邀請函」的邀請內容，以及可更換受邀角色的剩餘時間。\\n・若在有效期間結束當下，且距離上次更改設定後不到 3 天接著購買世界通行證，也有可能無法馬上更改「邀請函」的設定。\\n■解鎖「神秘商店」（獎勵）\\n・可以從我的「世界」的電腦進入「神秘商店」。\\n・可用水晶在「神秘商店」購買到隨機登場的每日更換、每週更換的家具設計圖。\\n・每週更換商品和部分的每日更換商品會出現尚未持有的家具設計圖。此外，若已無尚未持有的家具設計圖，「神秘商店」則會出現已持有的家具設計圖。\\n・「神秘商店」的商品內容會因玩家而異。\\n※部分的家具設計圖不會出現在「神秘商店」。\\n■強化耐力（獎勵）\\n・在每日 05:00 恢復的我的「世界」的耐力，可以強化增強耐力。\\n・增強耐力除了可以提高採集速度，也可提高透過採集獲得的 LIVE P、活動 P、活動徽章、玩家等級 EXP 的獲得量。\\n■強化轉換機（獎勵）\\n・可在我的「世界」中，將道具、素材轉換成不同的道具、素材。\\n・轉換機的轉化欄會從 1 個欄位增加至 3 個，且轉換時間會減半。此外，縮短轉化時間時所需的水晶也會減半。\\n・有效期間結束後，轉換欄位數、轉換時間將恢復原狀，但有效期間內設定的欄位和效果會保持到轉換完為止。\\n■家具配置圖的預先設定的儲存數量 3→10 個（獎勵）\\n・可儲存的家具配置的預先設定量從 3 個變成 10 個。\\n・有效期間結束後，第四個之後的預先設定內容會被保留（365 天），但在再次購買世界通行證前將無法使用。\"\n    },\n    {\n      \"head\": \"商品款項的付款時間・方法\",\n      \"desc\": \"・信用卡：以各發卡銀行的扣款日依其規定為準。\\n・透過電信業者收費：將與您的電信費用合併計費。付款時間依各電信業者規定為準。\\n・由本公司發行的預付型支付工具：在最終確認畫面中按下「確定購買」按鈕時即完成付款。\\n・其他由第三方金流服務商提供的付款方式：實際付款方式將依各金流服務商的規定為準。付款時間亦同。\"\n    },\n    {\n      \"head\": \"商品交付時間\",\n      \"desc\": \"・水晶（付費）×1,380 個：購買手續完成後，會馬上交付。\\n・解鎖大門的「邀請函」功能（獎勵）：購買手續完成後，會馬上交付。\\n・解鎖「神秘商店」（獎勵）：購買手續完成後，會馬上交付。\\n・強化耐力（獎勵）：購買手續完成後，會馬上交付。\\n・強化轉換機（獎勵）：購買手續完成後，會馬上交付。\\n・家具配置圖的預先設定的儲存數量 3→10 個（獎勵）：購買手續完成後，會馬上交付。\\n※「世界通行證」的特典會在我的「世界」的教學結束後生效。\"\n    },\n    {\n      \"head\": \"商品的退貨・換貨\",\n      \"desc\": \"由於商品屬性之故，無法退貨或更換。\"\n    },\n    {\n      \"head\": \"注意事項\",\n      \"desc\": \"・購入後的 30 日特典，會在「世界通行證」購買起的 30 天內有效。\\n・即使更換同系統裝置或轉移至不同作業系統，購買資訊仍會保留，也可繼續領取相關報酬。\"\n    }\n  ]\n}\n"
+  },
+  {
     "wordingKey": "WORD_COLORFULPASS_PRECIOUS_DETAIL_JSON",
-    "value": "{\n \"title\": \"七彩通行證～PRECIOUS～\",\n \"list\" : [\n {\n \"head\" : \"■組合內容\",\n \"desc\" : \"\n・水晶(付費)×2,760個\n\n・每日水晶(免費)×100個\n\n・1日1次免費招募\n\n・1週免費進行1次七彩通行證招募\n\n・「1日1次付費招募」可招募2次(獎勵)\n\n・LIVE BONUS上限15→30(獎勵)\n\n・1日AUTO LIVE次數10→99(獎勵)\n\n・挑戰P獲得量2倍(獎勵)\n\n・LIVE P獲得量2倍(獎勵)\n\n※除了「水晶(付費)×2760個」以外的獎勵是在購買後30天內有效的獎勵。\n\"\n },\n {\n \"head\" : \"■初次購買獎勵\",\n \"desc\" : \"・水晶(免費)×1,000個(初次獎勵) ※只有在首次購買「七彩通行證～BASIC～」、「七彩通行證～PRECIOUS～」的任一通行證時可以領取。\"\n },\n {\n \"head\" : \"■續購說明\",\n \"desc\" : \"\n・在「七彩通行證～PRECIOUS～」通行證有效期限內，可至水晶商店頁面續購相同版本的通行證；有效期限將會繼續疊加。\n・當「七彩通行證～PRECIOUS～」有效期限≤179天時，可以續購同版本的通行證，權益將累積增加30天。\n・當「七彩通行證～PRECIOUS～」有效期限>180天時，則不可續購。\n・若需要更改為「七彩通行證～BASIC～」，則需要等待「七彩通行證～PRECIOUS～」有效期限到期後，再進入水晶商店的「七彩通行證～BASIC～」頁面購買。\n\"\n },\n {\n \"head\" : \"■獎勵說明\",\n \"desc\" : \"\n○每日水晶(免費)×100個\n\n・「每日水晶(免費)×100個」從購買日起，1天1次登入遊戲時可以領取。\n\n・可獲得「每日水晶(免費)×100個」的機會將在每天4點重置。\n\n・未登入且尚未領取的水晶，將在下次登入時一次領取。\n\n・「七彩通行證～PRECIOUS～」有效期間結束後也可以領取尚未領取的水晶。\n\n・「每日水晶(免費)×100個」可領取數量為1天1次，共30次。第1次的領取時間與購買「七彩通行證～PRECIOUS～」時同時，因此也有可能在30天前就全部領取完畢。\n\n・水晶(免費)會被送至「禮物」。領取期限為送至「禮物」起30天內，敬請記得領取。\n\n○1日1次免費招募\n\n・1天可免費招募1次舉辦中的活動附屬招募。\n\n・「1日1次免費招募」進行的招募不適用於招募附贈點數。\n\n・「1日1次免費招募」進行的招募不會獲得招募貼紙。\n\n・「1日1次免費招募」就算因招募轉換，可使用的招募變成1天有2個以上，也僅限於1個招募，1天使用1次。\n\n・「1日1次免費招募」的獎勵與「七彩通行證招募～PRECIOUS～」相通。例如，已招募「1日1次免費招募」的當天，就算再次購買「七彩通行證招募～PRECIOUS～」，當天的次數也不會被重置。\n\n・「1日1次免費招募」優先於「1日1次付費招募」。\n\n・「1日1次免費招募」不適用於部分僅能使用付費水晶的招募、生日招募、紀念日招募、復刻招募等。\n\n○1週免費進行1次七彩通行證招募\n・「七彩通行證招募」1週可免費招募1次。\n\n・「七彩通行證招募」的可招募次數會在每週一4點重置。\n\n・若沒有進行「七彩通行證招募」，該週的招募次數被重置後將無法繼承，會變為無效。\n\n・「七彩通行證招募」的獎勵為各通行證共通的。若該週已經進行「七彩通行證招募」，就算再次購買七彩通行證，也必須等到隔週的週一4點才會重置可招募次數。 [七彩通行證招募]\n\n・「七彩通行證招募」僅會顯示於已購入七彩通行證的玩家頁面。\n\n・本招募會出現該舉辦月份的1年前登場過的★3成員和常駐★4成員。\n\n・本招募中出現的成員會定期更新。\n\n・本招募的稀有度出現機率★3成員為97%、★4成員為3%。\n\n・本招募相同稀有度的每位成員的出現機率相同。\n\n・每1次招募都是依據成員出現機率獨立抽取。例如成員的出現機率為1%，並不代表抽100次該成員就一定會出現1次。\n\n・本招募出現的成員均為特訓前的狀態。\n\n・重複獲得的成員將自動送至休息室。\n\n・可以從招募頁面確認新成員的數值與技能等詳細內容。\n\n・請從招募頁面的出現機率中，確認附帶演出服裝的成員。\n\n・進行招募後，若強制關閉遊戲或中斷網路連線而未正常顯示招募結果畫面時，仍會正常取得成員。請至成員清單或休息室確認。 ・招募附贈點數不適用於本招募。\n\n・本招募不會獲得招募貼紙。\n\n・招募若有變更，恕不另行通知。\n\n・「七彩通行證招募」不會出現七彩慶典限定、期間限定、生日限定、紀念日限定、聯動限定的成員。\n\n・「七彩通行證招募」1週可進行1次。在招募後，直到隔週的週一4點重置前，將不會顯示於招募畫面。\n\n・「七彩通行證招募」的詳情請至遊戲內公告確認。\n\n○「1日1次付費招募」可招募2次(獎勵)\n\n・若要進行「1日1次付費招募」，每次均需付費水晶。\n\n・「『1日1次付費招募』可招募2次(獎勵)」在沒有舉辦「1日1次付費招募」的期間將不適用，敬請見諒。\n\n・「1日1次付費招募」將在進行「1日1次免費招募」後適用。\n\n○LIVE BONUS上限15→30(獎勵)\n\n・可透過時間恢復的LIVE BONUS變成30。\n\n・不適用於在玩家等級提升時恢復的LIVE BONUS量。\n\n・有效期限結束後，LIVE BONUS的上限值會回到原本的數值，但LIVE BONUS當下的數值將會被保留。\n\n○1日AUTO LIVE次數10→99(獎勵)\n\n・1天可使用的AUTO LIVE次數從10次變成99次。\n\n・※若設定為AUTO LIVE，MV會以較低品質播放。\n\n・若使用推薦設備以外的設備，有可能會因為設備的負荷等問題導致遊戲強致終止，AUTO LIVE也會停止。\n\n・若在AUTO LIVE中此獎勵的有效期限結束，AUTO LIVE將會終止。\n\n○挑戰P獲得量2倍(獎勵)\n\n・「挑戰P獲得量2倍」僅適用於挑戰LIVE能獲得的挑戰P。\n\n○LIVE P獲得量2倍(獎勵)\n\n・「LIVE P獲得量2倍」除了LIVE中獲得的LIVE P以外，透過每日獎勵、獎勵任務報酬獲得的LIVE P也包含在內。\n\"\n },\n {\n \"head\" : \"■商品領取時期\",\n \"desc\" : \"\n・水晶(付費)×2,760個：購買完成後，立刻領取。\n\n・水晶(免費)×1,000個(初次獎勵)：購買完成後，立刻領取。\n\n・每日水晶(免費)×100個：購買完成後，30天內在1天1次登入時，透過「禮物」領取。\n\n・1日1次免費招募：購買完成後，立刻領取。\n\n・1週免費進行1次七彩通行證招募：購買完成後，立刻領取。\n\n・「1日1次付費招募」變為1天2次(獎勵)：購買完成後，立刻領取。\n\n・LIVE BONUS上限10→20(獎勵)：購買完成後，立刻領取。\n\n・1日AUTO LIVE次數10→99(獎勵)：購買完成後，立刻領取。\n\n・挑戰 P獲得量2倍(獎勵)：購買完成後，立刻領取。\n\n・LIVE P獲得量2倍(獎勵)：購買完成後，立刻領取。\n\"\n },\n {\n \"head\" : \"■官網儲值中心新增道具\",\n \"desc\" : \"\n・伴隨此次七彩通行證內容更新，我們將於官網儲值中心新增道具「七彩通行證～PRECIOUS～兌換券」。\n・可以使用「七彩通行證～PRECIOUS～兌換券」兌換「七彩通行證～PRECIOUS～」。\n・使用「七彩通行證～PRECIOUS～兌換券」首次兌換「七彩通行證～PRECIOUS～」時，可以獲得初次購買特典的「水晶(免費)×1,000」的獎勵。\n※初次購買特典的「水晶(免費)×1,000」的獎勵僅可通過遊戲內購買，或者是使用「七彩通行證～BASIC～兌換券」或「七彩通行證～PRECIOUS～兌換券」兌換新版七彩通行證時獲得一次，使用不同方法購買或是在下次選擇重新購買其他商品均不會重複獲得。\n\"\n },\n {\n \"head\" : \"■商品的退貨、交換 由於商品特性，無法退貨或交換。\",\n \"desc\" : \" \"\n },\n {\n \"head\" : \"■注意事項\",\n \"desc\" : \"\n・購買後30天內的獎勵「七彩通行證～PRECIOUS～」從購買日期當天起30天內有效。\n\n・在相同OS的設備變更，以及不同OS的資料繼承，也會繼承購買資訊，可持續領取獎勵。\n\n・在舊版七彩通行證的有效期限中也可購買「七彩通行證～PRECIOUS～」，但「挑戰P獲得量2倍」、「LIVE P獲得量2倍」、「『1日1次付費招募』可招募2次」的效果不會重複，敬請見諒。\n\"\n },\n ] \n}"
+    "value": "{\n \"title\": \"七彩通行證～PRECIOUS～\",\n \"list\" : [\n {\n \"head\" : \"■組合內容\",\n \"desc\" : \"\n・水晶(付費)×2,760個\n\n・每日水晶(免費)×100個\n\n・1日1次免費招募\n\n・1週免費進行1次七彩通行證招募\n\n・「1日1次付費招募」可招募2次(獎勵)\n\n・LIVE BONUS上限25→50(獎勵)\n\n・1日AUTO LIVE次數10→99(獎勵)\n\n・挑戰P獲得量2倍(獎勵)\n\n・LIVE P獲得量2倍(獎勵)\n\n※除了「水晶(付費)×2760個」以外的獎勵是在購買後30天內有效的獎勵。\n\"\n },\n {\n \"head\" : \"■初次購買獎勵\",\n \"desc\" : \"・水晶(免費)×1,000個(初次獎勵) ※只有在首次購買「七彩通行證～BASIC～」、「七彩通行證～PRECIOUS～」的任一通行證時可以領取。\"\n },\n {\n \"head\" : \"■續購說明\",\n \"desc\" : \"\n・在「七彩通行證～PRECIOUS～」通行證有效期限內，可至水晶商店頁面續購相同版本的通行證；有效期限將會繼續疊加。\n・當「七彩通行證～PRECIOUS～」有效期限≤179天時，可以續購同版本的通行證，權益將累積增加30天。\n・當「七彩通行證～PRECIOUS～」有效期限>180天時，則不可續購。\n・若需要更改為「七彩通行證～BASIC～」，則需要等待「七彩通行證～PRECIOUS～」有效期限到期後，再進入水晶商店的「七彩通行證～BASIC～」頁面購買。\n\"\n },\n {\n \"head\" : \"■獎勵說明\",\n \"desc\" : \"\n○每日水晶(免費)×100個\n\n・「每日水晶(免費)×100個」從購買日起，1天1次登入遊戲時可以領取。\n\n・可獲得「每日水晶(免費)×100個」的機會將在每天4點重置。\n\n・未登入且尚未領取的水晶，將在下次登入時一次領取。\n\n・「七彩通行證～PRECIOUS～」有效期間結束後也可以領取尚未領取的水晶。\n\n・「每日水晶(免費)×100個」可領取數量為1天1次，共30次。第1次的領取時間與購買「七彩通行證～PRECIOUS～」時同時，因此也有可能在30天前就全部領取完畢。\n\n・水晶(免費)會被送至「禮物」。領取期限為送至「禮物」起30天內，敬請記得領取。\n\n○1日1次免費招募\n\n・1天可免費招募1次舉辦中的活動附屬招募。\n\n・「1日1次免費招募」進行的招募不適用於招募附贈點數。\n\n・「1日1次免費招募」進行的招募不會獲得招募貼紙。\n\n・「1日1次免費招募」就算因招募轉換，可使用的招募變成1天有2個以上，也僅限於1個招募，1天使用1次。\n\n・「1日1次免費招募」的獎勵與「七彩通行證招募～PRECIOUS～」相通。例如，已招募「1日1次免費招募」的當天，就算再次購買「七彩通行證招募～PRECIOUS～」，當天的次數也不會被重置。\n\n・「1日1次免費招募」優先於「1日1次付費招募」。\n\n・「1日1次免費招募」不適用於部分僅能使用付費水晶的招募、生日招募、紀念日招募、復刻招募等。\n\n○1週免費進行1次七彩通行證招募\n・「七彩通行證招募」1週可免費招募1次。\n\n・「七彩通行證招募」的可招募次數會在每週一4點重置。\n\n・若沒有進行「七彩通行證招募」，該週的招募次數被重置後將無法繼承，會變為無效。\n\n・「七彩通行證招募」的獎勵為各通行證共通的。若該週已經進行「七彩通行證招募」，就算再次購買七彩通行證，也必須等到隔週的週一4點才會重置可招募次數。 [七彩通行證招募]\n\n・「七彩通行證招募」僅會顯示於已購入七彩通行證的玩家頁面。\n\n・本招募會出現該舉辦月份的1年前登場過的★3成員和常駐★4成員。\n\n・本招募中出現的成員會定期更新。\n\n・本招募的稀有度出現機率★3成員為97%、★4成員為3%。\n\n・本招募相同稀有度的每位成員的出現機率相同。\n\n・每1次招募都是依據成員出現機率獨立抽取。例如成員的出現機率為1%，並不代表抽100次該成員就一定會出現1次。\n\n・本招募出現的成員均為特訓前的狀態。\n\n・重複獲得的成員將自動送至休息室。\n\n・可以從招募頁面確認新成員的數值與技能等詳細內容。\n\n・請從招募頁面的出現機率中，確認附帶演出服裝的成員。\n\n・進行招募後，若強制關閉遊戲或中斷網路連線而未正常顯示招募結果畫面時，仍會正常取得成員。請至成員清單或休息室確認。 ・招募附贈點數不適用於本招募。\n\n・本招募不會獲得招募貼紙。\n\n・招募若有變更，恕不另行通知。\n\n・「七彩通行證招募」不會出現七彩慶典限定、期間限定、生日限定、紀念日限定、聯動限定的成員。\n\n・「七彩通行證招募」1週可進行1次。在招募後，直到隔週的週一4點重置前，將不會顯示於招募畫面。\n\n・「七彩通行證招募」的詳情請至遊戲內公告確認。\n\n○「1日1次付費招募」可招募2次(獎勵)\n\n・若要進行「1日1次付費招募」，每次均需付費水晶。\n\n・「『1日1次付費招募』可招募2次(獎勵)」在沒有舉辦「1日1次付費招募」的期間將不適用，敬請見諒。\n\n・「1日1次付費招募」將在進行「1日1次免費招募」後適用。\n\n○LIVE BONUS上限15→30(獎勵)\n\n・可透過時間恢復的LIVE BONUS變成30。\n\n・不適用於在玩家等級提升時恢復的LIVE BONUS量。\n\n・有效期限結束後，LIVE BONUS的上限值會回到原本的數值，但LIVE BONUS當下的數值將會被保留。\n\n○1日AUTO LIVE次數10→99(獎勵)\n\n・1天可使用的AUTO LIVE次數從10次變成99次。\n\n・※若設定為AUTO LIVE，MV會以較低品質播放。\n\n・若使用推薦設備以外的設備，有可能會因為設備的負荷等問題導致遊戲強制終止，AUTO LIVE也會停止。\n\n・若在AUTO LIVE中此獎勵的有效期限結束，AUTO LIVE將會終止。\n\n○挑戰P獲得量2倍(獎勵)\n\n・「挑戰P獲得量2倍」僅適用於挑戰LIVE能獲得的挑戰P。\n\n○LIVE P獲得量2倍(獎勵)\n\n・「LIVE P獲得量2倍」除了LIVE中獲得的LIVE P以外，透過每日獎勵、獎勵任務報酬獲得的LIVE P也包含在內。\n\"\n },\n {\n \"head\" : \"■商品領取時期\",\n \"desc\" : \"\n・水晶(付費)×2,760個：購買完成後，立刻領取。\n\n・水晶(免費)×1,000個(初次獎勵)：購買完成後，立刻領取。\n\n・每日水晶(免費)×100個：購買完成後，30天內在1天1次登入時，透過「禮物」領取。\n\n・1日1次免費招募：購買完成後，立刻領取。\n\n・1週免費進行1次七彩通行證招募：購買完成後，立刻領取。\n\n・「1日1次付費招募」變為1天2次(獎勵)：購買完成後，立刻領取。\n\n・LIVE BONUS上限10→20(獎勵)：購買完成後，立刻領取。\n\n・1日AUTO LIVE次數10→99(獎勵)：購買完成後，立刻領取。\n\n・挑戰 P獲得量2倍(獎勵)：購買完成後，立刻領取。\n\n・LIVE P獲得量2倍(獎勵)：購買完成後，立刻領取。\n\"\n },\n {\n \"head\" : \"■官網儲值中心新增道具\",\n \"desc\" : \"\n・伴隨此次七彩通行證內容更新，我們將於官網儲值中心新增道具「七彩通行證～PRECIOUS～兌換券」。\n・可以使用「七彩通行證～PRECIOUS～兌換券」兌換「七彩通行證～PRECIOUS～」。\n・使用「七彩通行證～PRECIOUS～兌換券」首次兌換「七彩通行證～PRECIOUS～」時，可以獲得初次購買特典的「水晶(免費)×1,000」的獎勵。\n※初次購買特典的「水晶(免費)×1,000」的獎勵僅可通過遊戲內購買，或者是使用「七彩通行證～BASIC～兌換券」或「七彩通行證～PRECIOUS～兌換券」兌換新版七彩通行證時獲得一次，使用不同方法購買或是在下次選擇重新購買其他商品均不會重複獲得。\n\"\n },\n {\n \"head\" : \"■商品的退貨、交換 由於商品特性，無法退貨或交換。\",\n \"desc\" : \" \"\n },\n {\n \"head\" : \"■注意事項\",\n \"desc\" : \"\n・購買後30天內的獎勵「七彩通行證～PRECIOUS～」從購買日期當天起30天內有效。\n\n・在相同OS的設備變更，以及不同OS的資料繼承，也會繼承購買資訊，可持續領取獎勵。\n\n・在舊版七彩通行證的有效期限中也可購買「七彩通行證～PRECIOUS～」，但「挑戰P獲得量2倍」、「LIVE P獲得量2倍」、「『1日1次付費招募』可招募2次」的效果不會重複，敬請見諒。\n\"\n },\n ] \n}"
   },
   {
     "wordingKey": "WORD_COLORFUL_ACCUMULATIVE_RULE",
@@ -5476,6 +6396,18 @@
     "value": "檢舉頁面"
   },
   {
+    "wordingKey": "WORD_COMPETITION_POST_HOME_SITE_NAME",
+    "value": "庭園"
+  },
+  {
+    "wordingKey": "WORD_COMPETITION_POST_SPECIAL_FEATURE",
+    "value": "「{0}」特輯"
+  },
+  {
+    "wordingKey": "WORD_COMPETITION_POST_TITLE",
+    "value": "作品名稱"
+  },
+  {
     "wordingKey": "WORD_COMPLETE_LEVELUP",
     "value": "已升級"
   },
@@ -5490,6 +6422,10 @@
   {
     "wordingKey": "WORD_COMPLETE_READ_STAMP",
     "value": "全部觀看印章"
+  },
+  {
+    "wordingKey": "WORD_COMPLETE_REWARD",
+    "value": "完成報酬"
   },
   {
     "wordingKey": "WORD_COMPOSER",
@@ -5514,6 +6450,10 @@
   {
     "wordingKey": "WORD_CONFIRM_REMOVE_BOOK_MARK_TITLE",
     "value": "移除書籤"
+  },
+  {
+    "wordingKey": "WORD_CONFIRM_SERIAL_CODE",
+    "value": "確認序號"
   },
   {
     "wordingKey": "WORD_CONFIRM_START_LIVE",
@@ -5568,6 +6508,10 @@
     "value": "包含劇透"
   },
   {
+    "wordingKey": "WORD_CONTEST_IN_PROGRESS",
+    "value": "競賽舉辦中"
+  },
+  {
     "wordingKey": "WORD_CONTINUE",
     "value": "繼續"
   },
@@ -5578,6 +6522,98 @@
   {
     "wordingKey": "WORD_CONTINUOUS_BUY_HIGH_TIER_COUNT_BUTTON_TEXT",
     "value": "{0}個月"
+  },
+  {
+    "wordingKey": "WORD_CONVERSATION_DETAIL",
+    "value": "會做出反應的角色"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_COMPLETE_FORMAT",
+    "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_COMPLETE_STATUS",
+    "value": "結束"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_FIXTURE_LEVEL_RELEASE",
+    "value": "完成我的「世界」任務\n後解鎖"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_END_AT",
+    "value": "到{0}為止"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_REFRESH",
+    "value": "將於{0}重置"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_REMAINING_COUNT",
+    "value": "還有{0}次"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SELECT",
+    "value": "選擇道具"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SELECT_TAB",
+    "value": "製作的東西"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_BLUEPRINT_FIXTURE_MAIN_GENRE_CHOICE",
+    "value": "某個東西的設計圖\n（從家具種類隨機）"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_BLUEPRINT_RANDOM",
+    "value": "某個東西的設計圖\n（全品項隨機）"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_RECORD_CATEGORY_CHOICE",
+    "value": "一張唱片\n（從團體隨機）"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_RECORD_RANDOM",
+    "value": "一張唱片\n（全品項隨機）"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_MACHINE_LEVEL",
+    "value": "機器Lv.達到{0}"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_NOTIFICATION",
+    "value": "轉換完成通知"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_PROGRESS_FORMAT",
+    "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_ALL",
+    "value": "領取"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_PART",
+    "value": "領取完成的部分"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_RECEIVE_PROGRESS",
+    "value": "道具轉換中"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_SLOT_COMPLETED_MOBILE_NOTIFICATION",
+    "value": "道具轉換完成。"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_SLOT_SHORTEN_DECIDE",
+    "value": "跳過"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_START",
+    "value": "開始轉換"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_START_CONFIRM",
+    "value": "開始轉換"
   },
   {
     "wordingKey": "WORD_COPY",
@@ -5660,8 +6696,20 @@
     "value": "要製作的服裝"
   },
   {
+    "wordingKey": "WORD_CRAFT_COUNT",
+    "value": "數量"
+  },
+  {
+    "wordingKey": "WORD_CRAFT_REACHED_POSSESSION_LIMIT",
+    "value": "不可製作"
+  },
+  {
     "wordingKey": "WORD_CREATE",
     "value": "創建"
+  },
+  {
+    "wordingKey": "WORD_CREATED",
+    "value": "已製作"
   },
   {
     "wordingKey": "WORD_CREATE_CONFIRM",
@@ -5674,6 +6722,10 @@
   {
     "wordingKey": "WORD_CREATE_ROOM",
     "value": "創建房間"
+  },
+  {
+    "wordingKey": "WORD_CREATOR",
+    "value": "作者"
   },
   {
     "wordingKey": "WORD_CREATOR_NAME",
@@ -5710,6 +6762,10 @@
   {
     "wordingKey": "WORD_CURRENT_HIGH_SCORE",
     "value": "目前最高分"
+  },
+  {
+    "wordingKey": "WORD_CURRENT_PERIOD_SHOP",
+    "value": "特別推薦"
   },
   {
     "wordingKey": "Word_Custom_2201",
@@ -5932,6 +6988,22 @@
     "value": "首"
   },
   {
+    "wordingKey": "WORD_CUSTOM_DISPLAY_TITLE",
+    "value": "展示道具"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_FURNITURE",
+    "value": "展示櫃家具"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_GOODS_DISPLAY",
+    "value": "請選擇要放置周邊的展示道具。"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PHOTO_DISPLAY",
+    "value": "請選擇要擺放相片的展示道具"
+  },
+  {
     "wordingKey": "WORD_CUSTOM_PROFILE",
     "value": "自製個人資料"
   },
@@ -6104,6 +7176,10 @@
     "value": "刪除"
   },
   {
+    "wordingKey": "WORD_DEMOLITION",
+    "value": "回收"
+  },
+  {
     "wordingKey": "WORD_DESC_ORDER",
     "value": "遞減"
   },
@@ -6136,6 +7212,10 @@
     "value": "解鎖難易度"
   },
   {
+    "wordingKey": "WORD_DiSASSEMBLE_FIXTURE_CONFIRM",
+    "value": "將回收選擇的家具。確定嗎？"
+  },
+  {
     "wordingKey": "WORD_DISCONNECT",
     "value": "連線中斷"
   },
@@ -6158,6 +7238,10 @@
   {
     "wordingKey": "WORD_DIVIDE_FORMAT",
     "value": "÷{0}"
+  },
+  {
+    "wordingKey": "WORD_DOLL",
+    "value": "玩偶"
   },
   {
     "wordingKey": "WORD_DOT",
@@ -6208,8 +7292,16 @@
     "value": "設定"
   },
   {
+    "wordingKey": "WORD_DRAW_MEMBER",
+    "value": "描繪成員"
+  },
+  {
     "wordingKey": "WORD_DURING_SHOW",
     "value": "表演中！"
+  },
+  {
+    "wordingKey": "WORD_EARN_MATERIAL",
+    "value": "獲得素材"
   },
   {
     "wordingKey": "WORD_EASY_FILTER",
@@ -6224,12 +7316,20 @@
     "value": "捨棄編輯"
   },
   {
+    "wordingKey": "WORD_EDIT_MODE",
+    "value": "編輯模式"
+  },
+  {
     "wordingKey": "WORD_EDIT_MYLIST",
     "value": "編輯播放清單"
   },
   {
     "wordingKey": "WORD_EDIT_MYLIST_DECIDE",
     "value": "編輯播放清單"
+  },
+  {
+    "wordingKey": "WORD_EDIT_SAVE_CONFIRMATION",
+    "value": "編輯內容尚未儲存。\n要儲存並返回嗎？"
   },
   {
     "wordingKey": "WORD_EFFECT",
@@ -6244,20 +7344,76 @@
     "value": "{0}倍"
   },
   {
+    "wordingKey": "WORD_ELEMENT",
+    "value": "素材"
+  },
+  {
+    "wordingKey": "WORD_ELEMENT_COUNT",
+    "value": "素材持有數量"
+  },
+  {
     "wordingKey": "WORD_ELIPSIS_SCREEN_SHOT",
     "value": "截圖"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_AVATAR",
+    "value": "沒有可以顯示的造型。"
   },
   {
     "wordingKey": "WORD_EMPTY_BACKGROUND",
     "value": "無可顯示的背景。"
   },
   {
+    "wordingKey": "WORD_EMPTY_CHEKI",
+    "value": "沒有可以顯示的相片。"
+  },
+  {
     "wordingKey": "WORD_EMPTY_COLLECTION",
     "value": "無可顯示的收藏。"
   },
   {
+    "wordingKey": "WORD_EMPTY_FURNITURE",
+    "value": "沒有家具。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_HONOR",
+    "value": "沒有可以顯示的稱號。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_ITEM",
+    "value": "沒有道具。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_MATERIAL",
+    "value": "沒有素材。"
+  },
+  {
     "wordingKey": "WORD_EMPTY_MEMBER",
     "value": "無可顯示的成員。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_MYSEKAI_COLLECTION",
+    "value": "沒有可以顯示的收藏品。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_MYSEKAI_MEMBER",
+    "value": "沒有可以顯示的成員。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_PENLIGHT",
+    "value": "沒有可以顯示的應援棒。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_PRESET",
+    "value": "沒有可以顯示的預先設定。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_RECORDJACKET",
+    "value": "沒有可以顯示的封面。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_RECYCLE_FURNITURE",
+    "value": "沒有可回收的家具。"
   },
   {
     "wordingKey": "WORD_EMPTY_SHAPE",
@@ -6268,12 +7424,20 @@
     "value": "--"
   },
   {
+    "wordingKey": "WORD_EMPTY_TOOL",
+    "value": "沒有工具。"
+  },
+  {
     "wordingKey": "WORD_END",
     "value": "結束"
   },
   {
     "wordingKey": "WORD_END_AT_FORMAT",
     "value": "到{0}\/{1:00}\/{2:00} {3:00}:{4:00}為止"
+  },
+  {
+    "wordingKey": "WORD_END_AT_WITHOUT_YEAR_FORMAT",
+    "value": "到{00:00}\/{01:00} {02:00}:{03:00}為止"
   },
   {
     "wordingKey": "WORD_ENTER_LIMIT",
@@ -6452,6 +7616,14 @@
     "value": "排名報酬"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_another_vocal_shop",
+    "value": "Another Vocal商店"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_area",
+    "value": "前往區域頁面"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_billing_shop_for_colorful_pass",
     "value": "七彩通行證"
   },
@@ -6476,36 +7648,192 @@
     "value": "超值組合包"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_billing_shop_item",
+    "value": "水晶商店"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_bonus_event",
+    "value": "live嘉年华"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_CANCEL",
     "value": "關閉"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_card_list",
+    "value": "成員清單"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_challenge_live",
+    "value": "挑戰LIVE"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_character_rank",
+    "value": "角色等級"
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_colorful_pass",
     "value": "七彩通行證"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_costume",
+    "value": "演出服裝"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_costume3d_shop",
+    "value": "服飾店"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_custom_profile",
+    "value": "個人資料"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_edit",
+    "value": "編組"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_event",
     "value": "前往活動"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_event_exchange",
+    "value": "活動交換所"
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_external",
     "value": "規則説明"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_first_recharge",
+    "value": "首儲獎勵"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_flower",
+    "value": "幸運之花遊行交換所"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_friend",
+    "value": "好友"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_friend_invitation_campaign",
+    "value": "歡迎來到「世界」大作戰！！"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_gacha",
     "value": "前往招募"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_gacha_item_exchange",
+    "value": "招募貼紙交換所"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_gift",
+    "value": "禮物"
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_information",
     "value": "通知"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_jewel_show_dialogue",
+    "value": "推薦商品"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_live",
+    "value": "LIVE"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_master_lesson_material_exchange",
+    "value": "心願碎片交換所"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_member",
+    "value": "成員"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_member_exchange",
+    "value": "成員交換所"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_mission",
+    "value": "任務"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_multi_live",
+    "value": "多人LIVE"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_music_shop",
+    "value": "唱片行"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_mv",
+    "value": "MV"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_mysekai",
+    "value": "我的「世界」"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_panel_mission",
+    "value": "集章任務"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_questionnaire",
     "value": "問卷"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_rank_match",
+    "value": "段位配對"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_return",
     "value": "回歸任務"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_sekai_echo",
+    "value": "「世界」的回響"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_shining_exchange",
+    "value": "心愿徽章兑换所"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_shop",
+    "value": "商店"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_solo_live",
+    "value": "單人LIVE"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_special_material_exchange",
+    "value": "幸運之花遊行交換所"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_stamp_shop",
+    "value": "貼圖商店"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_story",
+    "value": "劇情"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_sudoku",
+    "value": "「世界」入住任務"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_support_event",
+    "value": "应援祭"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_ticket_exchange",
+    "value": "票券交換所"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_training",
+    "value": "育成"
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_virtual_live",
@@ -6704,6 +8032,10 @@
     "value": "請留下評價"
   },
   {
+    "wordingKey": "WORD_FENCE",
+    "value": "柵欄"
+  },
+  {
     "wordingKey": "WORD_FEVER_EFFECT",
     "value": "FEVER演出"
   },
@@ -6718,6 +8050,10 @@
   {
     "wordingKey": "WORD_FILTER",
     "value": "篩選"
+  },
+  {
+    "wordingKey": "WORD_FILTERED_COSTUME_EMPTY",
+    "value": "無目標服裝。"
   },
   {
     "wordingKey": "WORD_FILTER_CARD_NORMAL",
@@ -6764,6 +8100,14 @@
     "value": "最終確認"
   },
   {
+    "wordingKey": "WORD_FIND_FROM_SONG_TITLE_CREATOR_NAME",
+    "value": "從曲名、創作者名尋找"
+  },
+  {
+    "wordingKey": "WORD_FIRST_CRAFT_BONUS",
+    "value": "新製作獎勵<size=32>＋{0}<\/size>"
+  },
+  {
     "wordingKey": "WORD_FIRST_REWARD",
     "value": "初次參加報酬"
   },
@@ -6776,8 +8120,52 @@
     "value": "必中之出現機率"
   },
   {
+    "wordingKey": "WORD_FIXTURE",
+    "value": "家具"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_BONUS_DESCRIPTION",
+    "value": "{0}的表現力提升<color=#FF5588>{1}%<\/color>。（每種尺寸最多一次）"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_CRAFT_CONFIRM",
+    "value": "即將製作<color=#ff5599>{1}個<\/color>{0}。\n確定嗎？"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_CREATE_RESULT",
+    "value": "家具製作完成。"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_DETAIL",
+    "value": "家具詳情"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_POSSESSION",
+    "value": "提升持有家具的上限"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_RECYCLE_RESULT",
+    "value": "已回收家具並獲得道具。"
+  },
+  {
     "wordingKey": "WORD_FLICK",
     "value": "滑鍵"
+  },
+  {
+    "wordingKey": "WORD_FLOOR",
+    "value": "地板"
+  },
+  {
+    "wordingKey": "WORD_FLOORING",
+    "value": "地板"
+  },
+  {
+    "wordingKey": "WORD_FLOWER",
+    "value": "花"
+  },
+  {
+    "wordingKey": "WORD_FOLIAGE_PLANT",
+    "value": "觀葉植物"
   },
   {
     "wordingKey": "WORD_FONT",
@@ -6794,6 +8182,10 @@
   {
     "wordingKey": "WORD_FONT_TEXT",
     "value": "範例abc"
+  },
+  {
+    "wordingKey": "WORD_FORMAT_RECORD_NAME",
+    "value": "「{0}」的唱片"
   },
   {
     "wordingKey": "WORD_FORTUNE",
@@ -6822,6 +8214,10 @@
   {
     "wordingKey": "WORD_FREE_LIVE",
     "value": "單人LIVE"
+  },
+  {
+    "wordingKey": "WORD_FREE_THEMA",
+    "value": "自由主題"
   },
   {
     "wordingKey": "WORD_FREND_SORT_TITLE",
@@ -6853,7 +8249,7 @@
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_CAMPAIGN_DETAIL_JSON",
-    "value": "{\n \"title\": \"[3.5週年紀念]歡迎來到「世界」大作戰！！\",\n \"list\" : [ \n {\n \"head\" : \"■舉辦期間 \",\n \"desc\" : \"【活動舉辦期間】3\/28 00:00 ～ 04\/30 23:59\n【任務達成報酬領取期間】3\/28 00:00 ～ 04\/30 23:59\n【[邀請朋友]必中★4成員招募舉辦期間】3\/28 00:00 ～ 05\/22 23:59\"\n },\n {\n\"head\" : \"■任務的進行方式\",\n\"desc\" : \" ▼關於邀請者\n只要你邀請的朋友完成邀請任務，即可獲得豪華獎勵。\n【對象玩家】3\/28 0:00以前完成新手教學的玩家\n【順序】\n[1] 將邀請活動畫面中，你的邀請碼告訴朋友吧！\n[2] 只要輸入你的邀請碼的朋友完成所有的邀請任務，就能獲得獎勵！\n\n■任務的進行方式\n▼關於邀請者\n只要你邀請的朋友完成邀請任務，即可獲得豪華獎勵。\n\n\n【獎勵】\n第1位的完成獎勵\n・初次限定：[邀請朋友]必中★4成員招募票券×1\n\n第2~10位的完成獎勵\n・每完成1位 心願碎片×50\n\n※若於本活動領取過首次限定報酬，在今後的邀請活動中能獲得的報酬可能會有所不同。\n\n▼關於被邀請者\n挑戰招待任務，根據進度可以獲得豪華獎勵。\n\n【對象玩家】\n3\/28 00:00以後完成新手教學的玩家\n\n【順序】\n[1] 請已經有在玩《世界計畫》的朋友告訴你他的邀請碼，然後在邀請活動畫面輸入邀請碼吧！\n[2] 不跳過、不快轉地觀看各個團體的主線劇情吧！\n\n【獎勵】\n觀看完1個團體的主線劇情\n・心願碎片×300\n\n觀看完1個團體的主線劇情\n・水晶×300\n\n觀看完1個團體的主線劇情\n・[邀請朋友]必中★4成員招募票券×1\n\"\n },\n {\n\"head\" : \" ■關於[邀請朋友]必中★4成員招募\",\n\"desc\" : \" 是[邀請朋友]必中★4成員招募票券專用的招募。\n消耗1張[邀請朋友]必中★4成員招募票券可招募1次。\n消耗1張[邀請朋友]必中★4成員招募一定會出現★4成員。\n出現的★4成員是2024\/3\/21 15:00為止在招募中登場過常駐成員。\n※不會出現七彩慶典招募限定、期間限定、生日限定、紀念日限定、連動限定成員｡\n[邀請朋友]必中★4成員招募只會在持有該招募票券時出現在招募畫面。\"\n },\n {\n\"head\" : \" ■注意事項\",\n\"desc\" : \" ・活動時間若有變更，恕不另行通知。\n・[邀請朋友]必中★4成員招募票券無法使用於下次舉辦的[邀請朋友]必中★4成員招募。\n・若於本活動領取過首次限定報酬，在今後的邀請活動中能獲得的報酬可能會有所不同。\n・被邀請的玩家在完成所有邀請任務時，邀請的玩家會收到該玩家觀看完哪一個團體的資訊。\n・任務報酬若不在任務達成報酬領取期間領取的話，將無法獲得，敬請注意。\"\n },\n ] \n}"
+    "value": "{\n \"title\": \"[4周年記念]歡迎來到「世界」大作戰！！\",\n \"list\" : [ \n {\n \"head\" : \"■舉辦期間 \",\n \"desc\" : \"【活動舉辦期間】9\/28 00:00 ～ 10\/21 23:59\n【任務達成報酬領取期間】9\/28 00:00 ～ 10\/21 23:59\n【[邀請朋友]必中★4成員招募舉辦期間】9\/28 00:00 ～ 11\/30 23:59\"\n },\n {\n\"head\" : \"■任務的進行方式\",\n\"desc\" : \" ▼關於邀請者\n只要你邀請的朋友完成邀請任務，即可獲得豪華獎勵。\n【對象玩家】9\/28 0:00以前完成新手教學的玩家\n【順序】\n[1] 將邀請活動畫面中，你的邀請碼告訴朋友吧！\n[2] 只要輸入你的邀請碼的朋友完成所有的邀請任務，就能獲得獎勵！\n\n■任務的進行方式\n▼關於邀請者\n只要你邀請的朋友完成邀請任務，即可獲得豪華獎勵。\n\n\n【獎勵】\n第1位的完成獎勵\n・初次限定：[邀請朋友]必中★4成員招募票券×1\n\n第2~10位的完成獎勵\n・每完成1位 心願碎片×50\n\n※若於本活動領取過首次限定報酬，在今後的邀請活動中能獲得的報酬可能會有所不同。\n\n▼關於被邀請者\n挑戰招待任務，根據進度可以獲得豪華獎勵。\n\n【對象玩家】\n9\/28 00:00以後完成新手教學的玩家\n\n【順序】\n[1] 請已經有在玩《世界計畫》的朋友告訴你他的邀請碼，然後在邀請活動畫面輸入邀請碼吧！\n[2] 不跳過、不快轉地觀看各個團體的主線劇情吧！\n\n【獎勵】\n觀看完1個團體的主線劇情\n・心願碎片×300\n\n觀看完1個團體的主線劇情\n・水晶×300\n\n觀看完1個團體的主線劇情\n・[邀請朋友]必中★4成員招募票券×1\n\"\n },\n {\n\"head\" : \" ■關於[邀請朋友]必中★4成員招募\",\n\"desc\" : \" 是[邀請朋友]必中★4成員招募票券專用的招募。\n消耗1張[邀請朋友]必中★4成員招募票券可招募1次。\n消耗1張[邀請朋友]必中★4成員招募一定會出現★4成員。\n出現的★4成員是2024\/3\/21 15:00為止在招募中登場過常駐成員。\n※不會出現七彩慶典招募限定、期間限定、生日限定、紀念日限定、連動限定成員｡\n[邀請朋友]必中★4成員招募只會在持有該招募票券時出現在招募畫面。\"\n },\n {\n\"head\" : \" ■注意事項\",\n\"desc\" : \" ・活動時間若有變更，恕不另行通知。\n・[邀請朋友]必中★4成員招募票券無法使用於下次舉辦的[邀請朋友]必中★4成員招募。\n・若於本活動領取過首次限定報酬，在今後的邀請活動中能獲得的報酬可能會有所不同。\n・被邀請的玩家在完成所有邀請任務時，邀請的玩家會收到該玩家觀看完哪一個團體的資訊。\n・任務報酬若不在任務達成報酬領取期間領取的話，將無法獲得，敬請注意。\"\n },\n ] \n}"
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_CODE",
@@ -6988,6 +8384,10 @@
     "value": "主"
   },
   {
+    "wordingKey": "WORD_FURNITURE",
+    "value": "家具"
+  },
+  {
     "wordingKey": "WORD_GACHA",
     "value": "招募"
   },
@@ -7080,6 +8480,14 @@
     "value": "附帶演出服裝"
   },
   {
+    "wordingKey": "WORD_GACHA_EXTRA_CUSTOM_PROFILE",
+    "value": "附帶自製個人資料素材"
+  },
+  {
+    "wordingKey": "WORD_GACHA_EXTRA_STAMP",
+    "value": "附帶貼圖"
+  },
+  {
     "wordingKey": "WORD_GACHA_LIMITED_SET_PERIOD",
     "value": "舉辦時間至{0}。"
   },
@@ -7098,6 +8506,22 @@
   {
     "wordingKey": "WORD_GACHA_TICKET",
     "value": "招募票券"
+  },
+  {
+    "wordingKey": "WORD_GARDEN",
+    "value": "庭園"
+  },
+  {
+    "wordingKey": "WORD_GATE_CONTENT_INVITATION",
+    "value": "邀請函"
+  },
+  {
+    "wordingKey": "WORD_GATE_CONTENT_SKIN",
+    "value": "外貌"
+  },
+  {
+    "wordingKey": "WORD_GATE_CONTENT_UNIT",
+    "value": "團體"
   },
   {
     "wordingKey": "WORD_GENERAL",
@@ -7130,6 +8554,10 @@
   {
     "wordingKey": "WORD_GET_EXCLAMATION_MARK",
     "value": "GET!"
+  },
+  {
+    "wordingKey": "WORD_GET_FIRST_PURCHASE_BONUS",
+    "value": "獲得了初次購買獎勵。"
   },
   {
     "wordingKey": "WORD_GET_ITEM",
@@ -7184,6 +8612,10 @@
     "value": "確認道具設定"
   },
   {
+    "wordingKey": "WORD_GOTO_SELECT_MEMBER",
+    "value": "前往選擇成員"
+  },
+  {
     "wordingKey": "WORD_GOTO_SHOP_TEXT",
     "value": "前往商店"
   },
@@ -7206,6 +8638,10 @@
   {
     "wordingKey": "WORD_GO_AREA_SHOP",
     "value": "前往區域道具商店"
+  },
+  {
+    "wordingKey": "WORD_GO_BACK",
+    "value": "返回"
   },
   {
     "wordingKey": "WORD_GO_BOOST_RECOVERY",
@@ -7348,6 +8784,26 @@
     "value": "前往活動首頁"
   },
   {
+    "wordingKey": "WORD_GO_TO_FRIEND_MYSEKAI_LIST",
+    "value": "前往好友的\n我的「世界」"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_MYSEKAI",
+    "value": "出發"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_MYSEKAI＿HOUSING_COMPETITION",
+    "value": "COMING SOON…"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_MY_SEKAI",
+    "value": "前往我的「世界」"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_OTHER_MYSEKAI",
+    "value": "前往某人的\n我的「世界」"
+  },
+  {
     "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
     "value": "購入票券"
   },
@@ -7382,6 +8838,10 @@
   {
     "wordingKey": "WORD_GRATE_MISFORTUNE",
     "value": "大凶"
+  },
+  {
+    "wordingKey": "WORD_GROUND",
+    "value": "地面"
   },
   {
     "wordingKey": "WORD_GROUP_DECIDE",
@@ -7488,6 +8948,10 @@
     "value": "引導的不透明度"
   },
   {
+    "wordingKey": "WORD_GUIDE_URL",
+    "value": "https:\/\/www.tw-pjsekai.com\/faq.html"
+  },
+  {
     "wordingKey": "WORD_HAIR",
     "value": "髮型"
   },
@@ -7526,6 +8990,18 @@
   {
     "wordingKey": "WORD_HAIR_TYPE",
     "value": "髮型"
+  },
+  {
+    "wordingKey": "WORD_HANGING_FURNITURE",
+    "value": "壁掛家具"
+  },
+  {
+    "wordingKey": "WORD_HARVST_SITE_RELEASE_NEW_SITE",
+    "value": "擴大採集區域"
+  },
+  {
+    "wordingKey": "WORD_HASH_TAG_FORMAT",
+    "value": "#{0}"
   },
   {
     "wordingKey": "WORD_HASUERLOGOUT_BUTTON_CLOSE",
@@ -7628,6 +9104,22 @@
     "value": "返回主畫面"
   },
   {
+    "wordingKey": "WORD_HOME_ELECTRONICS",
+    "value": "家電"
+  },
+  {
+    "wordingKey": "WORD_HOME_SITE_GARDEN",
+    "value": "主畫面地點（庭園）"
+  },
+  {
+    "wordingKey": "WORD_HOME_SITE_ROOM",
+    "value": "主畫面地點（房間）"
+  },
+  {
+    "wordingKey": "WORD_HOME_SITE_SIZE_EXPAND",
+    "value": "擴大庭園尺寸"
+  },
+  {
     "wordingKey": "WORD_HONOR",
     "value": "稱號"
   },
@@ -7680,6 +9172,30 @@
     "value": "稱號「{0}」"
   },
   {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_ACHIEVEMENT",
+    "value": "成就"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_ALL",
+    "value": "全部"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_BONDS",
+    "value": "情誼"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_CHARACTER",
+    "value": "角色"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_EVENT",
+    "value": "活動"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_TITLE",
+    "value": "稱號"
+  },
+  {
     "wordingKey": "WORD_HONOR_NO_SETTING",
     "value": "稱號未設定"
   },
@@ -7702,6 +9218,14 @@
   {
     "wordingKey": "WORD_HOURS_LEFT",
     "value": "還有{0}小時"
+  },
+  {
+    "wordingKey": "WORD_HOUSE",
+    "value": "房子"
+  },
+  {
+    "wordingKey": "WORD_HOUSING_COMPETITION_COMING_SOON",
+    "value": "預計更新"
   },
   {
     "wordingKey": "WORD_HUNDRED_MILLION",
@@ -7808,6 +9332,10 @@
     "value": "LIVE中"
   },
   {
+    "wordingKey": "WORD_IN_SETTING",
+    "value": "布置中"
+  },
+  {
     "wordingKey": "WORD_IN_VIRTUAL_LIVE",
     "value": "虛擬\nLIVE中"
   },
@@ -7820,8 +9348,20 @@
     "value": "補償舉辦中"
   },
   {
+    "wordingKey": "WORD_IS_TO_MOVING",
+    "value": "要前往{0}嗎？"
+  },
+  {
+    "wordingKey": "WORD_IS_TO_MOVING_NOT_DROP",
+    "value": "要前往{0}嗎？\n<color=#FF3366>※現在的天氣無法採集此素材。<\/color>"
+  },
+  {
     "wordingKey": "WORD_ITEM",
     "value": "道具"
+  },
+  {
+    "wordingKey": "WORD_ITEM_CRYSTAL",
+    "value": "道具、水晶"
   },
   {
     "wordingKey": "WORD_ITEM_DETAIL",
@@ -7834,6 +9374,10 @@
   {
     "wordingKey": "WORD_I_HAVE",
     "value": "持有"
+  },
+  {
+    "wordingKey": "WORD_JACKET_MUSIC_SELECT",
+    "value": "封面"
   },
   {
     "wordingKey": "WORD_JEWEL",
@@ -7868,6 +9412,14 @@
     "value": "關鍵劇情"
   },
   {
+    "wordingKey": "WORD_LAG",
+    "value": "地墊"
+  },
+  {
+    "wordingKey": "WORD_LASTEST_ISSUE",
+    "value": "最新一期"
+  },
+  {
     "wordingKey": "WORD_LATEST_STORY",
     "value": "最新劇情"
   },
@@ -7886,6 +9438,10 @@
   {
     "wordingKey": "WORD_LAYER_UP",
     "value": "上一層"
+  },
+  {
+    "wordingKey": "WORD_LAYOUT_LIST",
+    "value": "配置圖清單"
   },
   {
     "wordingKey": "WORD_LEFT_ROOM",
@@ -7964,6 +9520,10 @@
     "value": "出現成員清單"
   },
   {
+    "wordingKey": "WORD_LIST_MUSIC_SELECT",
+    "value": "清單"
+  },
+  {
     "wordingKey": "WORD_LIVE",
     "value": "LIVE"
   },
@@ -7986,6 +9546,14 @@
   {
     "wordingKey": "WORD_LIVE_ASSIST_SETTING",
     "value": "LIVE輔助設定"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BONUS",
+    "value": "LIVE BONUS"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BONUS_NOT_ENOUGH",
+    "value": "LIVE BONUS不足。"
   },
   {
     "wordingKey": "WORD_LIVE_BONUS_PRESENT",
@@ -8384,6 +9952,18 @@
     "value": "搜尋房間中"
   },
   {
+    "wordingKey": "WORD_MATERIAL_MISSING",
+    "value": "材料不足"
+  },
+  {
+    "wordingKey": "WORD_MATERIAL_POSSESSION",
+    "value": "提升持有素材的上限"
+  },
+  {
+    "wordingKey": "WORD_MATERIAL_RECYCLE_RESULT",
+    "value": "已回收素材並獲得硬幣。"
+  },
+  {
     "wordingKey": "WORD_MAX",
     "value": "MAX"
   },
@@ -8402,6 +9982,10 @@
   {
     "wordingKey": "WORD_MEMBER",
     "value": "成員"
+  },
+  {
+    "wordingKey": "WORD_MEMBER_CANVAS_CRAFT_CONFIRM",
+    "value": "即將製作<color=#ff5599>{0}個<\/color>以下成員的無框畫。\n確定嗎？"
   },
   {
     "wordingKey": "WORD_MEMBER_CONFIRM",
@@ -8478,6 +10062,10 @@
   {
     "wordingKey": "WORD_MENU_COSTUME",
     "value": "選單服裝"
+  },
+  {
+    "wordingKey": "WORD_MENU_MYSEKAI_RANK",
+    "value": "我的「世界」等級"
   },
   {
     "wordingKey": "WORD_MESSAGE",
@@ -8580,6 +10168,14 @@
     "value": "收集成員"
   },
   {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_MYSEKAI_CANVAS",
+    "value": "無框畫"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_MYSEKAI_FIXTURE",
+    "value": "含有角色標籤的家具"
+  },
+  {
     "wordingKey": "WORD_MISSION_TITLE_COLLECT_STAMP",
     "value": "收集貼圖"
   },
@@ -8632,6 +10228,10 @@
     "value": "模式"
   },
   {
+    "wordingKey": "WORD_MODEL_ROOM",
+    "value": "樣品屋"
+  },
+  {
     "wordingKey": "WORD_MODEL_TEXTURE_QUALITY_SETTING",
     "value": "貼圖品質"
   },
@@ -8642,6 +10242,10 @@
   {
     "wordingKey": "WORD_MODULE_MAINTENANCE",
     "value": "功能維護"
+  },
+  {
+    "wordingKey": "WORD_MONTH_HOUSING_COMPETITION",
+    "value": "本月的\n39景"
   },
   {
     "wordingKey": "WORD_MOVE",
@@ -9252,6 +10856,10 @@
     "value": "移動"
   },
   {
+    "wordingKey": "WORD_MUSIC_PLAYER",
+    "value": "MUSIC PLAYER"
+  },
+  {
     "wordingKey": "WORD_MUSIC_REWARD",
     "value": "歌曲報酬"
   },
@@ -9348,8 +10956,180 @@
     "value": "播放清單尚未被儲存。\n要儲存後再返回嗎？"
   },
   {
+    "wordingKey": "WORD_MYROOM_SITE_RELEASE_NEW_FLOOR",
+    "value": "解鎖房間"
+  },
+  {
+    "wordingKey": "WORD_MYROOM_SITE_SIZE_EXPAND",
+    "value": "擴大房間尺寸"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI",
+    "value": "我的「世界」"
+  },
+  {
+    "wordingKey": "Word_MysekaiChat_Punish",
+    "value": "因為被處罰所以您暫時無法發言。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_CAN_PUT",
+    "value": "已布置的家具"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_COLORFUL_PASS_ALERT_TITLE",
+    "value": "超過有效期限"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_COLORFUL_PASS_OK",
+    "value": "前往水晶商店"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_CONVERT_OUT_OF_STOCK_DETAIL",
+    "value": "缺貨"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_CONVERT_OUT_OF_STOCK_THUMBNAIL",
+    "value": "缺貨"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DAILY_UPDATE",
+    "value": "每日更新"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DETAIL_JSON",
+    "value": "{\n \"list\": [\n {\n \"head\": \"■組合內容\",\n \"desc\": \"購買<color=#FF5599>我的「世界」任務通行證<\/color>後，可立即獲得付費水晶×1850、心願碎片×300，並解鎖當月LIVE任務的世界任務。完成當月的LIVE任務，可獲得大量獎勵。\n同時購買<color=#FF5599>我的「世界」任務通行證<\/color>與<color=#FF5599>高階任務通行證<\/color>，可獲得優惠折扣。若已單獨購買<color=#FF5599>高階任務通行證<\/color>或<color=#FF5599>高階任務通行證（進階版）<\/color>，然後在當月內再購買<color=#FF5599>我的「世界」任務通行證<\/color>，即可享購入優惠；若已單獨購買<color=#FF5599>我的「世界」任務通行證<\/color>，則在當月內可選<color=#FF5599>高階任務通行證<\/color>或<color=#FF5599>高階任務通行證（進階版）<\/color>其中一個通行證來享受購買優惠。\n\n各通行證價格如下：\n<color=#FF5599>高階任務通行證<\/color>：HK$123\n<color=#FF5599>我的「世界」任務通行證<\/color>：HK$123\n<color=#FF5599>我的「世界」任務通行證<\/color>+<color=#FF5599>高階任務通行證<\/color>：HK$213\"\n },\n {\n \"head\": \"■LIVE任務 解鎖我的「世界」獎勵\",\n \"desc\": \"根據這個月累計獲得的LIVE P，可解鎖LIVE任務 我的「世界」獎勵。\n・[限定角色家具]玩偶的設計圖(S\/M\/L)×最多6～7種\n・七彩記憶×最多20個\n・空白設計圖×最多2張\n・鏈鋸×最多1個\n・鑿岩機×最多1個\n・心願碎片×最多700個\n・LIVE BONUS飲料（大）×最多50個\n※七彩記憶是可以換成喜歡的角色的記憶的道具。\n※七彩記憶可以到[選單]→[交換所]→[心願碎片／記憶交換所]→[七彩記憶]使用。\n※[限定角色家具]玩偶的設計圖的種類數量每個月會不同。詳情請至每個月1日00:00公布的「我的『世界』任務通行證」販售開始的公告確認。\"\n },\n {\n \"head\": \"■商品交付時間\",\n \"desc\": \"・組合內容：完成購買手續後，將立即發送。\n・LIVE任務「我的『世界』」獎勵：完成購買手續後，根據累計的LIVE P點數，可至［任務］→［LIVE］畫面領取。\n※LIVE任務所需LIVE P、各階段的獎勵內容與詳細條件，請至［任務］→［LIVE］畫面中確認。\n※水晶為預付型支付。\"\n },\n {\n \"head\": \"■商品的退貨・換貨\",\n \"desc\": \"由於商品屬性之故，恕無法受理退貨或更換。\"\n },\n {\n \"head\": \"■注意事項\",\n \"desc\": \"・LIVE任務將於每個月1號的00:00重置。\n・解鎖LIVE任務的我的「世界」獎勵、購買高階任務通行證的組合優惠，僅於購買的當月有效。\n・透過LIVE任務解鎖我的「世界」獎勵的報酬，亦包含購買前該月份內累積的LIVE P點數對應的報酬。\n・未領取的LIVE任務中我的「世界」獎勵會如同普通的LIVE任務報酬，在下個月發送至「禮物」。\n・發送至「禮物」的LIVE任務中我的「世界」獎勵的領取期限為發送至「禮物」起的30天內。\n・在購買｢我的『世界』任務通行證」後，即使尚未領取所有報酬，未達成的累積LIVE P對應報酬將會失效，敬請注意。\n・即使更換同系統裝置或轉移至不同作業系統，「我的『世界』任務通行證」的購買資訊仍會保留，可繼續領取相關報酬。\n・「七彩記憶是可以換成喜歡的角色的記憶的道具。\n・七彩記憶可以到[選單]→[交換所]→[心願碎片／記憶交換所]→[七彩記憶]使用。\n・在我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」不會出現在我的「世界」的「神秘商店」。\n・無法對我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」進行素描。\n・在我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」今後仍有可能再次登場。\n・可在我的「世界」任務通行證中獲得得家具和道具的內容今後有可能會改變。\"\n }\n ] \n}"
+  },
+  {
     "wordingKey": "WORD_MYSEKAI_DETAIL_JSON_TW",
-    "value": "{\n  \"list\": [\n    {\n      \"head\": \"■組合內容\",\n      \"desc\": \"購買<color=#FF5599>我的「世界」任務通行證<\/color>後，可立即獲得付費水晶×1850、心願碎片×300，並解鎖當月LIVE任務的世界任務。完成當月的LIVE任務，可獲得大量獎勵。同時購買<color=#FF5599>我的「世界」任務通行證<\/color>與<color=#FF5599>高階任務通行證<\/color>，可獲得優惠折扣。若已單獨購買<color=#FF5599>高階任務通行證<\/color>或<color=#FF5599>高階任務通行證（進階版）<\/color>，然後在當月內再購買<color=#FF5599>我的「世界」任務通行證<\/color>，即可享購入優惠；若已單獨購買<color=#FF5599>我的「世界」任務通行證<\/color>，則在當月內可選<color=#FF5599>高階任務通行證<\/color>或<color=#FF5599>高階任務通行證（進階版）<\/color>其中一個通行證來享受購買優惠。各通行證價格如下：<color=#FF5599>高階任務通行證<\/color>：530台幣<color=#FF5599>我的「世界」任務通行證<\/color>：530台幣<color=#FF5599>我的「世界」任務通行證<\/color>+<color=#FF5599>高階任務通行證<\/color>：920台幣\"\n    },\n    {\n      \"head\": \"■LIVE任務 解鎖我的「世界」獎勵\",\n      \"desc\": \"根據這個月累計獲得的LIVE P，可解鎖LIVE任務 我的「世界」獎勵。・[限定角色家具]玩偶的設計圖(S\/M\/L)×最多6～7種・七彩記憶×最多20個・空白設計圖×最多2張・鏈鋸×最多1個・鑿岩機×最多1個・心願碎片×最多700個・LIVE BONUS飲料（大）×最多50個※七彩記憶是可以換成喜歡的角色的記憶的道具。※七彩記憶可以到[選單]→[交換所]→[心願碎片／記憶交換所]→[七彩記憶]使用。※[限定角色家具]玩偶的設計圖的種類數量每個月會不同。詳情請至每個月1日00:00公布的「我的『世界』任務通行證」販售開始的公告確認。\"\n    },\n    {\n      \"head\": \"■商品款項的支付時間・方法\",\n      \"desc\": \"・信用卡：以各發卡銀行的扣款日依其規定為準。・透過電信業者收費：將與您的電信費用合併計費，付款時間依各電信業者規定為準。・由本公司發行的預付型支付工具：在最終確認畫面中按下「確定購買」按鈕時即完成付款。・其他由第三方金流服務商提供的付款方式：實際付款方式將依各金流服務商的規定為準，付款時間亦同。\"\n    },\n    {\n      \"head\": \"■商品交付時間\",\n      \"desc\": \"・組合內容：完成購買手續後，將立即發送。・LIVE任務「我的『世界』」獎勵：完成購買手續後，根據累計的LIVE P點數，可至［任務］→［LIVE］畫面領取。※LIVE任務所需LIVE P、各階段的獎勵內容與詳細條件，請至［任務］→［LIVE］畫面中確認。※水晶為預付型支付。※使用「超商付款」時，因系統處理時間，商品可能需數小時至數日才可交付，無法即時發送，敬請注意。\"\n    },\n    {\n      \"head\": \"■商品的退貨・換貨\",\n      \"desc\": \"由於商品屬性之故，恕無法受理退貨或更換。\"\n    },\n    {\n      \"head\": \"■注意事項\",\n      \"desc\": \"・LIVE任務將於每個月1號的00:00重置。・解鎖LIVE任務的我的「世界」獎勵、購買高階任務通行證的組合優惠，僅於購買的當月有效。・透過LIVE任務解鎖我的「世界」獎勵的報酬，亦包含購買前該月份內累積的LIVE P點數對應的報酬。・未領取的LIVE任務中我的「世界」獎勵會如同普通的LIVE任務報酬，在下個月發送至「禮物」。・發送至「禮物」的LIVE任務中我的「世界」獎勵的領取期限為發送至「禮物」起的30天內。・在購買｢我的『世界』任務通行證」後，即使尚未領取所有報酬，未達成的累積LIVE P對應報酬將會失效，敬請注意。・即使更換同系統裝置或轉移至不同作業系統，「我的『世界』任務通行證」的購買資訊仍會保留，可繼續領取相關報酬。・「七彩記憶是可以換成喜歡的角色的記憶的道具。・七彩記憶可以到[選單]→[交換所]→[心願碎片／記憶交換所]→[七彩記憶]使用。・在我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」不會出現在我的「世界」的「神秘商店」。・無法對我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」進行素描。・在我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」今後仍有可能再次登場。・可在我的「世界」任務通行證中獲得得家具和道具的內容今後有可能會改變。\"\n    }\n  ]\n}\n"
+    "value": "{\n \"list\": [\n {\n \"head\": \"■組合內容\",\n \"desc\": \"購買<color=#FF5599>我的「世界」任務通行證<\/color>後，可立即獲得付費水晶×1850、心願碎片×300，並解鎖當月LIVE任務的世界任務。完成當月的LIVE任務，可獲得大量獎勵。\n同時購買<color=#FF5599>我的「世界」任務通行證<\/color>與<color=#FF5599>高階任務通行證<\/color>，可獲得優惠折扣。若已單獨購買<color=#FF5599>高階任務通行證<\/color>或<color=#FF5599>高階任務通行證（進階版）<\/color>，然後在當月內再購買<color=#FF5599>我的「世界」任務通行證<\/color>，即可享購入優惠；若已單獨購買<color=#FF5599>我的「世界」任務通行證<\/color>，則在當月內可選<color=#FF5599>高階任務通行證<\/color>或<color=#FF5599>高階任務通行證（進階版）<\/color>其中一個通行證來享受購買優惠。\n\n各通行證價格如下：\n<color=#FF5599>高階任務通行證<\/color>：NT$530\n<color=#FF5599>我的「世界」任務通行證<\/color>：NT$530\n<color=#FF5599>我的「世界」任務通行證<\/color>+<color=#FF5599>高階任務通行證<\/color>：NT$920\"\n },\n {\n \"head\": \"■LIVE任務 解鎖我的「世界」獎勵\",\n \"desc\": \"根據這個月累計獲得的LIVE P，可解鎖LIVE任務 我的「世界」獎勵。\n・[限定角色家具]玩偶的設計圖(S\/M\/L)×最多6～7種\n・七彩記憶×最多20個\n・空白設計圖×最多2張\n・鏈鋸×最多1個\n・鑿岩機×最多1個\n・心願碎片×最多700個\n・LIVE BONUS飲料（大）×最多50個\n※七彩記憶是可以換成喜歡的角色的記憶的道具。\n※七彩記憶可以到[選單]→[交換所]→[心願碎片／記憶交換所]→[七彩記憶]使用。\n※[限定角色家具]玩偶的設計圖的種類數量每個月會不同。詳情請至每個月1日00:00公布的「我的『世界』任務通行證」販售開始的公告確認。\"\n },\n {\n \"head\": \"■商品交付時間\",\n \"desc\": \"・組合內容：完成購買手續後，將立即發送。\n・LIVE任務「我的『世界』」獎勵：完成購買手續後，根據累計的LIVE P點數，可至［任務］→［LIVE］畫面領取。\n※LIVE任務所需LIVE P、各階段的獎勵內容與詳細條件，請至［任務］→［LIVE］畫面中確認。\n※水晶為預付型支付。\"\n },\n {\n \"head\": \"■商品的退貨・換貨\",\n \"desc\": \"由於商品屬性之故，恕無法受理退貨或更換。\"\n },\n {\n \"head\": \"■注意事項\",\n \"desc\": \"・LIVE任務將於每個月1號的00:00重置。\n・解鎖LIVE任務的我的「世界」獎勵、購買高階任務通行證的組合優惠，僅於購買的當月有效。\n・透過LIVE任務解鎖我的「世界」獎勵的報酬，亦包含購買前該月份內累積的LIVE P點數對應的報酬。\n・未領取的LIVE任務中我的「世界」獎勵會如同普通的LIVE任務報酬，在下個月發送至「禮物」。\n・發送至「禮物」的LIVE任務中我的「世界」獎勵的領取期限為發送至「禮物」起的30天內。\n・在購買｢我的『世界』任務通行證」後，即使尚未領取所有報酬，未達成的累積LIVE P對應報酬將會失效，敬請注意。\n・即使更換同系統裝置或轉移至不同作業系統，「我的『世界』任務通行證」的購買資訊仍會保留，可繼續領取相關報酬。\n・「七彩記憶是可以換成喜歡的角色的記憶的道具。\n・七彩記憶可以到[選單]→[交換所]→[心願碎片／記憶交換所]→[七彩記憶]使用。\n・在我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」不會出現在我的「世界」的「神秘商店」。\n・無法對我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」進行素描。\n・在我的「世界」任務通行證中登場的限定玩偶家具的「玩偶的設計圖」今後仍有可能再次登場。\n・可在我的「世界」任務通行證中獲得得家具和道具的內容今後有可能會改變。\"\n }\n ] \n}"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_JOINT_LAYOUT_COUNT",
+    "value": "已設置的道路和柵欄"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_LAYOUT_COUNT",
+    "value": "已布置的家具"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
+    "value": "布置的物品數量"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_CHARACTER_VISIT_COUNT_RATE",
+    "value": "來訪人數的機率"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_LEVEL",
+    "value": "大門等級"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_POWER_BONUS_RATE",
+    "value": "表現力BONUS"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_POWER_BONUS_UNIT",
+    "value": "的成員"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_CHARACTER",
+    "value": "來訪角色"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_COUNT",
+    "value": "{0}人"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_COUNT_LEVEL",
+    "value": "等級{0}"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_DEFAULT_CHARACTER",
+    "value": "最一開始來訪的角色"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INFO",
+    "value": "我的「世界」資訊"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_ANIMATION_SPACE",
+    "value": "含有必須預留動畫播放空間的家具。\n請重新檢視布置。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_LAYOUT",
+    "value": "含有不當布置的家具。\n要取消所有變更返回主畫面嗎？"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_PUT_SPACE",
+    "value": "沒有空間布置此家具。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_IN_DOOR_NAME",
+    "value": "室內（{0}）"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_ITEM_MAX",
+    "value": "999+"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_MATERIAL_MAX",
+    "value": "9,999+"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_NOT_ENOUGH_PHOTO_FILM_TO_CONVERT",
+    "value": "前往轉換"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_NOT_ENOUGH_PHOTO_FILM_TO_CRYSTAL_SHOP",
+    "value": "前往\n水晶商店"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PHOTO_ALBUM_EMPTY",
+    "value": "沒有儲存的相片。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PHOTO_ALBUM_NAME",
+    "value": "相簿"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PUT_LIMIT_FIXTURE_COUNT",
+    "value": "可布置家具數"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PUT_LIMIT_FIXTURE_JOINT_COUNT",
+    "value": "可布置道路與柵欄數"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_RANK",
+    "value": "我的「世界」等級"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_RANK_UP_ICON_TITLE",
+    "value": "等級"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_SIZE",
+    "value": "尺寸"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_TALK_RELEASE_CONDITION_SEPARATOR",
+    "value": "・"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_TALK_RELEASE_CONDITION_TWEET_FORMAT",
+    "value": "「{0}」"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_VISIST",
+    "value": "接納進我的「世界」"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_VOICE",
+    "value": "我的「世界」語音"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_WEEKLY_UPDATE",
+    "value": "每週一更新"
   },
   {
     "wordingKey": "WORD_MY_FAVORITE_STORY",
@@ -9362,6 +11142,10 @@
   {
     "wordingKey": "WORD_MY_MUSIC_LIST",
     "value": "列表{0}"
+  },
+  {
+    "wordingKey": "WORD_MY_SEKAI_MATERIAL_GAME_CHARACTER",
+    "value": "七彩\n記憶"
   },
   {
     "wordingKey": "WORD_NAME",
@@ -9412,8 +11196,16 @@
     "value": "未參加"
   },
   {
+    "wordingKey": "WORD_NORMAL_FURNITURE",
+    "value": "一般"
+  },
+  {
     "wordingKey": "WORD_NORMAL_MISSION",
     "value": "一般任務"
+  },
+  {
+    "wordingKey": "WORD_NORMAL_VOICE",
+    "value": "基本語音"
   },
   {
     "wordingKey": "WORD_NOTATION",
@@ -9452,6 +11244,10 @@
     "value": "未設定"
   },
   {
+    "wordingKey": "WORD_NOT_BLOCK_AND_KICK",
+    "value": "不封鎖踢除"
+  },
+  {
     "wordingKey": "WORD_NOT_CLEAR",
     "value": "未通過"
   },
@@ -9478,6 +11274,10 @@
   {
     "wordingKey": "WORD_NOT_FULL_COMBO",
     "value": "未FULL COMBO"
+  },
+  {
+    "wordingKey": "WORD_NOT_GET_COSTUME",
+    "value": "未獲得"
   },
   {
     "wordingKey": "WORD_NOT_INVITED",
@@ -9552,6 +11352,10 @@
     "value": "現在選擇"
   },
   {
+    "wordingKey": "WORD_NO_BLUE_PRINT",
+    "value": "沒有可製作的家具。"
+  },
+  {
     "wordingKey": "WORD_NO_CHANGE1",
     "value": "由於是相同組別"
   },
@@ -9562,6 +11366,10 @@
   {
     "wordingKey": "WORD_NO_CHARGE",
     "value": "免費"
+  },
+  {
+    "wordingKey": "WORD_NO_HAS_FIXTURE_TALK",
+    "value": "此家具無反應。"
   },
   {
     "wordingKey": "WORD_NO_MORE_TODAY",
@@ -9584,12 +11392,20 @@
     "value": "未設定"
   },
   {
+    "wordingKey": "WORD_NUMBER_I_HAVE",
+    "value": "持有數量"
+  },
+  {
     "wordingKey": "WORD_NUMBER_OF_PEPLE",
     "value": "{0}人"
   },
   {
     "wordingKey": "WORD_OBTAINED_COMPLETE_READ_STAMP",
     "value": "已收集的全部觀看印章"
+  },
+  {
+    "wordingKey": "WORD_OBTAINING_LOCATION",
+    "value": "獲得地點"
   },
   {
     "wordingKey": "WORD_OBTAIN_ALL",
@@ -9788,6 +11604,18 @@
     "value": "其他"
   },
   {
+    "wordingKey": "WORD_OTHER_COUNT",
+    "value": "其他{0}件"
+  },
+  {
+    "wordingKey": "WORD_OTHER_KIND_COUNT",
+    "value": "其他{0}種類"
+  },
+  {
+    "wordingKey": "WORD_OUTING_LIST",
+    "value": "外出地點清單"
+  },
+  {
     "wordingKey": "WORD_OUT_OF_RANKING",
     "value": "排行外"
   },
@@ -9932,8 +11760,24 @@
     "value": "期間限定"
   },
   {
+    "wordingKey": "WORD_PERSON_CONVERSATION",
+    "value": "{0}個人做反應"
+  },
+  {
+    "wordingKey": "WORD_PHENOMENA_DEFAULT",
+    "value": "時間帶來的變化"
+  },
+  {
     "wordingKey": "Word_Phone_MissNotch_Type",
     "value": "samsung SM-F916N*samsung SM-F907N"
+  },
+  {
+    "wordingKey": "WORD_PHOTO",
+    "value": "相片"
+  },
+  {
+    "wordingKey": "WORD_PHOTO_STAND",
+    "value": "桌上型無框畫（立式）"
   },
   {
     "wordingKey": "WORD_PIAPRO_IDOL_STORY_TITLE",
@@ -9956,12 +11800,32 @@
     "value": "奇幻樂園的「世界」篇"
   },
   {
+    "wordingKey": "WORD_PICKAXE",
+    "value": "十字鎬"
+  },
+  {
     "wordingKey": "WORD_PICKUP_LIST",
     "value": "Pick Up清單"
   },
   {
     "wordingKey": "WORD_PICKUP_MEMBER",
     "value": "Pick Up成員"
+  },
+  {
+    "wordingKey": "WORD_PILLAR",
+    "value": "柱子"
+  },
+  {
+    "wordingKey": "WORD_PLACEHOLDER_SEARCH_KEYWORD_TAG",
+    "value": "從關鍵字・標籤搜尋"
+  },
+  {
+    "wordingKey": "WORD_PLACEHOLDER_SEARCH_TAG",
+    "value": "從標籤搜尋"
+  },
+  {
+    "wordingKey": "WORD_PLANT",
+    "value": "植物"
   },
   {
     "wordingKey": "WORD_PLAYER_COMMENT",
@@ -9986,6 +11850,10 @@
   {
     "wordingKey": "WORD_PLAYER_RANK",
     "value": "玩家等級"
+  },
+  {
+    "wordingKey": "WORD_PLAYER_RANK_EXP",
+    "value": "玩家等級EXP"
   },
   {
     "wordingKey": "WORD_PLAYER_RANK_REWARD",
@@ -10080,6 +11948,10 @@
     "value": "播放"
   },
   {
+    "wordingKey": "WORD_PLEASE_SELECT_MEMBER",
+    "value": "請選擇要畫在無框畫上的成員。"
+  },
+  {
     "wordingKey": "WORD_PLUS_PERCENT_VALUE",
     "value": "+{0}％"
   },
@@ -10100,8 +11972,28 @@
     "value": "通知"
   },
   {
+    "wordingKey": "WORD_POPULARITY",
+    "value": "人氣"
+  },
+  {
     "wordingKey": "WORD_POSSESSION",
     "value": "持有"
+  },
+  {
+    "wordingKey": "WORD_POSSESSION_COUNT_ORDER",
+    "value": "所持物品順序"
+  },
+  {
+    "wordingKey": "WORD_POSSIBLE_TO_RECYCLED",
+    "value": "可以拆解"
+  },
+  {
+    "wordingKey": "WORD_POST",
+    "value": "上傳"
+  },
+  {
+    "wordingKey": "WORD_POST_COMPANTION_NO",
+    "value": "上傳NO."
   },
   {
     "wordingKey": "WORD_PRACTICE",
@@ -10168,6 +12060,58 @@
     "value": "已超過領取期限"
   },
   {
+    "wordingKey": "WORD_PRESET",
+    "value": "預先設定"
+  },
+  {
+    "wordingKey": "WORD_PRESET_COUNT_MAX",
+    "value": "由於家具的布置數量已超出上限，無法使用預置圖。"
+  },
+  {
+    "wordingKey": "WORD_PRESET_DELETE_CONFIRMATION",
+    "value": "將刪除<color=#F59>{0}<\/color>。\n確定嗎？"
+  },
+  {
+    "wordingKey": "WORD_PRESET_DELETE_FINISH",
+    "value": "已刪除預置。"
+  },
+  {
+    "wordingKey": "WORD_PRESET_HAD_BEEN_SET_CONFIRMATION",
+    "value": "將把<color=#F59>{0}<\/color>的預先設定布置到我的「世界」。 \n現在布置的家具將被清理掉，確定嗎？ \n<color=#F36>※將清理掉現在於我的「世界」布置的家具後再進行布置。<\/color>\n<color=#F36>※若包含方塊家具，\n必須放回持有物或布置在同一區域。<\/color>"
+  },
+  {
+    "wordingKey": "WORD_PRESET_NO_HAVE_CONFIRMATION",
+    "value": "將把<color=#F59>{0}<\/color>的預先設定布置到我的「世界」。 \n現在布置的家具將被清理掉，確定嗎？ \n<color=#F36>※無法布置存在於預先設定中但非持有的家具。<\/color>\n<color=#F36>※若包含方塊家具，\n必須放回持有物或布置在同一區域。<\/color>"
+  },
+  {
+    "wordingKey": "WORD_PRESET_OVERWRITE_CONFIRMATION",
+    "value": "將在<color=#F59>{0}<\/color>覆蓋現在的預置。\n以前保存的預置將會消失，確定嗎？"
+  },
+  {
+    "wordingKey": "WORD_PRESET_SAVE_FINISH",
+    "value": "已儲存預置。"
+  },
+  {
+    "wordingKey": "WORD_PRESET_SETUP",
+    "value": "布置"
+  },
+  {
+    "wordingKey": "WORD_PRESET_SET_CONFIRMATION",
+    "value": "將把<color=#F59>{0}<\/color>的預置設定於我的「世界」。\n現在布置的家具將被清理掉，確定嗎？"
+  },
+  {
+    "wordingKey": "WORD_PRESET_SET_FINISH",
+    "value": "已使用預置。"
+  },
+  {
+    "wordingKey": "WORD_PRESET_SLOT_NAME",
+    "value": "預置"
+  },
+  {
+    "wordingKey": "WORD_PRESET_WARNING",
+    "value": "若未於期限內再次使用世界通行證，鎖定中的預置將被刪除。"
+  },
+  {
     "wordingKey": "WORD_PREVIEW",
     "value": "預覽"
   },
@@ -10210,6 +12154,10 @@
   {
     "wordingKey": "WORD_PRIZE_GIFT_SUMMARY",
     "value": "獎品概要"
+  },
+  {
+    "wordingKey": "WORD_PRODUCTION",
+    "value": "製作"
   },
   {
     "wordingKey": "WORD_PROFILE",
@@ -10296,6 +12244,14 @@
     "value": "購買狀況"
   },
   {
+    "wordingKey": "WORD_PUT",
+    "value": "布置"
+  },
+  {
+    "wordingKey": "WORD_QUALITY_SETTING",
+    "value": "設定我的「世界」品質"
+  },
+  {
     "wordingKey": "WORD_RANGE",
     "value": "範圍"
   },
@@ -10334,6 +12290,10 @@
   {
     "wordingKey": "WORD_RANK_POINT_BONUS",
     "value": "等級分數獎勵"
+  },
+  {
+    "wordingKey": "WORD_RANK_REACHING_BY_RELEASE",
+    "value": "我的「世界」等級達到{0}後解鎖"
   },
   {
     "wordingKey": "WORD_RARITY",
@@ -10378,6 +12338,14 @@
   {
     "wordingKey": "WORD_REACH_BONUS",
     "value": "達成獎勵"
+  },
+  {
+    "wordingKey": "WORD_REACTION_CHARACTER",
+    "value": "會做出反應的角色"
+  },
+  {
+    "wordingKey": "WORD_REACTION_IN_UNDER_FIXTURE",
+    "value": "有可能在以下家具發生。"
   },
   {
     "wordingKey": "WORD_READ",
@@ -10449,7 +12417,7 @@
   },
   {
     "wordingKey": "Word_RecommendSettingContent",
-    "value": "根據此設備性能，推薦的畫質設定為：\n模式：<color=#FF5599>{0}<\/color>\n3DMV品質設定：<color=#FF5599>{1}<\/color>\n虛擬LIVE圖像畫質：<color=#FF5599>{2}<\/color>\n是否使用推薦的設定？\n\n※進入遊戲後可在選項中修改畫質設定"
+    "value": "根據此設備性能，推薦的畫質設定為：\n模式：<color=#FF5599>{0}<\/color>\n3DMV品質設定：<color=#FF5599>{1}<\/color>\n虛擬LIVE圖像畫質：<color=#FF5599>{2}<\/color>\n我的「世界」圖像畫質：<color=#FF5599>{3}<\/color>\n我的「世界」流暢度：<color=#FF5599>{4}<\/color>\n是否使用推薦的設定？\n\n※進入遊戲後可在選項中修改畫質設定"
   },
   {
     "wordingKey": "Word_RecommendSettingDialog_content",
@@ -10480,6 +12448,10 @@
     "value": "收錄版本"
   },
   {
+    "wordingKey": "WORD_RECORDJACKET",
+    "value": "封面"
+  },
+  {
     "wordingKey": "WORD_RECOVER",
     "value": "恢復"
   },
@@ -10498,6 +12470,30 @@
   {
     "wordingKey": "WORD_RECRUITTING",
     "value": "招募中……"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE",
+    "value": "回收"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_FURNITURE",
+    "value": "回收的家具"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_MATERIAL",
+    "value": "回收的素材"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_MATERIAL_CONFIRM",
+    "value": "將回收選擇的素材。確定嗎？"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_TOOL",
+    "value": "回收的工具"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_TOOL_CONFIRM",
+    "value": "將回收選擇的工具。確定嗎？"
   },
   {
     "wordingKey": "Word_ReEnter",
@@ -10576,8 +12572,16 @@
     "value": "移除"
   },
   {
+    "wordingKey": "WORD_REMOVE_FIXTURE",
+    "value": "收起"
+  },
+  {
     "wordingKey": "WORD_REMOVING_ASSET",
     "value": "正在刪除不需要的檔案"
+  },
+  {
+    "wordingKey": "WORD_REPOST",
+    "value": "重新上傳"
   },
   {
     "wordingKey": "WORD_REQUEST",
@@ -10602,6 +12606,10 @@
   {
     "wordingKey": "WORD_RESET",
     "value": "重置"
+  },
+  {
+    "wordingKey": "WORD_RESET_ROTATION",
+    "value": "重置旋轉"
   },
   {
     "wordingKey": "WORD_RESTRICT_TIME",
@@ -10736,8 +12744,16 @@
     "value": "報酬領取期限"
   },
   {
+    "wordingKey": "WORD_RIGHT_ARROW",
+    "value": "→"
+  },
+  {
     "wordingKey": "WORD_RIGHT_NATATION",
     "value": "版權宣告"
+  },
+  {
+    "wordingKey": "WORD_ROAD",
+    "value": "道路"
   },
   {
     "wordingKey": "WORD_ROOM_ID",
@@ -10746,6 +12762,10 @@
   {
     "wordingKey": "WORD_ROOM_TYPE",
     "value": "房間類型"
+  },
+  {
+    "wordingKey": "WORD_ROTATE",
+    "value": "旋轉"
   },
   {
     "wordingKey": "WORD_RUFUND_DESCRIPTION",
@@ -10832,6 +12852,10 @@
     "value": "搜尋"
   },
   {
+    "wordingKey": "WORD_SEARCH_CANDIDATES",
+    "value": "搜尋自動預測"
+  },
+  {
     "wordingKey": "WORD_SEARCH_ID",
     "value": "ID搜尋"
   },
@@ -10856,6 +12880,22 @@
     "value": "過去賽季"
   },
   {
+    "wordingKey": "WORD_SECRET_DAILY_PICKUP",
+    "value": "TOP>DAILY PICKUP"
+  },
+  {
+    "wordingKey": "WORD_SECRET_DAILY_PICKUP_COMPLETE",
+    "value": "TOP>DAILY PICKUP>下單完畢"
+  },
+  {
+    "wordingKey": "WORD_SECRET_WEEKLY_PICKUP",
+    "value": "TOP>WEEKLY PICKUP"
+  },
+  {
+    "wordingKey": "WORD_SECRET_WEEKLY_PICKUP_COMPLETE",
+    "value": "TOP>WEEKLY PICKUP>下單完畢"
+  },
+  {
     "wordingKey": "WORD_SEE_CONTENT",
     "value": "看內容物"
   },
@@ -10874,6 +12914,18 @@
   {
     "wordingKey": "WORD_SEKAI_ECHO_STAMP",
     "value": "活動貼圖"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_ECHO_SUPPORT",
+    "value": "{\n \"title\": \"「世界」的回響\",\n \"list\": [\n {\n \"head\": \" \",\n \"desc\": \"·“「世界」的回響”不會收錄不同團的成員活動、World Link活動。\"\n },\n {\n \"head\": \"■活動卡片與卡片任務\",\n \"desc\": \"\\n·活動卡片收錄了當期活動對應的內容，可透過活動卡片快速前往相關任務或查看內容的獲得資訊。\\n·“「世界」的回響”收錄的每期活動都有對應的活動卡片任務，完成活動卡片任務即可解鎖“CLEAR\/COMPLETE”狀態，並獲得活動卡片的相關獎勵。\\n·關於神代類的「在謝幕時分惜別」活動，由於無對應活動歌曲，可透過遊玩《potatoになっていく》、《Showtime Ruler》、《サイバーパンクデッドボーイ》中的任一首歌曲來累積任務進度。\"\n },\n \n ]\n}"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_MISSION",
+    "value": "我的「世界」任務"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_RANK_EXP",
+    "value": "我的「世界」等級EXP"
   },
   {
     "wordingKey": "WORD_SEKAI_VERSION",
@@ -10992,6 +13044,14 @@
     "value": "送出訊息"
   },
   {
+    "wordingKey": "WORD_SERIAL_CODE",
+    "value": "序號"
+  },
+  {
+    "wordingKey": "WORD_SERIES_LIST",
+    "value": "系列清單"
+  },
+  {
     "wordingKey": "WORD_SERVICE",
     "value": "客服"
   },
@@ -11004,6 +13064,14 @@
     "value": "設定"
   },
   {
+    "wordingKey": "WORD_SETTINGS_QUALITY",
+    "value": "圖像品質"
+  },
+  {
+    "wordingKey": "WORD_SETTING_MYSITE",
+    "value": "設定中"
+  },
+  {
     "wordingKey": "WORD_SETTING_UP",
     "value": "設定中"
   },
@@ -11012,8 +13080,16 @@
     "value": "之後再設定"
   },
   {
+    "wordingKey": "WORD_SET_MYSITE",
+    "value": "設為BGM"
+  },
+  {
     "wordingKey": "WORD_SET_PROFILE",
     "value": "設定為個人資料"
+  },
+  {
+    "wordingKey": "WORD_SET_PURCHASE",
+    "value": "以組合購買"
   },
   {
     "wordingKey": "WORD_SHAPE",
@@ -11064,6 +13140,10 @@
     "value": "分享成功！請至「禮物」領取分享獎勵。"
   },
   {
+    "wordingKey": "WORD_SHELF",
+    "value": "架子"
+  },
+  {
     "wordingKey": "WORD_SHOP_AD",
     "value": "西元"
   },
@@ -11112,8 +13192,20 @@
     "value": "關於本服務中的貨幣"
   },
   {
+    "wordingKey": "WORD_SHOP_MISSION_PASS_SET_DETAIL",
+    "value": "任務通行證組合詳情"
+  },
+  {
     "wordingKey": "WORD_SHOP_MONTH",
     "value": "月"
+  },
+  {
+    "wordingKey": "WORD_SHOP_MYSEKAI_COLORFUL_PASS_DETAIL",
+    "value": "世界通行證詳情"
+  },
+  {
+    "wordingKey": "WORD_SHOP_MYSEKAI_MISSION_PASS_DETAIL",
+    "value": "我的「世界」任務通行證詳情"
   },
   {
     "wordingKey": "WORD_SHOP_PREMIUM_MISSION_PASS_DETAIL",
@@ -11184,6 +13276,18 @@
     "value": "年"
   },
   {
+    "wordingKey": "WORD_SHORTAGE_COUNT",
+    "value": "缺少的數量"
+  },
+  {
+    "wordingKey": "WORD_SHORTAGE_FIXTURE",
+    "value": "缺少的家具"
+  },
+  {
+    "wordingKey": "WORD_SHORTAGE_FIXTURE_FOR_PRESET",
+    "value": "由於缺少下列家具，無法套用預先設定。"
+  },
+  {
     "wordingKey": "WORD_SHOW_NOTE_LINE",
     "value": "音符的開始位置"
   },
@@ -11200,6 +13304,14 @@
     "value": "卡片\n劇情"
   },
   {
+    "wordingKey": "WORD_SIGHTSEEING",
+    "value": "SIGHTSEEING"
+  },
+  {
+    "wordingKey": "WORD_SIGHTSEEING_JP",
+    "value": "觀光"
+  },
+  {
     "wordingKey": "WORD_SIMULTANEOUS_PUSHI_LINE",
     "value": "同時按下的提示線"
   },
@@ -11208,8 +13320,56 @@
     "value": "Vo."
   },
   {
+    "wordingKey": "WORD_SITE_1_NAME",
+    "value": "我的家"
+  },
+  {
+    "wordingKey": "WORD_SITE_2_NAME",
+    "value": "1F"
+  },
+  {
+    "wordingKey": "WORD_SITE_3_NAME",
+    "value": "2F"
+  },
+  {
+    "wordingKey": "WORD_SITE_4_NAME",
+    "value": "3F"
+  },
+  {
+    "wordingKey": "WORD_SITE_5_NAME",
+    "value": "最初的空地"
+  },
+  {
+    "wordingKey": "WORD_SITE_6_NAME",
+    "value": "繽紛的花圃"
+  },
+  {
+    "wordingKey": "WORD_SITE_7_NAME",
+    "value": "心願的沙灘"
+  },
+  {
+    "wordingKey": "WORD_SITE_8_NAME",
+    "value": "被遺忘的地方"
+  },
+  {
+    "wordingKey": "WORD_SITE_9_NAME",
+    "value": "七彩通行證地點"
+  },
+  {
+    "wordingKey": "WORD_SITE_ENVIRONMENT",
+    "value": "天氣"
+  },
+  {
+    "wordingKey": "WORD_SITE_RELEASE",
+    "value": "我的「世界」等級達到{0}"
+  },
+  {
     "wordingKey": "WORD_SIZE",
     "value": "顯示"
+  },
+  {
+    "wordingKey": "WORD_SKETCH",
+    "value": "素描"
   },
   {
     "wordingKey": "WORD_SKILL",
@@ -11260,6 +13420,22 @@
     "value": "跳過"
   },
   {
+    "wordingKey": "WORD_SKIP_BP",
+    "value": "高階任務通行證"
+  },
+  {
+    "wordingKey": "WORD_SKIP_MYSEKAI",
+    "value": "我的「世界」任務通行證"
+  },
+  {
+    "wordingKey": "WORD_SKYROKETING",
+    "value": "急速上升"
+  },
+  {
+    "wordingKey": "WORD_SKYROKETING_TAB",
+    "value": "急速上升！"
+  },
+  {
     "wordingKey": "WORD_SL_SETTINGS_CAMERA_SHAKE",
     "value": "移動時相機的晃動"
   },
@@ -11282,6 +13458,10 @@
   {
     "wordingKey": "WORD_SMALL_FORTUNE",
     "value": "小吉"
+  },
+  {
+    "wordingKey": "WORD_SMALL_FURNITURE",
+    "value": "小型家具"
   },
   {
     "wordingKey": "WORD_SOHW_ONLINE",
@@ -11354,6 +13534,14 @@
   {
     "wordingKey": "WORD_SPECIALREWARD_TITLE",
     "value": "特別報酬"
+  },
+  {
+    "wordingKey": "WORD_SPECIAL_FEATURE",
+    "value": "特輯"
+  },
+  {
+    "wordingKey": "WORD_SPECIAL_OFFER_DETAIL",
+    "value": "獎勵詳情"
   },
   {
     "wordingKey": "WORD_SPECIAL_SKILL",
@@ -11572,6 +13760,10 @@
     "value": "確認再次入場"
   },
   {
+    "wordingKey": "WORD_STREAMING_LIVE_SHOP_CONFIRM_DUPLICATE",
+    "value": "已購入的特別物品組合中含有此物品。\n以下包含在組合的物品\n再度購買也無法重複獲得。"
+  },
+  {
     "wordingKey": "WORD_STREAMING_LIVE_TICKET_PURCHASED",
     "value": "已購買「{0}」。"
   },
@@ -11616,6 +13808,10 @@
     "value": "輔助編組"
   },
   {
+    "wordingKey": "WORD_SUPPORT_DECK_EDIT_COUNT_FORMAT",
+    "value": "{0}\/{1}"
+  },
+  {
     "wordingKey": "WORD_SUPPORT_EVENT_REWARD_DESCRIBE_X",
     "value": "此為「月光下的中秋應援祭!2024」粉絲數達到{0}億的獎勵"
   },
@@ -11644,6 +13840,10 @@
     "value": "系統"
   },
   {
+    "wordingKey": "WORD_TABLE",
+    "value": "桌子"
+  },
+  {
     "wordingKey": "WORD_TAB_LIMIT",
     "value": "限時任務"
   },
@@ -11656,8 +13856,16 @@
     "value": "回歸任務"
   },
   {
+    "wordingKey": "WORD_TAG_OPTIONS",
+    "value": "候補標籤"
+  },
+  {
     "wordingKey": "WORD_TALK",
     "value": "對話"
+  },
+  {
+    "wordingKey": "WORD_TALK_CHARACTER",
+    "value": "對話的角色"
   },
   {
     "wordingKey": "WORD_TALK_LOG",
@@ -11700,8 +13908,28 @@
     "value": "非常感謝！"
   },
   {
+    "wordingKey": "WORD_THEMA",
+    "value": "主題"
+  },
+  {
+    "wordingKey": "WORD_THIS_FURNITURE_IS_CREATED",
+    "value": "已製作該家具"
+  },
+  {
+    "wordingKey": "WORD_THIS_FURNITURE_IS_CREATED_COLOR",
+    "value": "已製作該顏色"
+  },
+  {
+    "wordingKey": "WORD_THREE_HYPHEN",
+    "value": "---"
+  },
+  {
     "wordingKey": "WORD_THREE_POINT_LEADER",
     "value": "…"
+  },
+  {
+    "wordingKey": "WORD_THUMBNAIL_COUNT_FORMAT",
+    "value": "×{0}"
   },
   {
     "wordingKey": "WORD_TICKET_EXCHANGE_SHOP",
@@ -11760,8 +13988,28 @@
     "value": "流暢度（FPS）"
   },
   {
+    "wordingKey": "WORD_TITLE_PANEL",
+    "value": "字標板"
+  },
+  {
+    "wordingKey": "WORD_TITLE_SEARCH_KEYWORD_TAG",
+    "value": "搜尋關鍵字・標籤"
+  },
+  {
+    "wordingKey": "WORD_TITLE_SEARCH_TAG",
+    "value": "搜尋標籤"
+  },
+  {
+    "wordingKey": "WORD_TITLE_STAND",
+    "value": "字標立牌"
+  },
+  {
     "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
     "value": "確定購買"
+  },
+  {
+    "wordingKey": "WORD_TODAY",
+    "value": "TODAY"
   },
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
@@ -11784,6 +14032,22 @@
     "value": "僅基本檔案"
   },
   {
+    "wordingKey": "WORD_TOOL",
+    "value": "工具"
+  },
+  {
+    "wordingKey": "WORD_TOOL_COUNT",
+    "value": "工具持有數量"
+  },
+  {
+    "wordingKey": "WORD_TOOL_CREATE_RESULT",
+    "value": "工具製作完成。"
+  },
+  {
+    "wordingKey": "WORD_TOOL_RECYCLE_RESULT",
+    "value": "已回收工具並獲得硬幣。"
+  },
+  {
     "wordingKey": "WORD_TOP",
     "value": "TOP"
   },
@@ -11794,6 +14058,10 @@
   {
     "wordingKey": "WORD_TOTALP",
     "value": "{0}"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_FURNITURE_IS_CREATED",
+    "value": "已達到可收納於倉庫的數量上限"
   },
   {
     "wordingKey": "WORD_TOTAL_MATCH_COUNT",
@@ -11814,6 +14082,10 @@
   {
     "wordingKey": "WORD_TOTAL_POWER_BONUS",
     "value": "綜合力獎勵"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_BONUS_RATE",
+    "value": "表現力BONUS"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_CARD",
@@ -11848,6 +14120,14 @@
     "value": "角色等級獎勵"
   },
   {
+    "wordingKey": "WORD_TOTAL_POWER_FIXTURE_BONUS",
+    "value": "家具BONUS"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_GATE_BONUS",
+    "value": "大門BONUS"
+  },
+  {
     "wordingKey": "WORD_TOTAL_POWER_HONOR_BONUS",
     "value": "稱號獎勵"
   },
@@ -11874,6 +14154,10 @@
   {
     "wordingKey": "WORD_TOURNAMENT_SCORE_NONE",
     "value": "--------"
+  },
+  {
+    "wordingKey": "WORD_TO_CHEST",
+    "value": "前往持有物"
   },
   {
     "wordingKey": "WORD_TO_CURRENT_TIME_ANNOTATION",
@@ -11904,8 +14188,16 @@
     "value": "要觸碰記憶碎片，\n查看年級提升前的時間軸嗎？"
   },
   {
+    "wordingKey": "WORD_TO_VISIT",
+    "value": "拜訪處"
+  },
+  {
     "wordingKey": "WORD_TRACE",
     "value": "描觸"
+  },
+  {
+    "wordingKey": "WORD_TRADE_MACHINE_LEVEL_UP",
+    "value": "提升轉換器的等級"
   },
   {
     "wordingKey": "WORD_TRANING_BEFORE",
@@ -11920,6 +14212,14 @@
     "value": "中譯版歌曲名稱"
   },
   {
+    "wordingKey": "WORD_TREE",
+    "value": "樹"
+  },
+  {
+    "wordingKey": "WORD_TRESURE_BOX_NOTIFICATION",
+    "value": "紙飛機出現了！"
+  },
+  {
     "wordingKey": "WORD_TURN_INFO_SCH_CN",
     "value": "「世界」入住任務"
   },
@@ -11930,6 +14230,10 @@
   {
     "wordingKey": "WORD_TURN_STG_CN",
     "value": "完成第{0}輪"
+  },
+  {
+    "wordingKey": "WORD_TUTORIAL_THIS_FURNITURE_IS_CREATED",
+    "value": "教學中無法製作"
   },
   {
     "wordingKey": "WORD_TWITTER",
@@ -11946,6 +14250,14 @@
   {
     "wordingKey": "WORD_UNCERTAIN_LUCK",
     "value": "末吉"
+  },
+  {
+    "wordingKey": "WORD_UNCREATED",
+    "value": "未製作"
+  },
+  {
+    "wordingKey": "WORD_UNDO",
+    "value": "關閉"
   },
   {
     "wordingKey": "WORD_UNIT",
@@ -12106,6 +14418,10 @@
   {
     "wordingKey": "Word_VirtualLiveMCSubFontSmall",
     "value": "小"
+  },
+  {
+    "wordingKey": "WORD_VIRTUALLIVE_LOBBY_INTERVAL_NOTICE",
+    "value": "訊息發送間隔需超過5秒，請稍後重試。"
   },
   {
     "wordingKey": "WORD_VIRTUAL_COIN",
@@ -12316,12 +14632,40 @@
     "value": "要變更為已購買的道具嗎？"
   },
   {
+    "wordingKey": "WORD_VIRTUAL_SHOP_BONUS",
+    "value": "（獎勵）"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_SHOP_FIRST_BONUS",
+    "value": "<color=#FF5588>（初次購買獎勵）<\/color>"
+  },
+  {
     "wordingKey": "WORD_VIRTUAL_SINGER_VERSION",
     "value": "虛擬歌手ver."
   },
   {
     "wordingKey": "WORD_VISIBLE",
     "value": "顯示"
+  },
+  {
+    "wordingKey": "WORD_VISIT",
+    "value": "VISIT"
+  },
+  {
+    "wordingKey": "WORD_VISITING_MYSEKAI",
+    "value": "外出中"
+  },
+  {
+    "wordingKey": "WORD_VISIT_JP",
+    "value": "拜訪"
+  },
+  {
+    "wordingKey": "WORD_VISIT_LIST",
+    "value": "外出清單"
+  },
+  {
+    "wordingKey": "WORD_VISIT_SETTING",
+    "value": "拜訪設定"
   },
   {
     "wordingKey": "Word_VLLoadOptimize",
@@ -12357,7 +14701,7 @@
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_QUALITY",
-    "value": "圖像品質"
+    "value": "虛擬LIVE圖像品質"
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_QUALITY_DEFAULT",
@@ -12369,7 +14713,7 @@
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_QUALITY_LOW",
-    "value": "較低品質"
+    "value": "低品質"
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_VISIBLE_AVATAR",
@@ -12424,6 +14768,14 @@
     "value": "待同意清單"
   },
   {
+    "wordingKey": "WORD_WALL",
+    "value": "牆壁"
+  },
+  {
+    "wordingKey": "WORD_WALLPAPER",
+    "value": "牆壁"
+  },
+  {
     "wordingKey": "WORD_WAN",
     "value": "{0}萬"
   },
@@ -12436,12 +14788,20 @@
     "value": "警告"
   },
   {
+    "wordingKey": "WORD_WAY",
+    "value": "道路"
+  },
+  {
     "wordingKey": "WORD_WEAK",
     "value": "不擅長"
   },
   {
     "wordingKey": "WORD_WEARABLE_MEMBER",
     "value": "可穿著成員"
+  },
+  {
+    "wordingKey": "WORD_WEATHER",
+    "value": "天氣預報"
   },
   {
     "wordingKey": "WORD_WEB_PAYMENT_REFLECTION_ITEM_NAME_FORMAT",
@@ -15565,7 +17925,7 @@
   },
   {
     "wordingKey": "W_C_772",
-    "value": "—一張設計圖可製作出該家具的所有顏色。\\n-每樣商品限購1個。\\n-商品將於購買後立即送達。"
+    "value": "-一張設計圖可製作出該家具的所有顏色。\\n-每樣商品限購1個。\\n-商品將於購買後立即送達。"
   },
   {
     "wordingKey": "W_C_773",
@@ -15633,7 +17993,7 @@
   },
   {
     "wordingKey": "W_C_788",
-    "value": "設定轉換機"
+    "value": "設定轉換器"
   },
   {
     "wordingKey": "W_C_789",
