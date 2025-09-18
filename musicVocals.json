@@ -29710,10 +29710,10 @@
   {
     "id": 1136,
     "musicId": 579,
-    "musicVocalType": "original_song",
+    "musicVocalType": "sekai",
     "seq": 101,
     "releaseConditionId": 5,
-    "caption": "虛擬歌手ver.",
+    "caption": "「世界」ver.",
     "characters": [
       {
         "id": 2004,
@@ -29724,7 +29724,7 @@
         "seq": 5790
       }
     ],
-    "assetbundleName": "vs_0579_01",
+    "assetbundleName": "se_0579_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1737043200000
   },
@@ -35899,6 +35899,27 @@
     "assetbundleName": "se_0605_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1774854000000
+  },
+  {
+    "id": 1612,
+    "musicId": 579,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "虛擬歌手ver.",
+    "characters": [
+      {
+        "id": 3088,
+        "musicId": 579,
+        "musicVocalId": 1612,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 5791
+      }
+    ],
+    "assetbundleName": "vs_0579_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1745292600000
   },
   {
     "id": 90001,

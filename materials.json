@@ -1476,6 +1476,14 @@
     "materialType": "web_ticket"
   },
   {
+    "id": 1010,
+    "seq": 1010,
+    "name": "世界通行證交換券",
+    "flavorText": "世界通行證交換券",
+    "canUse": false,
+    "materialType": "web_ticket"
+  },
+  {
     "id": 3002,
     "seq": 90,
     "name": "回响点数",
@@ -1498,13 +1506,5 @@
     "flavorText": "「摩爾加納像」設計圖的兌換券。",
     "canUse": false,
     "materialType": "common"
-  },
-  {
-    "id": 19999,
-    "seq": 19999,
-    "name": "世界通行證交換券",
-    "flavorText": "世界通行證交換券",
-    "canUse": false,
-    "materialType": "web_ticket"
   }
 ]
