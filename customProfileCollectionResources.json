@@ -6209,50 +6209,6 @@
   },
   {
     "customProfileResourceType": "collection",
-    "id": 583,
-    "seq": 5830,
-    "name": "「4th ANNIVERSARY Brilliant Stage」掛軸",
-    "pronunciation": "ふぉーすあにばーさりーぶりりあんとすてーじたぺすとりー",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/4thanniversary",
-    "fileName": "4thanniversary_tapestry",
-    "customProfileResourceCollectionType": "tapestry"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 584,
-    "seq": 5840,
-    "name": "「4th ANNIVERSARY Brilliant Stage」鑰匙圈",
-    "pronunciation": "ふぉーすあにばーさりーぶりりあんとすてーじきーほるだー",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/4thanniversary",
-    "fileName": "4thanniversary_keyholder",
-    "customProfileResourceCollectionType": "keyholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 585,
-    "seq": 5850,
-    "name": "「4th ANNIVERSARY Brilliant Stage」票券收納夾",
-    "pronunciation": "ふぉーすあにばーさりーぶりりあんとすてーじちけっとほるだー",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/4thanniversary",
-    "fileName": "4thanniversary_ticketholder",
-    "customProfileResourceCollectionType": "ticket_holder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 586,
-    "seq": 5860,
-    "name": "「4th ANNIVERSARY Brilliant Stage」毛巾",
-    "pronunciation": "ふぉーすあにばーさりーぶりりあんとすてーじたおる",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/4thanniversary",
-    "fileName": "4thanniversary_towel",
-    "customProfileResourceCollectionType": "towel"
-  },
-  {
-    "customProfileResourceType": "collection",
     "id": 587,
     "seq": 5870,
     "name": "「4th ANNIVERSARY Brilliant Stage」初音未來的徽章",
@@ -8769,11 +8725,21 @@
     "customProfileResourceType": "collection",
     "id": 10006,
     "seq": 10006,
-    "name": "空白日曆",
-    "pronunciation": "空白日曆",
+    "name": "特別的日子",
+    "pronunciation": "特別的日子",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/mk",
-    "fileName": "pic_login2025_500"
+    "fileName": "loginreward_2025"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10007,
+    "seq": 10007,
+    "name": "桐谷遙2025生日裝飾",
+    "pronunciation": "桐谷遙2025生日裝飾",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/pic_birthday2025_06",
+    "fileName": "pic_birthday2025_06"
   },
   {
     "customProfileResourceType": "collection",
