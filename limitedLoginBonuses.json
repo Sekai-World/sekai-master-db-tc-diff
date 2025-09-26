@@ -1541,8 +1541,8 @@
   },
   {
     "id": 100,
-    "startAt": 1759032000000,
-    "endAt": 1760414399000,
+    "startAt": 1758988800000,
+    "endAt": 1760457599000,
     "assetbundleName": "4th_present4you_001",
     "limitedLoginBonusDetails": [
       {
@@ -3618,6 +3618,48 @@
         "limitedLoginBonusId": 1088,
         "day": 2,
         "resourceBoxId": 1152
+      }
+    ]
+  },
+  {
+    "id": 1089,
+    "startAt": 1759507200000,
+    "endAt": 1759593599000,
+    "assetbundleName": "4th_present4you_research01",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1229,
+        "limitedLoginBonusId": 1089,
+        "day": 1,
+        "resourceBoxId": 1155
+      }
+    ]
+  },
+  {
+    "id": 1090,
+    "startAt": 1760371200000,
+    "endAt": 1760457599000,
+    "assetbundleName": "4th_present4you_research02",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1230,
+        "limitedLoginBonusId": 1090,
+        "day": 1,
+        "resourceBoxId": 1156
+      }
+    ]
+  },
+  {
+    "id": 1091,
+    "startAt": 1761235200000,
+    "endAt": 1761321599000,
+    "assetbundleName": "4th_present4you_research03",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1231,
+        "limitedLoginBonusId": 1091,
+        "day": 1,
+        "resourceBoxId": 1157
       }
     ]
   },
