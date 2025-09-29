@@ -105116,7 +105116,7 @@
     "seq": 2000001,
     "groupId": 20000,
     "honorRarity": "highest",
-    "name": "TOP1",
+    "name": "第一期心願榜稱號「TOP1」",
     "assetbundleName": "honor_top_000001",
     "levels": [
       {
@@ -105131,7 +105131,7 @@
     "seq": 2000002,
     "groupId": 20000,
     "honorRarity": "highest",
-    "name": "TOP2",
+    "name": "第一期心願榜稱號「TOP2」",
     "assetbundleName": "honor_top_000002",
     "levels": [
       {
@@ -105146,7 +105146,7 @@
     "seq": 2000003,
     "groupId": 20000,
     "honorRarity": "highest",
-    "name": "TOP3",
+    "name": "第一期心願榜稱號「TOP3」",
     "assetbundleName": "honor_top_000003",
     "levels": [
       {
@@ -105160,9 +105160,9 @@
     "id": 20003,
     "seq": 2000004,
     "groupId": 20000,
-    "honorRarity": "high",
-    "name": "TOP4-10",
-    "assetbundleName": "honor_top_000004",
+    "honorRarity": "highest",
+    "name": "第一期心願榜稱號「TOP10」",
+    "assetbundleName": "honor_top_000010",
     "levels": [
       {
         "level": 1,
@@ -105175,9 +105175,9 @@
     "id": 20004,
     "seq": 2000005,
     "groupId": 20000,
-    "honorRarity": "high",
-    "name": "TOP11-100",
-    "assetbundleName": "honor_top_000005",
+    "honorRarity": "highest",
+    "name": "第一期心願榜稱號「TOP100」",
+    "assetbundleName": "honor_top_000100",
     "levels": [
       {
         "level": 1,
@@ -105190,9 +105190,9 @@
     "id": 20005,
     "seq": 2000006,
     "groupId": 20000,
-    "honorRarity": "middle",
-    "name": "TOP101-1000",
-    "assetbundleName": "honor_top_000006",
+    "honorRarity": "high",
+    "name": "第一期心願榜稱號「TOP1000」",
+    "assetbundleName": "honor_top_001000",
     "levels": [
       {
         "level": 1,
@@ -105206,8 +105206,8 @@
     "seq": 2000007,
     "groupId": 20000,
     "honorRarity": "middle",
-    "name": "TOP1001-10000",
-    "assetbundleName": "honor_top_000007",
+    "name": "第一期心願榜稱號「TOP10000」",
+    "assetbundleName": "honor_top_010000",
     "levels": [
       {
         "level": 1,
@@ -105221,13 +105221,13 @@
     "seq": 2000008,
     "groupId": 20000,
     "honorRarity": "low",
-    "name": "TOP10001-20000",
-    "assetbundleName": "honor_top_000008",
+    "name": "第一期心願榜稱號「TOP50000」",
+    "assetbundleName": "honor_top_050000",
     "levels": [
       {
         "level": 1,
         "bonus": 0,
-        "description": "TOP10001-20000"
+        "description": "TOP10001-50000"
       }
     ]
   },
