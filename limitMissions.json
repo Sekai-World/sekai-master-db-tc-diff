@@ -1108,5 +1108,65 @@
     "sentence": "通過所有[4週年紀念] 世界心願計畫活動的限時任務吧。",
     "resourceBoxId": 100400,
     "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 124,
+    "seq": 1,
+    "limitMissionType": "clear_live_meiko_leader",
+    "requirement": 15,
+    "sentence": "將MEIKO設為隊長並進行15次LIVE吧。",
+    "resourceBoxId": 100327,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 125,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "在「心願碎片交換所」進行一次交換吧。（心願碎片可透過在「休息室」交換成員獲得）",
+    "resourceBoxId": 100401,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 126,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 100402,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 127,
+    "seq": 1,
+    "limitMissionType": "character_rank_meiko",
+    "requirement": 5,
+    "sentence": "將MEIKO的角色等級提升至5級吧。",
+    "resourceBoxId": 100310,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 128,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_meiko",
+    "requirement": 3,
+    "sentence": "選擇MEIKO進行3次挑戰LIVE吧。",
+    "resourceBoxId": 100305,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 129,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成所有的MEIKO紀念日慶典限時任務吧。",
+    "resourceBoxId": 100312,
+    "selectableRewardGroupId": 1003
   }
 ]

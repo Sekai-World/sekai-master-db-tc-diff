@@ -6304,6 +6304,57 @@
     "virtualShopDisplayType": "out_of_scope"
   },
   {
+    "id": 298,
+    "name": "第148回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 483,
+        "virtualShopId": 298,
+        "virtualShopItemType": "penlight",
+        "seq": 99903,
+        "resourceBoxId": 379,
+        "costPaidJewel": 1000,
+        "startAt": 1762758000000
+      }
+    ],
+    "virtualShopType": "event",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 299,
+    "name": "第149回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 484,
+        "virtualShopId": 299,
+        "virtualShopItemType": "coordinate",
+        "seq": 99818,
+        "resourceBoxId": 380,
+        "costPaidJewel": 1000,
+        "startAt": 1763622000000
+      }
+    ],
+    "virtualShopType": "event",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 300,
+    "name": "第150回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 485,
+        "virtualShopId": 300,
+        "virtualShopItemType": "penlight",
+        "seq": 99902,
+        "resourceBoxId": 381,
+        "costPaidJewel": 1000,
+        "startAt": 1764486000000
+      }
+    ],
+    "virtualShopType": "event",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
     "id": 308,
     "name": "「Eコラボ」チケットショップ_物販",
     "virtualShopItems": [
