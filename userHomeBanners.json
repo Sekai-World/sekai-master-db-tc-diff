@@ -20,34 +20,34 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 1050,
+    "homeBannerId": 1061,
+    "seq": 200,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha590",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 590,
+    "startAt": 1759032000000,
+    "endAt": 1764475200000
+  },
+  {
+    "homeBannerId": 1089,
     "seq": 180,
     "homeBannerType": "event",
-    "assetbundleName": "event_moment_2024",
+    "assetbundleName": "event_enjoymusic_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 143,
-    "startAt": 1758351600000,
-    "endAt": 1759215600000
+    "transitionDestinationId": 147,
+    "startAt": 1761894000000,
+    "endAt": 1762758000000
   },
   {
-    "homeBannerId": 1052,
-    "seq": 170,
+    "homeBannerId": 1094,
+    "seq": 130,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha577",
+    "assetbundleName": "banner_gacha611",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 577,
-    "startAt": 1758340800000,
-    "endAt": 1759204800000
-  },
-  {
-    "homeBannerId": 1055,
-    "seq": 60,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha578",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 578,
-    "startAt": 1758859200000,
-    "endAt": 1759032000000
+    "transitionDestinationId": 611,
+    "startAt": 1762272000000,
+    "endAt": 1762358400000
   },
   {
     "homeBannerId": 10037,
