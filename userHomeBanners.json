@@ -30,14 +30,34 @@
     "endAt": 1764475200000
   },
   {
-    "homeBannerId": 1089,
+    "homeBannerId": 1096,
     "seq": 180,
     "homeBannerType": "event",
-    "assetbundleName": "event_enjoymusic_2024",
+    "assetbundleName": "event_foliage_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 147,
-    "startAt": 1761894000000,
-    "endAt": 1762758000000
+    "transitionDestinationId": 148,
+    "startAt": 1762758000000,
+    "endAt": 1763622000000
+  },
+  {
+    "homeBannerId": 1098,
+    "seq": 170,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha615",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 615,
+    "startAt": 1762747200000,
+    "endAt": 1763611200000
+  },
+  {
+    "homeBannerId": 1101,
+    "seq": 130,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive337",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 337,
+    "startAt": 1762758000000,
+    "endAt": 1762876800000
   },
   {
     "homeBannerId": 10037,
