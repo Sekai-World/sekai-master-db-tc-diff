@@ -6355,6 +6355,77 @@
     "virtualShopDisplayType": "out_of_scope"
   },
   {
+    "id": 301,
+    "name": "第151回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 486,
+        "virtualShopId": 301,
+        "virtualShopItemType": "penlight",
+        "seq": 99901,
+        "resourceBoxId": 382,
+        "costPaidJewel": 1000,
+        "startAt": 1765436400000
+      }
+    ],
+    "virtualShopType": "event",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 302,
+    "name": "第152回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 487,
+        "virtualShopId": 302,
+        "virtualShopItemType": "coordinate",
+        "seq": 99817,
+        "resourceBoxId": 383,
+        "costPaidJewel": 1000,
+        "startAt": 1766300400000
+      }
+    ],
+    "virtualShopType": "event",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 303,
+    "name": "第153回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 488,
+        "virtualShopId": 303,
+        "virtualShopItemType": "penlight",
+        "seq": 99900,
+        "resourceBoxId": 384,
+        "costPaidJewel": 1000,
+        "startAt": 1767164400000
+      }
+    ],
+    "virtualShopType": "event",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 305,
+    "name": "2025甘酒ショップ",
+    "virtualShopItems": [
+      {
+        "id": 490,
+        "virtualShopId": 305,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1767164400000,
+        "endAt": 1768114799000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "special_live",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
     "id": 308,
     "name": "「Eコラボ」チケットショップ_物販",
     "virtualShopItems": [
