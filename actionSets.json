@@ -23099,6 +23099,21 @@
     "releaseConditionId": 107408
   },
   {
+    "id": 1548,
+    "areaId": 3,
+    "actionSetType": "normal",
+    "isNextGrade": false,
+    "scenarioId": "areatalk_ev_shuffle_25_003",
+    "scriptId": "as_ev_shuffle_25_003",
+    "characterIds": [
+      3,
+      14
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1698735600000,
+    "releaseConditionId": 107408
+  },
+  {
     "id": 1549,
     "areaId": 2,
     "actionSetType": "normal",
@@ -37767,5 +37782,21 @@
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1713682800000,
     "releaseConditionId": 109108
+  },
+  {
+    "id": 99902,
+    "areaId": 10,
+    "actionSetType": "normal",
+    "isNextGrade": false,
+    "scenarioId": "areatalk_ev_shuffle_14_008",
+    "scriptId": "as_ev_shuffle_14_008",
+    "characterIds": [
+      138,
+      18,
+      26
+    ],
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1233288000000,
+    "releaseConditionId": 104108
   }
 ]

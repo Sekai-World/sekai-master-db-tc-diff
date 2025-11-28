@@ -15500,7 +15500,7 @@
   },
   {
     "id": 498,
-    "seq": 2349601,
+    "seq": 2349701,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -15550,7 +15550,7 @@
   },
   {
     "id": 500,
-    "seq": 2649401,
+    "seq": 2649501,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -16002,7 +16002,7 @@
   },
   {
     "id": 518,
-    "seq": 1149301,
+    "seq": 1149401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16696,7 +16696,7 @@
   },
   {
     "id": 552,
-    "seq": 1149201,
+    "seq": 1149301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16780,7 +16780,7 @@
   },
   {
     "id": 557,
-    "seq": 1449701,
+    "seq": 1449801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16842,7 +16842,7 @@
   },
   {
     "id": 566,
-    "seq": 1149801,
+    "seq": 9999902,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16867,7 +16867,7 @@
   },
   {
     "id": 569,
-    "seq": 1149501,
+    "seq": 1149601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17151,7 +17151,7 @@
   },
   {
     "id": 582,
-    "seq": 9999902,
+    "seq": 9999903,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -17209,7 +17209,7 @@
   },
   {
     "id": 596,
-    "seq": 9999903,
+    "seq": 9999904,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -17234,7 +17234,7 @@
   },
   {
     "id": 605,
-    "seq": 9999904,
+    "seq": 9999905,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -17259,7 +17259,7 @@
   },
   {
     "id": 622,
-    "seq": 9999921,
+    "seq": 9999922,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17293,7 +17293,7 @@
   },
   {
     "id": 623,
-    "seq": 9999922,
+    "seq": 9999923,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17327,7 +17327,7 @@
   },
   {
     "id": 624,
-    "seq": 9999923,
+    "seq": 9999924,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17421,6 +17421,39 @@
         "lyricist": "*Luna",
         "composer": "*Luna",
         "arranger": "-"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 694,
+    "seq": 1155401,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "Artifact",
+    "pronunciation": "artifact",
+    "creatorArtistId": 134,
+    "lyricist": "buzzG",
+    "composer": "buzzG",
+    "arranger": "buzzG \/ Coch",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_694",
+    "publishedAt": 1764403200000,
+    "releasedAt": 1764406800000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "Artifact",
+        "creator": "buzzG",
+        "lyricist": "buzzG",
+        "composer": "buzzG",
+        "arranger": "buzzG \/ Coch"
       }
     ],
     "isNewlyWrittenMusic": false,

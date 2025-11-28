@@ -1168,5 +1168,69 @@
     "sentence": "完成所有的MEIKO紀念日慶典限時任務吧。",
     "resourceBoxId": 100312,
     "selectableRewardGroupId": 1003
+  },
+  {
+    "limitMissionGroupId": 22,
+    "id": 130,
+    "seq": 1,
+    "limitMissionType": "clear_live_kagamine_leader",
+    "requirement": 15,
+    "sentence": "將鏡音連和鏡音鈴編入隊伍中進行15次LIVE吧。",
+    "resourceBoxId": 100327
+  },
+  {
+    "limitMissionGroupId": 22,
+    "id": 131,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "在「心願碎片交換所」進行一次交換吧。（心願碎片可透過在「休息室」交換成員獲得）",
+    "resourceBoxId": 100401
+  },
+  {
+    "limitMissionGroupId": 22,
+    "id": 132,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 100402
+  },
+  {
+    "limitMissionGroupId": 22,
+    "id": 133,
+    "seq": 1,
+    "limitMissionType": "character_rank_kagamine",
+    "requirement": 5,
+    "sentence": "將鏡音鈴和鏡音連的角色等級全部提升至5級吧。",
+    "resourceBoxId": 100404
+  },
+  {
+    "limitMissionGroupId": 22,
+    "id": 134,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成員的專精等級吧。",
+    "resourceBoxId": 100403
+  },
+  {
+    "limitMissionGroupId": 22,
+    "id": 135,
+    "seq": 1,
+    "limitMissionType": "clear_virtual_live",
+    "requirement": 1,
+    "sentence": "參加任意一場虛擬LIVE吧。",
+    "resourceBoxId": 100305
+  },
+  {
+    "limitMissionGroupId": 22,
+    "id": 136,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 6,
+    "sentence": "完成所有紀念日慶典限時任務吧。",
+    "resourceBoxId": 100314,
+    "selectableRewardGroupId": 1004
   }
 ]
