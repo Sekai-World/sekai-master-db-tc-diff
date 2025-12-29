@@ -6407,7 +6407,7 @@
   },
   {
     "id": 305,
-    "name": "2025甘酒ショップ",
+    "name": "2026甘酒商店",
     "virtualShopItems": [
       {
         "id": 490,
@@ -6422,7 +6422,7 @@
         "limitValue": 1
       }
     ],
-    "virtualShopType": "special_live",
+    "virtualShopType": "other",
     "virtualShopDisplayType": "out_of_scope"
   },
   {
@@ -6497,6 +6497,23 @@
       }
     ],
     "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 315,
+    "name": "ハッピーニューイヤーライブ",
+    "virtualShopItems": [
+      {
+        "id": 513,
+        "virtualShopId": 315,
+        "virtualShopItemType": "coordinate",
+        "seq": 99815,
+        "resourceBoxId": 408,
+        "costPaidJewel": 1000,
+        "startAt": 1767164400000
+      }
+    ],
+    "virtualShopType": "special_live",
     "virtualShopDisplayType": "out_of_scope"
   },
   {
