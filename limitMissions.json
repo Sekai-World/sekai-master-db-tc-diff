@@ -1232,5 +1232,135 @@
     "sentence": "完成所有紀念日慶典限時任務吧。",
     "resourceBoxId": 100314,
     "selectableRewardGroupId": 1004
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 137,
+    "seq": 1,
+    "limitMissionType": "buy_music",
+    "requirement": 1,
+    "sentence": "在唱片行交換1次歌曲吧。",
+    "resourceBoxId": 100309,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 138,
+    "seq": 1,
+    "limitMissionType": "clear_maimai_music",
+    "requirement": 10,
+    "sentence": "遊玩聯動歌曲10次吧。",
+    "resourceBoxId": 100407,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 139,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 3,
+    "sentence": "通過3次「挑戰LIVE」吧。",
+    "resourceBoxId": 100308,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 140,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 5,
+    "sentence": "通過5次「多人LIVE」吧。",
+    "resourceBoxId": 100405,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 141,
+    "seq": 1,
+    "limitMissionType": "clear_virtual_live",
+    "requirement": 1,
+    "sentence": "參加1次「虛擬LIVE」吧。",
+    "resourceBoxId": 100319,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 142,
+    "seq": 1,
+    "limitMissionType": "friend_share",
+    "requirement": 1,
+    "sentence": "進行1次分享吧。（[分享]圖示位於LIVE結算、成員詳情、招募結果等畫面的上方）",
+    "resourceBoxId": 100301,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 23,
+    "id": 143,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 6,
+    "sentence": "通過所有限時任務吧。",
+    "resourceBoxId": 100406,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 144,
+    "seq": 1,
+    "limitMissionType": "clear_live_luka_leader",
+    "requirement": 15,
+    "sentence": "將巡音流歌設為隊長並進行15次LIVE吧。",
+    "resourceBoxId": 100327,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 145,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "在「心願碎片交換所」進行一次交換吧。（心願碎片可透過在「休息室」交換成員獲得）",
+    "resourceBoxId": 100401,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 146,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 100402,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 147,
+    "seq": 1,
+    "limitMissionType": "character_rank_luka",
+    "requirement": 5,
+    "sentence": "將巡音流歌的角色等級提升至5級吧。",
+    "resourceBoxId": 100323,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 148,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_luka",
+    "requirement": 3,
+    "sentence": "選擇巡音流歌進行3次挑戰LIVE吧。",
+    "resourceBoxId": 100305,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 24,
+    "id": 149,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成所有的巡音流歌紀念日慶典限時任務吧。",
+    "resourceBoxId": 100324,
+    "selectableRewardGroupId": 1005
   }
 ]
