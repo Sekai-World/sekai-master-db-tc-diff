@@ -24501,5 +24501,191 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_non0006_gate_lon1"
+  },
+  {
+    "id": 9000002,
+    "mysekaiFixtureType": "house_plant",
+    "name": "紅木躺椅",
+    "pronunciation": "紅木躺椅",
+    "flavorText": "紅木躺椅",
+    "seq": 91001005,
+    "gridSize": {
+      "width": 4,
+      "depth": 7,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 2,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000002,
+      "mysekaiFixtureTagId1": 9000002,
+      "mysekaiFixtureTagId2": 9000008
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_twcollect_fixture_bed1"
+  },
+  {
+    "id": 9000003,
+    "mysekaiFixtureType": "house_plant",
+    "name": "紅梅茶几",
+    "pronunciation": "紅梅茶几",
+    "flavorText": "紅梅茶几",
+    "seq": 91001006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 14,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000003,
+      "mysekaiFixtureTagId1": 9000003,
+      "mysekaiFixtureTagId2": 9000008
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_twcollect_fixture_table1"
+  },
+  {
+    "id": 9000004,
+    "mysekaiFixtureType": "house_plant",
+    "name": "聚寶盆",
+    "pronunciation": "聚寶盆",
+    "flavorText": "聚寶盆",
+    "seq": 91001007,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000004,
+      "mysekaiFixtureTagId1": 9000004,
+      "mysekaiFixtureTagId2": 9000008
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_twcollect_fixture_planter1"
+  },
+  {
+    "id": 9000005,
+    "mysekaiFixtureType": "house_plant",
+    "name": "糖葫蘆攤子",
+    "pronunciation": "糖葫蘆攤子",
+    "flavorText": "糖葫蘆攤子",
+    "seq": 91001008,
+    "gridSize": {
+      "width": 5,
+      "depth": 2,
+      "height": 5
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000005,
+      "mysekaiFixtureTagId1": 9000005,
+      "mysekaiFixtureTagId2": 9000008
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_twcollect_fixture_foodstall1"
+  },
+  {
+    "id": 9000006,
+    "mysekaiFixtureType": "house_plant",
+    "name": "舞龍燈籠",
+    "pronunciation": "舞龍燈籠",
+    "flavorText": "舞龍燈籠",
+    "seq": 91001009,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000006,
+      "mysekaiFixtureTagId1": 9000006,
+      "mysekaiFixtureTagId2": 9000008
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_twcollect_fixture_lantern1"
+  },
+  {
+    "id": 9000007,
+    "mysekaiFixtureType": "house_plant",
+    "name": "福願亭子",
+    "pronunciation": "福願亭子",
+    "flavorText": "福願亭子",
+    "seq": 91001010,
+    "gridSize": {
+      "width": 10,
+      "depth": 10,
+      "height": 11
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000007,
+      "mysekaiFixtureTagId1": 9000007,
+      "mysekaiFixtureTagId2": 9000008
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_twcollect_fixture_gazebo1"
   }
 ]
