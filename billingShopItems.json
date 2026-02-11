@@ -8553,6 +8553,20 @@
     "billingShopTabChildId": 301
   },
   {
+    "id": 30198,
+    "seq": 300735,
+    "billingShopItemType": "costume_3d",
+    "name": "巧克力主題服裝",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30178",
+    "resourceBoxId": 30816,
+    "startAt": 1770998400000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 301
+  },
+  {
     "id": 50001,
     "seq": 300611,
     "billingShopItemType": "value_set",

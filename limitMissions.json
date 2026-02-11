@@ -1362,5 +1362,65 @@
     "sentence": "完成所有的巡音流歌紀念日慶典限時任務吧。",
     "resourceBoxId": 100324,
     "selectableRewardGroupId": 1005
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 150,
+    "seq": 1,
+    "limitMissionType": "clear_live_kaito_leader",
+    "requirement": 15,
+    "sentence": "將KAITO設為隊長並進行15次LIVE吧。",
+    "resourceBoxId": 100327,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 151,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "在「心願碎片交換所」進行一次交換吧。（心願碎片可透過在「休息室」交換成員獲得）",
+    "resourceBoxId": 100401,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 152,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 100402,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 153,
+    "seq": 1,
+    "limitMissionType": "character_rank_kaito",
+    "requirement": 5,
+    "sentence": "將KAITO的角色等級提升至5級吧。",
+    "resourceBoxId": 100325,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 154,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_kaito",
+    "requirement": 3,
+    "sentence": "選擇KAITO進行3次挑戰LIVE吧。",
+    "resourceBoxId": 100305,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 25,
+    "id": 155,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成所有的KAITO紀念日慶典限時任務吧。",
+    "resourceBoxId": 100326,
+    "selectableRewardGroupId": 1006
   }
 ]
