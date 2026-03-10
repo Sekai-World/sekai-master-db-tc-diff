@@ -2670,6 +2670,18 @@
     "honorType": "achievement"
   },
   {
+    "id": 426,
+    "name": "HAPPY BIRTHDAY 一歌 2026.8.11",
+    "pronunciation": "はっぴーばーすでーいちか2025.8.11",
+    "honorType": "event"
+  },
+  {
+    "id": 427,
+    "name": "HAPPY BIRTHDAY 咲希 2026.5.9",
+    "pronunciation": "はっぴーばーすでーさき2025.5.9",
+    "honorType": "event"
+  },
+  {
     "id": 428,
     "name": "HAPPY BIRTHDAY 穗波 2025.10.27",
     "pronunciation": "はっぴーばーすでーほなみ2024.10.27",
@@ -2712,9 +2724,45 @@
     "honorType": "event"
   },
   {
+    "id": 435,
+    "name": "HAPPY BIRTHDAY 杏 2026.7.26",
+    "pronunciation": "はっぴーばーすでーあん2025.7.26",
+    "honorType": "event"
+  },
+  {
     "id": 436,
     "name": "HAPPY BIRTHDAY 彰人 2025.11.12",
     "pronunciation": "はっぴーばーすでーあき和2024.11.12",
+    "honorType": "event"
+  },
+  {
+    "id": 437,
+    "name": "HAPPY BIRTHDAY 冬彌 2026.5.25",
+    "pronunciation": "はっぴーばーすでー和うや2025.5.25",
+    "honorType": "event"
+  },
+  {
+    "id": 438,
+    "name": "HAPPY BIRTHDAY 司 2026.5.17",
+    "pronunciation": "はっぴーばーすでーつかさ2025.5.17",
+    "honorType": "event"
+  },
+  {
+    "id": 439,
+    "name": "HAPPY BIRTHDAY 笑夢 2026.9.9",
+    "pronunciation": "はっぴーばーすでー笑夢2025.9.9",
+    "honorType": "event"
+  },
+  {
+    "id": 440,
+    "name": "HAPPY BIRTHDAY 寧寧 2026.7.20",
+    "pronunciation": "はっぴーばーすでーねね2025.7.20",
+    "honorType": "event"
+  },
+  {
+    "id": 441,
+    "name": "HAPPY BIRTHDAY 類2026.6.24",
+    "pronunciation": "はっぴーばーすでーるい2025.6.24",
     "honorType": "event"
   },
   {
@@ -2733,6 +2781,18 @@
     "id": 444,
     "name": "HAPPY BIRTHDAY 繪名 2026.4.30",
     "pronunciation": "はっぴーばーすでーえな2025.4.30",
+    "honorType": "event"
+  },
+  {
+    "id": 445,
+    "name": "HAPPY BIRTHDAY 瑞希 2026.8.27",
+    "pronunciation": "はっぴーばーすでーみずき2025.8.27",
+    "honorType": "event"
+  },
+  {
+    "id": 446,
+    "name": "HAPPY ANNIVERSARY 初音未來 2026.8.31",
+    "pronunciation": "はっぴーあにばーさりーみく2025.8.31",
     "honorType": "event"
   },
   {
@@ -3036,6 +3096,422 @@
     "pronunciation": "ちょいしず　ふぉー　ざ　ふゅーちゃー",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_choicesfuture"
+  },
+  {
+    "id": 492,
+    "name": "然後，時針開始轉動",
+    "pronunciation": "そして、はりはうごきだす",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_needlemoving"
+  },
+  {
+    "id": 493,
+    "name": "Dear my fellows 綜合",
+    "pronunciation": "でぃあ　まい　ふぇろうず そうごう",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark"
+  },
+  {
+    "id": 494,
+    "name": "Dear my fellows 章節1",
+    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp1",
+    "frameName": "event_wl_2nd_themepark_cp1"
+  },
+  {
+    "id": 495,
+    "name": "Dear my fellows 章節2",
+    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp2",
+    "frameName": "event_wl_2nd_themepark_cp2"
+  },
+  {
+    "id": 496,
+    "name": "Dear my fellows 章節3",
+    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp3",
+    "frameName": "event_wl_2nd_themepark_cp3"
+  },
+  {
+    "id": 497,
+    "name": "Dear my fellows 章節4",
+    "pronunciation": "でぃあ　まい　ふぇろうず ちゃぷたー4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_themepark_cp4",
+    "frameName": "event_wl_2nd_themepark_cp4"
+  },
+  {
+    "id": 498,
+    "name": "Cheer with my Heart!",
+    "pronunciation": "ちあ　うぃず　まい　はーと！",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_cheerheart"
+  },
+  {
+    "id": 499,
+    "name": "Aim higher and higher！",
+    "pronunciation": "えいむ　はいあー　あんど　はいあー",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_higher"
+  },
+  {
+    "id": 500,
+    "name": "在泡沫的擁抱下 綜合",
+    "pronunciation": "うたかたにいだかれて そうごう",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal"
+  },
+  {
+    "id": 501,
+    "name": "在泡沫的擁抱下 章節1",
+    "pronunciation": "うたかたにいだかれて ちゃぷたー1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp1",
+    "frameName": "event_wl_2nd_schoolrefusal_cp1"
+  },
+  {
+    "id": 502,
+    "name": "在泡沫的擁抱下 章節2",
+    "pronunciation": "うたかたにいだかれて ちゃぷたー2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp2",
+    "frameName": "event_wl_2nd_schoolrefusal_cp2"
+  },
+  {
+    "id": 503,
+    "name": "在泡沫的擁抱下 章節3",
+    "pronunciation": "うたかたにいだかれて ちゃぷたー3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp3",
+    "frameName": "event_wl_2nd_schoolrefusal_cp3"
+  },
+  {
+    "id": 504,
+    "name": "在泡沫的擁抱下 章節4",
+    "pronunciation": "うたかたにいだかれて ちゃぷたー4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_schoolrefusal_cp4",
+    "frameName": "event_wl_2nd_schoolrefusal_cp4"
+  },
+  {
+    "id": 505,
+    "name": "ordinary,yet special us 綜合",
+    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす そうごう",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound"
+  },
+  {
+    "id": 506,
+    "name": "ordinary,yet special us 章節1",
+    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp1",
+    "frameName": "event_wl_2nd_lightsound_cp1"
+  },
+  {
+    "id": 507,
+    "name": "ordinary,yet special us 章節2",
+    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp2",
+    "frameName": "event_wl_2nd_lightsound_cp2"
+  },
+  {
+    "id": 508,
+    "name": "ordinary,yet special us 章節3",
+    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp3",
+    "frameName": "event_wl_2nd_lightsound_cp3"
+  },
+  {
+    "id": 509,
+    "name": "ordinary,yet special us 章節4",
+    "pronunciation": "おーでぃなりー,いえっと すぺしゃる あす ちゃぷたー4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_lightsound_cp4",
+    "frameName": "event_wl_2nd_lightsound_cp4"
+  },
+  {
+    "id": 510,
+    "name": "七夕2026",
+    "pronunciation": "たなばた2025",
+    "honorType": "event"
+  },
+  {
+    "id": 511,
+    "name": "社群交流盃2026 SUMMER",
+    "pronunciation": "こみゅにてぃかっぷ2025さまー",
+    "honorType": "event"
+  },
+  {
+    "id": 512,
+    "name": "社群交流盃2026 AUTUMN",
+    "pronunciation": "こみゅにてぃかっぷ2025おーたむ",
+    "honorType": "event"
+  },
+  {
+    "id": 513,
+    "name": "社群交流盃2027 WINTER",
+    "pronunciation": "こみゅにてぃかっぷ2026うぃんたー",
+    "honorType": "event"
+  },
+  {
+    "id": 514,
+    "name": "社群交流盃2027 SPRING",
+    "pronunciation": "こみゅにてぃかっぷ2026すぷりんぐ",
+    "honorType": "event"
+  },
+  {
+    "id": 515,
+    "name": "社群交流盃2027 SUMMER",
+    "pronunciation": "こみゅにてぃかっぷ2026さまー",
+    "honorType": "event"
+  },
+  {
+    "id": 516,
+    "name": "社群交流盃2027 AUTUMN",
+    "pronunciation": "こみゅにてぃかっぷ2026おーたむ",
+    "honorType": "event"
+  },
+  {
+    "id": 517,
+    "name": "社群交流盃2028 WINTER",
+    "pronunciation": "こみゅにてぃかっぷ2027うぃんたー",
+    "honorType": "event"
+  },
+  {
+    "id": 518,
+    "name": "段位配對2026 SUMMER",
+    "pronunciation": "らんくまっち2025さまー",
+    "honorType": "rank_match",
+    "backgroundAssetbundleName": "season_2025_summer"
+  },
+  {
+    "id": 519,
+    "name": "連線LIVE Dreamscape",
+    "pronunciation": "こねくとらいぶ どりーむすけーぷ",
+    "honorType": "event"
+  },
+  {
+    "id": 520,
+    "name": "Deeper and deeper",
+    "pronunciation": "でぃーぱー　あんど　でぃーぱー",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_deeper"
+  },
+  {
+    "id": 521,
+    "name": "Unsteady, still steady step",
+    "pronunciation": "あんすてでぃ　すてぃる　すてでぃ　すてっぷ",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_unsteady"
+  },
+  {
+    "id": 522,
+    "name": "start rolling! stars' crossing",
+    "pronunciation": "すたーとろーりんぐ！すたーずくろっしんぐ",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_crossing"
+  },
+  {
+    "id": 523,
+    "name": "Competitive fire!",
+    "pronunciation": "こんぺてぃてぃぶ　ふぁいやー",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_competitive"
+  },
+  {
+    "id": 524,
+    "name": "All ways Jump! with you 綜合",
+    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー そうごう",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol"
+  },
+  {
+    "id": 525,
+    "name": "All ways Jump! with you 章節1",
+    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp1",
+    "frameName": "event_wl_2nd_idol_cp1"
+  },
+  {
+    "id": 526,
+    "name": "All ways Jump! with you 章節2",
+    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp2",
+    "frameName": "event_wl_2nd_idol_cp2"
+  },
+  {
+    "id": 527,
+    "name": "All ways Jump! with you 章節3",
+    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp3",
+    "frameName": "event_wl_2nd_idol_cp3"
+  },
+  {
+    "id": 528,
+    "name": "All ways Jump! with you 章節4",
+    "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp4",
+    "frameName": "event_wl_2nd_idol_cp4"
+  },
+  {
+    "id": 529,
+    "name": "將手伸向難解的明日",
+    "pronunciation": "ほどけぬあすにてをのばして",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_tomorrow"
+  },
+  {
+    "id": 530,
+    "name": "Deep Dark For Light",
+    "pronunciation": "でぃーぷだーくふぉーらいと",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_forlight"
+  },
+  {
+    "id": 531,
+    "name": "Link the Beats！ 綜合",
+    "pronunciation": "りんくざびーつ！ そうごう",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro"
+  },
+  {
+    "id": 532,
+    "name": "Link the Beats！ 章節1",
+    "pronunciation": "りんくざびーつ！ ちゃぷたー1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp1",
+    "frameName": "event_wl_2nd_piapro_cp1"
+  },
+  {
+    "id": 533,
+    "name": "Link the Beats！ 章節2",
+    "pronunciation": "りんくざびーつ！ ちゃぷたー2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp2",
+    "frameName": "event_wl_2nd_piapro_cp2"
+  },
+  {
+    "id": 534,
+    "name": "Link the Beats！ 章節3",
+    "pronunciation": "りんくざびーつ！ ちゃぷたー3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp3",
+    "frameName": "event_wl_2nd_piapro_cp3"
+  },
+  {
+    "id": 535,
+    "name": "Link the Beats！ 章節4",
+    "pronunciation": "りんくざびーつ！ ちゃぷたー4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp4",
+    "frameName": "event_wl_2nd_piapro_cp4"
+  },
+  {
+    "id": 536,
+    "name": "Link the Beats！ 章節5",
+    "pronunciation": "りんくざびーつ！ ちゃぷたー5",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp5",
+    "frameName": "event_wl_2nd_piapro_cp5"
+  },
+  {
+    "id": 537,
+    "name": "Link the Beats！ 章節6",
+    "pronunciation": "りんくざびーつ！ ちゃぷたー6",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp6",
+    "frameName": "event_wl_2nd_piapro_cp6"
+  },
+  {
+    "id": 538,
+    "name": "Wishes in Bloom!",
+    "pronunciation": "うぃっしーず　いん　ぶるーむ！",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_wl_2nd_finale"
+  },
+  {
+    "id": 541,
+    "name": "HAPPY BIRTHDAY 穗波 2026.10.27",
+    "pronunciation": "はっぴーばーすでーほなみ2025.10.27",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_03",
+    "frameName": "honor_frame_birthday_01_03"
+  },
+  {
+    "id": 544,
+    "name": "HAPPY BIRTHDAY 遙 2026.10.5",
+    "pronunciation": "はっぴーばーすでーはるか2025.10.5",
+    "honorType": "birthday",
+    "backgroundAssetbundleName": "honor_bg_birthday_01_06",
+    "frameName": "honor_frame_birthday_01_06"
+  },
+  {
+    "id": 567,
+    "name": "5th ANNIVERSARY",
+    "pronunciation": "ふぃふすあにばーさりー",
+    "honorType": "event"
+  },
+  {
+    "id": 570,
+    "name": "最佳創作者 穗波 BD派對 '26",
+    "pronunciation": "べすとくりえいたーほなみばーすでーぱーてぃー25",
+    "honorType": "event"
+  },
+  {
+    "id": 573,
+    "name": "最佳創作者 遙 BD派對 '26",
+    "pronunciation": "べすとくりえいたーはるかばーすでーぱーてぃー25",
+    "honorType": "event"
+  },
+  {
+    "id": 594,
+    "name": "最佳創作者 你的「世界」",
+    "pronunciation": "べすとくりえいたーあなたのまいせかい",
+    "honorType": "event"
+  },
+  {
+    "id": 595,
+    "name": "Our Golden Days",
+    "pronunciation": "あわー　ごーるでん　でいず",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_golden"
+  },
+  {
+    "id": 596,
+    "name": "段位配對2026 AUTUMN",
+    "pronunciation": "らんくまっち2025おーたむ",
+    "honorType": "rank_match",
+    "backgroundAssetbundleName": "season_2025_autumn"
+  },
+  {
+    "id": 597,
+    "name": "世界計畫 Championship 2026 in 世界計畫感謝祭",
+    "pronunciation": "ぷろじぇくとせかいちゃんぴおんしっぷ2025いんぷろせかかんしゃさい",
+    "honorType": "event"
+  },
+  {
+    "id": 598,
+    "name": "與你相繫的Heart Beat",
+    "pronunciation": "きみとつなぐはーとびーと",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_heartbeat"
+  },
+  {
+    "id": 599,
+    "name": "交融的色彩一如昔日",
+    "pronunciation": "まじわるいろはあのひのままに",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_colorcross"
   },
   {
     "id": 10001,
@@ -3411,6 +3887,12 @@
     "pronunciation": "maimai DX|CHUNITHM 共振大師",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_maimai"
+  },
+  {
+    "id": 20017,
+    "name": "White Reverie",
+    "pronunciation": "White Reverie",
+    "honorType": "event"
   },
   {
     "id": 20018,

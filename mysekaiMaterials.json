@@ -789,5 +789,65 @@
       6,
       8
     ]
+  },
+  {
+    "id": 66,
+    "seq": 507,
+    "mysekaiMaterialType": "junk",
+    "name": "蓬鬆的雲層",
+    "pronunciation": "ふわもこわたぐも",
+    "description": "用剪下的雲朵碎片做的棉花。\n有時會在多雲天掉落。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_13",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 15,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 69,
+    "seq": 703,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "穗波的慶典之花",
+    "pronunciation": "ほなみのせれぶれーしょんふらわー",
+    "description": "用於製作慶祝穗波生日的家具素材。\n※僅在2026年生日活動中使用",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_3",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop103",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 72,
+    "seq": 706,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "遙的慶典之花",
+    "pronunciation": "はるかのせれぶれーしょんふらわー",
+    "description": "用於製作慶祝遙生日的家具素材。\n※僅在2026年生日活動中使用",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_6",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop106",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 93,
+    "seq": 508,
+    "mysekaiMaterialType": "junk",
+    "name": "「世界」碎石",
+    "pronunciation": "せかいびっつ",
+    "description": "這是心願在我的「世界」裡變成碎片，結晶化後的物品。\n有時會在「世界」之日掉落。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_14",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 14,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
   }
 ]
