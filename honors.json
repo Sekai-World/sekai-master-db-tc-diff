@@ -99432,7 +99432,7 @@
     "id": 5751,
     "seq": 148506,
     "groupId": 485,
-    "honorRarity": "high",
+    "honorRarity": "middle",
     "name": "TOP1000",
     "assetbundleName": "honor_top_001000_event_wl_2nd_street_cp1",
     "levels": [
@@ -99507,7 +99507,7 @@
     "id": 5756,
     "seq": 148511,
     "groupId": 485,
-    "honorRarity": "middle",
+    "honorRarity": "low",
     "name": "TOP7000",
     "assetbundleName": "honor_top_007000_event_wl_2nd_street_cp1",
     "levels": [
@@ -99522,7 +99522,7 @@
     "id": 5757,
     "seq": 148512,
     "groupId": 485,
-    "honorRarity": "middle",
+    "honorRarity": "low",
     "name": "TOP10000",
     "assetbundleName": "honor_top_010000_event_wl_2nd_street_cp1",
     "levels": [
@@ -99687,7 +99687,7 @@
     "id": 5769,
     "seq": 148606,
     "groupId": 486,
-    "honorRarity": "high",
+    "honorRarity": "middle",
     "name": "TOP1000",
     "assetbundleName": "honor_top_001000_event_wl_2nd_street_cp2",
     "levels": [
@@ -99762,7 +99762,7 @@
     "id": 5774,
     "seq": 148611,
     "groupId": 486,
-    "honorRarity": "middle",
+    "honorRarity": "low",
     "name": "TOP7000",
     "assetbundleName": "honor_top_007000_event_wl_2nd_street_cp2",
     "levels": [
@@ -99777,7 +99777,7 @@
     "id": 5775,
     "seq": 148612,
     "groupId": 486,
-    "honorRarity": "middle",
+    "honorRarity": "low",
     "name": "TOP10000",
     "assetbundleName": "honor_top_010000_event_wl_2nd_street_cp2",
     "levels": [
@@ -99942,7 +99942,7 @@
     "id": 5787,
     "seq": 148706,
     "groupId": 487,
-    "honorRarity": "high",
+    "honorRarity": "middle",
     "name": "TOP1000",
     "assetbundleName": "honor_top_001000_event_wl_2nd_street_cp3",
     "levels": [
@@ -100017,7 +100017,7 @@
     "id": 5792,
     "seq": 148711,
     "groupId": 487,
-    "honorRarity": "middle",
+    "honorRarity": "low",
     "name": "TOP7000",
     "assetbundleName": "honor_top_007000_event_wl_2nd_street_cp3",
     "levels": [
@@ -100032,7 +100032,7 @@
     "id": 5793,
     "seq": 148712,
     "groupId": 487,
-    "honorRarity": "middle",
+    "honorRarity": "low",
     "name": "TOP10000",
     "assetbundleName": "honor_top_010000_event_wl_2nd_street_cp3",
     "levels": [
@@ -100197,7 +100197,7 @@
     "id": 5805,
     "seq": 148806,
     "groupId": 488,
-    "honorRarity": "high",
+    "honorRarity": "middle",
     "name": "TOP1000",
     "assetbundleName": "honor_top_001000_event_wl_2nd_street_cp4",
     "levels": [
@@ -100272,7 +100272,7 @@
     "id": 5810,
     "seq": 148811,
     "groupId": 488,
-    "honorRarity": "middle",
+    "honorRarity": "low",
     "name": "TOP7000",
     "assetbundleName": "honor_top_007000_event_wl_2nd_street_cp4",
     "levels": [
@@ -100287,7 +100287,7 @@
     "id": 5811,
     "seq": 148812,
     "groupId": 488,
-    "honorRarity": "middle",
+    "honorRarity": "low",
     "name": "TOP10000",
     "assetbundleName": "honor_top_010000_event_wl_2nd_street_cp4",
     "levels": [
@@ -123306,7 +123306,7 @@
     "id": 20049,
     "seq": 2000050,
     "groupId": 20017,
-    "honorRarity": "low",
+    "honorRarity": "highest",
     "name": "White Reverie",
     "assetbundleName": "honor_gachamission_01",
     "levels": [
@@ -123931,5 +123931,77 @@
         "description": "「應援！新春的世界 2026」活動團體應援獎勵"
       }
     ]
+  },
+  {
+    "id": 20075,
+    "seq": 2000042,
+    "groupId": 20024,
+    "honorRarity": "highest",
+    "name": "第三期心願榜稱號「TOP1」",
+    "assetbundleName": "honor_top_000001",
+    "levels": []
+  },
+  {
+    "id": 20076,
+    "seq": 2000043,
+    "groupId": 20024,
+    "honorRarity": "highest",
+    "name": "第三期心願榜稱號「TOP2」",
+    "assetbundleName": "honor_top_000002",
+    "levels": []
+  },
+  {
+    "id": 20077,
+    "seq": 2000044,
+    "groupId": 20024,
+    "honorRarity": "highest",
+    "name": "第三期心願榜稱號「TOP3」",
+    "assetbundleName": "honor_top_000003",
+    "levels": []
+  },
+  {
+    "id": 20078,
+    "seq": 2000045,
+    "groupId": 20024,
+    "honorRarity": "highest",
+    "name": "第三期心願榜稱號「TOP10」",
+    "assetbundleName": "honor_top_000010",
+    "levels": []
+  },
+  {
+    "id": 20079,
+    "seq": 2000046,
+    "groupId": 20024,
+    "honorRarity": "highest",
+    "name": "第三期心願榜稱號「TOP100」",
+    "assetbundleName": "honor_top_000100",
+    "levels": []
+  },
+  {
+    "id": 20080,
+    "seq": 2000047,
+    "groupId": 20024,
+    "honorRarity": "high",
+    "name": "第三期心願榜稱號「TOP1000」",
+    "assetbundleName": "honor_top_001000",
+    "levels": []
+  },
+  {
+    "id": 20081,
+    "seq": 2000048,
+    "groupId": 20024,
+    "honorRarity": "middle",
+    "name": "第三期心願榜稱號「TOP10000」",
+    "assetbundleName": "honor_top_010000",
+    "levels": []
+  },
+  {
+    "id": 20082,
+    "seq": 2000049,
+    "groupId": 20024,
+    "honorRarity": "low",
+    "name": "第三期心願榜稱號「TOP50000」",
+    "assetbundleName": "honor_top_050000",
+    "levels": []
   }
 ]
