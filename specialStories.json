@@ -847,6 +847,111 @@
     ]
   },
   {
+    "id": 52,
+    "assetbundleName": "wl-2nd-event-pre-story",
+    "startAt": 1774843200000,
+    "endAt": 1776686399000,
+    "episodes": [
+      {
+        "id": 57,
+        "specialStoryId": 52,
+        "episodeNo": 1,
+        "title": "World Link活動前傳登入劇情",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_wl_2nd_pre",
+        "scenarioId": "wl_2nd_pre_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1774972800000,
+    "endAt": 1775059199000,
+    "episodes": [
+      {
+        "id": 58,
+        "specialStoryId": 53,
+        "episodeNo": 1,
+        "title": "愚人節2026導入影片",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1775059200000,
+    "endAt": 1775145599000,
+    "episodes": [
+      {
+        "id": 59,
+        "specialStoryId": 54,
+        "episodeNo": 1,
+        "title": "愚人節2026劇情補充影片",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_02",
+        "releaseConditionId": 1000300,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "assetbundleName": "collaboration-tamagotchi-story",
+    "startAt": 1789790400000,
+    "endAt": 1790611199000,
+    "episodes": [
+      {
+        "id": 61,
+        "specialStoryId": 56,
+        "episodeNo": 1,
+        "title": "[世界計畫×電子雞]聯動紀念登入劇情 序章",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_tamagotchi",
+        "scenarioId": "collaboration_tamagotchi_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "assetbundleName": "collaboration-tamagotchi-story",
+    "startAt": 1790611200000,
+    "endAt": 1790783999000,
+    "episodes": [
+      {
+        "id": 62,
+        "specialStoryId": 57,
+        "episodeNo": 1,
+        "title": "[世界計畫×電子雞]聯動紀念登入劇情 結尾",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_tamagotchi",
+        "scenarioId": "collaboration_tamagotchi_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
     "id": 58,
     "assetbundleName": "5th-anniversary-login-story",
     "startAt": 1790697600000,
