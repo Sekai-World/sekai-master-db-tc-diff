@@ -9574,7 +9574,7 @@
   },
   {
     "id": 261002,
-    "seq": 45779,
+    "seq": 300617,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262002,
     "name": "[天馬咲希]生日組合包B",
@@ -9584,7 +9584,7 @@
     "assetbundleName": "shop_birthdayfood_0509_26",
     "resourceBoxId": 261002,
     "startAt": 1778256000000,
-    "endAt": 1778947199000,
+    "endAt": 1778860799000,
     "billingShopTabChildId": 204
   },
   {
@@ -9724,7 +9724,7 @@
   },
   {
     "id": 261012,
-    "seq": 45795,
+    "seq": 300613,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262012,
     "name": "[青柳冬彌]生日組合包B",
@@ -9734,12 +9734,12 @@
     "assetbundleName": "shop_birthdayfood_0525_26",
     "resourceBoxId": 261012,
     "startAt": 1779638400000,
-    "endAt": 1780329599000,
+    "endAt": 1780243199000,
     "billingShopTabChildId": 204
   },
   {
     "id": 261013,
-    "seq": 45787,
+    "seq": 300615,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262013,
     "name": "[天馬司]生日組合包B",
@@ -9749,7 +9749,7 @@
     "assetbundleName": "shop_birthdayfood_0517_26",
     "resourceBoxId": 261013,
     "startAt": 1778947200000,
-    "endAt": 1779638399000,
+    "endAt": 1779551999000,
     "billingShopTabChildId": 204
   },
   {
@@ -9964,7 +9964,7 @@
   },
   {
     "id": 262002,
-    "seq": 45780,
+    "seq": 300616,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261002,
     "name": "[天馬咲希]生日組合包A",
@@ -9974,7 +9974,7 @@
     "assetbundleName": "shop_birthdayfood_0509_25",
     "resourceBoxId": 50003,
     "startAt": 1778256000000,
-    "endAt": 1778947199000,
+    "endAt": 1778860799000,
     "billingShopTabChildId": 204
   },
   {
@@ -10114,7 +10114,7 @@
   },
   {
     "id": 262012,
-    "seq": 45796,
+    "seq": 300612,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261012,
     "name": "[青柳冬彌]生日組合包A",
@@ -10124,12 +10124,12 @@
     "assetbundleName": "shop_birthdayfood_0525_25",
     "resourceBoxId": 50012,
     "startAt": 1779638400000,
-    "endAt": 1780329599000,
+    "endAt": 1780243199000,
     "billingShopTabChildId": 204
   },
   {
     "id": 262013,
-    "seq": 45788,
+    "seq": 300614,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261013,
     "name": "[天馬司]生日組合包A",
@@ -10139,7 +10139,7 @@
     "assetbundleName": "shop_birthdayfood_0517_25",
     "resourceBoxId": 50013,
     "startAt": 1778947200000,
-    "endAt": 1779638399000,
+    "endAt": 1779551999000,
     "billingShopTabChildId": 204
   },
   {
@@ -13722,6 +13722,21 @@
     "billingShopTabChildId": 301
   },
   {
+    "id": 300790,
+    "seq": 300990,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "3.5週年紀念Global Edtion限定服裝",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300790",
+    "resourceBoxId": 432,
+    "startAt": 1777564800000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 301
+  },
+  {
     "id": 300800,
     "seq": 300800,
     "billingShopItemType": "costume_3d",
@@ -14073,7 +14088,7 @@
   },
   {
     "id": 300990,
-    "seq": 300990,
+    "seq": 300790,
     "billingShopItemType": "costume_3d",
     "name": "2025年初音未來日限定衣装",
     "billableLimitType": "count",

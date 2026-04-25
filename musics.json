@@ -13073,7 +13073,7 @@
   },
   {
     "id": 422,
-    "seq": 2338302,
+    "seq": 2338202,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -13109,7 +13109,7 @@
   },
   {
     "id": 423,
-    "seq": 2238001,
+    "seq": 2237901,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -13145,7 +13145,7 @@
   },
   {
     "id": 424,
-    "seq": 2238401,
+    "seq": 2238301,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -13379,7 +13379,7 @@
   },
   {
     "id": 431,
-    "seq": 1337901,
+    "seq": 1337801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13610,7 +13610,7 @@
   },
   {
     "id": 438,
-    "seq": 1238101,
+    "seq": 1238001,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14377,7 +14377,7 @@
   },
   {
     "id": 461,
-    "seq": 1138501,
+    "seq": 1138401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15115,7 +15115,7 @@
   },
   {
     "id": 484,
-    "seq": 9999901,
+    "seq": 1249701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15316,7 +15316,7 @@
   },
   {
     "id": 490,
-    "seq": 9999902,
+    "seq": 9999901,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15572,7 +15572,7 @@
   },
   {
     "id": 498,
-    "seq": 9999903,
+    "seq": 9999902,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -15600,7 +15600,7 @@
   },
   {
     "id": 499,
-    "seq": 9999904,
+    "seq": 1549501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15633,7 +15633,7 @@
   },
   {
     "id": 500,
-    "seq": 9999905,
+    "seq": 9999903,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -15930,6 +15930,39 @@
     "isFullLength": false
   },
   {
+    "id": 509,
+    "seq": 9999905,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      }
+    ],
+    "title": "ライアーダンサー",
+    "pronunciation": "らいあーだんさー",
+    "creatorArtistId": 271,
+    "lyricist": "マサラダ",
+    "composer": "マサラダ",
+    "arranger": "マサラダ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_509",
+    "publishedAt": 1777791600000,
+    "releasedAt": 1683993600000,
+    "fillerSec": 7.940999984741211,
+    "infos": [
+      {
+        "title": "Liar Dancer",
+        "creator": "マサラダ",
+        "lyricist": "マサラダ",
+        "composer": "マサラダ",
+        "arranger": "マサラダ"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 511,
     "seq": 1346901,
     "releaseConditionId": 5,
@@ -16129,7 +16162,7 @@
   },
   {
     "id": 518,
-    "seq": 9999908,
+    "seq": 9999907,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16187,7 +16220,7 @@
   },
   {
     "id": 520,
-    "seq": 9999909,
+    "seq": 9999908,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16213,6 +16246,39 @@
         "lyricist": "n-buna",
         "composer": "n-buna",
         "arranger": "n-buna"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 521,
+    "seq": 9999909,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      }
+    ],
+    "title": "オーバーライド",
+    "pronunciation": "おーばーらいど",
+    "creatorArtistId": 244,
+    "lyricist": "吉田夜世",
+    "composer": "吉田夜世",
+    "arranger": "吉田夜世",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_521",
+    "publishedAt": 1777618800000,
+    "releasedAt": 1701187200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "Override",
+        "creator": "吉田夜世",
+        "lyricist": "吉田夜世",
+        "composer": "吉田夜世",
+        "arranger": "吉田夜世"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -16735,14 +16801,22 @@
     "publishedAt": 1779519600000,
     "releasedAt": 1779519600000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "Eleventh",
+        "creator": "ポリスピカデリー",
+        "lyricist": "ポリスピカデリー",
+        "composer": "ポリスピカデリー",
+        "arranger": "ポリスピカデリー"
+      }
+    ],
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
   {
     "id": 540,
     "seq": 2651701,
-    "releaseConditionId": 5,
+    "releaseConditionId": 10,
     "categories": [
       {
         "musicCategoryName": "mv"
@@ -16760,16 +16834,16 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_540",
-    "publishedAt": 1777532400000,
-    "releasedAt": 1777532400000,
+    "publishedAt": 1778162700000,
+    "releasedAt": 1746460800000,
     "fillerSec": 9.0,
     "infos": [
       {
         "title": "虛無人士",
-        "creator": "かっこかり",
-        "lyricist": "作詞者1",
-        "composer": "作曲者1",
-        "arranger": "編曲者1"
+        "creator": "¿?shimon",
+        "lyricist": "¿?shimon",
+        "composer": "¿?shimon",
+        "arranger": "¿?shimon"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -16876,7 +16950,7 @@
   },
   {
     "id": 544,
-    "seq": 9999915,
+    "seq": 1349601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16966,6 +17040,39 @@
     "isFullLength": false
   },
   {
+    "id": 547,
+    "seq": 9999915,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "終焉逃避行",
+    "pronunciation": "しゅうえんとうひこう",
+    "creatorArtistId": 188,
+    "lyricist": "柊マグネタイト",
+    "composer": "柊マグネタイト",
+    "arranger": "柊マグネタイト",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_547",
+    "publishedAt": 1778482800000,
+    "releasedAt": 1607616000000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "終焉逃避行",
+        "creator": "柊マグネタイト",
+        "lyricist": "柊マグネタイト",
+        "composer": "柊マグネタイト",
+        "arranger": "柊マグネタイト"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 548,
     "seq": 2545901,
     "releaseConditionId": 10,
@@ -17025,7 +17132,7 @@
   },
   {
     "id": 552,
-    "seq": 9999917,
+    "seq": 9999916,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17058,7 +17165,7 @@
   },
   {
     "id": 553,
-    "seq": 9999918,
+    "seq": 9999917,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17183,7 +17290,7 @@
   },
   {
     "id": 557,
-    "seq": 9999921,
+    "seq": 9999920,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17413,7 +17520,7 @@
   },
   {
     "id": 566,
-    "seq": 9999927,
+    "seq": 9999926,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17479,7 +17586,7 @@
   },
   {
     "id": 569,
-    "seq": 9999929,
+    "seq": 9999928,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17504,7 +17611,7 @@
   },
   {
     "id": 570,
-    "seq": 9999930,
+    "seq": 9999929,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17821,7 +17928,7 @@
   },
   {
     "id": 580,
-    "seq": 9999932,
+    "seq": 9999931,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17932,7 +18039,7 @@
   },
   {
     "id": 585,
-    "seq": 9999936,
+    "seq": 9999935,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -17953,6 +18060,39 @@
     "fillerSec": 8.25469970703125,
     "infos": [],
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 587,
+    "seq": 9999936,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "ルルブ",
+    "pronunciation": "るるぶ",
+    "creatorArtistId": 269,
+    "lyricist": "藤原ハガネ",
+    "composer": "藤原ハガネ",
+    "arranger": "藤原ハガネ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_587",
+    "publishedAt": 1779778800000,
+    "releasedAt": 1732896000000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "ルルブ",
+        "creator": "藤原ハガネ",
+        "lyricist": "藤原ハガネ",
+        "composer": "藤原ハガネ",
+        "arranger": "藤原ハガネ"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
@@ -18049,6 +18189,39 @@
         "lyricist": "wotaku",
         "composer": "wotaku",
         "arranger": "wotaku"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 591,
+    "seq": 9999940,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "吉原ラメント 再来盤",
+    "pronunciation": "よしわららめんと さいらいばん",
+    "creatorArtistId": 275,
+    "lyricist": "亜沙",
+    "composer": "亜沙",
+    "arranger": "亜沙",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_591",
+    "publishedAt": 1777705200000,
+    "releasedAt": 1692288000000,
+    "fillerSec": 8.983400344848633,
+    "infos": [
+      {
+        "title": "吉原哀歌-再來盤-",
+        "creator": "亜沙",
+        "lyricist": "亜沙",
+        "composer": "亜沙",
+        "arranger": "亜沙"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -18650,7 +18823,7 @@
   },
   {
     "id": 620,
-    "seq": 9999962,
+    "seq": 9999963,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -18790,6 +18963,72 @@
     "isFullLength": false
   },
   {
+    "id": 626,
+    "seq": 9999967,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "フィッシュアンドTips",
+    "pronunciation": "ふぃっしゅあんどちっぷす",
+    "creatorArtistId": 280,
+    "lyricist": "ど～ぱみん",
+    "composer": "ど～ぱみん",
+    "arranger": "ど～ぱみん",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_626",
+    "publishedAt": 1779174000000,
+    "releasedAt": 1737129600000,
+    "fillerSec": 8.25,
+    "infos": [
+      {
+        "title": "Fish and Tips",
+        "creator": "ど～ぱみん",
+        "lyricist": "ど～ぱみん",
+        "composer": "ど～ぱみん",
+        "arranger": "ど～ぱみん"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 627,
+    "seq": 9999968,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "テトリス",
+    "pronunciation": "てとりす",
+    "creatorArtistId": 188,
+    "lyricist": "柊マグネタイト",
+    "composer": "ロシア民謡",
+    "arranger": "柊マグネタイト",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_627",
+    "publishedAt": 1777878000000,
+    "releasedAt": 1730995200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "テトリス",
+        "creator": "柊マグネタイト",
+        "lyricist": "柊マグネタイト",
+        "composer": "俄羅斯民謠",
+        "arranger": "柊マグネタイト"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 634,
     "seq": 2452401,
     "releaseConditionId": 10,
@@ -18810,7 +19049,15 @@
     "publishedAt": 1780210800000,
     "releasedAt": 1780210800000,
     "fillerSec": 8.565199851989746,
-    "infos": [],
+    "infos": [
+      {
+        "title": "光線歌",
+        "creator": "Guiano",
+        "lyricist": "Guiano",
+        "composer": "Guiano",
+        "arranger": "Guiano"
+      }
+    ],
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -18966,7 +19213,7 @@
   },
   {
     "id": 659,
-    "seq": 9999976,
+    "seq": 9999979,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -18987,6 +19234,39 @@
     "fillerSec": 7.63640022277832,
     "infos": [],
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 667,
+    "seq": 9999984,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "㋰責任集合体",
+    "pronunciation": "むせきにんしゅうごうたい",
+    "creatorArtistId": 271,
+    "lyricist": "マサラダ",
+    "composer": "マサラダ",
+    "arranger": "マサラダ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_667",
+    "publishedAt": 1777964400000,
+    "releasedAt": 1715356800000,
+    "fillerSec": 9.4443998336792,
+    "infos": [
+      {
+        "title": "㋰責任集合体",
+        "creator": "マサラダ",
+        "lyricist": "マサラダ",
+        "composer": "マサラダ",
+        "arranger": "マサラダ"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
@@ -19090,7 +19370,7 @@
   },
   {
     "id": 11011,
-    "seq": 1145501,
+    "seq": 1145502,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -19123,7 +19403,7 @@
   },
   {
     "id": 11012,
-    "seq": 1145502,
+    "seq": 1145503,
     "releaseConditionId": 5,
     "categories": [
       {
