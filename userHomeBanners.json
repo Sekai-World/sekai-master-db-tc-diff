@@ -40,16 +40,6 @@
     "endAt": 1778299200000
   },
   {
-    "homeBannerId": 1265,
-    "seq": 170,
-    "homeBannerType": "event",
-    "assetbundleName": "event_needlemoving_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 165,
-    "startAt": 1777532400000,
-    "endAt": 1778245199000
-  },
-  {
     "homeBannerId": 1268,
     "seq": 190,
     "homeBannerType": "general",
@@ -58,6 +48,16 @@
     "transitionDestinationId": 726,
     "startAt": 1777694400000,
     "endAt": 1779508800000
+  },
+  {
+    "homeBannerId": 1269,
+    "seq": 130,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive375",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 375,
+    "startAt": 1778137200000,
+    "endAt": 1778255999000
   },
   {
     "homeBannerId": 10037,
