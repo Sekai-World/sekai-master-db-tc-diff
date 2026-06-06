@@ -1488,5 +1488,245 @@
     "sentence": "通過以上所有任務吧。",
     "resourceBoxId": 400079,
     "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 162,
+    "seq": 1,
+    "limitMissionType": "clear_live_kaito_leader",
+    "requirement": 15,
+    "sentence": "將KAITO設為隊長並進行15次LIVE吧。",
+    "resourceBoxId": 100327,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 163,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "在「心願碎片交換所」進行一次交換吧。（心願碎片可透過在「休息室」交換成員獲得）",
+    "resourceBoxId": 100401,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 164,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 100402,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 165,
+    "seq": 1,
+    "limitMissionType": "character_rank_kaito",
+    "requirement": 5,
+    "sentence": "將KAITO的角色等級提升至5級吧。",
+    "resourceBoxId": 100325,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 166,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_kaito",
+    "requirement": 3,
+    "sentence": "選擇KAITO進行3次挑戰LIVE吧。",
+    "resourceBoxId": 100305,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 167,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成所有的KAITO紀念日慶典限時任務吧。",
+    "resourceBoxId": 100326,
+    "selectableRewardGroupId": 1006
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 168,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "通過5次「挑戰LIVE」吧。",
+    "resourceBoxId": 400074,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 169,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "通過10次「多人LIVE」吧。",
+    "resourceBoxId": 400075,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 170,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 400076,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 171,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": "累計消耗30LIVE BONUS吧。（可以從[LIVE]->[設定]的圖示中變更LIVE BONUS的消費量）",
+    "resourceBoxId": 400077,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 172,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成員的專精等級吧。",
+    "resourceBoxId": 400078,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 173,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "通過以上所有任務吧。",
+    "resourceBoxId": 400079,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 174,
+    "seq": 1,
+    "limitMissionType": "clear_live_meiko_leader",
+    "requirement": 15,
+    "sentence": "將MEIKO設為隊長並進行15次LIVE吧。",
+    "resourceBoxId": 100327,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 175,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "在「心願碎片交換所」進行一次交換吧。（心願碎片可透過在「休息室」交換成員獲得）",
+    "resourceBoxId": 100401,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 176,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 100402,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 177,
+    "seq": 1,
+    "limitMissionType": "character_rank_meiko",
+    "requirement": 5,
+    "sentence": "將MEIKO的角色等級提升至5級吧。",
+    "resourceBoxId": 100310,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 178,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_meiko",
+    "requirement": 3,
+    "sentence": "選擇MEIKO進行3次挑戰LIVE吧。",
+    "resourceBoxId": 100305,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 179,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成所有的MEIKO紀念日慶典限時任務吧。",
+    "resourceBoxId": 100312,
+    "selectableRewardGroupId": 1003
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 180,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "通過5次「挑戰LIVE」吧。",
+    "resourceBoxId": 400074,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 181,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "通過10次「多人LIVE」吧。",
+    "resourceBoxId": 400075,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 182,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 400076,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 183,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": "累計消耗30LIVE BONUS吧。（可以從[LIVE]->[設定]的圖示中變更LIVE BONUS的消費量）",
+    "resourceBoxId": 400077,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 184,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成員的專精等級吧。",
+    "resourceBoxId": 400078,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 185,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "通過以上所有任務吧。",
+    "resourceBoxId": 400079,
+    "selectableRewardGroupId": 0
   }
 ]

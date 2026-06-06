@@ -26545,7 +26545,7 @@
     "motionName": "mov_cw_cute_tiltheadl003",
     "expressionEyeName": "normal",
     "expressionMouthName": "normal01",
-    "text": "這麼小的容器裡\n竟然種了一棵樹……"
+    "text": "房間裡竟然有棵樹，\n感覺有點不可思議呢……"
   },
   {
     "id": 13642,
@@ -29336,7 +29336,7 @@
     "motionName": "mov_cw_normal_nod002",
     "expressionEyeName": "normal",
     "expressionMouthName": "smile02",
-    "text": "雖然不知道能不能\n幫上什麼忙……"
+    "text": "怎麼樣？有好好打造出\n屬於你的「世界」嗎？"
   },
   {
     "id": 14260,
@@ -29483,7 +29483,7 @@
     "motionName": "mov_cm_happy_tilthead001",
     "expressionEyeName": "normal",
     "expressionMouthName": "normal02",
-    "text": "……兄弟姊妹？\n嗯，我有個姊姊。"
+    "text": "……兄弟姊妹？"
   },
   {
     "id": 14281,
@@ -29847,7 +29847,7 @@
     "motionName": "mov_cm_happy_nod001",
     "expressionEyeName": "normal",
     "expressionMouthName": "smile01",
-    "text": "清新空氣與\n一望無垠的藍天……"
+    "text": "這裡就是你的「世界」啊！"
   },
   {
     "id": 14333,
@@ -34391,14 +34391,14 @@
     "motionName": "mov_cw_adult_tiltheadl003",
     "expressionEyeName": "normal",
     "expressionMouthName": "smile01",
-    "text": "今天一天也辛苦了。\n有沒有什麼事情還沒完成？"
+    "text": "今天是滿月呢。\n你已經賞過月了嗎？"
   },
   {
     "id": 14979,
     "motionName": "mov_cw_silent_tilthead002",
     "expressionEyeName": "normal",
     "expressionMouthName": "smile01",
-    "text": "今天是滿月呢。\n你已經賞過月了嗎？"
+    "text": "今天一天也辛苦了。\n有沒有什麼事情還沒完成？"
   },
   {
     "id": 14980,
@@ -34419,7 +34419,7 @@
     "motionName": "mov_cw_cute_tiltheadl003",
     "expressionEyeName": "normal",
     "expressionMouthName": "smile01",
-    "text": "想說明明已經晚上了\n怎麼還有點亮……"
+    "text": "對你來說，\n今天是怎樣的一天呢？"
   },
   {
     "id": 14983,
@@ -34440,7 +34440,7 @@
     "motionName": "mov_cw_adult_notice001",
     "expressionEyeName": "normal",
     "expressionMouthName": "normal02",
-    "text": "你看，天上掛著一輪\n好大的月亮呢。"
+    "text": "哎呀，已經這麼晚了。"
   },
   {
     "id": 14986,
@@ -36071,7 +36071,7 @@
     "id": 15551,
     "expressionEyeName": "smile",
     "expressionMouthName": "smile01",
-    "text": "小遙今天看起來......."
+    "text": "……雫，你怎麼了？"
   },
   {
     "id": 15552,
@@ -36568,7 +36568,7 @@
     "motionName": "mov_cw_silent_01joy002",
     "expressionEyeName": "normal",
     "expressionMouthName": "normal01",
-    "text": "對了，\n我家在泡紅茶時……"
+    "text": "…………！"
   },
   {
     "id": 15635,
@@ -44153,6 +44153,13 @@
     "text": "聽我說聽我說！\n我前陣子去參加了音樂節！"
   },
   {
+    "id": 16845,
+    "motionName": "mov_cw_adult_tiltheadl003",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal01",
+    "text": "這個感覺是國王專用的\n豪華椅子是……"
+  },
+  {
     "id": 16846,
     "motionName": "mov_cw_adult_tiltheadr003",
     "expressionEyeName": "normal",
@@ -44169,6 +44176,7 @@
   {
     "id": 16848,
     "motionName": "mov_cw_silent_notice001",
+    "emoticonName": "fx_emote_010",
     "expressionEyeName": "surprise",
     "expressionMouthName": "normal02",
     "text": "原來這匹馬是石像啊？\n鬃毛的質感等……"
@@ -44197,6 +44205,7 @@
   {
     "id": 16852,
     "motionName": "mov_cw_happy_01joy001",
+    "emoticonName": "fx_emote_018_single",
     "expressionEyeName": "sparkling",
     "expressionMouthName": "smile02",
     "text": "這該不會是馬車吧！？\n好厲害～！"
@@ -44218,6 +44227,7 @@
   {
     "id": 16855,
     "motionName": "mov_cw_cute_02joy001",
+    "emoticonName": "fx_emote_018_single",
     "expressionEyeName": "sparkling",
     "expressionMouthName": "smile02",
     "text": "這是什麼，好厲害～！\n是玫瑰拱門！？"
@@ -44836,6 +44846,7 @@
   {
     "id": 16943,
     "motionName": "mov_cw_cute_tilthead005",
+    "emoticonName": "fx_emote_018_single",
     "expressionEyeName": "sparkling",
     "expressionMouthName": "smile01",
     "text": "這該不會是馬車吧！？\n讓我拍幾張照……"
@@ -44871,6 +44882,7 @@
   {
     "id": 16948,
     "motionName": "mov_cw_normal_01joy001",
+    "emoticonName": "fx_emote_018_single",
     "expressionEyeName": "sparkling",
     "expressionMouthName": "smile02",
     "text": "有、有馬車！\n好厲害！超有格調！太棒了！"
@@ -44899,6 +44911,7 @@
   {
     "id": 16952,
     "motionName": "mov_cw_cute_01joy001",
+    "emoticonName": "fx_emote_018_single",
     "expressionEyeName": "sparkling",
     "expressionMouthName": "smile02",
     "text": "這、這個美到不行的拱門\n怎麼回事！"
@@ -45346,5 +45359,12 @@
     "expressionEyeName": "normal",
     "expressionMouthName": "smile01",
     "text": "前陣子，我和我在加入MORE\nMORE JUMP！之前……"
+  },
+  {
+    "id": 17089,
+    "motionName": "mov_cw_adult_notice001",
+    "expressionEyeName": "surprise",
+    "expressionMouthName": "normal01",
+    "text": "……咦！？這麼厲害的\n椅子，是為了我……"
   }
 ]

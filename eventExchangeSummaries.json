@@ -38968,114 +38968,6 @@
     "assetbundleName": "event_needlemoving_2025"
   },
   {
-    "id": 166,
-    "eventId": 166,
-    "startAt": 4081842000000,
-    "endAt": 4083047999000,
-    "eventExchanges": [
-      {
-        "id": 3746,
-        "eventExchangeSummaryId": 166,
-        "seq": 1,
-        "resourceBoxId": 388,
-        "exchangeLimit": 1,
-        "eventExchangeCost": {
-          "resourceQuantity": 25000
-        }
-      },
-      {
-        "id": 3747,
-        "eventExchangeSummaryId": 166,
-        "seq": 2,
-        "resourceBoxId": 389,
-        "exchangeLimit": 10,
-        "eventExchangeCost": {
-          "resourceQuantity": 500
-        }
-      },
-      {
-        "id": 3748,
-        "eventExchangeSummaryId": 166,
-        "seq": 3,
-        "resourceBoxId": 390,
-        "exchangeLimit": 10,
-        "eventExchangeCost": {
-          "resourceQuantity": 1000
-        }
-      },
-      {
-        "id": 3749,
-        "eventExchangeSummaryId": 166,
-        "seq": 4,
-        "resourceBoxId": 391,
-        "exchangeLimit": 1,
-        "eventExchangeCost": {
-          "resourceQuantity": 5000
-        }
-      },
-      {
-        "id": 3750,
-        "eventExchangeSummaryId": 166,
-        "seq": 5,
-        "resourceBoxId": 3,
-        "exchangeLimit": 3,
-        "eventExchangeCost": {
-          "resourceQuantity": 500
-        }
-      },
-      {
-        "id": 3751,
-        "eventExchangeSummaryId": 166,
-        "seq": 6,
-        "resourceBoxId": 12,
-        "exchangeLimit": 3,
-        "eventExchangeCost": {
-          "resourceQuantity": 2500
-        }
-      },
-      {
-        "id": 3752,
-        "eventExchangeSummaryId": 166,
-        "seq": 7,
-        "resourceBoxId": 9000,
-        "exchangeLimit": 20,
-        "eventExchangeCost": {
-          "resourceQuantity": 500
-        }
-      },
-      {
-        "id": 3753,
-        "eventExchangeSummaryId": 166,
-        "seq": 8,
-        "resourceBoxId": 11,
-        "exchangeLimit": 10,
-        "eventExchangeCost": {
-          "resourceQuantity": 500
-        }
-      },
-      {
-        "id": 3754,
-        "eventExchangeSummaryId": 166,
-        "seq": 9,
-        "resourceBoxId": 16,
-        "exchangeLimit": 1,
-        "eventExchangeCost": {
-          "resourceQuantity": 5000
-        }
-      },
-      {
-        "id": 3755,
-        "eventExchangeSummaryId": 166,
-        "seq": 10,
-        "resourceBoxId": 232,
-        "eventExchangeCost": {
-          "resourceQuantity": 1
-        }
-      }
-    ],
-    "assetbundleName": "event_cheerfutest_2025"
-  },
-  {
     "id": 167,
     "eventId": 167,
     "startAt": 1778328000000,
@@ -43556,7 +43448,7 @@
         "resourceBoxId": 148,
         "exchangeLimit": 3,
         "eventExchangeCost": {
-          "resourceQuantity": 50000
+          "resourceQuantity": 30000
         }
       },
       {
