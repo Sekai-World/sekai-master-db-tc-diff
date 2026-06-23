@@ -11542,6 +11542,142 @@
     ]
   },
   {
+    "id": 15,
+    "name": "[DEEMO×Cytus系列]聯動紀念集章任務",
+    "assetbundleName": "dc_tieup_pm",
+    "bgmAssetbundleName": "dc_tieup_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1781938800000,
+    "progressEndAt": 1783007999000,
+    "closedAt": 1783007999000,
+    "distributionEndAt": 1784217599000,
+    "informationId": 12527,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1501,
+        "panelMissionCampaignId": 15,
+        "name": "聯動",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 150101,
+            "panelMissionSheetGroupId": 1501,
+            "name": "聯動卡片",
+            "seq": 1,
+            "assetbundleName": "sheet_dc_tieup",
+            "panelMissions": [
+              {
+                "id": 15010101,
+                "panelMissionSheetId": 150101,
+                "name": "通過2次\n《SAIRAI》",
+                "description": "通過2次歌曲《SAIRAI》吧。\n※在2026\/6\/20 15:00新增歌曲",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010102,
+                "panelMissionSheetId": 150101,
+                "name": "通過2次\n《CHAOS》",
+                "description": "通過2次歌曲《CHAOS》吧。\n※在2026\/6\/21 15:00新增歌曲",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010103,
+                "panelMissionSheetId": 150101,
+                "name": "通過2次\n《Saika》",
+                "description": "通過2次歌曲《Saika》吧。\n※在2026\/6\/22 15:00新增歌曲",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010104,
+                "panelMissionSheetId": 150101,
+                "name": "通過2次\n《99 Glooms》",
+                "description": "通過2次歌曲《99 Glooms》吧。\n※在2026\/6\/23 15:00新增歌曲",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010105,
+                "panelMissionSheetId": 150101,
+                "name": "通過2次\n《ANiMA》",
+                "description": "通過2次歌曲《ANiMA》吧。\n※在2026\/6\/24 15:00新增歌曲",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010106,
+                "panelMissionSheetId": 150101,
+                "name": "通過2次\n《Masquerade》",
+                "description": "通過2次歌曲《Masquerade》吧。\n※在2026\/6\/25 15:00新增歌曲",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010107,
+                "panelMissionSheetId": 150101,
+                "name": "通過10次\n多人LIVE",
+                "description": "通過10次「多人LIVE」吧。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                2045
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 3001,
     "name": "3.5週年紀念集章任務",
     "assetbundleName": "3rd_anniv_pm",
