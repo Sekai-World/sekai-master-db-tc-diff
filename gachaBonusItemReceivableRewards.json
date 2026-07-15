@@ -928,5 +928,21 @@
     "gachaBonusBorderPoint": 100,
     "gachaBonusRewardType": "item",
     "resourceBoxId": 9
+  },
+  {
+    "id": 10001,
+    "groupId": 10001,
+    "gachaBonusBorderPoint": 50,
+    "gachaBonusRewardType": "item",
+    "resourceBoxId": 10001,
+    "assetbundleName": "gauge_balloon_item_material_3005"
+  },
+  {
+    "id": 10002,
+    "groupId": 10001,
+    "gachaBonusBorderPoint": 100,
+    "gachaBonusRewardType": "item",
+    "resourceBoxId": 10001,
+    "assetbundleName": "gauge_balloon_item_material_3005"
   }
 ]
