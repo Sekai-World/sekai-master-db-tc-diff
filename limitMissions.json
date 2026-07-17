@@ -1788,5 +1788,65 @@
     "sentence": "通過以上所有任務吧。",
     "resourceBoxId": 400096,
     "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 192,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "通過10次「多人LIVE」吧。",
+    "resourceBoxId": 400097,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 193,
+    "seq": 2,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 150,
+    "sentence": "累計消耗150 LIVE BONUS吧。（可以從[LIVE]→[設定]的圖示中變更LIVE BONUS消費量）",
+    "resourceBoxId": 400098,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 194,
+    "seq": 3,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "通過5次「挑戰LIVE」吧。",
+    "resourceBoxId": 400099,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 195,
+    "seq": 4,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 400100,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 196,
+    "seq": 5,
+    "limitMissionType": "live_mission_reward",
+    "requirement": 10,
+    "sentence": "累計領取10個LIVE任務的報酬吧。（通過LIVE可獲得LIVE P，累積一定的LIVE P可獲得報酬）",
+    "resourceBoxId": 400101,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 28,
+    "id": 197,
+    "seq": 6,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "通過以上所有任務吧。",
+    "resourceBoxId": 400102,
+    "selectableRewardGroupId": 0
   }
 ]

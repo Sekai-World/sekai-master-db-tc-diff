@@ -9198,6 +9198,36 @@
     "billingShopTabChildId": 204
   },
   {
+    "id": 30245,
+    "seq": 2017,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1388,
+    "name": "假日應援計劃・普通版",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30209",
+    "resourceBoxId": 30856,
+    "startAt": 1785470400000,
+    "endAt": 1786766399000,
+    "billingShopTabChildId": 201
+  },
+  {
+    "id": 30246,
+    "seq": 2016,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1389,
+    "name": "假日應援計劃・升級版",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30210",
+    "resourceBoxId": 30857,
+    "startAt": 1785470400000,
+    "endAt": 1786766399000,
+    "billingShopTabChildId": 201
+  },
+  {
     "id": 50001,
     "seq": 300611,
     "billingShopItemType": "value_set",
