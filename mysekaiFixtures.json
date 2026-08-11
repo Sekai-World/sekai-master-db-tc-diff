@@ -33418,5 +33418,221 @@
     "mysekaiFixturePlayerActionType": "timeline",
     "isGameCharacterAction": true,
     "assetbundleName": "mdl_twcollect_fixture_gazebo1"
+  },
+  {
+    "id": 9000008,
+    "mysekaiFixtureType": "normal",
+    "name": "消暑涼品",
+    "pronunciation": "消暑涼品",
+    "flavorText": "消暑涼品",
+    "seq": 91001011,
+    "gridSize": {
+      "width": 3,
+      "depth": 3,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000008,
+      "mysekaiFixtureTagId1": 9000009,
+      "mysekaiFixtureTagId2": 9000015
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_twcollect_fixture_table2"
+  },
+  {
+    "id": 9000009,
+    "mysekaiFixtureType": "normal",
+    "name": "鈴音窗",
+    "pronunciation": "鈴音窗",
+    "flavorText": "鈴音窗",
+    "seq": 91001012,
+    "gridSize": {
+      "width": 6,
+      "depth": 1,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 17,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000009,
+      "mysekaiFixtureTagId1": 9000010,
+      "mysekaiFixtureTagId2": 9000015
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_twcollect_window_window1"
+  },
+  {
+    "id": 9000010,
+    "mysekaiFixtureType": "normal",
+    "name": "清涼風扇",
+    "pronunciation": "清涼風扇",
+    "flavorText": "清涼風扇",
+    "seq": 91001013,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000010,
+      "mysekaiFixtureTagId1": 9000011,
+      "mysekaiFixtureTagId2": 9000015
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "loop",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_twcollect_fixture_fan1"
+  },
+  {
+    "id": 9000011,
+    "mysekaiFixtureType": "normal",
+    "name": "汽水嘉年華入口",
+    "pronunciation": "汽水嘉年華入口",
+    "flavorText": "汽水嘉年華入口",
+    "seq": 91001014,
+    "gridSize": {
+      "width": 5,
+      "depth": 4,
+      "height": 11
+    },
+    "colorCode": "#F9D86F",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A798BF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8E7356"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000011,
+      "mysekaiFixtureTagId1": 9000012,
+      "mysekaiFixtureTagId2": 9000015
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_twcollect_fixture_gazebo2"
+  },
+  {
+    "id": 9000012,
+    "mysekaiFixtureType": "normal",
+    "name": "汽水彈珠路燈",
+    "pronunciation": "汽水彈珠路燈",
+    "flavorText": "汽水彈珠路燈",
+    "seq": 91001015,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 7
+    },
+    "colorCode": "#F9D86F",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A798BF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8E7356"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 13,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000012,
+      "mysekaiFixtureTagId1": 9000013,
+      "mysekaiFixtureTagId2": 9000015
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_twcollect_fixture_lamp1"
+  },
+  {
+    "id": 9000013,
+    "mysekaiFixtureType": "normal",
+    "name": "兔兔會場柵欄",
+    "pronunciation": "兔兔會場柵欄",
+    "flavorText": "兔兔會場柵欄",
+    "seq": 91001016,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#F9D86F",
+    "mysekaiFixtureMainGenreId": 13,
+    "mysekaiFixtureSubGenreId": 23,
+    "mysekaiFixtureHandleType": "fence",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A798BF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8E7356"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureTagGroup": {
+      "id": 9000013,
+      "mysekaiFixtureTagId1": 9000014,
+      "mysekaiFixtureTagId2": 9000015
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_twcollect_fence_venue1"
   }
 ]
