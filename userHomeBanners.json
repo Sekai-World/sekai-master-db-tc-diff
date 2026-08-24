@@ -95,5 +95,24 @@
     "transitionDestinationId": 20319778,
     "startAt": 1781841600000,
     "endAt": 4102415999000
+  },
+  {
+    "homeBannerId": 20013,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_shop_magicalmirai_costume_2026",
+    "transitionDestinationType": "billing_shop_for_costume_3d",
+    "startAt": 1787889600000,
+    "endAt": 1788407999000
+  },
+  {
+    "homeBannerId": 20015,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha995",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 995,
+    "startAt": 1787889600000,
+    "endAt": 1788407999000
   }
 ]
