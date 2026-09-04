@@ -50,16 +50,6 @@
     "endAt": 1789876800000
   },
   {
-    "homeBannerId": 1385,
-    "seq": 10,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha_801",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 801,
-    "startAt": 1788148800000,
-    "endAt": 1788494399000
-  },
-  {
     "homeBannerId": 10037,
     "seq": 132,
     "homeBannerType": "general",
@@ -105,5 +95,15 @@
     "transitionDestinationId": 20319778,
     "startAt": 1781841600000,
     "endAt": 4102415999000
+  },
+  {
+    "homeBannerId": 20014,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_questionnaire_14",
+    "transitionDestinationType": "questionnaire",
+    "transitionDestinationId": 20319918,
+    "startAt": 1788494400000,
+    "endAt": 1788969599000
   }
 ]
