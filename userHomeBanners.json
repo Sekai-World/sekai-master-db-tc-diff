@@ -20,16 +20,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 1381,
-    "seq": 170,
-    "homeBannerType": "event",
-    "assetbundleName": "event_forlight_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 178,
-    "startAt": 1788073200000,
-    "endAt": 1788695999000
-  },
-  {
     "homeBannerId": 1384,
     "seq": 190,
     "homeBannerType": "general",
@@ -48,6 +38,16 @@
     "transitionDestinationId": 803,
     "startAt": 1788667200000,
     "endAt": 1789876799000
+  },
+  {
+    "homeBannerId": 1389,
+    "seq": 170,
+    "homeBannerType": "event",
+    "assetbundleName": "event_wl_2nd_piapro_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 179,
+    "startAt": 1788696000000,
+    "endAt": 1789887599000
   },
   {
     "homeBannerId": 10037,
