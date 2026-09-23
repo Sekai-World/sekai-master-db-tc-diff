@@ -6578,6 +6578,26 @@
     "virtualShopDisplayType": "out_of_scope"
   },
   {
+    "id": 316,
+    "name": "2027甘酒ショップ",
+    "virtualShopItems": [
+      {
+        "id": 514,
+        "virtualShopId": 316,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1767164400000,
+        "endAt": 1768114799000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
     "id": 317,
     "name": "[復刻]サンリオキャラクターズコラボ",
     "virtualShopItems": [
@@ -6590,6 +6610,24 @@
         "costPaidJewel": 1000,
         "startAt": 1770436800000,
         "endAt": 1771603199000
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 318,
+    "name": "太鼓の達人コラボ",
+    "virtualShopItems": [
+      {
+        "id": 516,
+        "virtualShopId": 318,
+        "virtualShopItemType": "accessory",
+        "seq": 99868,
+        "resourceBoxId": 409,
+        "costPaidJewel": 1000,
+        "startAt": 1803193200000,
+        "endAt": 1808323199000
       }
     ],
     "virtualShopType": "other",

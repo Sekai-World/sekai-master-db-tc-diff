@@ -1383,7 +1383,7 @@
     "id": 167,
     "seq": 165167,
     "name": "[劇場版]★2成員券",
-    "flavorText": "可在[劇場版]★2成員券交換所交換喜歡的★2成員。",
+    "flavorText": "可在[劇場版]★2成員票券交換所交換喜歡的★2成員。\n使用期限：2027\/1\/31 23:59",
     "canUse": false,
     "materialType": "card_ticket"
   },
@@ -1444,10 +1444,122 @@
     "materialType": "birthday_party_delivery"
   },
   {
+    "id": 177,
+    "seq": 30004,
+    "name": "慶典露水（黃綠色）",
+    "flavorText": "為了栽種志步慶祝生日的花時所需的露水。\n※僅能使用於2027年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 178,
+    "seq": 30005,
+    "name": "慶典露水（杏黃色）",
+    "flavorText": "為了栽種實乃理慶祝生日的花時所需的露水。\n※僅能使用於2027年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
     "id": 179,
     "seq": 30006,
     "name": "慶典露水（肅穆藍）",
     "flavorText": "為了栽種遙慶祝生日的花時所需的露水。\n※僅能使用於2026年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 180,
+    "seq": 30007,
+    "name": "慶典露水（甜美粉）",
+    "flavorText": "為了栽種愛莉慶祝生日的花時所需的露水。\n※僅能使用於2027年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 181,
+    "seq": 30008,
+    "name": "慶典露水（蛋白石綠）",
+    "flavorText": "為了栽種雫慶祝生日的花時所需的露水。\n※僅能使用於2026年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 182,
+    "seq": 30009,
+    "name": "慶典露水（櫻桃紅）",
+    "flavorText": "為了栽種心羽慶祝生日的花時所需的露水。\n※僅能使用於2027年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 184,
+    "seq": 30011,
+    "name": "慶典露水（珊瑚橘）",
+    "flavorText": "為了栽種彰人慶祝生日的花時所需的露水。\n※僅能使用於2026年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 190,
+    "seq": 30017,
+    "name": "慶典露水（紫康乃馨）",
+    "flavorText": "為了栽種奏慶祝生日的花時所需的露水。\n※僅能使用於2027年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 191,
+    "seq": 30018,
+    "name": "慶典露水（紫藤色）",
+    "flavorText": "為了栽種真冬慶祝生日的花時所需的露水。\n※僅能使用於2027年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 192,
+    "seq": 30019,
+    "name": "慶典露水（駝色）",
+    "flavorText": "為了栽種繪名慶祝生日的花時所需的露水。\n※僅能使用於2027年的生日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 195,
+    "seq": 30022,
+    "name": "慶典露水（橙色）",
+    "flavorText": "為了栽種鏡音鈴慶祝紀念日的花時所需的露水。\n※僅能使用於2026年的紀念日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 196,
+    "seq": 30023,
+    "name": "慶典露水（黃色）",
+    "flavorText": "為了栽種鏡音連慶祝紀念日的花時所需的露水。\n※僅能使用於2026年的紀念日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 197,
+    "seq": 30024,
+    "name": "慶典露水（粉色）",
+    "flavorText": "為了栽種巡音流歌慶祝紀念日的花時所需的露水。\n※僅能使用於2027年的紀念日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 198,
+    "seq": 30025,
+    "name": "慶典露水（紅色）",
+    "flavorText": "為了栽種MEIKO慶祝紀念日的花時所需的露水。\n※僅能使用於2026年的紀念日活動。",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 199,
+    "seq": 30026,
+    "name": "慶典露水（藍色）",
+    "flavorText": "為了栽種KAITO慶祝紀念日的花時所需的露水。\n※僅能使用於2027年的紀念日活動。",
     "canUse": false,
     "materialType": "birthday_party_delivery"
   },
@@ -1492,12 +1604,68 @@
     "materialType": "common"
   },
   {
+    "id": 205,
+    "seq": 10018,
+    "name": "夢想水晶球（白）",
+    "flavorText": "將區域道具提升到特定等級的所需道具。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 206,
+    "seq": 10019,
+    "name": "夢想水晶球（藍）",
+    "flavorText": "將區域道具提升到特定等級的所需道具。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 207,
+    "seq": 10020,
+    "name": "夢想水晶球（綠）",
+    "flavorText": "將區域道具提升到特定等級的所需道具。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 208,
+    "seq": 10021,
+    "name": "夢想水晶球（紅）",
+    "flavorText": "將區域道具提升到特定等級的所需道具。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 209,
+    "seq": 10022,
+    "name": "夢想水晶球（橘）",
+    "flavorText": "將區域道具提升到特定等級的所需道具。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 210,
+    "seq": 10023,
+    "name": "夢想水晶球（紫）",
+    "flavorText": "將區域道具提升到特定等級的所需道具。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
     "id": 211,
     "seq": 10623,
     "name": "金牌",
     "flavorText": "可至金牌交換所交換報酬。\n使用期限：2026\/10\/31 23:59",
     "canUse": false,
     "materialType": "common"
+  },
+  {
+    "id": 213,
+    "seq": 20003,
+    "name": "「連線LIVE WON！MORE！HAPPY TIME」連線LIVE ver. Vocal兌換卡",
+    "flavorText": "可兌換在「連線LIVE MORE MORE JUMP！× Wonderlands×Showtime WON！MORE！HAPPY TIME」公演中發表之歌曲的連線LIVE ver. Vocal。",
+    "canUse": false,
+    "materialType": "auto_exchange_music_vocal_ticket"
   },
   {
     "id": 214,
@@ -1512,6 +1680,526 @@
     "seq": 10625,
     "name": "紀念禮物券",
     "flavorText": "可至紀念禮物券交換所交換報酬。\n使用期限：2026\/11\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 216,
+    "seq": 10624,
+    "name": "福運紙籤",
+    "flavorText": "帶有些許「福運」之力的紙片。可用來強化「福運靈籤」的力量。\n使用期限：2027\/1\/31 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 217,
+    "seq": 10625,
+    "name": "財運紙籤",
+    "flavorText": "帶有些許「財運」之力的紙片。可用來強化「財運靈籤」的力量。\n使用期限：2027\/1\/31 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 218,
+    "seq": 10626,
+    "name": "福運靈籤",
+    "flavorText": "可至神授之社交換對應的招募票券。\n交換期限：2027\/1\/11 12:00 ～ 2027\/1\/31 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 219,
+    "seq": 10627,
+    "name": "福運靈籤（大）",
+    "flavorText": "可至神授之社交換對應的招募票券。\n交換期限：2027\/1\/11 12:00 ～ 2027\/1\/31 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 220,
+    "seq": 10628,
+    "name": "福運靈籤（特）",
+    "flavorText": "可至神授之社交換對應的招募票券。\n交換期限：2027\/1\/11 12:00 ～ 2027\/1\/31 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 221,
+    "seq": 10629,
+    "name": "福運靈籤（極）",
+    "flavorText": "可至神授之社交換對應的招募票券。\n交換期限：2027\/1\/11 12:00 ～ 2027\/1\/31 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 222,
+    "seq": 10630,
+    "name": "財運靈籤",
+    "flavorText": "可至神授之社交換對應的招募票券。\n交換期限：2027\/1\/11 12:00 ～ 2027\/1\/31 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 223,
+    "seq": 10631,
+    "name": "財運靈籤（大）",
+    "flavorText": "可至神授之社交換對應的招募票券。\n交換期限：2027\/1\/11 12:00 ～ 2027\/1\/31 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 224,
+    "seq": 10632,
+    "name": "財運靈籤（特）",
+    "flavorText": "可至神授之社交換對應的招募票券。\n交換期限：2027\/1\/11 12:00 ～ 2027\/1\/31 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 225,
+    "seq": 10633,
+    "name": "財運靈籤（極）",
+    "flavorText": "可至神授之社交換對應的招募票券。\n交換期限：2027\/1\/11 12:00 ～ 2027\/1\/31 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 226,
+    "seq": 10634,
+    "name": "珍愛氣球",
+    "flavorText": "可至氣球交換所交換各角色的氣球。\n使用期限：2027\/3\/30 12:00 ～ 2027\/4\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 227,
+    "seq": 10635,
+    "name": "高雅珍愛氣球（一歌）",
+    "flavorText": "可至一歌的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 228,
+    "seq": 10636,
+    "name": "皇家珍愛氣球（一歌）",
+    "flavorText": "可至一歌的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 229,
+    "seq": 10637,
+    "name": "高雅珍愛氣球（咲希）",
+    "flavorText": "可至咲希的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 230,
+    "seq": 10638,
+    "name": "皇家珍愛氣球（咲希）",
+    "flavorText": "可至咲希的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 231,
+    "seq": 10639,
+    "name": "高雅珍愛氣球（穗波）",
+    "flavorText": "可至穗波的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 232,
+    "seq": 10640,
+    "name": "皇家珍愛氣球（穗波）",
+    "flavorText": "可至穗波的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 233,
+    "seq": 10641,
+    "name": "高雅珍愛氣球（志步）",
+    "flavorText": "可至志步的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 234,
+    "seq": 10642,
+    "name": "皇家珍愛氣球（志步）",
+    "flavorText": "可至志步的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 235,
+    "seq": 10643,
+    "name": "高雅珍愛氣球（實乃理）",
+    "flavorText": "可至實乃理的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 236,
+    "seq": 10644,
+    "name": "皇家珍愛氣球（實乃理）",
+    "flavorText": "可至實乃理的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 237,
+    "seq": 10645,
+    "name": "高雅珍愛氣球（遙）",
+    "flavorText": "可至遙的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 238,
+    "seq": 10646,
+    "name": "皇家珍愛氣球（遙）",
+    "flavorText": "可至遙的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 239,
+    "seq": 10647,
+    "name": "高雅珍愛氣球（愛莉）",
+    "flavorText": "可至愛莉的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 240,
+    "seq": 10648,
+    "name": "皇家珍愛氣球（愛莉）",
+    "flavorText": "可至愛莉的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 241,
+    "seq": 10649,
+    "name": "高雅珍愛氣球（雫）",
+    "flavorText": "可至雫的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 242,
+    "seq": 10650,
+    "name": "皇家珍愛氣球（雫）",
+    "flavorText": "可至雫的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 243,
+    "seq": 10651,
+    "name": "高雅珍愛氣球（心羽）",
+    "flavorText": "可至心羽的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 244,
+    "seq": 10652,
+    "name": "皇家珍愛氣球（心羽）",
+    "flavorText": "可至心羽的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 245,
+    "seq": 10653,
+    "name": "高雅珍愛氣球（杏）",
+    "flavorText": "可至杏的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 246,
+    "seq": 10654,
+    "name": "皇家珍愛氣球（杏）",
+    "flavorText": "可至杏的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 247,
+    "seq": 10655,
+    "name": "高雅珍愛氣球（彰人）",
+    "flavorText": "可至彰人的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 248,
+    "seq": 10656,
+    "name": "皇家珍愛氣球（彰人）",
+    "flavorText": "可至彰人的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 249,
+    "seq": 10657,
+    "name": "高雅珍愛氣球（冬彌）",
+    "flavorText": "可至冬彌的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 250,
+    "seq": 10658,
+    "name": "皇家珍愛氣球（冬彌）",
+    "flavorText": "可至冬彌的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 251,
+    "seq": 10659,
+    "name": "高雅珍愛氣球（司）",
+    "flavorText": "可至司的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 252,
+    "seq": 10660,
+    "name": "皇家珍愛氣球（司）",
+    "flavorText": "可至司的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 253,
+    "seq": 10661,
+    "name": "高雅珍愛氣球（笑夢）",
+    "flavorText": "可至笑夢的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 254,
+    "seq": 10662,
+    "name": "皇家珍愛氣球（笑夢）",
+    "flavorText": "可至笑夢的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 255,
+    "seq": 10663,
+    "name": "高雅珍愛氣球（寧寧）",
+    "flavorText": "可至寧寧的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 256,
+    "seq": 10664,
+    "name": "皇家珍愛氣球（寧寧）",
+    "flavorText": "可至寧寧的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 257,
+    "seq": 10665,
+    "name": "高雅珍愛氣球（類）",
+    "flavorText": "可至類的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 258,
+    "seq": 10666,
+    "name": "皇家珍愛氣球（類）",
+    "flavorText": "可至類的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 259,
+    "seq": 10667,
+    "name": "高雅珍愛氣球（奏）",
+    "flavorText": "可至奏的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 260,
+    "seq": 10668,
+    "name": "皇家珍愛氣球（奏）",
+    "flavorText": "可至奏的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 261,
+    "seq": 10669,
+    "name": "高雅珍愛氣球（真冬）",
+    "flavorText": "可至真冬的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 262,
+    "seq": 10670,
+    "name": "皇家珍愛氣球（真冬）",
+    "flavorText": "可至真冬的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 263,
+    "seq": 10671,
+    "name": "高雅珍愛氣球（繪名）",
+    "flavorText": "可至繪名的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 264,
+    "seq": 10672,
+    "name": "皇家珍愛氣球（繪名）",
+    "flavorText": "可至繪名的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 265,
+    "seq": 10673,
+    "name": "高雅珍愛氣球（瑞希）",
+    "flavorText": "可至瑞希的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 266,
+    "seq": 10674,
+    "name": "皇家珍愛氣球（瑞希）",
+    "flavorText": "可至瑞希的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 267,
+    "seq": 10675,
+    "name": "高雅珍愛氣球（初音未來）",
+    "flavorText": "可至初音未來的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 268,
+    "seq": 10676,
+    "name": "皇家珍愛氣球（初音未來）",
+    "flavorText": "可至初音未來的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 269,
+    "seq": 10677,
+    "name": "高雅珍愛氣球（鏡音鈴）",
+    "flavorText": "可至鏡音鈴的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 270,
+    "seq": 10678,
+    "name": "皇家珍愛氣球（鏡音鈴）",
+    "flavorText": "可至鏡音鈴的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 271,
+    "seq": 10679,
+    "name": "高雅珍愛氣球（鏡音連）",
+    "flavorText": "可至鏡音連的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 272,
+    "seq": 10680,
+    "name": "皇家珍愛氣球（鏡音連）",
+    "flavorText": "可至鏡音連的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 273,
+    "seq": 10681,
+    "name": "高雅珍愛氣球（巡音流歌）",
+    "flavorText": "可至巡音流歌的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 274,
+    "seq": 10682,
+    "name": "皇家珍愛氣球（巡音流歌）",
+    "flavorText": "可至巡音流歌的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 275,
+    "seq": 10683,
+    "name": "高雅珍愛氣球（MEIKO）",
+    "flavorText": "可至MEIKO的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 276,
+    "seq": 10684,
+    "name": "皇家珍愛氣球（MEIKO）",
+    "flavorText": "可至MEIKO的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 277,
+    "seq": 10685,
+    "name": "高雅珍愛氣球（KAITO）",
+    "flavorText": "可至KAITO的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 278,
+    "seq": 10686,
+    "name": "皇家珍愛氣球（KAITO）",
+    "flavorText": "可至KAITO的氣球交換所交換報酬。\n使用期限：2027\/03\/30 12:00 ~ 2027\/04\/30 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 279,
+    "seq": 20004,
+    "name": "訪談協助邀請\n（※此訊息僅發送給在二月實施的問卷調查中回答可協助的部分玩家）",
+    "flavorText": "若您願意再次協助訪談，請由[幫助]→[問題與意見]發送郵件，並於內文中註明「可參加訪談」。\n※在透過郵件確認訪談細節後，亦可放棄參加。\n※請勿將本訊息或訪談內容公開給第三方，如發布到社群網站。",
+    "canUse": false,
+    "materialType": "auto_exchange_music_vocal_ticket"
+  },
+  {
+    "id": 281,
+    "seq": 89,
+    "name": "白金票券",
+    "flavorText": "可在白金票券交換所交換喜歡的道具。",
     "canUse": false,
     "materialType": "common"
   },
@@ -1592,6 +2280,14 @@
     "seq": 3005,
     "name": "派對徽章",
     "flavorText": "可在夏日兌換所交換喜歡的獎勵。",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 3006,
+    "seq": 3006,
+    "name": "應援徽章",
+    "flavorText": "可用于升级應援称号",
     "canUse": false,
     "materialType": "common"
   },

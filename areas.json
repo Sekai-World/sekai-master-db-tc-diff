@@ -159,8 +159,8 @@
     "additionalAreaType": "collaboration",
     "name": "惡之大罪系列的「世界」",
     "label": "コラボ中！",
-    "startAt": 1683086400000,
-    "endAt": 1684295999000,
+    "startAt": 1795233600000,
+    "endAt": 1796486399000,
     "releaseConditionId": 1
   },
   {
@@ -320,8 +320,8 @@
     "displayTimelineType": "next_grade",
     "additionalAreaType": "out_of_ring",
     "name": "窗扉打開的「世界」",
-    "startAt": 1743091200000,
-    "endAt": 4102415999000,
+    "startAt": 1768579200000,
+    "endAt": 1790035200000,
     "releaseConditionId": 2000000
   },
   {
@@ -351,5 +351,20 @@
     "startAt": 1790596800000,
     "releaseConditionId": 117902,
     "releaseConditionId2": 117903
+  },
+  {
+    "id": 28,
+    "assetbundleName": "area28",
+    "groupId": 310,
+    "isBaseArea": true,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "april_fool",
+    "name": "神秘村落的「世界」？",
+    "subName": "村落",
+    "startAt": 1806508800000,
+    "endAt": 1806595199000,
+    "releaseConditionId": 1
   }
 ]

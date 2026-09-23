@@ -646,7 +646,7 @@
   },
   {
     "id": 4,
-    "groupId": 2,
+    "groupId": 1,
     "title": "[5週年紀念]歡迎來到「世界」大作戰！！",
     "assetbundleName": "friend_invitation_5th_anniv",
     "startAt": 1790654400000,
@@ -662,10 +662,16 @@
         "requirement": 1,
         "reward": [
           {
-            "id": 17,
-            "countGroupId": 101,
+            "id": 15,
+            "countGroupId": 1,
             "count": 1,
-            "resourceBoxId": 9
+            "resourceBoxId": 7
+          },
+          {
+            "id": 16,
+            "countGroupId": 1,
+            "count": 2,
+            "resourceBoxId": 8
           }
         ]
       },
@@ -677,8 +683,8 @@
         "requirement": 2,
         "reward": [
           {
-            "id": 18,
-            "countGroupId": 102,
+            "id": 2,
+            "countGroupId": 2,
             "count": 1,
             "resourceBoxId": 2
           }
@@ -692,8 +698,8 @@
         "requirement": 3,
         "reward": [
           {
-            "id": 19,
-            "countGroupId": 103,
+            "id": 3,
+            "countGroupId": 3,
             "count": 1,
             "resourceBoxId": 2
           }
@@ -707,8 +713,8 @@
         "requirement": 4,
         "reward": [
           {
-            "id": 20,
-            "countGroupId": 104,
+            "id": 4,
+            "countGroupId": 4,
             "count": 1,
             "resourceBoxId": 2
           }
@@ -722,8 +728,8 @@
         "requirement": 5,
         "reward": [
           {
-            "id": 21,
-            "countGroupId": 105,
+            "id": 5,
+            "countGroupId": 5,
             "count": 1,
             "resourceBoxId": 2
           }
@@ -737,8 +743,8 @@
         "requirement": 6,
         "reward": [
           {
-            "id": 22,
-            "countGroupId": 106,
+            "id": 6,
+            "countGroupId": 6,
             "count": 1,
             "resourceBoxId": 2
           }
@@ -752,8 +758,8 @@
         "requirement": 7,
         "reward": [
           {
-            "id": 23,
-            "countGroupId": 107,
+            "id": 7,
+            "countGroupId": 7,
             "count": 1,
             "resourceBoxId": 2
           }
@@ -767,8 +773,8 @@
         "requirement": 8,
         "reward": [
           {
-            "id": 24,
-            "countGroupId": 108,
+            "id": 8,
+            "countGroupId": 8,
             "count": 1,
             "resourceBoxId": 2
           }
@@ -782,8 +788,8 @@
         "requirement": 9,
         "reward": [
           {
-            "id": 25,
-            "countGroupId": 109,
+            "id": 9,
+            "countGroupId": 9,
             "count": 1,
             "resourceBoxId": 2
           }
@@ -797,8 +803,8 @@
         "requirement": 10,
         "reward": [
           {
-            "id": 26,
-            "countGroupId": 110,
+            "id": 10,
+            "countGroupId": 10,
             "count": 1,
             "resourceBoxId": 2
           }
@@ -812,8 +818,8 @@
         "requirement": 5,
         "reward": [
           {
-            "id": 27,
-            "countGroupId": 201,
+            "id": 11,
+            "countGroupId": 11,
             "count": 1,
             "resourceBoxId": 3
           }
@@ -827,8 +833,8 @@
         "requirement": 10,
         "reward": [
           {
-            "id": 28,
-            "countGroupId": 202,
+            "id": 12,
+            "countGroupId": 12,
             "count": 1,
             "resourceBoxId": 4
           }
@@ -842,10 +848,16 @@
         "requirement": 20,
         "reward": [
           {
-            "id": 29,
-            "countGroupId": 203,
+            "id": 15,
+            "countGroupId": 1,
             "count": 1,
-            "resourceBoxId": 9
+            "resourceBoxId": 7
+          },
+          {
+            "id": 16,
+            "countGroupId": 1,
+            "count": 2,
+            "resourceBoxId": 8
           }
         ]
       }

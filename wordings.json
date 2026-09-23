@@ -80,6 +80,10 @@
     "value": "收藏BOX說明"
   },
   {
+    "wordingKey": "COLORFUL_PASS_V2_FINALE_CHAPTER_COMPENSATION",
+    "value": "此為伴隨舉辦World Link活動「結局章節」，調整七彩通行證的AUTO LIVE上限所進行的補償。"
+  },
+  {
     "wordingKey": "CONNECT_LIVE_TICKET_COUNT_OVERFLOW_WARN_MESSAGE",
     "value": "購買的公演票券數量超過了此次連線LIVE的公演次數。\n※剩餘的公演票券將無法使用於其它的連線LIVE，且無法退回、取消、退款。\n\n確定要購買公演票券嗎？"
   },
@@ -290,6 +294,14 @@
   {
     "wordingKey": "FORMAT_SEND_INVITATION_CHARACTER",
     "value": "{0} {1}"
+  },
+  {
+    "wordingKey": "FORMAT_UNTIL_FULL_RECOVERY",
+    "value": "離完全恢復還有<color=#ff5599>{0}<\/color>"
+  },
+  {
+    "wordingKey": "FORMAT_UNTIL_RECOVERY",
+    "value": "離下次恢復還有<color=#ff5599>{0}<\/color>"
   },
   {
     "wordingKey": "FRIEND_SHARE_PRESENT_SENTENCE",
@@ -816,6 +828,10 @@
     "value": "工具已損壞。"
   },
   {
+    "wordingKey": "MSG_BUNDLE_FIXTURE_BLUE_PRINT_BUY",
+    "value": "一次購買所有尺寸"
+  },
+  {
     "wordingKey": "MSG_BUY_COMPLETE",
     "value": "已完成購買。"
   },
@@ -904,8 +920,20 @@
     "value": "已達成下列任務並領取了道具。"
   },
   {
+    "wordingKey": "MSG_CHARACTER_SELECTING_CAUTION",
+    "value": "※出現角色設定後無法變更。"
+  },
+  {
+    "wordingKey": "MSG_CHARACTER_SELECTING_CONFIRM",
+    "value": "即將設定為這個角色。\n本招募只會出現所選擇的角色。\n確定嗎？"
+  },
+  {
     "wordingKey": "MSG_CHARACTER_SELECT_DESCRIPTION",
     "value": "請選擇角色"
+  },
+  {
+    "wordingKey": "MSG_CHARACTER_SELECT_GACHA_DESCRIPTION",
+    "value": "請選擇一名角色。\n本招募只會出現所選擇的角色。"
   },
   {
     "wordingKey": "MSG_CHARA_MATERIAL_DROP",
@@ -960,6 +988,10 @@
     "value": "可在各區域商店交換各種道具的硬幣。\n透過LIVE等方式取得。"
   },
   {
+    "wordingKey": "MSG_COLLABORATION_MUSIC_OUT_OF_TERM",
+    "value": "已超過歌曲可遊玩的時間。"
+  },
+  {
     "wordingKey": "MSG_COLLECTION_GACHA_RESALE_TIME_OVER",
     "value": "販售期間已經結束。"
   },
@@ -1009,15 +1041,15 @@
   },
   {
     "wordingKey": "MSG_COLORFUL_SELECT_GACHA_LIST_RATE_NOTICE",
-    "value": "・★4成員的機率指的是精選清單中選擇全部時的機率，因此總計可能不會是100%。\n・被選入Pick Up清單時，將從「★★★★成員」清單移動至「★★★★Pick Up成員」清單。"
+    "value": "・★4成員的機率指的是精選清單中選擇全部時的機率，因此總計可能不會是100%。\n・被選入精選清單時，將從「★★★★成員」清單移動至「★★★★精選成員」清單。"
   },
   {
     "wordingKey": "MSG_COLORFUL_SELECT_GACHA_RATE_NOTICE",
-    "value": "★4的機率指的是Pick Up清單中選擇全部時的機率，因此總計可能不會是100%。"
+    "value": "★4的機率指的是精選清單中選擇全部時的機率，因此總計可能不會是100%。"
   },
   {
     "wordingKey": "MSG_COLORFUL_SELECT_GACHA_SELECTED_RATE_NOTICE",
-    "value": "在Pick Up清單中選擇的成員，會以Pick Up機率登場。"
+    "value": "在精選清單中選擇的成員，會以精選機率登場。"
   },
   {
     "wordingKey": "MSG_COLORFUL_SELECT_LIST",
@@ -1360,8 +1392,16 @@
     "value": "拍攝相片中……"
   },
   {
+    "wordingKey": "MSG_CREATE_CUSTOM_ROOM_TITLE",
+    "value": "創建自訂房間"
+  },
+  {
     "wordingKey": "MSG_CREATE_PRIVATE_ROOM",
     "value": "創建「{0}」\n的私人房間。"
+  },
+  {
+    "wordingKey": "MSG_CREATE_PRIVATE_ROOM_TITLE",
+    "value": "創建私人房間"
   },
   {
     "wordingKey": "MSG_CREATOR_NAME",
@@ -1390,6 +1430,10 @@
   {
     "wordingKey": "MSG_CS_BAN",
     "value": "您所存取的玩家帳號\n因調查需要，已暫時停權。"
+  },
+  {
+    "wordingKey": "MSG_CUSOM_ROOM_CREATE_DISCRIPTION",
+    "value": "在設有規則的專屬房間進行LIVE"
   },
   {
     "wordingKey": "MSG_CUSTOMPROFILE_HONOR_EMPTY",
@@ -1490,6 +1534,10 @@
   {
     "wordingKey": "MSG_DEFERRED_PURCHASE",
     "value": "商品在付款完成後會顯示在商店畫面。\n商品顯示可能需要一定的時間。"
+  },
+  {
+    "wordingKey": "MSG_DIFFICULTY_SELECTION_ERROR",
+    "value": "尚未設定難易度，因此無法創建房間。"
   },
   {
     "wordingKey": "MSG_DISCONNECT_LEFT_ROOM",
@@ -1640,6 +1688,14 @@
     "value": "發生錯誤，將返回標題畫面。"
   },
   {
+    "wordingKey": "MSG_EVENT_BREAK_BODY",
+    "value": "・遊玩LIVE或是在我的「世界」中採集將會累積小憩計量條。\n・小憩計量條的累積速度會根據LIVE的歌曲長度、採集時獲得的活動P而有所不同。\n・小憩計量條達到100%以上時，將無法獲得活動P、徽章。\n・累計30分鐘不進行LIVE或採集，小憩計量條便會下降。\n\n<color=#ff3366>※AUTO LIVE和挑戰LIVE不會累積小憩計量條，即使超過100%也能獲得活動P、徽章。\n※詳情請參閱常見問題解答。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_EVENT_BREAK_TITLE",
+    "value": "關於小憩計量條"
+  },
+  {
     "wordingKey": "MSG_EVENT_INITIALIZE_ERROR",
     "value": "活動資料取得失敗，\n或是此活動已結束。"
   },
@@ -1738,6 +1794,14 @@
   {
     "wordingKey": "MSG_EX_MISSION_LOOPS_INFORMATION",
     "value": "EX任務 第{0}次"
+  },
+  {
+    "wordingKey": "MSG_FAVORITE_CHARACTER_GACHA_CAUTION",
+    "value": "<color=#ff3366>※只會出現所選擇的成員角色。\n每名成員的出現率將在選擇角色後決定。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_FAVORITE_CHARACTER_SELECT_CANCEL",
+    "value": "角色尚未決定。\n直到設定好出現角色，才能使用\n{0}。\n是否稍後再設定角色？"
   },
   {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
@@ -2021,7 +2085,7 @@
   },
   {
     "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
-    "value": "在道具設定完成前，\n將無法進行歡樂包招募。\n要稍後再設定道具嗎？\n\n<color=#ff5599>※在進行招募前，\n可以自由變更道具。<\/color>"
+    "value": "在道具設定完成前，\n將無法進行歡樂禮物包招募。\n要稍後再設定道具嗎？\n\n<color=#ff5599>※在進行招募前，\n可以自由變更道具。<\/color>"
   },
   {
     "wordingKey": "MSG_GIFT_SELECT",
@@ -2029,7 +2093,7 @@
   },
   {
     "wordingKey": "MSG_GIFT_SELECT_CONFIRM",
-    "value": "將設定此道具，確定嗎？\n<color=#ff5599>※在進行招募前，可以自由變更道具。<\/color>"
+    "value": "將設定以下道具，確定嗎？\n<color=#ff3366>※在進行招募前，可以自由變更道具。<\/color>"
   },
   {
     "wordingKey": "MSG_GIFT_SELECT_INDUCTION",
@@ -2272,6 +2336,10 @@
     "value": "目前沒有正在舉辦的LIVE任務。"
   },
   {
+    "wordingKey": "MSG_LIVE_PLAYER_INFO_SETTING",
+    "value": "LIVE中顯示玩家"
+  },
+  {
     "wordingKey": "MSG_LIVE_RESULT_EVENT_MAINTENANCE",
     "value": "活動正在維護中，因此無法獲得活動P和徽章。\n詳情請見公告。"
   },
@@ -2401,7 +2469,7 @@
   },
   {
     "wordingKey": "MSG_MEMBER_DUPLICATE_CONFIRM",
-    "value": "您已獲得上列成員，確定選取？"
+    "value": "您已獲得上列成員，是否確定選擇？"
   },
   {
     "wordingKey": "MSG_MEMBER_DUPLICATE_CONFIRM_TIPS",
@@ -2497,11 +2565,11 @@
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_LACK_POWER",
-    "value": "綜合力不足。"
+    "value": "無法進入指定的房間。"
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_LACK_POWER_WITH_ERROR_CODE",
-    "value": "綜合力不足。({0})"
+    "value": "無法進入指定的房間。({0})"
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_NOTFOUND",
@@ -2546,6 +2614,10 @@
   {
     "wordingKey": "MSG_MULTI_LIVE_RESULT_ADJUST_SCORE_BY_DISCONNECTED_USER",
     "value": "已排除連線中斷的玩家調整分數等級"
+  },
+  {
+    "wordingKey": "MSG_MULTI_MUSIC_SELECTING_OWNER",
+    "value": "房主選曲中…請稍候。"
   },
   {
     "wordingKey": "MSG_MULTI_MUSIC_SELECTING_PLAYER",
@@ -2692,12 +2764,44 @@
     "value": "新芽已再次長出，可以採收了。"
   },
   {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_HOME_LAYOUT_COST_TITLE",
+    "value": "總配置點數（庭園）"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_HOME_LAYOUT_COST_UP",
+    "value": "已提升庭園的總配置點數。"
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
     "value": "已提升可設置於我的家的<color=#ff5599>柵欄與道路<\/color>最大數量。"
   },
   {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_MYROOM_LAYOUT_COST",
+    "value": "各{0}"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_MYROOM_LAYOUT_COST_TITLE",
+    "value": "總配置點數（房間）"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_MYROOM_LAYOUT_COST_UP",
+    "value": "已提升房間的總配置點數。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_PUT_COST",
+    "value": "{0} (第1個) \/ {1} (第2個～)"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_PUT_COST_LIMIT_OVER",
+    "value": "由於總配置點數已超出上限，無法布置此家具。"
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
     "value": "已提升可設置於我的家的<color=#ff5599>家具<\/color>最大數量。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_SINGLE_PUT_COST",
+    "value": "{0} (第1個)"
   },
   {
     "wordingKey": "MSG_MYSEKAI_GATE_CHANGE_INTERVAL_FORMAT",
@@ -2902,6 +3006,10 @@
   {
     "wordingKey": "MSG_MYSEKAI_JOIN_ERROR",
     "value": "由於已達現在可拜訪人數的上限，\n因此無法前往這位玩家的我的「世界」遊玩。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_LAYOUT_COST",
+    "value": "總配置點數"
   },
   {
     "wordingKey": "MSG_MYSEKAI_LAYOUT_EDIT_PLANNING_COUNT",
@@ -3568,12 +3676,28 @@
     "value": "{0}件"
   },
   {
+    "wordingKey": "MSG_PRIVETE_ROOM_CREATE_DISCRIPTION",
+    "value": "在適用活動規則的專屬房間進行LIVE"
+  },
+  {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_1",
     "value": "每進行1次招募，都會獲得各種道具作為獎品。\n\n※獎品抽取會在招募結果畫面進行。\n※每1次獎品抽取都是依據出現機率獨立抽取。例如出現機率為1%，並不代表抽100次該道具就一定會出現1次。\n※可從獎品獲得的「[4週年紀念]絢爛慶典招募專用票券」，是只能在預訂於9\/30 12:00開始的「[4週年紀念]絢爛慶典招募 夢幻選秀」使用的招募票劵。此外，在超過舉辦期限後，「[4週年紀念]絢爛慶典招募專用票券」便無法使用。\n※可從獎品獲得的「[4週年紀念]10連免費招募票券」，是只能在預訂於9\/30 12:00開始的「[4週年紀念]10連免費招募」使用的招募票券。此外，在超過舉辦期限後，「[4週年紀念]10連免費招募票券」便無法使用。"
   },
   {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_1000",
     "value": "每進行1次招募，都會獲得各種道具作為獎品。\n\n※獎品抽取會在招募結果畫面進行。\n※每1次獎品抽取都是依據出現機率獨立抽取。例如出現機率為1%，並不代表抽100次該道具就一定會出現1次。\n※可從獎品獲得的「[夏日派對]Those who dare招募專用票券」，是只能在「Those who dare招募」使用的招募票劵。此外，在超過舉辦期限後，「[夏日派對]Those who dare招募專用票券」便無法使用。\n※可從獎品獲得的「[夏日派對]免費招募票券」，是只能在「[夏日派對]免費招募」使用的招募票券。此外，在超過舉辦期限後，「[夏日派對]免費招募票券」便無法使用。"
+  },
+  {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_11",
+    "value": "每進行1次招募，都會獲得各種道具作為獎品。\n\n※獎品抽取會在招募結果畫面進行。\n※每1次獎品抽取都是依據出現機率獨立抽取。例如出現機率為1%，並不代表抽100次該道具就一定會出現1次。"
+  },
+  {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_12",
+    "value": "每進行1次招募，都會獲得各種道具作為獎品。\n\n※獎品抽取會在招募結果畫面進行。\n※每1次獎品抽取都是依據出現機率獨立抽取。例如出現機率為1%，並不代表抽100次該道具就一定會出現1次。"
+  },
+  {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_13",
+    "value": "每進行1次招募，都會獲得各種道具作為獎品。\n\n※獎品抽取會在招募結果畫面進行。\n※每1次獎品抽取都是依據出現機率獨立抽取。例如出現機率為1%，並不代表抽100次該道具就一定會出現1次。"
   },
   {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_2",
@@ -3620,8 +3744,24 @@
     "value": "請選擇要顯示的稱號等級。"
   },
   {
+    "wordingKey": "MSG_PUBLISH_FREE_MATCH",
+    "value": "要開放房間為「自由配對」\n並允許其他玩家進入嗎？"
+  },
+  {
+    "wordingKey": "MSG_PUBLISH_FREE_ROOM",
+    "value": "要開放房間為「自由房間」\n並允許其他玩家進入嗎？"
+  },
+  {
     "wordingKey": "MSG_PUBLISH_ROOM",
     "value": "要開放房間允許其他玩家進入嗎？"
+  },
+  {
+    "wordingKey": "MSG_PUBLISH_VETERAN_MATCH",
+    "value": "要開放房間為「進階配對」\n並允許其他玩家進入嗎？"
+  },
+  {
+    "wordingKey": "MSG_PUBLISH_VETERAN_ROOM",
+    "value": "要開放房間為「進階房間」\n並允許其他玩家進入嗎？"
   },
   {
     "wordingKey": "MSG_PURCHASE_LIMIT",
@@ -3732,6 +3872,34 @@
     "value": "段位配對功能暫未開放，\n煩請稍等。"
   },
   {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_RATE_NOTICE",
+    "value": "・★4成員的機率指的是精選清單中選擇全部時的機率，因此總計可能不會是100%。\n・被選入精選清單時，將從「★★★★成員」清單移動至「★★★★精選成員」清單。"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_REGISTER_CAUTION",
+    "value": "※清單成員設定後無法變更。"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_REGISTER_CONFIRM",
+    "value": "即將設定成員，確定嗎？"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_SELECTED_RATE_NOTICE",
+    "value": "在精選清單中選擇的成員，會以精選機率登場。"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_SELECTION_CARD_NUMBER",
+    "value": "請從下方選擇{0}名喜歡的成員"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_SELECT_MEMBER_BALLOON",
+    "value": "先選擇成員吧！"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_UNDECIDED_CONFIRM",
+    "value": "成員尚未決定。\n直到清單上的所有成員都設定好，才能使用\n{0}。\n是否稍後再設定精選清單？"
+  },
+  {
     "wordingKey": "MSG_RATING",
     "value": "感謝您遊玩\n「世界計畫」！\n\n為了讓各位玩家更加盡情享受內容，\n我們未來也將持續更新，敬請期待。\n\n您喜歡目前的遊戲內容嗎？"
   },
@@ -3769,7 +3937,7 @@
   },
   {
     "wordingKey": "MSG_RECEIVED_LIVE_COSTUME",
-    "value": "獲得了演出服裝。\n<color=#ff77AA>可在服飾店製作其他角色的服裝了。<\/color>"
+    "value": "獲得了演出服裝。\n<color=#ff77AA>服飾店已解鎖其他角色可製作的服裝。<\/color>"
   },
   {
     "wordingKey": "MSG_RECEIVED_LOGIN_BONUS",
@@ -3793,7 +3961,7 @@
   },
   {
     "wordingKey": "MSG_RECEIVE_LIMIT_MISSION_EXPIRED_REWARD",
-    "value": "獲得了尚未領取的限時任務報酬。"
+    "value": "獲得了尚未領取的{0}的報酬。"
   },
   {
     "wordingKey": "MSG_RECOLLECTION_APPEAL_SELECT_CARD",
@@ -3956,6 +4124,10 @@
     "value": "要和私人房間裡的玩家\n再進行1次LIVE嗎？"
   },
   {
+    "wordingKey": "MSG_RE_LIVE_CUSTOM_CURRENT_MEMBER",
+    "value": "要和自訂房間裡的玩家\n再進行一次LIVE嗎？"
+  },
+  {
     "wordingKey": "MSG_RE_SPIN",
     "value": "再進行1次"
   },
@@ -3964,12 +4136,20 @@
     "value": "房間已解散。\n本次解散並不會進行懲罰。"
   },
   {
+    "wordingKey": "MSG_RULE_SETTING_ONLY_OWNER",
+    "value": "※僅限房主可變更規則。"
+  },
+  {
     "wordingKey": "MSG_SALE_COSTUME_SHOP",
     "value": "可於「購物中心」區域的\n服飾店製作。"
   },
   {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
     "value": "請從下方選出欲設定的動作"
+  },
+  {
+    "wordingKey": "MSG_SELECT_CHARACTER_BALLOON",
+    "value": "先選擇角色吧！"
   },
   {
     "wordingKey": "MSG_SELECT_CLEANUP",
@@ -4022,6 +4202,10 @@
   {
     "wordingKey": "MSG_SET_DISCOUNT_ANNOTATION",
     "value": "※正在使用任務通行證組合購買優惠。"
+  },
+  {
+    "wordingKey": "MSG_SE_V2_TIME_OVER",
+    "value": "活動已結束。"
   },
   {
     "wordingKey": "MSG_SHOP_AGE_CONFIRM",
@@ -4146,6 +4330,10 @@
   {
     "wordingKey": "MSG_SINGER_NAME",
     "value": "Vo. {0}"
+  },
+  {
+    "wordingKey": "MSG_SINGLE_FIXTURE_BLUE_PRINT_BUY",
+    "value": "購買{0}尺寸"
   },
   {
     "wordingKey": "MSG_SKETCH_WARNING_OWNER_EDIT_MODE",
@@ -4334,6 +4522,14 @@
   {
     "wordingKey": "MSG_TOTAL_LIVE_POINT",
     "value": "本月累計LIVE P♪"
+  },
+  {
+    "wordingKey": "MSG_TOTAL_POWER_DETAIL_EVENT_LIMIT_CAUTION",
+    "value": "※活動舉辦期間，可發揮的綜合力將被限制在{0}以內。"
+  },
+  {
+    "wordingKey": "MSG_TOTAL_POWER_SETTING_ERROR",
+    "value": "由於所設定的綜合力下限超過了上限，\n因此無法創建房間。"
   },
   {
     "wordingKey": "MSG_TOURNAMENT_LIVE_FAILED",
@@ -4937,7 +5133,11 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_TOTAL_REWARD",
-    "value": "此為應援！新春的世界 2026的世界獎勵"
+    "value": "此為「世界」巡禮應援祭！的全服獎勵"
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_V2_STAGE_REWARD",
+    "value": "此为「世界」巡禮應援祭！过期未领取的奖励。"
   },
   {
     "wordingKey": "TAB_TITLE_BOX_PROVISION",
@@ -5672,6 +5872,22 @@
     "value": "BGM"
   },
   {
+    "wordingKey": "WORD_BILLING_SHOP_RANDOM_BOX_DESCRIPTION_CONTENT",
+    "value": "隨機道具獲得機率如下："
+  },
+  {
+    "wordingKey": "WORD_BILLING_SHOP_RANDOM_BOX_DESCRIPTION_TITLE",
+    "value": "    組合包內容"
+  },
+  {
+    "wordingKey": "WORD_BILLING_SHOP_RANDOM_BOX_SENTENCE_1",
+    "value": "購買後將會獲得以下道具："
+  },
+  {
+    "wordingKey": "WORD_BILLING_SHOP_RANDOM_BOX_SENTENCE_2",
+    "value": "購買後將會隨機獲得以下一款道具："
+  },
+  {
     "wordingKey": "WORD_BILLING_SHOP_RECHARGEREWARD_BUTTON_BUY",
     "value": "獲得獎勵"
   },
@@ -6012,6 +6228,18 @@
     "value": "中斷"
   },
   {
+    "wordingKey": "WORD_BREAK_POINT_EXCEED_THRESHOLD",
+    "value": "小憩計量條已達100%。\n在小憩一下讓計量條減少之前，將無法獲得活動P、徽章。"
+  },
+  {
+    "wordingKey": "WORD_BREAK_POINT_OVER_LIMIT",
+    "value": "由於小憩計量條已達100%，因此無法獲得活動P、徽章。"
+  },
+  {
+    "wordingKey": "WORD_BREAK_POINT_OVER_LIMIT_LIVE",
+    "value": "由於LIVE開始時小憩計量條已達100%，因此無法獲得活動P、徽章。"
+  },
+  {
     "wordingKey": "WORD_BROWSED",
     "value": "已觀看"
   },
@@ -6152,6 +6380,26 @@
     "value": "後篇"
   },
   {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_BLOOM_FESTIVAL",
+    "value": "絢爛慶典限定"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_COLORFUL_FESTIVAL",
+    "value": "七彩慶典限定"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_NORMAL",
+    "value": "常駐"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_TERM_LIMITED",
+    "value": "期間限定"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_UNIT_EVENT",
+    "value": "團體活動限定"
+  },
+  {
     "wordingKey": "WORD_CARD_LIST_FILTER",
     "value": "篩選成員"
   },
@@ -6166,6 +6414,10 @@
   {
     "wordingKey": "WORD_CARD_RELEASE_CONDITION_FORMAT",
     "value": "獲得「{0} {1}」"
+  },
+  {
+    "wordingKey": "WORD_CARD_SELECT_DIALOG_CARD_EMPTY",
+    "value": "---"
   },
   {
     "wordingKey": "WORD_CARD_SORT",
@@ -6506,6 +6758,10 @@
   {
     "wordingKey": "WORD_CHECK_PROFILE",
     "value": "預覽"
+  },
+  {
+    "wordingKey": "WORD_CHECK_RULE",
+    "value": "確認規則"
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
@@ -7224,6 +7480,10 @@
     "value": "目前最高分"
   },
   {
+    "wordingKey": "WORD_CURRENT_HONOR",
+    "value": "目前活動稱號"
+  },
+  {
     "wordingKey": "WORD_CURRENT_PERIOD_SHOP",
     "value": "特別推薦"
   },
@@ -7500,12 +7760,20 @@
     "value": "字體選擇"
   },
   {
+    "wordingKey": "WORD_CUSTOM_ROOM_EN",
+    "value": "CUSTOM ROOM"
+  },
+  {
     "wordingKey": "WORD_CUTIN_EFFECT",
     "value": "立繪切入特效"
   },
   {
     "wordingKey": "WORD_DANCE",
     "value": "舞蹈"
+  },
+  {
+    "wordingKey": "WORD_DASH_SYMBOL",
+    "value": "ー"
   },
   {
     "wordingKey": "WORD_DATATIME",
@@ -7594,6 +7862,10 @@
   {
     "wordingKey": "WORD_DECK_TOTAL_POWER",
     "value": "綜合力"
+  },
+  {
+    "wordingKey": "WORD_DECK_TOTAL_POWER_LIMITE",
+    "value": "活動限制"
   },
   {
     "wordingKey": "WORD_DefalutMusicName",
@@ -8026,6 +8298,14 @@
   {
     "wordingKey": "WORD_EVENT_BONUS_PROGRESS",
     "value": "今日進度"
+  },
+  {
+    "wordingKey": "WORD_EVENT_BREAK_TIME_REFRESH_GAUGE_FULL",
+    "value": "由於小憩計量條已達100%，\n因此將無法獲得活動P、徽章。"
+  },
+  {
+    "wordingKey": "WORD_EVENT_BREAK_TIME_REFRESH_GAUGE_NEARLY_FULL",
+    "value": "小憩計量條\n即將集滿。"
   },
   {
     "wordingKey": "WORD_EVENT_CLOSE",
@@ -8480,6 +8760,10 @@
     "value": "最愛"
   },
   {
+    "wordingKey": "WORD_FAVORITE_CHARACTER_GACHA_DETAIL_TITLE",
+    "value": "自選角色"
+  },
+  {
     "wordingKey": "WORD_FAVORITE_COMMENT",
     "value": "推薦留言"
   },
@@ -8612,6 +8896,10 @@
     "value": "家具詳情"
   },
   {
+    "wordingKey": "WORD_FIXTURE_LAYOUT_COST",
+    "value": "配置點數"
+  },
+  {
     "wordingKey": "WORD_FIXTURE_POSSESSION",
     "value": "提升持有家具的上限"
   },
@@ -8688,6 +8976,10 @@
     "value": "單人LIVE"
   },
   {
+    "wordingKey": "WORD_FREE_ROOM_ENGLISH",
+    "value": "FREE ROOM"
+  },
+  {
     "wordingKey": "WORD_FREE_THEMA",
     "value": "自由主題"
   },
@@ -8721,7 +9013,7 @@
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_CAMPAIGN_DETAIL_JSON",
-    "value": "{\n \"title\": \"[夏日派對]歡迎來到「世界」大作戰！！\",\n \"list\" : [ \n {\n \"head\" : \"■舉辦期間 \",\n \"desc\" : \"【活動舉辦期間】7\/13 12:00 ～ 7\/29 23:59\n【任務達成報酬領取期間】7\/13 12:00 ～ 8\/5 23:59\n【[邀請朋友]必中★4成員招募舉辦期間】7\/13 12:00 ～ 8\/12 11:59\"\n },\n {\n\"head\" : \"■任務的進行方式\",\n\"desc\" : \" ▼關於邀請者\n只要你邀請的朋友完成邀請任務，即可獲得豪華獎勵。\n【對象玩家】7\/13 12:00以前完成新手教學的玩家\n【順序】\n[1] 將邀請活動畫面中，你的邀請碼告訴朋友吧！\n[2] 只要輸入你的邀請碼的朋友完成所有的邀請任務，就能獲得獎勵！\n\n■任務的進行方式\n▼關於邀請者\n只要你邀請的朋友完成邀請任務，即可獲得豪華獎勵。\n\n\n【獎勵】\n第1位的完成獎勵\n・初次限定：[邀請朋友]必中★4成員招募票券×1\n\n第2~10位的完成獎勵\n・每完成1位 心願碎片×50\n\n※若於本活動領取過首次限定報酬，在今後的邀請活動中能獲得的報酬可能會有所不同。\n\n▼關於被邀請者\n挑戰招待任務，根據進度可以獲得豪華獎勵。\n\n【對象玩家】\n7\/13 12:00以後完成新手教學的玩家\n\n【順序】\n[1] 請已經有在玩《世界計畫》的朋友告訴你他的邀請碼，然後在邀請活動畫面輸入邀請碼吧！\n[2] 不跳過、不快轉地觀看各個團體的主線劇情吧！\n\n【獎勵】\n觀看完5章主線劇情\n・心願碎片×300\n\n觀看完10章主線劇情\n・水晶×300\n\n觀看完20章主線劇情\n・[邀請朋友]必中★4成員招募票券×1\n\"\n },\n {\n\"head\" : \" ■關於[邀請朋友]必中★4成員招募\",\n\"desc\" : \" 是[邀請朋友]必中★4成員招募票券專用的招募。\n消耗1張[邀請朋友]必中★4成員招募票券可招募1次。\n消耗1張[邀請朋友]必中★4成員招募一定會出現★4成員。\n出現的★4成員是2025\/7\/9 12:00為止在招募中登場過常駐成員。\n※不會出現七彩慶典招募限定、期間限定、生日限定、紀念日限定、連動限定成員｡\n[邀請朋友]必中★4成員招募只會在持有該招募票券時出現在招募畫面。\"\n },\n {\n\"head\" : \" ■注意事項\",\n\"desc\" : \" ・活動時間若有變更，恕不另行通知。\n・[邀請朋友]必中★4成員招募票券無法使用於下次舉辦的[邀請朋友]必中★4成員招募。\n・若於本活動領取過首次限定報酬，在今後的邀請活動中能獲得的報酬可能會有所不同。\n・被邀請的玩家在完成所有邀請任務時，邀請的玩家會收到該玩家觀看完哪一個團體的資訊。\n・任務報酬若不在任務達成報酬領取期間領取的話，將無法獲得，敬請注意。\"\n },\n ] \n}"
+    "value": "{\n \"title\": \"[5週年紀念]歡迎來到「世界」大作戰！！\",\n \"list\" : [ \n {\n \"head\" : \"■舉辦期間 \",\n \"desc\" : \"【活動舉辦期間】9\/29 12:00 ～ 10\/21 23:59\n【任務達成報酬領取期間】9\/29 12:00 ～ 10\/31 23:59\n【[邀請朋友]必中★4成員招募舉辦期間】9\/29 12:00 ～ 11\/30 23:59\"\n },\n {\n\"head\" : \"■任務的進行方式\",\n\"desc\" : \" ▼關於邀請者\n只要你邀請的朋友完成邀請任務，即可獲得豪華獎勵。\n【對象玩家】9\/29 12:00以前完成新手教學的玩家\n【順序】\n[1] 將邀請活動畫面中，你的邀請碼告訴朋友吧！\n[2] 只要輸入你的邀請碼的朋友完成所有的邀請任務，就能獲得獎勵！\n\n■任務的進行方式\n▼關於邀請者\n只要你邀請的朋友完成邀請任務，即可獲得豪華獎勵。\n\n\n【獎勵】\n第1位的完成獎勵\n・初次限定：[邀請朋友]必中★4成員招募票券×1\n\n第2~10位的完成獎勵\n・每完成1位 心願碎片×50\n\n※若於本活動領取過首次限定報酬，在今後的邀請活動中能獲得的報酬可能會有所不同。\n\n▼關於被邀請者\n挑戰招待任務，根據進度可以獲得豪華獎勵。\n\n【對象玩家】\n9\/29 12:00以後完成新手教學的玩家\n\n【順序】\n[1] 請已經有在玩《世界計畫》的朋友告訴你他的邀請碼，然後在邀請活動畫面輸入邀請碼吧！\n[2] 不跳過、不快轉地觀看各個團體的主線劇情吧！\n\n【獎勵】\n觀看完5章主線劇情\n・心願碎片×300\n\n觀看完10章主線劇情\n・水晶×300\n\n觀看完20章主線劇情\n・[邀請朋友]必中★4成員招募票券×1\n\"\n },\n {\n\"head\" : \" ■關於[邀請朋友]必中★4成員招募\",\n\"desc\" : \" 是[邀請朋友]必中★4成員招募票券專用的招募。\n消耗1張[邀請朋友]必中★4成員招募票券可招募1次。\n消耗1張[邀請朋友]必中★4成員招募一定會出現★4成員。\n出現的★4成員是2025\/09\/20 12:00為止在招募中登場過常駐成員。\n※不會出現七彩慶典招募限定、期間限定、生日限定、紀念日限定、連動限定成員｡\n[邀請朋友]必中★4成員招募只會在持有該招募票券時出現在招募畫面。\"\n },\n {\n\"head\" : \" ■注意事項\",\n\"desc\" : \" ・活動時間若有變更，恕不另行通知。\n・[邀請朋友]必中★4成員招募票券無法使用於下次舉辦的[邀請朋友]必中★4成員招募。\n・若於本活動領取過首次限定報酬，在今後的邀請活動中能獲得的報酬可能會有所不同。\n・被邀請的玩家在完成所有邀請任務時，邀請的玩家會收到該玩家觀看完哪一個團體的資訊。\n・任務報酬若不在任務達成報酬領取期間領取的話，將無法獲得，敬請注意。\"\n },\n ] \n}"
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_CODE",
@@ -9520,6 +9812,10 @@
     "value": "持有的付費水晶"
   },
   {
+    "wordingKey": "WORD_HAVE_SUPPORTV2HONOR",
+    "value": "已获得"
+  },
+  {
     "wordingKey": "WORD_HAVE_TICKET",
     "value": "持有票券"
   },
@@ -9546,6 +9842,10 @@
   {
     "wordingKey": "WORD_HIDE_MUSIC_NAME",
     "value": "？？？"
+  },
+  {
+    "wordingKey": "WORD_HIDE_ROOM_ID",
+    "value": "-----"
   },
   {
     "wordingKey": "WORD_HIGH_SCORE",
@@ -9888,6 +10188,10 @@
     "value": "參加狀況"
   },
   {
+    "wordingKey": "WORD_JOIN_TOTAL_POWER_SETTING",
+    "value": "進入房間的限制"
+  },
+  {
     "wordingKey": "WORD_KEY_SOTRY",
     "value": "關鍵劇情"
   },
@@ -9977,7 +10281,7 @@
   },
   {
     "wordingKey": "WORD_LIMIT_MISSION_COMPLETE_REWARD",
-    "value": "限時任務 完成報酬"
+    "value": "{0} 完成報酬"
   },
   {
     "wordingKey": "WORD_LIMIT_MISSION_TIME",
@@ -10076,6 +10380,10 @@
     "value": "於４點重置"
   },
   {
+    "wordingKey": "WORD_LIVE_BOOST_RECOMMENDED",
+    "value": "小憩計量條已集滿。"
+  },
+  {
     "wordingKey": "WORD_LIVE_BOOST_RECOVER",
     "value": "恢復LIVE BONUS"
   },
@@ -10168,6 +10476,10 @@
     "value": "快速獲得LIVE P！"
   },
   {
+    "wordingKey": "WORD_LIVE_MUSIC_SELECT_SETTING",
+    "value": "選擇歌曲"
+  },
+  {
     "wordingKey": "WORD_LIVE_NOTE_SETTING",
     "value": "設定音符"
   },
@@ -10182,6 +10494,14 @@
   {
     "wordingKey": "WORD_LIVE_P",
     "value": "LIVE P"
+  },
+  {
+    "wordingKey": "WORD_LIVE_PLAYER_INFO_OFF",
+    "value": "無"
+  },
+  {
+    "wordingKey": "WORD_LIVE_PLAYER_INFO_ON",
+    "value": "有"
   },
   {
     "wordingKey": "WORD_LIVE_POINT",
@@ -10202,6 +10522,10 @@
   {
     "wordingKey": "WORD_LIVE_ROTATION_MODE",
     "value": "LIVE上下反轉"
+  },
+  {
+    "wordingKey": "WORD_LIVE_SCORE_SETTING",
+    "value": "分數的計算方式"
   },
   {
     "wordingKey": "WORD_LIVE_SETTING",
@@ -10386,6 +10710,10 @@
   {
     "wordingKey": "WORD_MASTER_LESSON_POSSIBLE",
     "value": "可進行專精特訓"
+  },
+  {
+    "wordingKey": "WORD_MASTER_PIECE_SP",
+    "value": "心願碎片 - 特殊道具"
   },
   {
     "wordingKey": "WORD_MASTER_PRACTICE",
@@ -10770,6 +11098,10 @@
   {
     "wordingKey": "WORD_MULTI_LIVE",
     "value": "多人LIVE"
+  },
+  {
+    "wordingKey": "WORD_MULTI_TOTAL_SCORE",
+    "value": "整體分數"
   },
   {
     "wordingKey": "WORD_MUSIC",
@@ -11372,6 +11704,10 @@
     "value": "選擇歌曲"
   },
   {
+    "wordingKey": "WORD_MUSIC_SELECT_ALL_PLAYER",
+    "value": "由所有成員選擇"
+  },
+  {
     "wordingKey": "WORD_MUSIC_SELECT_BACK",
     "value": "前往選擇歌曲"
   },
@@ -11382,6 +11718,10 @@
   {
     "wordingKey": "WORD_MUSIC_SELECT_ORDER",
     "value": "選擇歌曲排序"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_SELECT_OWNER",
+    "value": "由房主選擇"
   },
   {
     "wordingKey": "WORD_MUSIC_SHOP",
@@ -11554,6 +11894,10 @@
   {
     "wordingKey": "WORD_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
     "value": "布置的物品數量"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_TOTAL_PUT_COST",
+    "value": "總配置點數"
   },
   {
     "wordingKey": "WORD_MYSEKAI_GATE_CHARACTER_VISIT_COUNT_RATE",
@@ -11824,6 +12168,10 @@
     "value": "999+"
   },
   {
+    "wordingKey": "WORD_MYSEKAI_LAYOUT_COST_ORDER",
+    "value": "配置點數順序"
+  },
+  {
     "wordingKey": "WORD_MYSEKAI_MATERIAL_MAX",
     "value": "9,999+"
   },
@@ -11954,6 +12302,10 @@
   {
     "wordingKey": "WORD_NORMAL_MISSION",
     "value": "一般任務"
+  },
+  {
+    "wordingKey": "WORD_NORMAL_SCORE_LIVE_MODE",
+    "value": "一般模式"
   },
   {
     "wordingKey": "WORD_NORMAL_VOICE",
@@ -12360,6 +12712,10 @@
     "value": "其他{0}件"
   },
   {
+    "wordingKey": "WORD_OTHER_FIXTURE_BLUE_PRINT",
+    "value": "其他{0}種類"
+  },
+  {
     "wordingKey": "WORD_OTHER_KIND_COUNT",
     "value": "其他{0}種類"
   },
@@ -12561,7 +12917,7 @@
   },
   {
     "wordingKey": "WORD_PICKUP_MEMBER",
-    "value": "Pick Up成員"
+    "value": "精選成員"
   },
   {
     "wordingKey": "WORD_PILLAR",
@@ -12876,6 +13232,10 @@
     "value": "預覽"
   },
   {
+    "wordingKey": "WORD_PREVIEW_EVENT_BREAK",
+    "value": "小憩計量條即將集滿。"
+  },
+  {
     "wordingKey": "WORD_PREVIEW_NOTE_SHOW_TIME_FORMAT",
     "value": "{0:0.000}秒"
   },
@@ -12906,6 +13266,10 @@
   {
     "wordingKey": "WORD_PRIVATE_ROOM",
     "value": "私人房間"
+  },
+  {
+    "wordingKey": "WORD_PRIVATE_ROOM_EN",
+    "value": "PRIVATE ROOM"
   },
   {
     "wordingKey": "WORD_PRIZE_GIFT",
@@ -13092,6 +13456,18 @@
     "value": "★★★★成員"
   },
   {
+    "wordingKey": "WORD_RATE_CHOICE_GACHA_SELECT_MEMBER_HEADER_MAIN",
+    "value": "主"
+  },
+  {
+    "wordingKey": "WORD_RATE_CHOICE_GACHA_SELECT_MEMBER_HEADER_SUB",
+    "value": "副"
+  },
+  {
+    "wordingKey": "WORD_RATE_CHOICE_GACHA_SELECT_MEMBER_SORTING",
+    "value": "排序"
+  },
+  {
     "wordingKey": "WORD_RATING_TITLE",
     "value": "請留下您的評價"
   },
@@ -13146,6 +13522,10 @@
   {
     "wordingKey": "WORD_RECEIPT_DEADLINE",
     "value": "領取期限"
+  },
+  {
+    "wordingKey": "WORD_RECEIVED",
+    "value": "已領取"
   },
   {
     "wordingKey": "WORD_RECEIVE_PRESENT",
@@ -13258,6 +13638,10 @@
   {
     "wordingKey": "Word_ReEnter",
     "value": "重新進入"
+  },
+  {
+    "wordingKey": "WORD_REFRESH_GAUGE",
+    "value": "小憩一下"
   },
   {
     "wordingKey": "WORD_REGISTER",
@@ -13376,12 +13760,20 @@
     "value": "重置旋轉"
   },
   {
+    "wordingKey": "WORD_REST",
+    "value": "還有"
+  },
+  {
     "wordingKey": "WORD_RESTRICT_TIME",
     "value": "距離解除功能封鎖還剩"
   },
   {
     "wordingKey": "WORD_REST_P_VALUE",
     "value": "還剩{0}P"
+  },
+  {
+    "wordingKey": "WORD_REST_TILE",
+    "value": "還有{0}格。"
   },
   {
     "wordingKey": "WORD_REST_TIME",
@@ -13532,6 +13924,14 @@
     "value": "旋轉"
   },
   {
+    "wordingKey": "WORD_ROUND_N",
+    "value": "多輪"
+  },
+  {
+    "wordingKey": "WORD_ROUND_ONE",
+    "value": "首輪"
+  },
+  {
     "wordingKey": "WORD_RUFUND_DESCRIPTION",
     "value": "已扣除了您近期申請的退款商品，若有疑問請聯繫客服。"
   },
@@ -13572,12 +13972,20 @@
     "value": "已儲存"
   },
   {
+    "wordingKey": "WORD_SAVE_FAIL",
+    "value": "儲存失敗"
+  },
+  {
     "wordingKey": "WORD_SAVE_MYLIST",
     "value": "儲存至我的播放清單"
   },
   {
     "wordingKey": "WORD_SAVE_RETURN",
     "value": "儲存"
+  },
+  {
+    "wordingKey": "WORD_SAVE_SUCCESS",
+    "value": "儲存成功"
   },
   {
     "wordingKey": "WORD_SCHEDULE",
@@ -13864,6 +14272,18 @@
     "value": "以組合購買"
   },
   {
+    "wordingKey": "WORD_SE_V2_BOOST_INFO",
+    "value": "已消耗{0}體力。"
+  },
+  {
+    "wordingKey": "WORD_SE_V2_FINISH",
+    "value": "本次活動已結束。"
+  },
+  {
+    "wordingKey": "WORD_SE_V2_START",
+    "value": "ROUND{0}"
+  },
+  {
     "wordingKey": "WORD_SHAPE",
     "value": "圖形"
   },
@@ -13886,6 +14306,10 @@
   {
     "wordingKey": "WORD_SHARE_CANCEL",
     "value": "分享已取消。"
+  },
+  {
+    "wordingKey": "WORD_SHARE_FAIL",
+    "value": "分享失敗！"
   },
   {
     "wordingKey": "WORD_SHARE_INFO_ID",
@@ -14464,6 +14888,10 @@
     "value": "能力值"
   },
   {
+    "wordingKey": "WORD_STILL_SHORT",
+    "value": "還差"
+  },
+  {
     "wordingKey": "WORD_STOP_PERIOD",
     "value": "停止期間 {0}到\/{1:00}\/{2:00} {3:00}:{4:00}為止"
   },
@@ -14569,11 +14997,159 @@
   },
   {
     "wordingKey": "WORD_SUPPORTACTIVITY_RESULT_EFFECTNAME_1",
-    "value": "stage_midaccount_effect"
+    "value": "SekaiEffect"
   },
   {
     "wordingKey": "WORD_SUPPORTACTIVITY_RESULT_EFFECTNAME_2",
     "value": "stage_midaccount_bg"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_BACK_UNIT",
+    "value": "返回應援團體選擇"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_FIRST_ROUND",
+    "value": "首輪"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_GET_POINT",
+    "value": "獲得行動點！"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_BADGE",
+    "value": "應援徽章"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_HONORMATERIAL_NOTENOUGH",
+    "value": "解鎖或升級稱號所需的材料不足。"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_LEVEL1",
+    "value": "等級1"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_LEVELUP",
+    "value": "稱號升級！"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_MAXLEVEL",
+    "value": "已達到最高等級"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_OWNED",
+    "value": "已獲得"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_RELEASE_NOTICE",
+    "value": "本次活動已選擇應援團體的角色稱號，\n因此無法解鎖其他團體的角色稱號。"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_RELEASE_TIMEOUT",
+    "value": "当前不在活动期间，无法解锁应援称号。"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_UNIT_UNLOCK",
+    "value": "請選擇應援團體獎勵稱號。"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_UNLOCK",
+    "value": "「是否消耗10枚應援徽章\n解鎖該稱號？」"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_UPGRTEMATERIAL_NOTICE",
+    "value": "升級所需徽章數量：{0}"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_MOVE",
+    "value": "前進！"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_MULTI_ROUND",
+    "value": "多輪"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_NEXT_STAGE_REWARD_DISTANCE",
+    "value": "距離下階段獎勵{0}格"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_OPENHONOR",
+    "value": "前往称号升级"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_POINT",
+    "value": "移動點數"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_SERVER_SUPPORT_DESC",
+    "value": "與「世界」的居民們攜手前進吧！"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_STAGE_REWARD_COMPLETE",
+    "value": "階段獎勵 達成！"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_STAGE_TILE_REWARD",
+    "value": "階段格獎勵"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_STEPS_LEFT",
+    "value": "還有{0}步"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_SUPPORT_UNIT_CONFIRM",
+    "value": "是否確定應援該團體？\n（可自選應援團體的應援稱號×1）"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_BLANK",
+    "value": "普通格"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_BOX",
+    "value": "隱藏寶箱格"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_COMBO",
+    "value": "連擊格"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_DANCE",
+    "value": "舞蹈格"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_JUMP",
+    "value": "跳躍格"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_MATERIAL_HIGH",
+    "value": "豐富獎勵格"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_MATERIAL_LOW",
+    "value": "道具格（小）"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_MATERIAL_MIDDLE",
+    "value": "道具格（中）"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_STAGE",
+    "value": "階段格"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_SUP",
+    "value": "應援格"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_UNIT",
+    "value": "團體格"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TOTAL_REWARD",
+    "value": "全服應援獎勵！"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TOTAL_REWARD_PROGRESS",
+    "value": "全服獎勵進度"
   },
   {
     "wordingKey": "WORD_SUPPORT_DECK_BONUS",
@@ -14605,7 +15181,7 @@
   },
   {
     "wordingKey": "WORD_SURETURN_PASSTIME",
-    "value": "1774584000000"
+    "value": "1790481600000"
   },
   {
     "wordingKey": "WORD_SUSPENSION",
@@ -14660,6 +15236,14 @@
     "value": "點擊特效"
   },
   {
+    "wordingKey": "WORD_TARGET_TAG",
+    "value": "對象標籤"
+  },
+  {
+    "wordingKey": "WORD_TECHNICAL_SCORE_LIVE_MODE",
+    "value": "大賽模式"
+  },
+  {
     "wordingKey": "WORD_TEMPLATE_LAYOUT",
     "value": "範本"
   },
@@ -14670,6 +15254,10 @@
   {
     "wordingKey": "WORD_TEMP_LIMIT",
     "value": "暫時封鎖中"
+  },
+  {
+    "wordingKey": "WORD_TEN_THOUSAND",
+    "value": "{0}萬"
   },
   {
     "wordingKey": "WORD_TERM",
@@ -14714,6 +15302,14 @@
   {
     "wordingKey": "WORD_TICKET_EXCHANGE_SHOP",
     "value": "票券交換所"
+  },
+  {
+    "wordingKey": "WORD_TILDE",
+    "value": "～"
+  },
+  {
+    "wordingKey": "WORD_TILE",
+    "value": "格"
   },
   {
     "wordingKey": "WORD_TIME_LIMIT_COLLABORATION_AREA",
@@ -14912,8 +15508,24 @@
     "value": "稱號獎勵"
   },
   {
+    "wordingKey": "WORD_TOTAL_POWER_NO_LOWER_LIMIT",
+    "value": "無下限"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_NO_UPPER_LIMIT",
+    "value": "無上限"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_SP",
+    "value": "綜合力"
+  },
+  {
     "wordingKey": "WORD_TOTAL_SCORE",
     "value": "合計分數"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_TIP",
+    "value": "全服應援獎勵"
   },
   {
     "wordingKey": "WORD_TOURNAMENT_HIGH_SCORE",
@@ -15166,6 +15778,10 @@
   {
     "wordingKey": "WORD_VALUE_SHOP_NL",
     "value": "超值組合包"
+  },
+  {
+    "wordingKey": "WORD_VETERAN_ROOM_ENGLISH",
+    "value": "VETERAN ROOM"
   },
   {
     "wordingKey": "Word_virtualChat_punish",
@@ -15658,6 +16274,14 @@
   {
     "wordingKey": "WORD_WISH_LIST_SELECT_END",
     "value": "進行招募"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_TYPE_BLOOM_LIMITED",
+    "value": "絢爛慶典限定"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_TYPE_COLORFUL_LIMITED",
+    "value": "七彩慶典限定"
   },
   {
     "wordingKey": "WORD_WISH_LIST_TYPE_LIMITED",
@@ -19061,7 +19685,7 @@
   },
   {
     "wordingKey": "W_C_850",
-    "value": "設定數量"
+    "value": "布置數"
   },
   {
     "wordingKey": "W_C_851",
@@ -19156,12 +19780,88 @@
     "value": "玩家等級達30\\n"
   },
   {
+    "wordingKey": "W_C_872",
+    "value": "其他5個種類"
+  },
+  {
+    "wordingKey": "W_C_873",
+    "value": "無上限"
+  },
+  {
+    "wordingKey": "W_C_874",
+    "value": "無下限"
+  },
+  {
+    "wordingKey": "W_C_875",
+    "value": "・遊玩LIVE或是在我的「世界」中採集將會累積小憩計量條。\\n・在LIVE中會依據歌曲差異、在採集中會依據採集的對象差異，小憩計量條的累積速度也會不同。\\n・小憩計量條達到100%以上時，將無法透過遊玩LIVE或在我的「世界」中採集獲得活動P與活動徽章。\\n・若未進行LIVE或採集而處於休息狀態，小憩計量條將每30分鐘下降一次。\\n\\n※AUTO LIVE和挑戰LIVE不會累積小憩計量條，即使達到100%也能獲得活動P與活動徽章。\\n※詳情請參閱常見問題解答。"
+  },
+  {
+    "wordingKey": "W_C_876",
+    "value": "姓名 姓名"
+  },
+  {
+    "wordingKey": "W_C_877",
+    "value": "未設定"
+  },
+  {
+    "wordingKey": "W_C_878",
+    "value": "（無限制 ："
+  },
+  {
+    "wordingKey": "W_C_879",
+    "value": "999(第1個) \/ 999(第2個～)"
+  },
+  {
     "wordingKey": "W_C_88",
     "value": "MAX"
   },
   {
+    "wordingKey": "W_C_880",
+    "value": "□□□□□□□□□□□□□□□□□□□□\\n□□□□□□□□□□□□□□□□□□□□\\n□□□□□□□□□□□□□□□□□□□□"
+  },
+  {
+    "wordingKey": "W_C_881",
+    "value": "參加者選曲中……請稍候"
+  },
+  {
+    "wordingKey": "W_C_882",
+    "value": "999 (第1個) \/ 999 (第2個～)"
+  },
+  {
+    "wordingKey": "W_C_883",
+    "value": "家具名稱16個字超過會是跑馬燈的設計圖"
+  },
+  {
+    "wordingKey": "W_C_884",
+    "value": "9999(第1個) \/ 9999(第2個～)"
+  },
+  {
+    "wordingKey": "W_C_885",
+    "value": "總配置點數"
+  },
+  {
+    "wordingKey": "W_C_886",
+    "value": "離完全恢復還有<color=#ff5599>00:00<\/color>"
+  },
+  {
+    "wordingKey": "W_C_887",
+    "value": "無上限"
+  },
+  {
+    "wordingKey": "W_C_888",
+    "value": "無下限"
+  },
+  {
+    "wordingKey": "W_C_889",
+    "value": "確定成員"
+  },
+  {
     "wordingKey": "W_C_89",
     "value": "10倍"
+  },
+  {
+    "wordingKey": "W_C_890",
+    "value": "關於小憩計量條"
   },
   {
     "wordingKey": "W_C_9",
