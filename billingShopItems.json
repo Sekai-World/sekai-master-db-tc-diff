@@ -10027,6 +10027,38 @@
     "billingShopTabChildId": 301
   },
   {
+    "id": 30299,
+    "seq": 2010,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1454,
+    "name": "[5週年紀念]The Sound of Waves（女性）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30240",
+    "resourceBoxId": 30885,
+    "bonusResourceBoxId": 30191,
+    "startAt": 1790740800000,
+    "endAt": 1793462399000,
+    "billingShopTabChildId": 204
+  },
+  {
+    "id": 30300,
+    "seq": 2009,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1455,
+    "name": "[5週年紀念]The Sound of Waves（男性）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30241",
+    "resourceBoxId": 30886,
+    "bonusResourceBoxId": 30191,
+    "startAt": 1790740800000,
+    "endAt": 1793462399000,
+    "billingShopTabChildId": 204
+  },
+  {
     "id": 50001,
     "seq": 300611,
     "billingShopItemType": "value_set",
