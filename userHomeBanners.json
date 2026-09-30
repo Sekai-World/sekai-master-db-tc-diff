@@ -20,24 +20,64 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 1402,
-    "seq": 100,
-    "homeBannerType": "event",
-    "assetbundleName": "event_wl_2nd_finale_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 180,
-    "startAt": 1790337600000,
-    "endAt": 1790751599000
+    "homeBannerId": 1407,
+    "seq": 20,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha825",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 825,
+    "startAt": 1790740800000,
+    "endAt": 1791086400000
   },
   {
-    "homeBannerId": 1404,
-    "seq": 100,
+    "homeBannerId": 1408,
+    "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha817",
+    "assetbundleName": "banner_gacha832",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 817,
-    "startAt": 1790308800000,
-    "endAt": 1790740799000
+    "transitionDestinationId": 832,
+    "startAt": 1790697600000,
+    "endAt": 1791691200000
+  },
+  {
+    "homeBannerId": 1409,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha833",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 833,
+    "startAt": 1790697600000,
+    "endAt": 1791691200000
+  },
+  {
+    "homeBannerId": 1411,
+    "seq": 200,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha834",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 834,
+    "startAt": 1790697600000,
+    "endAt": 1793419200000
+  },
+  {
+    "homeBannerId": 1412,
+    "seq": 100,
+    "homeBannerType": "event",
+    "assetbundleName": "event_golden_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 181,
+    "startAt": 1790751600000,
+    "endAt": 1791702000000
+  },
+  {
+    "homeBannerId": 1416,
+    "seq": 170,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive426",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 426,
+    "startAt": 1790697600000,
+    "endAt": 1790784000000
   },
   {
     "homeBannerId": 10037,
@@ -85,5 +125,14 @@
     "transitionDestinationId": 20319778,
     "startAt": 1781841600000,
     "endAt": 4102415999000
+  },
+  {
+    "homeBannerId": 20016,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_shop_5th_anniversary",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1790697600000,
+    "endAt": 1793462399000
   }
 ]
