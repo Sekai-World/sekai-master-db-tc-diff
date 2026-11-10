@@ -20,16 +20,6 @@
     "endAt": 4102415999000
   },
   {
-    "homeBannerId": 1438,
-    "seq": 170,
-    "homeBannerType": "event",
-    "assetbundleName": "event_colors_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 184,
-    "startAt": 1793430000000,
-    "endAt": 1794293999000
-  },
-  {
     "homeBannerId": 1442,
     "seq": 80,
     "homeBannerType": "general",
@@ -68,6 +58,16 @@
     "transitionDestinationId": 858,
     "startAt": 1794283200000,
     "endAt": 1795147199000
+  },
+  {
+    "homeBannerId": 1451,
+    "seq": 170,
+    "homeBannerType": "event",
+    "assetbundleName": "event_protagonist_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 185,
+    "startAt": 1794294000000,
+    "endAt": 1795093199000
   },
   {
     "homeBannerId": 10037,
