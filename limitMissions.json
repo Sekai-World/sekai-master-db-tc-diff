@@ -930,6 +930,16 @@
     "selectableRewardGroupId": 0
   },
   {
+    "limitMissionGroupId": 17,
+    "id": 105,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 1,
+    "sentence": "通過以上所有任務吧。",
+    "resourceBoxId": 400090,
+    "selectableRewardGroupId": 1001
+  },
+  {
     "limitMissionGroupId": 18,
     "id": 106,
     "seq": 1,
@@ -1968,5 +1978,65 @@
     "sentence": "完成所有的MEIKO紀念日慶典限時任務吧。",
     "resourceBoxId": 400124,
     "selectableRewardGroupId": 1008
+  },
+  {
+    "limitMissionGroupId": 31,
+    "id": 210,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "通過5次「挑戰LIVE」吧。",
+    "resourceBoxId": 400091,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 31,
+    "id": 211,
+    "seq": 2,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "通過10次「多人LIVE」吧。",
+    "resourceBoxId": 400075,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 31,
+    "id": 212,
+    "seq": 3,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 400076,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 31,
+    "id": 213,
+    "seq": 4,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": "累計消耗30LIVE BONUS吧。（可以從[LIVE]->[設定]的圖示中變更LIVE BONUS的消費量）",
+    "resourceBoxId": 400077,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 31,
+    "id": 214,
+    "seq": 5,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成員的專精等級吧。",
+    "resourceBoxId": 400078,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 31,
+    "id": 215,
+    "seq": 6,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "通過以上所有任務吧。",
+    "resourceBoxId": 400079,
+    "selectableRewardGroupId": 0
   }
 ]
